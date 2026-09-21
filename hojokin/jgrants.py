@@ -13,8 +13,8 @@ from pathlib import Path
 import requests
 
 API = "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies"
-# この 5 語で jGrants 上のほぼ全件が拾える（タイトルに含まれない補助金はごく稀）
-KEYWORDS = ["補助", "助成", "支援", "事業", "金"]
+# キーワードは 2 文字以上が必須。この 6 語で jGrants 上のほぼ全件が拾える
+KEYWORDS = ["補助", "助成", "支援", "事業", "令和", "公募"]
 DATA_DIR = Path("data/subsidies")
 # 一覧と詳細でこの項目が違えば「変更あり」とみなして詳細を取り直す
 CHANGE_KEYS = ("title", "acceptance_start_datetime", "acceptance_end_datetime", "subsidy_max_limit")
@@ -40,15 +40,25 @@ def _session() -> requests.Session:
 
 
 def _get(session: requests.Session, url: str, params: dict | None = None, tries: int = 3) -> dict:
+    """GET して JSON を返す。429（回数制限。1 秒に 20 回ほど叩くと出る）は待って何度でもやり直す。"""
     last: Exception | None = None
-    for i in range(tries):
+    i = 0
+    limited = 0
+    while i < tries:
         try:
             r = session.get(url, params=params, timeout=60)
+            if r.status_code == 429:
+                limited += 1
+                if limited > 30:
+                    raise RuntimeError("429 が続くので諦めた")
+                time.sleep(float(r.headers.get("Retry-After") or min(2 * limited, 20)))
+                continue
             r.raise_for_status()
             return r.json()
         except Exception as e:  # noqa: BLE001 - ネットワーク系は何でも再試行
             last = e
-            time.sleep(2 * (i + 1))
+            i += 1
+            time.sleep(2 * i)
     raise RuntimeError(f"jGrants API に失敗: {url} {params}: {last}")
 
 

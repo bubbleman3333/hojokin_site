@@ -30,8 +30,9 @@
 <p id="more-wrap"><button id="more" class="button ghost" type="button">さらに表示</button></p>
 <script>
 (function () {
-  var DATA_URL = {{ url('search.json')|tojson }};
-  var BASE = {{ url('s/')|tojson }};
+  // ページからの相対パスにしておくと、ローカル確認（localhost / 127.0.0.1）でも公開先でも同一オリジンで読める
+  var DATA_URL = '../search.json';
+  var BASE = '../s/';
   var form = document.getElementById('f');
   var list = document.getElementById('results');
   var countEl = document.getElementById('count');

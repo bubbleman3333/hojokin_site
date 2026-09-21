@@ -14,7 +14,28 @@ from pathlib import Path
 from .articles import pending
 from .build import ROOT, Builder, load_config, load_subsidies
 from .jgrants import sync
-from .model import JST
+from .model import JST, yen
+
+
+def digest(s) -> str:
+    """1 件分を記事執筆用の短いテキストにする。"""
+    def d(x):
+        return x.strftime("%Y-%m-%d") if x else "-"
+    return "\n".join([
+        f"=== {s.code}",
+        f"title: {s.title}",
+        f"catch: {s.catch}",
+        f"area: {s.area_label()}" + (f"（{s.area_detail}）" if s.area_detail else ""),
+        f"employees: {s.employees}",
+        f"purposes: {' / '.join(s.purposes)}",
+        f"industries: {'指定なし' if s.industries_all else ' / '.join(s.industries)}",
+        f"rate: {s.rate or '-'}   max: {yen(s.max_limit)}",
+        f"start: {d(s.start)}   end: {d(s.end)}   project_end: {d(s.project_end)}",
+        f"electronic: {'有' if s.electronic else '-'}   multiple: {'yes' if s.multiple else 'no'}   institution: {s.institution or '-'}",
+        "detail:",
+        s.detail_text[:1800],
+        "",
+    ])
 
 
 def main(argv: list[str] | None = None) -> None:
@@ -32,7 +53,28 @@ def main(argv: list[str] | None = None) -> None:
     a = sub.add_parser("all")
     a.add_argument("--out", default="dist")
     a.add_argument("--site-url", default=None)
+    d = sub.add_parser("digest", help="記事を書くための要約テキストを出す（Claude が読む用）")
+    d.add_argument("codes", nargs="*", help="補助金コード。省略すると pending の先頭から")
+    d.add_argument("--limit", type=int, default=40)
+    d.add_argument("--offset", type=int, default=0)
+    d.add_argument("--out", default=None, help="書き出すファイル（省略時は標準出力）")
     args = p.parse_args(argv)
+
+    if args.cmd == "digest":
+        subs = load_subsidies(ROOT / "data" / "subsidies")
+        now = datetime.now(JST)
+        if args.codes:
+            by_code = {s.code: s for s in subs}
+            rows = [by_code[c] for c in args.codes if c in by_code]
+        else:
+            rows = pending(subs, now)[args.offset: args.offset + args.limit]
+        text = "\n".join(digest(s) for s in rows)
+        if args.out:
+            Path(args.out).write_text(text, encoding="utf-8")
+            print(f"{len(rows)} 件を {args.out} に書いた")
+        else:
+            print(text)
+        return
 
     site, _ = load_config()
     if args.cmd in ("fetch", "all"):
