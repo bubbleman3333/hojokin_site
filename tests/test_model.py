@@ -69,6 +69,13 @@ def test_subsidy_status_and_days_left():
     assert not s.is_new(datetime(2026, 10, 20, tzinfo=JST), 14)
 
 
+def test_area_split_and_region_expansion():
+    assert Subsidy.from_raw(raw(target_area_search="新潟県/富山県/石川県/福井県")).areas == ["新潟県", "富山県", "石川県", "福井県"]
+    assert Subsidy.from_raw(raw(target_area_search="全国/北海道/青森県")).areas == ["全国"]
+    assert Subsidy.from_raw(raw(target_area_search="四国地方")).areas == ["徳島県", "香川県", "愛媛県", "高知県"]
+    assert Subsidy.from_raw(raw(industry="製造業 / 卸売業、小売業")).industries == ["製造業", "卸売業、小売業"]
+
+
 def test_all_industries_means_unrestricted():
     industries = " / ".join(f"業種{i}" for i in range(20))
     s = Subsidy.from_raw(raw(industry=industries))
