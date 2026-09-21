@@ -1,0 +1,28 @@
+{
+ "id": "a0WJ200000CDYW7MAP",
+ "name": "S-00008795",
+ "title": "岡崎ものづくり支援補助金（新製品共創事業）",
+ "subsidy_catch_phrase": "企業間のコラボで新たな価値を創出！岡崎市のものづくり企業の共同試作品開発を支援します",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■目的・概要</strong></p><p><span style=\"font-size: 16px;\">岡崎市内のものづくり事業所が、新製品・新技術の開発、既存製品の高付加価値化のため、市内外の事業者と共同で新製品などの試作品を開発する事業に係る費用の一部を補助します。対象となる経費は、新製品を開発するにあたってかかった試作品の原材料費用です（送料、振込手数料は除く）。</span></p><p><br></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■応募資格</strong></p><p><span style=\"font-size: 16px;\">以下の３つの要件をすべて満たしていることが基準となります。</span></p><p><span style=\"font-size: 16px;\">・日本標準産業分類の大分類Eに分類される製造業を営む法人又は「個人事業の開業・廃業届出書」を税務署に提出した個人事業主であること</span></p><p><span style=\"font-size: 16px;\">・市内に本社機能または製造を行う工場を6か月以上引き続き有していること</span></p><p><span style=\"font-size: 16px;\">・市税を完納していること</span></p><p><br></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■地理条件</strong></p><p><span style=\"font-size: 16px;\">愛知県岡崎市内（市内に本社機能または製造を行う工場を6か月以上引き続き有していること）</span></p><p><br></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■備考</strong></p><p><span style=\"font-size: 16px;\">・すべて予算がなくなり次第終了となります（予算の上限に達している場合は受付不可）。 </span></p><p><span style=\"font-size: 16px;\">・申請前には、申請可否及び申請内容等について、必ず岡崎ものづくり推進協議会事務局へ事前確認（事前相談）を行ってください。 </span></p><p><span style=\"font-size: 16px;\">・市内事業者との共創事業においては、代表1社のみの申請となります。 </span></p><p><span style=\"font-size: 16px;\">・共同で行うのではなく、単なる外注・受注発注の関係（例：自社開発製品のパッケージデザインをデザイン会社に外注する等）は対象外となります。</span></p><p><span style=\"font-size: 16px;\">・中小企業基本法第２条に規定する中小企業者でない者は、12月１日から申請が可能です。</span></p><p><br></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■問合せ先</strong></p><p><span style=\"font-size: 16px;\">岡崎ものづくり推進協議会 事務局 </span></p><p><span style=\"font-size: 16px;\">住所：〒444-8611 岡崎市竜美南一丁目2番地 （岡崎商工会議所内） </span></p><p><span style=\"font-size: 16px;\">電話：0564-53-6191 </span></p><p><span style=\"font-size: 16px;\">FAX：0564-53-0101</span></p><p><span style=\"font-size: 16px;\">岡崎商工会議所受付時間（土日祝日を除く、午前10時から午後５時まで）に限る。</span></p><p><br></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■参照URL</strong></p><p><a href=\"https://www.okamono.com/subsidy_list.php\" target=\"_blank\" style=\"font-size: 16px; color: rgb(4, 105, 193);\">https://www.okamono.com/subsidy_list.php</a></p>",
+ "use_purpose": "新たな事業を行いたい",
+ "industry": "製造業",
+ "target_area_search": "愛知県",
+ "target_area_detail": "愛知県岡崎市",
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "補助対象経費の1/2以内（予算の範囲内であれば、補助限度額に達するまで何回でも申請可能）",
+ "subsidy_max_limit": 300000,
+ "acceptance_start_datetime": "2026-03-31T15:00:00Z",
+ "acceptance_end_datetime": "2027-01-31T14:59:00Z",
+ "project_end_deadline": null,
+ "request_reception_presence": "無",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYW7MAP",
+ "application_guidelines": [],
+ "outline_of_grant": [],
+ "application_form": [],
+ "institution_name": "岡崎ものづくり支援補助金",
+ "_meta": {
+  "first_seen": "2026-03-31T15:00:00Z",
+  "fetched_at": "2026-09-21T13:12:58Z"
+ }
+}

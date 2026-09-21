@@ -1,0 +1,40 @@
+{
+ "id": "a0WJ200000CDTxsMAH",
+ "name": "S-00007148",
+ "title": "社会福祉施設等への非常用電源等の整備促進事業補助金",
+ "subsidy_catch_phrase": "非常用電源等の整備費用を補助します！",
+ "detail": "<p><strong style=\"font-size: 14px; color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"font-size: 14px;\">本事業は、非常用電源等を導入する社会福祉施設等に対し、</span></p><p><span style=\"font-size: 14px;\">電源設備、機器等の購入に要する経費を助成することにより、</span></p><p><span style=\"font-size: 14px;\">災害時にも施設機能を維持することで社会福祉施設等利用者の安全確保を図ることを目的とする。</span></p><p><br></p><p><strong style=\"font-size: 14px; color: rgb(0, 111, 173);\">■応募資格</strong></p><p><span style=\"font-size: 14px;\">都知事または都内区市町村長の指定等を受けた全ての社会福祉施設等</span></p><p><br></p><p><strong style=\"font-size: 14px; color: rgb(0, 111, 173);\">■地理条件</strong></p><p><span style=\"font-size: 14px;\">なし</span></p><p><br></p><p><strong style=\"font-size: 14px; color: rgb(0, 111, 173);\">■備考</strong></p><p><span style=\"font-size: 14px;\">※交付は１施設につき１回限り（過年度も含む）</span></p><p><span style=\"font-size: 14px;\">※１施設ごとに申請してください</span></p><p><span style=\"font-size: 14px;\">※実績報告時までにBCP（事業継続計画）を策定していること（</span><span style=\"font-size: 14px; color: rgb(24, 24, 24);\">「施設名(または法人名)」 及び「本補助金を活用して整備する機器種別(例：可搬型蓄電池)」の記載が必要です）</span></p><p><span style=\"font-size: 14px;\">※個別の対象施設・対象製品に関しては、事務局までお問い合わせください</span></p><p><span style=\"font-size: 14px;\">※補助対象機器ごとに補助基準額が異なりますので、申請前に必ず交付要綱をご確認ください</span></p><p><br></p><p><strong style=\"font-size: 14px; color: rgb(0, 111, 173);\">■問合せ先</strong></p><p><span style=\"font-size: 14px;\">本事業ホームページの「お問い合わせフォーム」</span></p><p><a href=\"https://eps-support.jp\" target=\"_blank\" style=\"font-size: 14px;\">https://eps-support.jp</a></p><p><br></p><p><span style=\"font-size: 14px;\">東京都社会福祉施設等への非常用電源等の整備促進事業事務局　問い合わせメール</span></p><p><a href=\"https://jgrants-portal--mnt2.sandbox.lightning.force.com/lightning/cmp/info_7@eps-support.jp\" target=\"_blank\" style=\"font-size: 14px; color: rgb(11, 92, 171);\">info_7@eps-support.jp</a></p><p><br></p><p><span style=\"font-size: 14px;\">東京都社会福祉施設等への非常用電源等の整備促進事業コールセンター</span></p><p><span style=\"font-size: 14px;\">Tel： 0120-843-658　受付時間：9時から18時まで（土日・祝日・年末年始を除く）﻿</span></p>",
+ "use_purpose": "安全・防災対策支援がほしい / 設備整備・IT導入をしたい",
+ "industry": "医療、福祉",
+ "target_area_search": "東京都",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "４分の３",
+ "subsidy_max_limit": 3750000,
+ "acceptance_start_datetime": "2025-08-25T00:00:00Z",
+ "acceptance_end_datetime": "2025-10-10T15:00:00Z",
+ "project_end_deadline": null,
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTxsMAH",
+ "application_guidelines": [
+  {
+   "name": "社会福祉施設等への非常用電源等の整備促進事業実施要綱.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "【R7年9月一部改正】社会福祉施設等への非常用電源等の整備促進事業補助金交付要綱.zip"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "【全分野共通】R7非常用電源事業様式集（jGrants申請用）.zip"
+  }
+ ],
+ "institution_name": "社会福祉施設等への非常用電源等の整備促進事業補助金",
+ "_meta": {
+  "first_seen": "2025-08-25T00:00:00Z",
+  "fetched_at": "2026-09-21T13:12:58Z"
+ }
+}

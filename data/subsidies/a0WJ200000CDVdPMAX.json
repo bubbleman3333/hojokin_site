@@ -1,0 +1,36 @@
+{
+ "id": "a0WJ200000CDVdPMAX",
+ "name": "S-00007370",
+ "title": "令和７年度臨床研修費等補助金（歯科医師）",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>この事業は、平成１８年度からの歯科医師臨床研修の必修化を踏まえ、臨床研修開始時点における研修歯科医の歯科医師としての資質を確保するとともに、研修歯科医が臨床研修に専念できる環境を整備すること、研修歯科医が臨床歯科医として患者中心の全人的医療を理解した上で、歯科医師としての人格をかん養し、総合的な歯科診療能力を身に付け、臨床研修を生涯研修の第一歩とすることに対する支援を目的とする。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■根拠法令</strong></p><p>歯科医師臨床研修費補助事業実施要綱</p><p>医療関係者研修費等補助金及び臨床研修費等補助金交付要綱</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■備考</strong></p><p>補助額上限については交付要綱をご参照ください。</p>",
+ "use_purpose": "人材育成を行いたい",
+ "industry": "医療、福祉",
+ "target_area_search": "東京都",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": null,
+ "subsidy_max_limit": 0,
+ "acceptance_start_datetime": "2025-10-14T15:00:00Z",
+ "acceptance_end_datetime": "2026-07-31T14:59:00Z",
+ "project_end_deadline": null,
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVdPMAX",
+ "application_guidelines": [],
+ "outline_of_grant": [
+  {
+   "name": "要綱一式.zip"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "交付申請様式一式.zip"
+  }
+ ],
+ "institution_name": "臨床研修費等補助金",
+ "_meta": {
+  "first_seen": "2025-10-14T15:00:00Z",
+  "fetched_at": "2026-09-21T13:12:58Z"
+ }
+}

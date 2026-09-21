@@ -1,0 +1,28 @@
+{
+ "id": "a0WJ200000CDbyyMAD",
+ "name": "S-00009410",
+ "title": "小樽市省エネルギー診断補助金",
+ "subsidy_catch_phrase": "脱炭素経営の第一歩！専門家による省エネ診断にかかる自己負担を全額（上限5万円）補助します！",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■目的・概要</strong></p><p><span style=\"font-size: 16px;\">ゼロカーボンシティ小樽市の実現に向けて、市内事業者の脱炭素経営に向けた取組を支援するため、省エネルギー診断等を受診した事業者を対象に、診断機関に支払う費用の自己負担分を全額補助金として交付する制度です。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■応募資格</strong></p><p><span style=\"font-size: 16px;\">以下の要件を全て満たしている者が対象です。</span></p><p><span style=\"font-size: 16px;\">・補助金の交付を受けようとする事業所において、過去にこの要綱における同一の内容による補助金の交付を受けたことがないこと。</span></p><p><span style=\"font-size: 16px;\">・小樽市税を滞納していないこと。</span></p><p><span style=\"font-size: 16px;\">・暴力団、暴力団員、又は暴力団関係事業者でないこと。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■地理条件</strong></p><p><span style=\"font-size: 16px; color: rgb(0, 0, 0);\">小樽市内に所在する事業所であること。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■備考</strong></p><p><span style=\"font-size: 16px;\">・予算額を超える申請があった場合は、期間内であっても申請受付が終了となります。</span></p><p><span style=\"font-size: 16px;\">・消費税及び地方消費税・印紙税・振込手数料は補助対象経費から除かれます。</span></p><p><span style=\"font-size: 16px;\">・省エネ診断の報告書を受理してから30日を経過した日、又は令和9年3月31日（水）までのいずれか早い日までに実績報告書の提出が必要です。</span></p><p><span style=\"font-size: 16px;\">・関連事業として、省エネ診断を実施した市内中小企業等に対し、設備更新費用を補助する「中小企業等省エネ推進補助金」も用意されています。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■問合せ先</strong></p><p><span style=\"font-size: 16px;\">小樽市 生活環境部 環境課 </span></p><p><span style=\"font-size: 16px;\">住所：〒047-8660 小樽市花園2丁目12番1号 </span></p><p><span style=\"font-size: 16px;\">電話：0134-32-4111（内線327・328） </span></p><p><span style=\"font-size: 16px;\">メール：kankyo@city.otaru.lg.jp</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■参照URL</strong></p><p><a href=\"https://www.city.otaru.lg.jp/docs/2025040700015/\" target=\"_blank\" style=\"font-size: 16px;\">https://www.city.otaru.lg.jp/docs/2025040700015/</a></p>",
+ "use_purpose": "エコ・SDGs活動支援がほしい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "北海道",
+ "target_area_detail": "令和7年4月1日から申請日までに小樽市内に所在する事業所",
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "全額（10/10）※省エネ診断機関に支払った診断料全額（消費税等を除く）が対象です",
+ "subsidy_max_limit": 50000,
+ "acceptance_start_datetime": "2026-04-15T00:00:00Z",
+ "acceptance_end_datetime": "2027-02-26T08:00:00Z",
+ "project_end_deadline": null,
+ "request_reception_presence": "無",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbyyMAD",
+ "application_guidelines": [],
+ "outline_of_grant": [],
+ "application_form": [],
+ "institution_name": "小樽市省エネルギー診断補助金",
+ "_meta": {
+  "first_seen": "2026-04-15T00:00:00Z",
+  "fetched_at": "2026-09-21T13:10:42Z"
+ }
+}

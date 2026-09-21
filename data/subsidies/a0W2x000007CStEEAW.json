@@ -1,0 +1,73 @@
+{
+ "id": "a0W2x000007CStEEAW",
+ "name": "S-00002265",
+ "title": "農林水産物認証取得支援事業（農家認証取得支援事業）補助金",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><b style=\"color: rgb(0, 111, 173); font-size: 14px;\">■目的・概要</b></p><p><span style=\"font-size: 14px;\">公益財団法人東京都農林水産振興財団では、環境保全や農業経営の効率化を目指すGAPを推進するため、農家認証取得に要する経費を補助します。</span></p><p><br></p><p><span style=\"font-size: 14px;\">【認証の種類】</span></p><p><span style=\"font-size: 14px;\">・ＪＧＡＰ認証：一般社団法人 日本ＧＡＰ協会</span></p><p><span style=\"font-size: 14px;\">・ＡＳＩＡＧＡＰ認証：</span><span style=\"font-size: 14px; color: rgb(62, 62, 60);\">一般社団法人 日本ＧＡＰ協会</span></p><p><span style=\"color: rgb(62, 62, 60); font-size: 14px;\">・ＧＬＯＢＡＬＧ.Ａ.Ｐ. 認証：フードプラス</span></p><p><br></p><p><span style=\"font-size: 14px;\">【対象経費】</span></p><p><span style=\"font-size: 14px;\"> </span>　　＜事業区分＞　　　　　　　　＜対象経費＞　　　　　　＜補助率＞</p><p><br></p><p>・認証取得（初回審査）　　　　　・初回審査料　　　　　　　 　1/２</p><p>　　　　　　　　　　　　　　　　・年間公示料</p><p>　　　　　　　　　　　　　　　　・コンサルタント料</p><p><br></p><p>・維持審査　　　　　　　　　　　・維持審査料　　　　　　　　 1/２</p><p>・更新審査　　　　　　　　　　　・更新審査料</p><p>　　　　　　　　　　　　　　　　・年間公示料</p><p><br></p><p>・研修等　　　　　　　　　　　　・受講料等　　　　　　　　　1/２</p><p><br></p><p>※個別認証のコンサルタント料は、最大５日分とし、旅費交通費も補助対象とする。</p><p>団体認証のコンサルタント料の上限は、団体の規模に応じて東京都と財団が協議のうえ決定する。</p><p><span style=\"font-size: 14px;\">※消費税については、補助対象経費に含まないものとする。</span></p><p><br></p><p><br></p><p><b style=\"color: rgb(0, 111, 173); font-size: 14px;\">■応募資格</b></p><p><span style=\"font-size: 14px;\">都内在住の農業者及び農業者で構成される団体、又は、都内に農地を有し、</span></p><p><span style=\"font-size: 14px;\">農業の専門科目を開講している農業高等学校等の教育機関</span></p><p><br></p><p><br></p><p><b style=\"color: rgb(0, 111, 173); font-size: 14px;\">■問合せ先</b></p><p><span style=\"font-size: 14px;\">(公財)東京都農林水産振興財団</span></p><p><span style=\"font-size: 14px;\">地産地消推進課　認証支援係</span></p><p><span style=\"font-size: 14px;\">〒190-0013　東京都立川市富士見町3-8-1　Tel: 042-528-0510</span></p>",
+ "use_purpose": "販路拡大・海外展開をしたい",
+ "industry": "農業、林業",
+ "target_area_search": "東京都",
+ "target_area_detail": "東京都",
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "1/2以内",
+ "subsidy_max_limit": 0,
+ "acceptance_start_datetime": "2023-04-03T00:00:00Z",
+ "acceptance_end_datetime": "2026-12-28T08:00:00Z",
+ "project_end_deadline": null,
+ "request_reception_presence": "無",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000007CStEEAW",
+ "application_guidelines": [
+  {
+   "name": "農林水産物認証取得支援事業（農家認証）公募要領.docx"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "①農家認証取得支援事業補助金交付要綱.pdf ②農家認証取得支援事業実施要領.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "農家認証（第１号様式）申請書.docx"
+  },
+  {
+   "name": "農家認証（第３号様式）変更（中止・廃止）承認申請書.docx"
+  },
+  {
+   "name": "農家認証（第４号様式）遂行状況報告書.docx"
+  },
+  {
+   "name": "農家認証（第５号様式）実績報告書.docx"
+  },
+  {
+   "name": "農家認証（第７号様式）請求書.docx"
+  },
+  {
+   "name": "農家認証（様式２）認証取得申込書.doc"
+  },
+  {
+   "name": "農家認証（様式１）誓約書.doc"
+  },
+  {
+   "name": "農家認証（様式３）研修受講申込書.doc"
+  },
+  {
+   "name": "農家認証＜別紙１＞申請者の概要.doc"
+  },
+  {
+   "name": "農家認証＜別紙３＞認証取得までの計画.doc"
+  },
+  {
+   "name": "農林水産振興財団「支払金口座情報登録依頼書」.xlsx"
+  },
+  {
+   "name": "農家認証＜別紙２＞申請団体の概要.doc"
+  }
+ ],
+ "institution_name": "農林水産物認証取得支援事業（農家認証取得支援事業）補助金",
+ "_meta": {
+  "first_seen": "2023-04-03T00:00:00Z",
+  "fetched_at": "2026-09-21T13:12:58Z"
+ }
+}

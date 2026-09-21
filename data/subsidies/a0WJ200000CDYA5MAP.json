@@ -1,0 +1,39 @@
+{
+ "id": "a0WJ200000CDYA5MAP",
+ "name": "S-00008525",
+ "title": "令和７年度神奈川県介護事業所等及び介護施設等に対するサービス継続支援事業",
+ "subsidy_catch_phrase": "介護事業所及び介護施設等が必要な介護サービスを円滑に継続するため、将来的に必要となる設備・備品の購入費等及び食料品の購入費等の一部を補助します。",
+ "detail": "<p><span style=\"font-size: 12.8px;\">■目的・概要</span></p><p><span style=\"font-size: 12.8px;\"> 「神奈川県介護事業所等及び介護施設等に対するサービス継続支援事業費補助金交付要綱」（高福第5526号）に基づき、介護サービス事業所及び介護事業所等が、物価上昇の影響等がある中でも、必要な介護サービスを円滑に継続するため、将来的に必要となる設備・備品の購入費等及び食料品の購入費等の一部を補助する。 </span></p><p><span style=\"font-size: 12.8px;\">■根拠法令 </span></p><p><span style=\"font-size: 12.8px;\">　神奈川県介護事業所等及び介護施設等に対するサービス継続支援事業費補助金交付要綱 </span></p><p><span style=\"font-size: 12.8px;\">■応募資格 </span></p><p><span style=\"font-size: 12.8px;\">　交付要綱及び別紙参照 </span></p><p><span style=\"font-size: 12.8px;\">■地理条件 </span></p><p><span style=\"font-size: 12.8px;\">　神奈川県内に所在するものかつ申請日時点で神奈川県又は所管市町村の指定等を受け、現に運営をしているもの。 </span></p><p><br></p><p><br></p><p>※申請時の注意事項</p><p>(1)申請の第１号様式は、PDFにせずExcelファイルのままとすること。</p><p>(2)申請書類一式はZIPファイルで１つにまとめること。</p><p>(3)申請後、内容を修正する必要がある場合は、ヘルプデスクに連絡し、差戻しを依頼すること。</p>",
+ "use_purpose": "資金繰りを改善したい / 安全・防災対策支援がほしい",
+ "industry": "医療、福祉",
+ "target_area_search": "神奈川県",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "10/10",
+ "subsidy_max_limit": 0,
+ "acceptance_start_datetime": "2026-03-31T02:30:00Z",
+ "acceptance_end_datetime": "2026-04-17T14:59:00Z",
+ "project_end_deadline": null,
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYA5MAP",
+ "application_guidelines": [],
+ "outline_of_grant": [
+  {
+   "name": "01_サービス継続支援事業交付要綱.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "【第１号様式】 申請書兼実績報告書.xlsx"
+  },
+  {
+   "name": "【第２号様式】変更承認申請書.docx"
+  }
+ ],
+ "institution_name": "神奈川県介護事業所等及び介護施設等に対するサービス継続支援金事業",
+ "_meta": {
+  "first_seen": "2026-03-31T02:30:00Z",
+  "fetched_at": "2026-09-21T13:12:58Z"
+ }
+}

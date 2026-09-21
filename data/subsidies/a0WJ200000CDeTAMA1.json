@@ -1,0 +1,32 @@
+{
+ "id": "a0WJ200000CDeTAMA1",
+ "name": "S-00009778",
+ "title": "小郡市企業立地優遇制度",
+ "subsidy_catch_phrase": "小郡市内での工業系・オフィス系施設の新設や増設を強力に支援！雇用奨励金や固定資産税の課税免除で事業拡大を応援します。",
+ "detail": "<p>※Jグランツで本補助金の申請受付を行っておりません。申請手続き等の詳細については、以下HPをご確認ください。</p><p>https://www.city.ogori.fukuoka.jp/205/1962/1964</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>本市における産業立地を促進し、雇用機会の拡大及び産業の振興を図ることを目的として、製造業、データセンター、ソフトウェア業、情報処理・提供サービス業、学術・開発研究機関、デザイン業、機械設計業、コンタクトセンターを営む企業が、市内で工場、事務所等の新設や増設を行う場合に、固定資産税の免除や雇用奨励金、立地奨励金を交付します。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p>補助対象者は、小郡市企業誘致推進本部会議において、誘致企業と決定された事業者で製造業、データセンター、ソフトウェア業、情報処理・提供サービス業、学術・開発研究機関、デザイン業、機械設計業、コンタクトセンターを営む企業です。</p><p>ただし、次のいずれかに該当する方は対象外となります。</p><p>1.暴力団対策法に規定する暴力団及び暴力団員</p><p>2.暴力団員と密接な関係を有している者</p><p>3.市税を滞納している者</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象事業</strong></p><p>市内において、事業所、工場、または研究所等を新設又は増設を行う事業を対象とします。</p><p>主な要件は以下のとおりです。</p><p>《工業系》製造業、データセンター</p><p>・設備投資額（用地費は除く）が1億円以上で、常時雇用従業員が1１人以上であること。</p><p>《オフィス系》ソフトウェア業、情報処理・提供サービス業、学術・開発研究機関、デザイン業、機械設計業、コンタクトセンター</p><p>・常時雇用従業員が3人以上であること。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■奨励内容</strong></p><p>【課税免除】 固定資産税を最大3年間免除。</p><p>【雇用奨励金】　市内の新規常用雇用者数×20万円、限度額1,000万円（1回限り）</p><p>【事業所等設置奨励金】事業所の年間賃借料（敷金等を除く）×50％、限度額150万円／年（3年限り）</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■申請方法</strong></p><p>申請方法については、業種や建物の取得状況により、申請様式や時期が異なりますので、詳細についてはお問い合わせください。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 12.8px;\">■問合せ先</strong></p><p>小郡市 都市建設部 都市開発課</p><p>電話：0942-73-9119　FAX：0942-73-0571</p><p>メールアドレス：kigyo@city.ogori.lg.jp</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p>小郡市HP（企業立地優遇制度）</p><p>https://www.city.ogori.fukuoka.jp/205/1962/1964</p><p><br></p>",
+ "use_purpose": "新たな事業を行いたい / 研究開発・実証事業を行いたい / 雇用・職場環境を改善したい / 設備整備・IT導入をしたい",
+ "industry": "製造業 / サービス業（他に分類されないもの） / 学術研究、専門・技術サービス業",
+ "target_area_search": "福岡県",
+ "target_area_detail": "小郡市",
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": null,
+ "subsidy_max_limit": 0,
+ "acceptance_start_datetime": "2026-08-27T00:00:00Z",
+ "acceptance_end_datetime": "2027-03-31T08:00:00Z",
+ "project_end_deadline": "2027-03-31T08:00:00Z",
+ "request_reception_presence": "無",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeTAMA1",
+ "application_guidelines": [],
+ "outline_of_grant": [
+  {
+   "name": "小郡市の優遇制度.pdf"
+  }
+ ],
+ "application_form": [],
+ "institution_name": "【福岡県小郡市】企業立地優遇制度",
+ "_meta": {
+  "first_seen": "2026-08-27T00:00:00Z",
+  "fetched_at": "2026-09-21T13:10:42Z"
+ }
+}

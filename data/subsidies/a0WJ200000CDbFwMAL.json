@@ -1,0 +1,43 @@
+{
+ "id": "a0WJ200000CDbFwMAL",
+ "name": "S-00009374",
+ "title": "令和８年度「原子力産業基盤強化事業補助金」（二次公募）",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要（サマリ）:</strong></p><p><span style=\"color: rgb(0, 0, 0); font-size: 14px;\">この補助金は、原子力関連機器・サービスの安全性や信頼性向上に資する取組に要する経費の一部を補助することにより、原子力の安全性・信頼性を支えている原子力産業基盤の維持・強化を図ることを目的とします。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要:</strong></p><p><span style=\"font-size: 14px; color: black;\">エネルギー基本計画（令和７年２月閣議決定）において、「我が国の原子力産業・人材基盤は、高い国産化率と技術を誇り、国内経済や雇用に対する貢献度も高く、既設炉の再稼働や革新軽水炉・小型軽水炉等の次世代革新炉の開発・設置に向けても不可欠である」としています。</span></p><p><br></p><p><span style=\"font-size: 14px; color: black;\">その上で、本事業では、世界トップクラスの技術力や経験を有している国内サプライヤによる原子力関連機器・サービスの安全性や信頼性向上に資する技術開発、事業撤退を余儀なくされる事業の継承、製造プロセスにおけるデジタル化の促進等の支援を</span><span style=\"font-size: 14px;\">実施します。</span></p><p><br></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■備考:</strong></p><p><span style=\"color: rgb(0, 0, 0); font-size: 14px;\">応募書類はjGrantsでご提出ください。</span></p><p><span style=\"color: rgb(0, 0, 0); font-size: 14px;\">やむを得ない事情によりjGrantsでの提出が困難な場合は、事務局にご相談ください。</span></p><p><br></p><p><span style=\"color: rgb(0, 0, 0); font-size: 14px;\">※　上記に記載のない内容もございますので、必ず「募集要領」をご確認ください。</span></p><p><br></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問い合わせ先:</strong></p><p><span style=\"color: rgb(0, 0, 0); font-size: 14px;\">〒</span><span style=\"font-size: 14px;\">１０１－００４７</span><span style=\"font-size: 14px; color: rgb(0, 0, 0);\"> 東京都千代田区</span><span style=\"font-size: 14px;\">内神田3-6-1　さんしん・ヒロセビル6F</span></p><p><span style=\"color: rgb(0, 0, 0); font-family: sans-serif; font-size: 14px;\">特定非営利活動法人 地球と未来の環境基金（EFF）</span></p><p><span style=\"color: rgb(0, 0, 0); font-family: sans-serif; font-size: 14px;\">担当：稲垣、金坂</span></p><p><br></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■更新情報:</strong></p><p><span style=\"font-size: 14px; font-family: sans-serif;\">2026年6月23日：ダウンロードファイルのうち、「募集要領」内「Ⅱ 補助対象」の「2 補助対象」に記載の要件④の内容に誤植がございましたので、修正いたしました。</span></p><p><span style=\"font-size: 14px; font-family: sans-serif;\">（誤）海外企画</span></p><p><span style=\"font-size: 14px; font-family: sans-serif;\">（正）海外規格</span></p><p><span style=\"font-size: 14px; font-family: sans-serif;\">大変お手数ですが、応募前に必ず再ダウンロードの上、ご確認ください。</span></p>",
+ "use_purpose": "新たな事業を行いたい / 販路拡大・海外展開をしたい / イベント・事業運営支援がほしい / 事業を引き継ぎたい / 研究開発・実証事業を行いたい / 人材育成を行いたい / 資金繰りを改善したい / 雇用・職場環境を改善したい / 災害（自然災害、感染症等）支援がほしい / 安全・防災対策支援がほしい / まちづくり・地域振興支援がほしい / 設備整備・IT導入をしたい / エコ・SDGs活動支援がほしい / 教育・子育て・少子化支援がほしい / スポーツ・文化支援がほしい",
+ "industry": "建設業 / 製造業 / 情報通信業 / サービス業（他に分類されないもの） / 学術研究、専門・技術サービス業",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "１／２",
+ "subsidy_max_limit": 200000000,
+ "acceptance_start_datetime": "2026-06-19T03:00:00Z",
+ "acceptance_end_datetime": "2026-07-09T03:00:00Z",
+ "project_end_deadline": "2028-02-11T14:59:59Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbFwMAL",
+ "application_guidelines": [
+  {
+   "name": "募集要領_R8原子力産業基盤強化事業補助金rev.1.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "交付規程_原子力産業基盤強化事業補助金_2026.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "事業概要説明書(様式3)_R8原子力産業基盤強化事業補助金.pptx"
+  },
+  {
+   "name": "申請様式(1,2,4)_R8原子力産業基盤強化事業補助金.docx"
+  }
+ ],
+ "institution_name": "原子力産業基盤強化事業補助金",
+ "_meta": {
+  "first_seen": "2026-06-19T03:00:00Z",
+  "fetched_at": "2026-09-21T13:12:58Z"
+ }
+}

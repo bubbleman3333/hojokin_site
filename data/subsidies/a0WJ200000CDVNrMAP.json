@@ -1,0 +1,40 @@
+{
+ "id": "a0WJ200000CDVNrMAP",
+ "name": "S-00007318",
+ "title": "令和7年度東京都新人看護研修事業費補助金",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>都内の病院等が実施する新人看護職員、新人保健師及び新人助産師が基本的な臨床実践能力を獲得するための研修に要する経費を補助することにより、新人看護職員研修体制の整備を促進し、看護の質の向上及び早期離職防止を図ることを目的とします。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■根拠法令</strong></p><p>新人看護職員研修事業費補助金交付要綱</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象施設</strong></p><p>（1）新人看護職員研修事業</p><p>病院等が、新人看護職員研修ガイドラインに示された項目に沿って実施する新人看護職員、新人保健師又は新人助産師に対する研修事業</p><p>（2）医療機関受入研修事業</p><p>上記（1）の事業を実施する病院等が、自施設の新人看護職員研修を公開し、公募により他施設の新人看護職員の受入れを実施する事業</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■地理条件</strong></p><p>都内の病院等</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■備考</strong></p><p>参照URLをご確認ください。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>東京都 保健医療局 医療政策部 医療人材課 </p><p>看護担当</p><p>電話番号：03-5320-4447</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><a href=\"https://www.hokeniryo.metro.tokyo.lg.jp/iryo/jigyo/hojo/shinjinkango\" target=\"_blank\">https://www.hokeniryo.metro.tokyo.lg.jp/iryo/jigyo/hojo/shinjinkango</a></p>",
+ "use_purpose": "人材育成を行いたい",
+ "industry": "医療、福祉",
+ "target_area_search": "東京都",
+ "target_area_detail": "都内施設",
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "1/2",
+ "subsidy_max_limit": 1966000,
+ "acceptance_start_datetime": "2025-03-31T15:00:00Z",
+ "acceptance_end_datetime": "2026-05-31T14:59:00Z",
+ "project_end_deadline": null,
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVNrMAP",
+ "application_guidelines": [
+  {
+   "name": "新人看護研修ガイドライン　H26年改訂.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "東京都新人看護職員研修事業費補助金交付要綱等.zip"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "03_令和7年度【○○病院】新人看護研修実績報告.xlsx"
+  }
+ ],
+ "institution_name": "東京都新人看護研修事業費補助金",
+ "_meta": {
+  "first_seen": "2025-03-31T15:00:00Z",
+  "fetched_at": "2026-09-21T13:12:58Z"
+ }
+}

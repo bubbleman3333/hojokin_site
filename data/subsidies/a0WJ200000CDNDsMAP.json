@@ -1,0 +1,51 @@
+{
+ "id": "a0WJ200000CDNDsMAP",
+ "name": "S-00006577",
+ "title": "【令和７年度】先進的技術開発等支援事業",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>この補助金は、地域における新たな燃料供給体制の構築の推進、燃料の安定供給体制の確保を図ることを目的として、揮発油販売事業者等が行う先進的技術開発及び実証事業に要する経費を補助するものです。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p>①技術開発事業</p><p>新たな機器等の技術開発を実施する揮発油販売業者</p><p>石油製品の供給設備の開発・製造を行う者</p><p>コンソーシアムの代表団体</p><p>②実証事業</p><p>コンソーシアムの代表団体</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■備考</strong></p><p>詳細は公募要領をご覧ください。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>全国石油商業組合連合会　政策グループ</p><p>環境・安全対策チーム</p><p>東京都千代田区永田町２－１７－１４</p><p>０３－３５９３－５８３５</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p>http://www.zensekiren.or.jp/</p>",
+ "use_purpose": "研究開発・実証事業を行いたい / 設備整備・IT導入をしたい",
+ "industry": "製造業 / 複合サービス事業 / 公務（他に分類されるものを除く） / 卸売業、小売業",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "10分の10（定額補助）",
+ "subsidy_max_limit": 150000000,
+ "acceptance_start_datetime": "2025-04-17T00:00:00Z",
+ "acceptance_end_datetime": "2025-09-30T08:00:00Z",
+ "project_end_deadline": "2026-02-20T08:00:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDNDsMAP",
+ "application_guidelines": [
+  {
+   "name": "令和７年度先進的技術開発等支援事業補助金募集要領_2025年7月版.pdf"
+  }
+ ],
+ "outline_of_grant": [],
+ "application_form": [
+  {
+   "name": "別紙１①_技術開発事業提案書.docx"
+  },
+  {
+   "name": "様式第１号_先進的技術開発等支援事業_補助金交付申請書.docx"
+  },
+  {
+   "name": "別紙１②_実証事業提案書.docx"
+  },
+  {
+   "name": "別紙２_申請資格に関する誓約書.docx"
+  },
+  {
+   "name": "別紙３_暴力団排除に関する誓約書.docx"
+  },
+  {
+   "name": "別紙４_賃上げを行うことを示す書類（中小企業・大企業用）【任意提出】.docx"
+  }
+ ],
+ "institution_name": "先進的技術開発等支援事業",
+ "_meta": {
+  "first_seen": "2025-04-17T00:00:00Z",
+  "fetched_at": "2026-09-21T13:12:58Z"
+ }
+}

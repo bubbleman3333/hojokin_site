@@ -1,0 +1,40 @@
+{
+ "id": "a0WJ200000CDUhfMAH",
+ "name": "S-00007198",
+ "title": "令和８年度訪問介護員等補助者同行支援補助金",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><strong style=\"font-size: 14px; color: rgb(0, 111, 173);\">■目的・概要</strong></p><p class=\"ql-indent-1\">訪問介護等を行う介護サービス事業者が、利用者又はその家族及び同居人からのカスタマーハラスメントに対応するため、複数人による訪問を実施した際に同行者に支払う謝金に対し、補助します。</p><p><strong style=\"font-size: 14px; color: rgb(0, 111, 173);\">■応募資格</strong></p><p class=\"ql-indent-1\">都内に所在する別表に定める事業所とする。ただし、国又は地方公共団体が設置する事業所（地方自治法（昭和２２年法律第６７号）第２４４条の２第３項の規定により指定管理者が管理するものを含む。）は除く。<span style=\"font-size: 13px;\">ただし、（２）については複数人による訪問に係る介護報酬の加算等の算定が可能なサービス種別に限る。 </span></p><p class=\"ql-indent-1\">また、次の（１）から（３）までに掲げる要件のいずれにも該当することを要件とする。</p><p class=\"ql-indent-1\">（１）利用者等によるカスタマーハラスメントが発生している又は発生するおそれがあることから、利用者等によるカスタマーハラスメントから訪問介護員等の安全を確保するため、複数人による訪問が必要であると知事が認めること。</p><p class=\"ql-indent-1\"><span style=\"font-size: 13px;\">（２）利用者からの暴力行為、著しい迷惑行為、器物破損行為等が認められ、複数人による訪問が必要なケースにもかかわらず、複数人による訪問を行うことに利用者等の同意を得ることが困難であり、介護報酬の加算等が算定できないこと。</span></p><p class=\"ql-indent-1\">（３）補助の対象となる謝金を受領する同行者が、実施要綱に定める介護事業者向けカスタマーハラスメント対策説明会（以下「対策説明会」という。）を聴講すること。ただし、対策説明会の配信開始後に同行する同行者に限る。</p><p><strong style=\"font-size: 14px; color: rgb(0, 111, 173);\">■問合せ先</strong></p><p class=\"ql-indent-1\">東京都介護現場カスタマーハラスメント対策強化事業補助金事務局</p>",
+ "use_purpose": "雇用・職場環境を改善したい / 設備整備・IT導入をしたい",
+ "industry": "医療、福祉",
+ "target_area_search": "東京都",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "3/4",
+ "subsidy_max_limit": 0,
+ "acceptance_start_datetime": "2026-08-30T15:00:00Z",
+ "acceptance_end_datetime": "2026-10-16T14:59:00Z",
+ "project_end_deadline": "2027-05-31T14:59:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDUhfMAH",
+ "application_guidelines": [
+  {
+   "name": "介護現場におけるカスタマーハラスメント対策強化事業実施要綱.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "令和８年度訪問介護員等補助者同行支援補助金交付要綱.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "【様式第１号】R8交付申請書様式（同行支援・Jグランツ）.xlsx"
+  }
+ ],
+ "institution_name": "訪問介護員等補助者同行支援補助金",
+ "_meta": {
+  "first_seen": "2026-08-30T15:00:00Z",
+  "fetched_at": "2026-09-21T13:12:58Z"
+ }
+}

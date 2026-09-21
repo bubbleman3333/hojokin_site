@@ -1,0 +1,54 @@
+{
+ "id": "a0WJ200000CDX6MMAX",
+ "name": "S-00007866",
+ "title": "物価高騰対策ＤＸ推進事業費補助金（デジタルツール導入事業）",
+ "subsidy_catch_phrase": "物価高騰の影響を受ける県内の中小企業等を対象に、収益力向上や生産性強化に向けたデジタルツールの導入、ＤＸ推進に資するシステム実装を支援します。",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■事業の目的</strong></p><p>本事業は、国の「物価高騰対応重点支援地方創生臨時交付金／重点支援地方交付金交付金」を活用した事業です。</p><p>物価高騰の影響を受ける県内の中小企業等を対象に、収益力向上や生産性強化に向けたデジタルツールの導入、ＤＸ推進に資するシステム実装を支援し、経営基盤の強化を図るものです。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象事業</strong></p><p>収益力向上や生産性強化、既存業務の効率化・省力化のためのデジタルツールの導入、ＤＸ推進に資するシステム実装　など</p><p style=\"text-align: justify;\">（参考例）</p><p style=\"text-align: justify;\"><span style=\"\">・クラウドシステムの導入（給与管理、在庫管理、勤怠管理に関するシステム等）</span></p><p style=\"text-align: justify;\"><span style=\"\">・サーバーのクラウド化</span></p><p style=\"text-align: justify;\"><span style=\"\"> ・基幹システムとのAPI連携</span></p><p style=\"text-align: justify;\"><span style=\"\">・AI-OCRやRPAを活用した文書事務効率化</span></p><p style=\"text-align: justify;\"><span style=\"\">・販売管理等のBIツールの導入　など</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象者</strong></p><p>宮崎県内に所在する中小企業・小規模事業者等で、募集要領に記載の要件を満たす者</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>一般社団法人　宮崎県情報産業協会　事務局　（株）宮崎県ソフトウェアセンター内</p><p>TEL：0985-30-5010</p><p>E-mail：info@misa45.jp</p>",
+ "use_purpose": "雇用・職場環境を改善したい / 設備整備・IT導入をしたい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 公務（他に分類されるものを除く） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "宮崎県",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "補助対象経費(税抜)の1/2",
+ "subsidy_max_limit": 2000000,
+ "acceptance_start_datetime": "2026-03-26T00:00:00Z",
+ "acceptance_end_datetime": "2026-05-15T14:59:00Z",
+ "project_end_deadline": "2027-01-31T14:59:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDX6MMAX",
+ "application_guidelines": [
+  {
+   "name": "物価高騰対策ＤＸ推進事業費補助金（デジタルツール導入事業）募集要領.pdf"
+  }
+ ],
+ "outline_of_grant": [],
+ "application_form": [
+  {
+   "name": "01-1_様式第１号別紙１_誓約書.docx"
+  },
+  {
+   "name": "01-2_様式第１号別紙２_役員一覧.docx"
+  },
+  {
+   "name": "01-4_様式第１号別紙４_同意書.docx"
+  },
+  {
+   "name": "01-6_様式第１号別紙６_端末取得理由書・誓約書.docx"
+  },
+  {
+   "name": "01-5_様式第１号別紙５_見積理由書.docx"
+  },
+  {
+   "name": "00_申請書様式（一式）.xlsx"
+  },
+  {
+   "name": "01-3_様式第１号別紙３_特徴申請書.docx"
+  }
+ ],
+ "institution_name": "物価高騰対策ＤＸ推進事業費補助金（間接補助分）",
+ "_meta": {
+  "first_seen": "2026-03-26T00:00:00Z",
+  "fetched_at": "2026-09-21T13:12:58Z"
+ }
+}

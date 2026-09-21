@@ -1,0 +1,40 @@
+{
+ "id": "a0WJ200000CDMSsMAP",
+ "name": "S-00006444",
+ "title": "デジタル証券（セキュリティトークン）市場拡大促進事業補助金",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的</strong></p><p>本事業は、企業等が資金調達等を目的として有価証券や不動産等を裏付けに分散型台帳技術（典型的にはブロックチェーン）を活用して発行する有価証券等（以下、「セキュリティトークン」という。）について、発行体及び投資家に対して高い付加価値を創出する先進的な取組の実装を支援することで、セキュリティトークンの健全な市場形成とユースケース創出を実現し、国際金融市場としての東京の魅力を高めていくことを目的とする。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象事業</strong></p><p><strong style=\"color: rgb(0, 111, 173);\">　</strong>本補助金の交付対象となる事業は、金融商品取引法や不動産特定共同事業法等の規定を順守した上で、発行体及び投資家に対して高い付加価値を創出するためにセキュリティトークンの発行を行う取組であって、原則として、令和９年３月31日までに払込金額等の払込みが完了するものをいう。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■根拠法令</strong></p><p>・東京都補助金等交付規則（昭和37年東京都規則第141号）</p><p>・東京都補助金等交付規則の施行について（昭和37年12月11日付財主調発第20号）</p><p>・<span style=\"font-size: 12.8px;\">デジタル証券（セキュリティトークン）市場拡大促進事業補助金交付要綱（令和８年４月１日付７産労総国第1555号）</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格（一部抜粋）</strong></p><p>（１）セキュリティトークンを発行する事業者であって、発行にあたり金融商品取引業や不動産特定共同事業法等の免許・許可・登録等が必要な場合においては、当該免許・許可を受け又は登録等を行っている者。</p><p>（２）東京都内に登記簿上の本店又は支店があること。</p><p>（３）補助対象事業について、同一年度内に国や他自治体（東京都の他部署を含む）からの委託や助成を受けていないこと。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象経費</strong></p><p>（１）プラットフォーム利用料</p><p>（２）専門家等への相談経費</p><p>（３）システム開発経費</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■交付申請受付期間</strong></p><p>本事業では以下の期間募集を行う。</p><p>令和８年４月10日（金）～令和９年１月29日（金）</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>東京都産業労働局 総務部 国際金融都市推進課 国際金融都市推進担当</p><p>電話：03-5320-6274</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><span style=\"font-size: 12.8px;\">https://www.sangyo-rodo.metro.tokyo.lg.jp/gfct/initiatives/nurturing-players/fintech/security-token</span></p>",
+ "use_purpose": "新たな事業を行いたい",
+ "industry": "分類不能の産業 / 金融業、保険業",
+ "target_area_search": "東京都",
+ "target_area_detail": "東京都",
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "1/2",
+ "subsidy_max_limit": 7500000,
+ "acceptance_start_datetime": "2026-04-09T15:00:00Z",
+ "acceptance_end_datetime": "2027-01-29T14:59:00Z",
+ "project_end_deadline": null,
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDMSsMAP",
+ "application_guidelines": [
+  {
+   "name": "募集要領.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "交付要綱.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "申請様式.DOCX"
+  }
+ ],
+ "institution_name": "デジタル証券（セキュリティトークン）市場拡大促進事業",
+ "_meta": {
+  "first_seen": "2026-04-09T15:00:00Z",
+  "fetched_at": "2026-09-21T13:12:58Z"
+ }
+}

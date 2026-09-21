@@ -1,0 +1,61 @@
+{
+ "id": "a0WJ200000CDcQsMAL",
+ "name": "S-00009439",
+ "title": "物価高騰対策ＤＸ推進事業費補助金（戦略的DX推進事業）",
+ "subsidy_catch_phrase": "物価高騰の影響を受ける県内の中小企業等を対象に、収益力向上や生産性強化に向けたデジタルツールの導入、ＤＸ推進に資するシステム実装を支援します。",
+ "detail": "<p><strong style=\"font-size: 13px; color: rgb(0, 111, 173);\">■事業の目的</strong></p><p><span style=\"font-size: 13px;\">本事業は、国の「物価高騰対応重点支援地方創生臨時交付金／重点支援地方交付金交付金」を活用した事業です。</span></p><p><span style=\"font-size: 13px;\">物価高騰の影響を受ける県内の中小企業等を対象に、企業個別の課題解決に向けたシステム構築や、データ活用等を促進し、収益性や生産性の強化を図るための経費を支援することにより、経営基盤の強化を図るものです。</span></p><p><br></p><p><strong style=\"font-size: 13px; color: rgb(0, 111, 173);\">■補助対象事業</strong></p><p><span style=\"font-size: 13px;\">物価高騰や人手不足に対応するため、企業個別の課題解決に向けたシステム構築や、データ活用等を促進し、収益性や生産性の強化を図るための事業。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 13px;\">■補助対象者</strong></p><p><span style=\"font-size: 13px;\">宮崎県内に所在する中小企業・小規模事業者等で、募集要領に記載の要件を満たす者</span></p><p><br></p><p><strong style=\"font-size: 13px; color: rgb(0, 111, 173);\">■従業員数の上限</strong></p><p><span style=\"font-size: 13px;\">中小企業の定義の範囲内であること</span></p><p><br></p><p><strong style=\"font-size: 13px; color: rgb(0, 111, 173);\">■補助要件</strong></p><p><span style=\"font-size: 13px;\">⑴　独立行政法人情報処理推進機構（IPA）が実施する「SECURITY ACTION」の「★★二つ星」の宣言を補助事業の完了日までに行うこと。</span></p><p><span style=\"font-size: 13px;\">⑵　補助事業の実施により、労働生産性を年１％以上増加させること。</span></p><p><span style=\"font-size: 13px;\">※事業終了後も、労働生産性の追跡調査を予定しています。</span></p><p><br></p><p><strong style=\"font-size: 13px; color: rgb(0, 111, 173);\">■問合せ先</strong></p><p><span style=\"font-size: 13px;\">宮崎県総合政策部　産業政策課　産業デジタル担当</span></p><p><span style=\"font-size: 13px;\">TEL：0985-26-7682</span></p><p><span style=\"font-size: 13px;\">Mail：sangyoseisaku@pref.miyazaki.lg.jp</span></p>",
+ "use_purpose": "新たな事業を行いたい / 雇用・職場環境を改善したい / 設備整備・IT導入をしたい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 公務（他に分類されるものを除く） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "全国/宮崎県",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "補助対象経費(税抜)の1/2",
+ "subsidy_max_limit": 5000000,
+ "acceptance_start_datetime": "2026-07-08T06:00:00Z",
+ "acceptance_end_datetime": "2026-08-07T08:00:00Z",
+ "project_end_deadline": "2027-01-16T14:59:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDcQsMAL",
+ "application_guidelines": [
+  {
+   "name": "【二次募集】物価高騰対策DX推進事業費補助金（戦略的DX推進事業）募集要領.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "R7補正_物価高騰対策DX推進補助金交付要綱（本文・様式）.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "03-3_誓約書(様式第4号).docx"
+  },
+  {
+   "name": "01-2_労働生産性計算シート(様式第1号その2：別紙2).xlsx"
+  },
+  {
+   "name": "11_申請書様式（一式.pdf"
+  },
+  {
+   "name": "02_収支予算書(様式第2号(第5条関係)).xlsx"
+  },
+  {
+   "name": "03-2_特別徴収実施確認・開始誓約書(様式第3号).docx"
+  },
+  {
+   "name": "00_提案書(参考様式1).docx"
+  },
+  {
+   "name": "01_事業計画書(様式第1号その2(第5条関係)).docx"
+  },
+  {
+   "name": "01-1_事業概要(様式第1号その2：別紙1).pptx"
+  }
+ ],
+ "institution_name": "物価高騰対策ＤＸ推進事業費補助金（戦略的DX推進事業）",
+ "_meta": {
+  "first_seen": "2026-07-08T06:00:00Z",
+  "fetched_at": "2026-09-21T13:12:58Z"
+ }
+}

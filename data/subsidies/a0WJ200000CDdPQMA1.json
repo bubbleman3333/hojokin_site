@@ -1,0 +1,55 @@
+{
+ "id": "a0WJ200000CDdPQMA1",
+ "name": "S-00009521",
+ "title": "令和８年度カーボンニュートラルコンビナート構築促進補助金",
+ "subsidy_catch_phrase": "コンビ補助金　研究開発・実証試験枠",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>山口県内コンビナートの国際競争力の維持・強化を図りつつ、「2050年カーボンニュートラル」を実現するため、コンビナートの二酸化炭素排出削減や次世代燃料・素材の供給基地化につながるコンビナート連携事業等の実施を支援することで、脱炭素社会の産業拠点として地域経済を牽引する「カーボンニュートラルコンビナート」の構築を促進することを目的とする。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■根拠法令</strong></p><p>山口県補助金等交付規則</p><p>カーボンニュートラルコンビナート構築促進補助金交付要綱</p><p>カーボンニュートラルコンビナート構築促進補助金実施要領</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p>コンビナート企業（岩国・大竹地域、周南地域及び宇部・山陽小野田地域における「コンビナート企業連携検討会議」を構成する企業のこと。以下同じ。）２社以上を含む複数の構成員（個人を除く。）による事業グループ</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■地理条件</strong></p><p>山口県内で実施される事業（研究開発を研究所・学術機関等で行う必要があるものを除く。）に限る。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■備考</strong></p><p>事業グループの代表者（以下、「代表申請者」という。）は、県内コンビナート企業に限る。</p><p>補助金の交付に係る申請、補助金の配分等については代表申請者が行うものとする。</p><p>研究開発のみの事業は補助対象外です。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p><span style=\"font-size: 14px;\">〒753-8501 山口県山口市滝町１番１号</span></p><p><span style=\"font-size: 14px;\">山口県産業労働部産業脱炭素化推進室</span></p><p><span style=\"font-size: 12.8px;\">【担当】</span></p><p><span style=\"font-size: 12.8px;\">　補助制度、手続に関すること：村上、岡本</span></p><p><span style=\"font-size: 12.8px;\">　連携事業の内容に関すること：勢登</span></p><p><span style=\"font-size: 14px;\">電 話：083-933-2474</span></p><p><span style=\"font-size: 14px;\">E-Mail：a161001@pref.yamaguchi.lg.jp</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><a href=\"https://www.pref.yamaguchi.lg.jp/soshiki/254/348132.html\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.pref.yamaguchi.lg.jp/soshiki/254/348132.html</a></p>",
+ "use_purpose": "研究開発・実証事業を行いたい",
+ "industry": "製造業 / 電気・ガス・熱供給・水道業",
+ "target_area_search": "山口県",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "2/3以内",
+ "subsidy_max_limit": 300000000,
+ "acceptance_start_datetime": "2026-07-24T07:00:00Z",
+ "acceptance_end_datetime": "2026-08-28T08:15:00Z",
+ "project_end_deadline": null,
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdPQMA1",
+ "application_guidelines": [
+  {
+   "name": "00_公募要領.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "01_交付要綱.pdf"
+  },
+  {
+   "name": "02_実施要領.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "04_【提出様式】（別紙２）事業収支計画書.xlsx"
+  },
+  {
+   "name": "03_【提出様式】（様式）計画書表紙、（別紙１）事業計画書.docx"
+  },
+  {
+   "name": "06_【提出様式】（別紙３）応募要件の確認書.docx"
+  },
+  {
+   "name": "05_【提出様式】（別紙２－２）共同事業費説明書.xlsx"
+  },
+  {
+   "name": "07_【提出様式】（別紙４）暴力団排除に関する誓約書.docx"
+  }
+ ],
+ "institution_name": "カーボンニュートラルコンビナート構築促進補助金",
+ "_meta": {
+  "first_seen": "2026-07-24T07:00:00Z",
+  "fetched_at": "2026-09-21T13:12:58Z"
+ }
+}

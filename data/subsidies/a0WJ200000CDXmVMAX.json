@@ -1,0 +1,43 @@
+{
+ "id": "a0WJ200000CDXmVMAX",
+ "name": "S-00008216",
+ "title": "【令和８年度】INPIT外国出願補助金（中間手続補助）",
+ "subsidy_catch_phrase": "中小企業者等の外国での特許、実用新案、意匠、商標の権利取得を支援します！",
+ "detail": "<p><strong style=\"color: rgb(0, 107, 255);\">■目的・概要</strong></p><p>外国における発明、実用新案考案、意匠又は商標の権利化に要する経費の一部を交付することで、外国における権利取得を促進させ、国際的な知的財産戦略の構築を支援します。</p><p><br></p><p><strong style=\"color: rgb(0, 107, 255);\">■補助対象者</strong></p><p>中小企業者及び試験研究機関等</p><p>※詳細は、交付要領等をご確認ください。</p><p><br></p><p><strong style=\"color: rgb(0, 107, 255);\">■問合せ先</strong></p><p>＜INPIT外国出願補助金事務局＞</p><p>受付時間 10：00～17：00（土日祝日及び12/29～1/3を除く。）</p><p>電話番号 03-3502-5424</p><p>お間違いのないよう十分ご注意ください。</p><p>メールアドレス info@gaikoku.inpit.go.jp</p><p>※INPIT外国出願補助金事務局は、一般社団法人発明推進協会が受託、運営しています。</p><p><br></p><p><strong style=\"color: rgb(0, 107, 255);\">■参照URL</strong></p><p>INPIT外国出願補助金HP</p><p>https://www.inpit.go.jp/shien/gaikoku/index.html</p>",
+ "use_purpose": "新たな事業を行いたい / 販路拡大・海外展開をしたい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "300名以下",
+ "subsidy_rate": "1/2",
+ "subsidy_max_limit": 500000,
+ "acceptance_start_datetime": "2026-04-01T01:00:00Z",
+ "acceptance_end_datetime": "2026-12-14T08:00:00Z",
+ "project_end_deadline": null,
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXmVMAX",
+ "application_guidelines": [
+  {
+   "name": "R8中間応答_交付要領_1.0版_r3.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "INPIT外国出願補助金交付要綱.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "【中間手続補助】様式第1別紙（企業・民間研究機関申請用）.xlsx"
+  },
+  {
+   "name": "【中間手続補助】様式第1別紙（試験研究機関（大学等）用）ｒ.xlsx"
+  }
+ ],
+ "institution_name": "INPIT外国出願補助金（中間手続補助）",
+ "_meta": {
+  "first_seen": "2026-04-01T01:00:00Z",
+  "fetched_at": "2026-09-21T13:12:58Z"
+ }
+}

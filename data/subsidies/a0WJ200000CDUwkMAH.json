@@ -1,0 +1,40 @@
+{
+ "id": "a0WJ200000CDUwkMAH",
+ "name": "S-00007275",
+ "title": "令和７年度SDGsファイナンス支援事業補助金(グリーンボンド/グリーンローン)",
+ "subsidy_catch_phrase": "SDGsファイナンス補助金　東京都　グリーンボンド等",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>「グリーンボンド等」を発行しようとする事業者等に対して発行支援（外部レビューの付与をいう。）を行う事業に要する経費に補助金を交付することにより、グリーンボンド等の発行及び投資の促進を図ることを目的とする。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■根拠法令</strong></p><p>東京都補助金等交付規則（昭和37年東京都規則第141号）</p><p>東京都補助金等交付規則の施行について（昭和37年12月11日付37財主調発第20号）</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p>環境省が実施する二酸化炭素排出抑制対策事業費等補助金（グリーンファイナンス拡大に向けた市場基盤整備支援事業（脱炭素関連部門））又は地域環境保全対策費補助金（グリーンファイナンス拡大に向けた市場基盤整備支援事業（環境保全対策関連部門））（以下「環境省補助金」と総称する。）の交付決定を受けた者</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■地理条件</strong></p><p>補助事業による支援対象となるグリーンボンド等を発行する支援対象事業者は、都内に事務所又は事業所を有する企業等とする。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■備考</strong></p><p><span style=\"font-size: 14px;\">補助金の交付を受けた者は、名称、代表者名、補助内容等が公表される場合がある。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p><span style=\"font-size: 11pt;\">〒163-8001 </span></p><p><span style=\"font-size: 11pt;\">東京都新宿区西新宿二丁目８番１号 東京都庁第一本庁舎20階中央</span></p><p><span style=\"font-size: 11pt;\">東京都産業労働局総務部国際金融都市推進課国際金融都市推進担当</span></p><p>電話<span style=\"font-size: 14px;\">03-5000-3504</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><span style=\"font-size: 12.8px;\">https://www.sangyo-rodo.metro.tokyo.lg.jp/gfct/initiatives/green-finance/green-subsidy</span></p>",
+ "use_purpose": "イベント・事業運営支援がほしい",
+ "industry": "学術研究、専門・技術サービス業",
+ "target_area_search": "全国",
+ "target_area_detail": "補助事業による支援対象となるグリーンボンド等を発行する支援対象事業者は、都内に事務所又は事業所を有する企業等とする。",
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "補助対象と認められる経費の合計額の２／１０（ただし、補助事業の対象となるグリーンボンド等が個人投資家向けに発行される場合は、7／１０） ※千円未満の端数は切り捨て",
+ "subsidy_max_limit": 2000000,
+ "acceptance_start_datetime": "2025-05-30T05:00:00Z",
+ "acceptance_end_datetime": "2026-03-20T11:00:00Z",
+ "project_end_deadline": "2026-02-27T11:00:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDUwkMAH",
+ "application_guidelines": [
+  {
+   "name": "R7募集案内（グリーンファイナンス）.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "R7グリーンファイナンス交付要綱v4.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "R7【様式一式】グリーンファイナンス.zip"
+  }
+ ],
+ "institution_name": "令和８年度SDGsファイナンスに係る補助金",
+ "_meta": {
+  "first_seen": "2025-05-30T05:00:00Z",
+  "fetched_at": "2026-09-21T13:12:58Z"
+ }
+}

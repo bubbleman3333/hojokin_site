@@ -1,0 +1,46 @@
+{
+ "id": "a0WJ200000CDRHOMA5",
+ "name": "S-00006984",
+ "title": "令和７年度居宅介護支援事業所事務職員雇用支援補助金",
+ "subsidy_catch_phrase": "居宅介護支援事業所の事務職員雇用に必要な人件費の一部を補助します",
+ "detail": "<p><span style=\"color: rgb(255, 8, 8); font-size: 18px;\">交付申請は令和７年12月26日（金）締め切りです。</span></p><p><span style=\"color: rgb(255, 8, 8); font-size: 18px;\">実績報告は令和８年１月５日（月）から受付を開始します。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><strong style=\"color: rgb(0, 111, 173);\">　</strong>東京都内の居宅介護支援事業所に対して、新規又は既に雇用をしている事務職員の雇用経費を補助することで、介護支援専門員の専門性を十分発揮できる環境の整備を行い、介護報酬の増収に伴う処遇改善を推進することを目的とする。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助金申請方法マニュアル：</strong><a href=\"https://jimushokuin-koyoushien.rbl.co.jp/manual.pdf\" target=\"_blank\">manual.pdf</a></p><p><strong style=\"color: rgb(1, 95, 189);\">■Jグランツマニュアル：</strong><a href=\"https://www.jgrants-portal.go.jp/request-flow\" target=\"_blank\" style=\"color: rgb(1, 95, 189);\"><strong>https://www.jgrants-portal.go.jp/request-flow</strong></a></p><p><br></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">﻿■問合せ先</strong></p><p>　東京都介護保険課　03-5320-4279</p><p><strong style=\"color: rgb(0, 111, 173);\">　</strong></p><p><strong style=\"color: rgb(0, 111, 173);\">■Q＆A　制度概要：</strong><span style=\"color: rgb(2, 18, 28);\">東京都ホームページ</span></p><p><a href=\"https://www.fukushi.metro.tokyo.lg.jp/kourei/hoken/kaigo_lib/care/jimusyokuinkoyousienn\" target=\"_blank\">居宅介護支援事業所事務職員雇用支援事業|介護支援専門員(ケアマネジャー）関連情報|東京都福祉局</a></p>",
+ "use_purpose": "雇用・職場環境を改善したい",
+ "industry": "医療、福祉",
+ "target_area_search": "東京都",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "助成対象と認められる経費の３／４",
+ "subsidy_max_limit": 1950000,
+ "acceptance_start_datetime": "2025-08-31T15:00:00Z",
+ "acceptance_end_datetime": "2026-03-20T14:59:00Z",
+ "project_end_deadline": null,
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDRHOMA5",
+ "application_guidelines": [
+  {
+   "name": "実施要綱.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "交付要綱.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "【実績報告】令和７年度居宅介護支援事業所事務職員雇用支援補助金実績報告様式.xlsx"
+  },
+  {
+   "name": "【変更交付申請・金額等のみ変更する場合】令和７年度居宅介護支援事業所事務職員雇用支援補助金変更交付申請様式.xlsx"
+  },
+  {
+   "name": "【変更交付申請・年度途中で事務職員が変わった場合】令和７年度居宅介護支援事業所事務職員雇用支援補助金変更交付申請様式.xlsx"
+  }
+ ],
+ "institution_name": "居宅介護支援事業所事務職員雇用支援",
+ "_meta": {
+  "first_seen": "2025-08-31T15:00:00Z",
+  "fetched_at": "2026-09-21T13:12:58Z"
+ }
+}

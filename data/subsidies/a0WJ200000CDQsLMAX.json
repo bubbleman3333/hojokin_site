@@ -1,0 +1,46 @@
+{
+ "id": "a0WJ200000CDQsLMAX",
+ "name": "S-00006940",
+ "title": "令和７年度東京都介護支援専門員法定研修受講料補助金",
+ "subsidy_catch_phrase": "介護支援専門員法定研修受講料を事業所等が負担した場合、一部を補助します",
+ "detail": "<p><span style=\"color: rgb(255, 3, 3); font-size: 18px;\">交付申請は令和７年12月26日（金）締め切りです。</span></p><p><span style=\"color: rgb(255, 3, 3); font-size: 18px;\">実績報告は令和８年１月５日（月）から受付を開始します。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><strong style=\"color: rgb(0, 111, 173);\">　</strong>東京都内の介護保険施設及び事業所等において、介護支援専門員資格を活用する業務に従事する者が資格取得及び資格維持に必要な法定研修を受講する際に</p><p>当該受講料を事業所等が負担をする場合、これに係る受講料を補助することで、介護支援専門員の人材確保・定着を促進することを目的としています。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助金申請方法マニュアル：</strong><a href=\"https://kenshuu-jukouryou.rbl.co.jp/manual.pdf\" target=\"_blank\">manual.pdf</a></p><p><span style=\"color: rgb(68, 68, 68);\">　</span></p><p><strong style=\"color: rgb(0, 111, 173);\">﻿■問合せ先</strong></p><p><strong style=\"color: rgb(0, 111, 173);\">東京都介護保険課　03-5320-4279</strong></p><p><strong style=\"color: rgb(0, 111, 173);\">　</strong></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">　■Q＆A　制度概要：</strong><span style=\"color: rgb(2, 18, 28);\">東京都ホームページ</span></p><p><strong style=\"color: rgb(0, 111, 173);\"> </strong><a href=\"https://www.fukushi.metro.tokyo.lg.jp/kourei/hoken/kaigo_lib/care/kensyuuzyukouryouhozyo\" target=\"_blank\" style=\"color: rgb(0, 111, 173);\"><strong>介護支援専門員法定研修受講料補助事業|介護支援専門員(ケアマネジャー）関連情報|東京都福祉局</strong></a></p>",
+ "use_purpose": "人材育成を行いたい / 雇用・職場環境を改善したい",
+ "industry": "医療、福祉",
+ "target_area_search": "東京都",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "3/4",
+ "subsidy_max_limit": 0,
+ "acceptance_start_datetime": "2025-08-31T15:00:00Z",
+ "acceptance_end_datetime": "2026-03-20T14:59:00Z",
+ "project_end_deadline": null,
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDQsLMAX",
+ "application_guidelines": [
+  {
+   "name": "実施要綱.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "交付要綱 .pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "【実績報告】令和７年度介護支援専門員法定研修受講料補助金実績報告様式.xlsx"
+  },
+  {
+   "name": "【実績報告】要印刷・(様式別紙）確認書.xlsx"
+  },
+  {
+   "name": "【変更交付申請】令和７年度介護支援専門員法定研修受講料補助金変更交付申請様式.xlsx"
+  }
+ ],
+ "institution_name": "介護支援専門員研修受講料補助金",
+ "_meta": {
+  "first_seen": "2025-08-31T15:00:00Z",
+  "fetched_at": "2026-09-21T13:12:58Z"
+ }
+}

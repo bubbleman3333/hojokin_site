@@ -1,0 +1,40 @@
+{
+ "id": "a0WJ200000CDYajMAH",
+ "name": "S-00008853",
+ "title": "ステーブルコイン社会実装促進事業補助金",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的</strong></p><p><span style=\"font-size: 10.5pt;\"> </span><span style=\"font-size: 13px;\">本事業は、新しい決済インフラとして期待されるステーブルコイン（以下「SC」という。）の健全な市場形成を促進することを目的とする。東京都は、都民又は都内事業者が抱える社会課題の解決及び決済・送金の利便性向上を図るとともに、日本円建てSCの普及を通じて円ベースのデジタル経済圏の構築を促進し、日本円建てSCのプレゼンス向上にも資するSCのユースケースを創出する事業者に対して、当該事業の実施に要する経費の一部を補助することにより、SCの社会実装を後押しする。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象事業</strong></p><p><strong style=\"color: rgb(0, 111, 173);\">　</strong><span style=\"font-size: 13px;\">本補助金の交付対象となる事業は、資金決済に関する法律やその他関係法令を遵守した上で、実発行されたSCを活用し、ユースケースを創出する取組であって、原則として交付決定日の属する会計年度が終了する日までに実装又は検証が完了するものとする。なお、補助対象となるのは国内で発行された日本円建てSCを活用するユースケースであり、実装又は検証を実施する地域は都内を含むものとする。また、補助対象事業には国内でSCを発行する事業は含まれないが、第三者に国内でのSC発行を委託し、当該SCを活用してユースケースを創出する事業は含まれる。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■根拠法令</strong></p><p>・東京都補助金等交付規則（昭和37年東京都規則第141号）</p><p>・東京都補助金等交付規則の施行について（昭和37年12月11日付財主調発第20号）</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格（一部抜粋）</strong></p><p>（１）<span style=\"font-size: 13px;\">実発行されたSCを用いてユースケースを創出する事業者であり、補助対象事業の遂行に当たり免許、許可又は登録等が必要とされる場合には、関係法令に基づき、当該免許若しくは許可を受け、又は必要な登録等を完了している者</span><span style=\"font-size: 13px;\">。</span></p><p>（２）東京都内に登記簿上の本店又は支店があること。</p><p>（３）補助対象事業について、同一年度内に国や他自治体（東京都の他部署を含む）からの委託や助成を受けていないこと。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象経費</strong></p><p>（１）外部基盤利用経費</p><p>（２）専門家への相談及び監査等に発生する経費</p><p>（３）システム開発経費</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■交付申請受付期間</strong></p><p>本事業では以下の期間募集を行う。</p><p><span style=\"font-size: 13px;\">令和８年４月17日（金曜日）から令和８年６月30日（火曜日）まで</span></p><p><span style=\"font-size: 13px;\">※募集期間内において予算の限度額に達しなかった場合には、追加で受付を行うことがある。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p><span style=\"font-size: 13px;\">東京都 産業労働局 総務部 国際金融都市推進課</span> 国際金融都市推進担当</p><p>電話：０３－５３２０－６２７４</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><a href=\"https://www.sangyo-rodo.metro.tokyo.lg.jp/gfct/initiatives/nurturing-players/fintech/stablecoin\" target=\"_blank\" style=\"font-size: 12pt;\">https://www.sangyo-rodo.metro.tokyo.lg.jp/gfct/initiatives/nurturing-players/fintech/stablecoin</a></p>",
+ "use_purpose": "新たな事業を行いたい",
+ "industry": "分類不能の産業 / 金融業、保険業",
+ "target_area_search": "東京都",
+ "target_area_detail": "東京都",
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "2/3",
+ "subsidy_max_limit": 40000000,
+ "acceptance_start_datetime": "2026-04-17T05:00:00Z",
+ "acceptance_end_datetime": "2026-06-30T14:59:00Z",
+ "project_end_deadline": null,
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYajMAH",
+ "application_guidelines": [
+  {
+   "name": "募集要領_ステーブルコイン社会実装促進事業.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "交付要綱_ステーブルコイン社会実装促進事業.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "申請様式_ステーブルコイン社会実装促進事業.DOCX"
+  }
+ ],
+ "institution_name": "ステーブルコイン社会実装促進事業",
+ "_meta": {
+  "first_seen": "2026-04-17T05:00:00Z",
+  "fetched_at": "2026-09-21T13:12:58Z"
+ }
+}

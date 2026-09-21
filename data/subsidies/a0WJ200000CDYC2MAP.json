@@ -1,0 +1,36 @@
+{
+ "id": "a0WJ200000CDYC2MAP",
+ "name": "S-00008544",
+ "title": "中小企業等収益力向上（賃上げ環境整備）事業費補助金",
+ "subsidy_catch_phrase": "収益力の向上を目指す新たな取組を支援します！",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>中小企業者等の収益力向上と持続的発展を図り、賃上げの継続と成長を促進するため、経営環境の変化に対応し、</p><p>独自の技術やサービス展開を目指す取組を行う中小企業者等に対し、予算の範囲内において、補助金を交付します。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>中小企業等収益力向上（賃上げ環境整備）事業費補助金事務局</p><p>TEL：0570-056106</p><p>Mail：jimukyoku@shuekiryoku-chinage.jp</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><a href=\"https://www.ric-shizuoka.or.jp/keiei/shuekiryoku-chinage.html\" target=\"_blank\">https://www.ric-shizuoka.or.jp/keiei/shuekiryoku-chinage.html</a></p>",
+ "use_purpose": "新たな事業を行いたい / 販路拡大・海外展開をしたい / 研究開発・実証事業を行いたい / 雇用・職場環境を改善したい / 設備整備・IT導入をしたい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "静岡県",
+ "target_area_detail": null,
+ "target_number_of_employees": "900名以下",
+ "subsidy_rate": "1/2～２/3以内　※補助額や補助率は、枠や賃金引上げ要件の有無によって異なります。",
+ "subsidy_max_limit": 10000000,
+ "acceptance_start_datetime": "2026-06-01T01:00:00Z",
+ "acceptance_end_datetime": "2026-06-30T08:00:00Z",
+ "project_end_deadline": null,
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYC2MAP",
+ "application_guidelines": [
+  {
+   "name": "中小企業等収益力向上(賃上げ環境整備)事業費補助金公募要領.pdf"
+  }
+ ],
+ "outline_of_grant": [],
+ "application_form": [
+  {
+   "name": "応募様式一式.zip"
+  }
+ ],
+ "institution_name": "中小企業等収益力向上（賃上げ環境整備）事業費補助金",
+ "_meta": {
+  "first_seen": "2026-06-01T01:00:00Z",
+  "fetched_at": "2026-09-21T13:12:58Z"
+ }
+}

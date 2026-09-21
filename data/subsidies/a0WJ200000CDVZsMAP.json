@@ -1,0 +1,32 @@
+{
+ "id": "a0WJ200000CDVZsMAP",
+ "name": "S-00007366",
+ "title": "【令和７年度】介護ロボット・ICT導入支援事業費補助金（パッケージ型）",
+ "subsidy_catch_phrase": "介護テクノロジーのうち、「介護業務支援」に該当するテクノロジーと、そのテクノロジーと連動することで効果が高まると判断できるテクノロジー（通信環境整備に係る経費も支援対象に含む。）を導入する場合に、こちらから申請してください。",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>今後、介護サービスの需要が更に高まる一方、生産年齢人口が急速に減少していくことが見込まれる中で、介護人材の確保は喫緊の課題である。こうした状況を踏まえ、介護従事者の身体的負担の軽減や業務の効率化など、介護従事者が継続して就労するための環境整備など、職場環境の改善を図るため、介護サービス事業者が介護ロボットやＩＣＴ機器等の介護テクノロジーを導入するための経費に対し補助する。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■交付対象者</strong></p><p>・神奈川県内に所在する介護保険法に基づくサービスを提供する全てのサービス事業所（訪問介護事業所や居宅介護支援事業所を含む。）</p><p>・神奈川県内に所在する老人福祉法に基づく養護老人ホーム及び軽費老人ホーム</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助額</strong></p><p>・本事業に係る１事業所あたりの補助上限額は1,000万円ですが、交付要領の「４　事業内容の（３）導入支援と一体的に行う業務支援」のアを活用する場合、次のとおりです。</p><p>（例）「介護テクノロジー利用の重点分野」のうち、<span style=\"font-size: 12px; color: rgb(0, 0, 0);\">「介護業務支援」に該当する機器＋「見守り・コミュニケーション」</span>を導入したい。また、これに伴い、第三者から生産性向上のための支援を受けたい。</p><p>→<span style=\"font-size: 12px; color: rgb(0, 0, 0);\">「介護業務支援」に該当する機器＋「見守り・コミュニケーション」</span>機器導入に係る補助上限額…1,000万円＋第三者からの生産性向上のための支援に係る補助上限額…48万円＝最大1,048万円の補助</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■備考</strong></p><p>交付要領に記載している補助要件等を必ずご確認のうえ、申請してください。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>（委託先）株式会社CTI情報センター</p><p>電話番号：050-5527-2127</p><p><br></p><p><br></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p>神奈川県HP：<a href=\"https://www.pref.kanagawa.jp/docs/u6s/cnt/f420373/p1075201.html\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(11, 92, 171);\">https://www.pref.kanagawa.jp/docs/u6s/cnt/f420373/p1075201.html</a></p>",
+ "use_purpose": "雇用・職場環境を改善したい / 設備整備・IT導入をしたい",
+ "industry": "医療、福祉",
+ "target_area_search": "神奈川県",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "補助金上限額と対象経費の実支出額の５分の４を比較して少ない方の額",
+ "subsidy_max_limit": 10480000,
+ "acceptance_start_datetime": "2025-10-10T01:00:00Z",
+ "acceptance_end_datetime": "2025-10-24T08:00:00Z",
+ "project_end_deadline": "2026-03-31T14:45:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVZsMAP",
+ "application_guidelines": [],
+ "outline_of_grant": [
+  {
+   "name": "R7介護ロボット・ICT導入支援事業費補助金交付要領.pdf"
+  }
+ ],
+ "application_form": [],
+ "institution_name": "【神奈川県】令和7年度介護ロボット・ICT導入支援事業費補助",
+ "_meta": {
+  "first_seen": "2025-10-10T01:00:00Z",
+  "fetched_at": "2026-09-21T13:12:58Z"
+ }
+}

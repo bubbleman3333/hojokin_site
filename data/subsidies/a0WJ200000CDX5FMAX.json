@@ -1,0 +1,42 @@
+{
+ "id": "a0WJ200000CDX5FMAX",
+ "name": "S-00007856",
+ "title": "地域社会ＤＸ推進パッケージ事業（補助事業）",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>デジタル技術は、地域社会の生産性や利便性を飛躍的に高め、産業や生活の質を大きく向上させ、地域の</p><p>魅力を高める力を持っており、地方が直面する社会課題（人口減少や少子高齢化、産業空洞化等）の解決</p><p>の切り札となるだけではなく、新しい付加価値を生み出す源泉でもある。</p><p>このため、地方創生の取組を加速化・深化させていくためには、デジタルの力で地域の社会課題を解決し、全</p><p>国どこでも誰もが便利で快適に暮らせる社会を実現するため、デジタルインフラを急速に整備し、官民双方で地</p><p>方におけるデジタル・トランスフォーメーション（DX）を積極的に推進していく必要があるところ、本事業は、地方</p><p>公共団体や地域の企業・団体による無線ネットワーク設備などの整備を支援し、デジタル技術を活用して地域の</p><p>社会課題の解決を図る取組を促進することを目的として実施するものである。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■根拠法令</strong></p><p>（ここに補助金に紐づく根拠法令を入力して下さい。）</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p>地方公共団体、企業・団体など</p><p>ア 地方公共団体</p><p>地方公共団体については、複数の地方公共団体が連携して申請することも可能である。ただし、代表</p><p>する１つの団体において事業全体の遂行・経費管理などに関する責任を持ち、総務省から補助金の交</p><p>付を受けるものとする。</p><p>イ 企業・団体など</p><p>企業・団体などが実施主体となる場合については、地方公共団体を１以上含むコンソーシアムを形成</p><p>することを要件とする。詳細については、別紙４「情報通信技術利活用事業費補助金（一般会計）交付要</p><p>綱」（以下「交付要綱」という。）第４条第４項の規定に従うこと。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p><span style=\"font-size: 10pt;\">総務省 情報流通行政局 地域通信振興課 デジタル経済推進室</span></p><p><span style=\"font-size: 10pt;\">（担当：猿田、北村、鎌田）</span></p><p><span style=\"font-size: 10pt;\">電　話：03-5253-5758</span></p><p><span style=\"font-size: 10pt;\">E-mail：ict-town_atmark_ml.soumu.go.jp</span></p><p><span style=\"font-size: 10pt;\">※迷惑メール対策のため、「@」を「_atmark_」と表示しています。</span></p><p><span style=\"font-size: 10pt;\">送信の際には、「@」に変更してください。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><a href=\"https://www.soumu.go.jp/menu_seisaku/ictseisaku/ictriyou/digital_kiban/index.html\" target=\"_blank\">総務省｜ICT利活用の促進｜地域社会DX推進パッケージ事業</a></p>",
+ "use_purpose": "災害（自然災害、感染症等）支援がほしい / 安全・防災対策支援がほしい / まちづくり・地域振興支援がほしい / 教育・子育て・少子化支援がほしい",
+ "industry": "情報通信業",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "1/2",
+ "subsidy_max_limit": 0,
+ "acceptance_start_datetime": "2026-01-30T05:00:00Z",
+ "acceptance_end_datetime": "2026-02-27T03:00:00Z",
+ "project_end_deadline": null,
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDX5FMAX",
+ "application_guidelines": [
+  {
+   "name": "地域社会DX推進パッケージ事業実施要領.pdf"
+  }
+ ],
+ "outline_of_grant": [],
+ "application_form": [
+  {
+   "name": "11【様式１】企画提案書_全事業.pptx"
+  },
+  {
+   "name": "12【様式２ー１】申請者概要説明書_全事業（民間事業者など）.docx"
+  },
+  {
+   "name": "13【様式２ー２】申請者概要説明書_全事業（地方公共団体）.docx"
+  }
+ ],
+ "institution_name": "地域社会ＤＸ推進パッケージ事業",
+ "_meta": {
+  "first_seen": "2026-01-30T05:00:00Z",
+  "fetched_at": "2026-09-21T13:12:58Z"
+ }
+}

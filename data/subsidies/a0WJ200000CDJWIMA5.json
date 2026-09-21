@@ -1,0 +1,28 @@
+{
+ "id": "a0WJ200000CDJWIMA5",
+ "name": "S-00006007",
+ "title": "申請練習用補助金【補助金の支払いはありません】",
+ "subsidy_catch_phrase": "練習用ダミー補助金（代理申請可能）",
+ "detail": "<p><strong style=\"font-size: 24px; color: rgb(255, 34, 0);\">【</strong><strong style=\"font-size: 24px; color: rgb(255, 0, 0);\">この補助金は練習用であり、実際に補助金が支払われることはありません。</strong></p><p><strong style=\"font-size: 24px; color: rgb(255, 0, 0);\">ご本人名義での申請のほか、代理申請について何回でもお試しいただけます。</strong><strong style=\"font-size: 24px; color: rgb(255, 34, 0);\">】</strong></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"color: rgb(0, 0, 0);\">代理申請をテストしていただくための補助金です。</span></p><p><span style=\"color: rgb(0, 0, 0);\">Jグランツの申請機能や、代理申請機能をお試しいただくためのダミー補助金です。以下の、架空の補助金制度を題材にしています。</span></p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">（架空の補助金制度）</span></p><p><span style=\"color: rgb(0, 0, 0);\">・職場環境の改善のため、職場にウサギ小屋を整備しようとする法人に対し、ウサギの飼育頭数×5,000円の補助を行います。</span></p><p><span style=\"color: rgb(0, 0, 0);\">・また、ウサギの健康保険費用、チモシー代、衛生的な水飲み場の整備、ウサギの睡眠環境の整備も補助の対象となります。</span></p>",
+ "use_purpose": "新たな事業を行いたい",
+ "industry": "農業、林業",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "10%",
+ "subsidy_max_limit": 10000000,
+ "acceptance_start_datetime": "2025-03-07T10:00:00Z",
+ "acceptance_end_datetime": "2030-03-31T11:00:00Z",
+ "project_end_deadline": "2030-04-01T07:33:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDJWIMA5",
+ "application_guidelines": [],
+ "outline_of_grant": [],
+ "application_form": [],
+ "institution_name": "申請練習用制度【補助金の支払いはありません】",
+ "_meta": {
+  "first_seen": "2025-03-07T10:00:00Z",
+  "fetched_at": "2026-09-21T13:12:58Z"
+ }
+}

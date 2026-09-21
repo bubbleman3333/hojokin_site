@@ -1,0 +1,40 @@
+{
+ "id": "a0WJ200000CDXjIMAX",
+ "name": "S-00008159",
+ "title": "令和８年度　石油製品販売業構造改善対策事業費補助金（地域における新たな燃料供給体制構築支援事業のうち先進的技術開発等支援事業に係るもの）（執行団体公募）",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>本事業は、地域における新たな燃料供給体制の構築の推進、燃料の安定供給体制の確保を図ることを目的として、揮発油販売事業者等が行う技術開発・実証（以下「間接補助事業」という。）に要する経費に対して、当該経費を助成する事業を実施する民間団体等（以下「補助事業者」という。）に対して補助するものです。</p><p>（間接補助事業の内容は公募要領参照）</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p>本補助金の応募資格を有する民間団体等は、次の①～⑥までの全ての条件を満たすことのできる民間団体等とします。</p><p>①日本に拠点を有していること。</p><p>②本事業を的確に遂行する組織、人員等を有していること。</p><p>③本事業を円滑に遂行するために必要な経営基盤を有し、かつ、資金等について十分な管理能力を有していること。</p><p>④経済産業省からの補助金交付等停止措置又は指名停止措置が講じられている者ではないこと。</p><p>⑤経済産業省におけるＥＢＰＭ※に関する取組に協力すること。</p><p>⑥「暴力団排除に関する誓約事項」（１）～（４）に該当しないこと。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■備考</strong></p><p>その他、詳細は公募要領を参照ください。</p>",
+ "use_purpose": "新たな事業を行いたい / 研究開発・実証事業を行いたい",
+ "industry": "分類不能の産業",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "定額（10/10）",
+ "subsidy_max_limit": 303000000,
+ "acceptance_start_datetime": "2026-02-27T03:00:00Z",
+ "acceptance_end_datetime": "2026-03-19T03:00:00Z",
+ "project_end_deadline": "2027-03-31T14:45:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXjIMAX",
+ "application_guidelines": [
+  {
+   "name": "公募要領.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "交付要綱案.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "申請様式.docx"
+  }
+ ],
+ "institution_name": "石油製品販売業構造改善対策事業費補助金（地域における新たな燃料供給体制構築支援事業のうち先進的技術開発等支援事業に係るもの）",
+ "_meta": {
+  "first_seen": "2026-02-27T03:00:00Z",
+  "fetched_at": "2026-09-21T13:12:58Z"
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "id": "a0WJ200000CDXtLMAX",
+ "name": "S-00008293",
+ "title": "令和８年度「スマート保安実証支援事業費補助金（技術実証支援）」（執行団体公募）",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>（ここに目的・概要を入力して下さい。）</p><p><span style=\"font-size: 13px;\">本補助金は、保安の確保が不可欠である電力、ガス、コンビナート等の産業インフラについて、遠隔監視・制御、AIによる設備点検作業の自動化などスマート保安技術の実証を行う事業に係る経費に対して、補助事業者が、その費用負担を軽減するため当該費用の一部を民間事業者等に助成する事業に要する経費等を補助することにより、産業インフラの安全性・効率性を維持・向上を図り、将来にわたって国民の安全・安心を創り出すことを目的とするものです。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p>（ここに補助対象者・応募資格を入力して下さい。）</p><p><span style=\"font-size: 13px;\">公募要領に記載の応募資格の要件を満たす民間団体等とします。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>（ここに問合せ先を入力して下さい。）</p><p><span style=\"font-size: 13px;\">〒１００－８９０１　東京都千代田区霞が関１－３－１</span></p><p><span style=\"font-size: 13px;\">経済産業省　大臣官房産業保安・安全グループ　産業保安企画室</span></p><p><span style=\"font-size: 13px;\">bzl-sis-sinsei●meti.go.jp （●を＠に変えて送信してください）</span></p>",
+ "use_purpose": "研究開発・実証事業を行いたい / 人材育成を行いたい",
+ "industry": "製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 鉱業、採石業、砂利採取業",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "定額（10/10）",
+ "subsidy_max_limit": 100000000,
+ "acceptance_start_datetime": "2026-03-09T23:30:00Z",
+ "acceptance_end_datetime": "2026-04-01T06:00:00Z",
+ "project_end_deadline": "2027-03-31T14:45:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXtLMAX",
+ "application_guidelines": [
+  {
+   "name": "01公募要領.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "03交付要綱.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "02申請様式.docx"
+  }
+ ],
+ "institution_name": "令和８年度スマート保安実証支援事業費補助金",
+ "_meta": {
+  "first_seen": "2026-03-09T23:30:00Z",
+  "fetched_at": "2026-09-21T13:12:58Z"
+ }
+}

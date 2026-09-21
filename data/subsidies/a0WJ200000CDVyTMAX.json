@@ -1,0 +1,54 @@
+{
+ "id": "a0WJ200000CDVyTMAX",
+ "name": "S-00007490",
+ "title": "令和8年度 宮崎県産業DX推進事業費補助金（導入タイプ）",
+ "subsidy_catch_phrase": "宮崎県内事業者のデジタル化・ＤＸを推進します！",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■事業の目的</strong></p><p>県内の中小企業・小規模事業者を対象に、事業変革（ＤＸ）を見据え、既存業務の効率化・省力化のために市販パッケージなどのデジタル技術等の導入を支援します。</p><p>これにより、県内事業者のデジタル技術等の実装事例の拡大を図り、各産業分野に幅広く普及（横展開）していくことにより、本県産業のデジタル化・ＤＸの取組を推進することを目的とします。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象事業</strong></p><p>事業変革（ＤＸ）を見据え、既存業務の効率化・省力化のために市販パッケージなどのデジタル技術等の導入</p><p style=\"text-align: justify;\">（参考例）</p><p style=\"text-align: justify;\">・<span style=\"font-size: 7pt;\"> </span>給与管理システムや在庫管理システム、勤怠管理システム等のクラウドシステムの導入</p><p style=\"text-align: justify;\">・<span style=\"font-size: 7pt;\"> </span>サーバーのクラウド化</p><p style=\"text-align: justify;\">・<span style=\"font-size: 7pt;\"> </span>基幹システムとのAPI連携</p><p style=\"text-align: justify;\">・<span style=\"font-size: 7pt;\"> </span>AI-OCRやRPAを活用した文書事務の効率化</p><p style=\"text-align: justify;\"><span style=\"color: rgb(68, 68, 68);\">・</span>販売管理等のBIツールの導入 など</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象者</strong></p><p>宮崎県内に所在する中小企業・小規模事業者等で、募集要領に記載の要件を満たす者</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>一般社団法人　宮崎県情報産業協会　事務局　（株）宮崎県ソフトウェアセンター内</p><p>TEL：0985-30-5010</p><p>E-mail：info@misa45.jp</p>",
+ "use_purpose": "雇用・職場環境を改善したい / 設備整備・IT導入をしたい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 公務（他に分類されるものを除く） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "宮崎県",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "補助対象経費(税抜)の1/2",
+ "subsidy_max_limit": 2500000,
+ "acceptance_start_datetime": "2026-04-24T00:00:00Z",
+ "acceptance_end_datetime": "2026-06-12T14:59:00Z",
+ "project_end_deadline": "2027-01-31T14:59:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVyTMAX",
+ "application_guidelines": [
+  {
+   "name": "01_R8_産業DX推進事業費補助金(導入タイプ)募集要領.pdf"
+  }
+ ],
+ "outline_of_grant": [],
+ "application_form": [
+  {
+   "name": "00_申請書様式（一式）.xlsx"
+  },
+  {
+   "name": "01-1_様式第１号別紙１_誓約書.docx"
+  },
+  {
+   "name": "01-2_様式第１号別紙２_役員一覧.docx"
+  },
+  {
+   "name": "01-3_様式第１号別紙３_特徴申請書.docx"
+  },
+  {
+   "name": "01-4_様式第１号別紙４_同意書.docx"
+  },
+  {
+   "name": "01-5_様式第１号別紙５_見積理由書.docx"
+  },
+  {
+   "name": "01-6_様式第１号別紙６_端末取得理由書・誓約書.docx"
+  }
+ ],
+ "institution_name": "令和8年度 産業DX推進事業費補助金（導入タイプ）",
+ "_meta": {
+  "first_seen": "2026-04-24T00:00:00Z",
+  "fetched_at": "2026-09-21T13:12:58Z"
+ }
+}

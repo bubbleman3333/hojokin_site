@@ -1,0 +1,32 @@
+{
+ "id": "a0WJ200000CDY9gMAH",
+ "name": "S-00008518",
+ "title": "令和8年度省エネ型VOC排出削減設備導入促進事業",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"font-size: 12.8px;\">石油製品の値上がりへの対応として脱炭素の取組を強化するとともに、大気環境の更なる改善のため、光化学スモッグの原因のひとつであり石油系原材料の削減等に寄与できるＶＯＣ（揮発性有機化合物）対策設備やＶＯＣ削減装置付省エネ型空調・換気設備の導入に要する費用の一部を補助します。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p><span style=\"font-size: 12.8px;\">東京都内で次のいずれかの作業工程においてVOCを取扱う中小企業者等</span></p><p><span style=\"font-size: 12.8px;\">（ア）工場内塗装（工業塗装及び自動車板金塗装に限る。）</span></p><p><span style=\"font-size: 12.8px;\">（イ）印刷</span></p><p><span style=\"font-size: 12.8px;\">（ウ）ドライクリーニング</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p><span style=\"font-size: 12.8px;\">技術支援部　省エネ型VOC排出削減設備導入促進事業　ヘルプデスク</span></p><p><span style=\"font-size: 12.8px;\">TEL：03₋3633-2282（受付時間　平日9:00～12:00　13:00～17:00）</span></p><p><span style=\"font-size: 12.8px;\">E-mail：kaizen-voc@tokyokankyo.jp</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><a href=\"https://www.tokyokankyo.jp/apply/voc/\" target=\"_blank\">https://www.tokyokankyo.jp/apply/voc/</a></p>",
+ "use_purpose": "設備整備・IT導入をしたい",
+ "industry": "サービス業（他に分類されないもの） / 分類不能の産業",
+ "target_area_search": "東京都",
+ "target_area_detail": "補助対象設備の設置場所が東京都内に限る",
+ "target_number_of_employees": "300名以下",
+ "subsidy_rate": "補助対象経費の2/3（上限2,000万円/台）",
+ "subsidy_max_limit": 20000000,
+ "acceptance_start_datetime": "2026-04-01T00:00:00Z",
+ "acceptance_end_datetime": "2027-03-31T08:00:00Z",
+ "project_end_deadline": null,
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY9gMAH",
+ "application_guidelines": [],
+ "outline_of_grant": [],
+ "application_form": [
+  {
+   "name": "voc_r8_youshiki_2608.xlsx"
+  }
+ ],
+ "institution_name": "省エネ型VOC排出削減設備導入促進事業",
+ "_meta": {
+  "first_seen": "2026-04-01T00:00:00Z",
+  "fetched_at": "2026-09-21T13:12:58Z"
+ }
+}

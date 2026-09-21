@@ -33,6 +33,16 @@ def norm_dt(value: str | None) -> str | None:
     return value
 
 
+ATTACHMENT_KEYS = ("application_guidelines", "outline_of_grant", "application_form")
+
+
+def strip_attachments(detail: dict) -> None:
+    """添付ファイル（公募要領などの PDF）は base64 の中身が丸ごと入っていて 1 件で数十 MB になるので、名前だけ残す。"""
+    for key in ATTACHMENT_KEYS:
+        items = detail.get(key) or []
+        detail[key] = [{"name": it.get("name")} for it in items if isinstance(it, dict)]
+
+
 def _session() -> requests.Session:
     s = requests.Session()
     s.headers["User-Agent"] = "hojokin-watch/1.0 (static site generator)"
@@ -110,6 +120,7 @@ def sync(data_dir: Path = DATA_DIR, keywords=KEYWORDS, sleep: float = 0.3, limit
         detail = fetch_detail(session, sid)
         if detail is None:
             continue
+        strip_attachments(detail)
         for key in ("acceptance_start_datetime", "acceptance_end_datetime", "project_end_deadline"):
             detail[key] = norm_dt(detail.get(key))
         # 一覧にしか無い項目は一覧から補う

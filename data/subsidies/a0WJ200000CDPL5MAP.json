@@ -1,0 +1,40 @@
+{
+ "id": "a0WJ200000CDPL5MAP",
+ "name": "S-00006768",
+ "title": "フィンテック産業における協業基盤整備支援事業補助金",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的</strong></p><p>本<span style=\"font-size: 12.8px;\">事業は、フィンテック企業が金融事業者等と協業する際、</span><u style=\"font-size: 12.8px;\">協業先から求められるガバナンス体制やセキュリティ等の要件やその対応に活用できるノウハウ等の情報</u><span style=\"font-size: 12.8px;\">（下線部について、以下「要件等」という。）を集約し発信することで、両者の協業を促進し、オープンイノベーションを通じた金融のデジタル化を推進することを目的とする。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象事業</strong></p><p><strong style=\"color: rgb(0, 111, 173);\">　</strong><span style=\"font-size: 12.8px;\">本補助金の交付対象となる事業は、フィンテック企業が金融事業者等と協働する際に求められる要件等を集約し、解説集やマニュアル等の成果物（以下「解説集等」という）にまとめ、発信する取組であり、かつ本事業の補助金の交付決定日以降で令和９年３月31 日までに実施する取組とする。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■根拠法令</strong></p><p>・東京都補助金等交付規則（昭和37年東京都規則第141号）</p><p>・東京都補助金等交付規則の施行について（昭和37年12月11日付財主調発第20号）</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格（一部抜粋）</strong></p><p>（１）<span style=\"font-size: 12.8px;\">フィンテック企業や金融事業者等の協業に必要となる要件等に関する情報収集や分析等を通じて解説集等を作成し、対外的に発信することで、その普及を図る者。</span></p><p>（２）東京都内に登記簿上の本店又は支店があること。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象経費</strong></p><p>（１）<span style=\"font-size: 12.8px;\">解説集等の作成経費</span></p><p>（２）プロモーション経費</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■交付申請受付期間</strong></p><p>以下のとおり募集を行う。</p><p>第１期：令和８年４月８日（水曜日）から令和８年７月17日（金曜日）</p><p>第２期：令和８年７月21日（火曜日）から令和８年９月11日（金曜日）</p><p>第３期：令和８年９月14日（月曜日）から令和９年１月29日（金曜日）</p><p>※ 年度途中で本事業に係る予算限度額に達した場合、第２期又は第３期の受付は行わない。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>東京都産業労働局 総務部 国際金融都市推進課 国際金融都市推進担当</p><p>電話：03-5320-6274</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p>https://www.sangyo-rodo.metro.tokyo.lg.jp/gfct/initiatives/nurturing-players/fintech/collaboration</p>",
+ "use_purpose": "新たな事業を行いたい",
+ "industry": "分類不能の産業 / 金融業、保険業",
+ "target_area_search": "東京都",
+ "target_area_detail": "東京都",
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "1/2",
+ "subsidy_max_limit": 10000000,
+ "acceptance_start_datetime": "2026-04-08T05:00:00Z",
+ "acceptance_end_datetime": "2026-07-17T15:00:00Z",
+ "project_end_deadline": "2027-03-31T15:00:00Z",
+ "request_reception_presence": "無",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDPL5MAP",
+ "application_guidelines": [
+  {
+   "name": "②募集要領.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "①交付要綱.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "③提出様式.DOCX"
+  }
+ ],
+ "institution_name": "フィンテック産業における協業基盤整備支援事業",
+ "_meta": {
+  "first_seen": "2026-04-08T05:00:00Z",
+  "fetched_at": "2026-09-21T13:12:58Z"
+ }
+}

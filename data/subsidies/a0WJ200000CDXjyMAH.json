@@ -1,0 +1,28 @@
+{
+ "id": "a0WJ200000CDXjyMAH",
+ "name": "S-00008170",
+ "title": "【福井県】電気自動車用充電インフラ整備促進事業補助金",
+ "subsidy_catch_phrase": "福井県内の商業・宿泊施設等へのEV充電器導入を支援！最大150万円の補助金",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>本補助金は、福井県の運輸部門における温室効果ガス排出量の削減を図るため、電気自動車等（EV・PHV）の普及に不可欠な充電設備の導入を支援するものです。不特定多数の者が利用できる商業施設や宿泊施設等において、EV用充電設備（急速・普通）を導入する際、その経費の一部（購入費および工事費）を補助します。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■根拠法令</strong></p><p>福井県補助金等交付規則（昭和46年福井県規則第20号）およびエネルギー環境部エネルギー課所管補助金等交付要綱</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p>以下のいずれかに該当し、かつ県税に未納がないこと等が要件となります。</p><p>1. 個人事業者</p><p>2. 法人（国、県、地方公共団体、独立行政法人は除く）</p><p>3. 上記の者とリース契約を締結したリース事業者</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■地理条件</strong></p><p>福井県内に設置されるものであること</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■備考</strong></p><p>• 対象設備: 急速充電設備（定格出力90kW未満）、蓄電池付急速充電設備、普通充電設備（コンセントおよびコンセントスタンドは除く）が対象です。</p><p>• 利用条件: 公道に面した入口から誰もが自由に出入りでき、利用者を限定せず一般開放することが必要です。</p><p>• 併用: 基本的に国の補助金（経済産業省補助金）との併用が想定されていますが、国補助金終了時などは単独申請も可能です。</p><p>• 予算: 申請受付は先着順であり、予算上限に達した時点で受付が終了します。</p><p><span style=\"font-size: 12.8px;\">• </span>補助金上限額: 急速充電設備：150万円 ／ 普通充電設備：15万円</p><p><span style=\"font-size: 12.8px;\">• </span>補助率: 1/2（国の補助金確定額または相当額に対して） ※ただし、国補助金と合わせて総事業費の最大3/4を超えない範囲とする</p><p><span style=\"font-size: 12.8px;\">• 嶺南地域にお住いの場合、さらに最大50万円を上乗せ</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>福井県庁 エネルギー環境部 エネルギー課 新エネルギーグループ 〒910-8580 福井県福井市大手3丁目17-1</p><p>電話番号：0776-20-0302</p><p>メール：energy@pref.fukui.lg.jp</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><a href=\"https://www.pref.fukui.lg.jp/doc/dengen/shin-energy/jyuden.html\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.pref.fukui.lg.jp/doc/dengen/shin-energy/jyuden.html</a></p>",
+ "use_purpose": "設備整備・IT導入をしたい / エコ・SDGs活動支援がほしい",
+ "industry": "複合サービス事業 / サービス業（他に分類されないもの） / 卸売業、小売業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業",
+ "target_area_search": "福井県",
+ "target_area_detail": "福井県全域（県内に設置すること）",
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "1/2（国の補助金確定額または相当額に対して） ※ただし、国補助金と合わせて総事業費の最大3/4を超えない範囲とする",
+ "subsidy_max_limit": 1500000,
+ "acceptance_start_datetime": "2026-04-16T15:00:00Z",
+ "acceptance_end_datetime": "2026-12-25T14:59:00Z",
+ "project_end_deadline": null,
+ "request_reception_presence": "無",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXjyMAH",
+ "application_guidelines": [],
+ "outline_of_grant": [],
+ "application_form": [],
+ "institution_name": "【福井県】電気自動車用充電インフラ整備促進事業補助金",
+ "_meta": {
+  "first_seen": "2026-04-16T15:00:00Z",
+  "fetched_at": "2026-09-21T13:12:58Z"
+ }
+}

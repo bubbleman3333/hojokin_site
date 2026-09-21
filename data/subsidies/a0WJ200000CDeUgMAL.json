@@ -1,0 +1,48 @@
+{
+ "id": "a0WJ200000CDeUgMAL",
+ "name": "S-00009792",
+ "title": "令和8年度東京都臨床調査個人票電子化等推進事業補助金",
+ "subsidy_catch_phrase": "難病指定医等が勤務する医療機関が行う臨床調査個人票のオンライン化に対応するために、必要な業務システムの改修及びその他環境整備を支援",
+ "detail": "<p><span style=\"color: rgb(0, 111, 173);\">【目的・概要】</span></p><p class=\"ql-indent-1\"><span style=\"color: rgb(0, 111, 173);\">&lt;目的&gt;</span>現在国は、医療機関、自治体及び国で共通のデータベースを構築することで、</p><p class=\"ql-indent-1\">小児慢性特定疾病医療費助成及び難病医療費助成の診断書のオンライン</p><p class=\"ql-indent-1\">化を進めている。臨床調査個人票のオンライン化に対応するために必要な</p><p class=\"ql-indent-1\">業務システムの改修及びその他環境整備に係る経費について支援をすることで、</p><p class=\"ql-indent-1\">難病医療費助成事務の効率化を図る。</p><p class=\"ql-indent-1\"> </p><p class=\"ql-indent-1\"><span style=\"color: rgb(0, 111, 173);\">&lt;対象経費&gt;</span>パソコンの購入経費、インターネット回線の敷設工事費等</p><p class=\"ql-indent-1\">          ※詳細については、「交付申請にあたっての留意事項」をお読みください。</p><p class=\"ql-indent-1\"> </p><p class=\"ql-indent-1\"><span style=\"color: rgb(0, 111, 173);\">&lt;基準額及び補助率&gt;</span></p><p class=\"ql-indent-1\"><span style=\"color: rgb(24, 24, 24); font-size: 14px;\">・基準額：１医療機関当たり10万円</span></p><p class=\"ql-indent-1\"><span style=\"color: rgb(24, 24, 24); font-size: 14px;\">・補助率：2分の１</span></p><p class=\"ql-indent-1\"><span style=\"color: rgb(24, 24, 24); font-size: 14px;\">※補助上限額は、１医療機関あたり5万円になります。</span></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 14px;\"> </strong></p><p><span style=\"color: rgb(0, 111, 173);\">【応募資格】</span></p><p class=\"ql-indent-1\"><span style=\"color: rgb(24, 24, 24); font-size: 14px;\">・難病の患者に対する医療等に関する法律施行規則第15条第1項第1号に規定する、難病指定医及び同項第2 号に規定する協力難病指定医が勤務する、医療法（昭和23 年法律第205 号）第７条の規定に基づき許可を受けた病院及び診療所、並びに同法第８条の規定に基づき届出をした診療所であって、東京都知事が必要かつ適当であると認めるもの。</span></p><p class=\"ql-indent-1\"><span style=\"color: rgb(24, 24, 24); font-size: 14px;\">※過去に同補助金の交付を受けた場合は、対象外です。</span></p><p class=\"ql-indent-1\"><span style=\"color: rgb(24, 24, 24); font-size: 14px;\">※「東京都小児慢性特定疾病医療費意見書オンライン登録システム環境整備事業費補助金」との重複申請は認められません。</span></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 14px;\"> </strong></p><p><span style=\"color: rgb(0, 111, 173);\">【問合せ先】</span></p><p class=\"ql-indent-1\"><span style=\"color: rgb(24, 24, 24); font-size: 14px;\">東京都保健医療局保健政策部疾病対策課疾病対策担当</span></p><p class=\"ql-indent-1\"><span style=\"color: rgb(24, 24, 24); font-size: 14px;\">電話番号：03-5320-4471</span></p><p class=\"ql-indent-1\"><span style=\"color: rgb(24, 24, 24); font-size: 14px;\">※問合わせの際は、下記「手続きの流れについて」「交付</span><span style=\"font-size: 14px;\">申請にあたっての留意事項」</span></p><p class=\"ql-indent-1\"><span style=\"color: rgb(24, 24, 24); font-size: 14px;\">　を必ずご確認いただきますようお願いいたします。</span></p><p class=\"ql-indent-1\"><strong style=\"color: rgb(24, 24, 24); font-size: 14px;\"> </strong></p><p><span style=\"color: rgb(0, 111, 173);\">【参照URL】</span></p><p><span style=\"color: rgb(24, 24, 24); font-size: 14px;\">https://www.hokeniryo.metro.tokyo.lg.jp/kenkou/nanbyo/portal/shiteikikan/kikan-oshirase</span></p>",
+ "use_purpose": "設備整備・IT導入をしたい",
+ "industry": "医療、福祉",
+ "target_area_search": "東京都",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "助金の額は、別表に定める基準額と対象経費の実支出額から、寄付金その他の収 入額を控除した額を比較して少ない方の額を補助基本額とし、補助基本額に別表に定める 補助率を乗じて得た額とする。",
+ "subsidy_max_limit": 50000,
+ "acceptance_start_datetime": "2026-09-14T15:00:00Z",
+ "acceptance_end_datetime": "2026-11-15T14:59:00Z",
+ "project_end_deadline": "2027-05-30T15:00:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeUgMAL",
+ "application_guidelines": [],
+ "outline_of_grant": [
+  {
+   "name": "東京都臨床調査個人票電子化等推進事業補助金交付要綱.pdf"
+  },
+  {
+   "name": "基準表.xlsx"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "（別記第１号別紙１）補助金所要額調書.xlsx"
+  },
+  {
+   "name": "（別記第１号別紙２）補助金内訳書.xlsx"
+  },
+  {
+   "name": "（別記第３号別紙１）補助金実績報告書.xlsx"
+  },
+  {
+   "name": "（別記第３号別紙２）補助金内訳書.xlsx"
+  }
+ ],
+ "institution_name": "東京都臨床調査個人票電子化等推進事業補助金",
+ "_meta": {
+  "first_seen": "2026-09-14T15:00:00Z",
+  "fetched_at": "2026-09-21T13:10:42Z"
+ }
+}

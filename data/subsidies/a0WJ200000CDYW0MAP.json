@@ -1,0 +1,28 @@
+{
+ "id": "a0WJ200000CDYW0MAP",
+ "name": "S-00008788",
+ "title": "岡崎市創業資金保証料補助金",
+ "subsidy_catch_phrase": "岡崎市での新たなチャレンジを応援！創業時の信用保証料負担を軽減します",
+ "detail": "<p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"font-size: 16px;\">市内で創業されるかた（または創業して間もないかた）で、創業に係る融資（愛知県経済環境適応資金創業等支援資金）を受けたかたに対して、支払った信用保証料の一部を補助する制度です。</span></p><p><br></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■応募資格</strong></p><p><span style=\"font-size: 16px;\">愛知県経済環境適応資金（創業等支援資金）を利用して創業したかた（または創業して間もないかた）であり、かつ、岡崎市内に住所（本店）及び主たる事業所があるかたが対象です。</span></p><p><br></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■地理条件</strong></p><p><span style=\"font-size: 16px;\">愛知県岡崎市</span></p><p><br></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■備考</strong></p><p><span style=\"font-size: 16px;\">・同一年度の申請は1回限りです。</span></p><p><span style=\"font-size: 16px;\">・借換を含む場合は、按分により借換額分に相当する金額が対象から控除されます。</span></p><p><span style=\"font-size: 16px;\">・申請期限は融資実行日から60日以内（補助金の対象となる自動車購入資金を含む場合は、車両登録から60日以内）です。</span></p><p><br></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■問合せ先</strong></p><p><span style=\"font-size: 16px;\">岡崎市 商工労政課労政金融係（金融担当）</span></p><p><span style=\"font-size: 16px;\">電話番号：0564-23-6214・6351</span></p><p><span style=\"font-size: 16px;\">ファクス番号：0564-23-6213</span></p><p><br></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■参照URL</strong></p><p><a href=\"https://www.city.okazaki.lg.jp/business/sangyo/1005391/1005392.html\" target=\"_blank\" style=\"font-size: 16px;\">https://www.city.okazaki.lg.jp/business/sangyo/1005391/1005392.html</a></p>",
+ "use_purpose": "資金繰りを改善したい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "愛知県",
+ "target_area_detail": "岡崎市",
+ "target_number_of_employees": "300名以下",
+ "subsidy_rate": "当該融資に係る保証料の45％の額",
+ "subsidy_max_limit": 200000,
+ "acceptance_start_datetime": "2026-03-31T15:00:00Z",
+ "acceptance_end_datetime": "2027-03-31T14:59:00Z",
+ "project_end_deadline": null,
+ "request_reception_presence": "無",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYW0MAP",
+ "application_guidelines": [],
+ "outline_of_grant": [],
+ "application_form": [],
+ "institution_name": "岡崎市創業資金保証料補助金",
+ "_meta": {
+  "first_seen": "2026-03-31T15:00:00Z",
+  "fetched_at": "2026-09-21T13:12:58Z"
+ }
+}

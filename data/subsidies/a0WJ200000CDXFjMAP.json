@@ -1,0 +1,73 @@
+{
+ "id": "a0WJ200000CDXFjMAP",
+ "name": "S-00007958",
+ "title": "地上基幹放送等に関する耐災害性強化支援事業（令和８年度公募）",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>総務省では、地上基幹放送等の放送局等の停電対策や予備設備の整備を行う地方公共団体、民間テレビ・ラジオ放送事業者等に対して、その整備費用の一部補助を行います。</p><p>本事業は、大規模な自然災害が発生した際に、放送局等が被災し、放送の継続が不可能となる事態を回避し、被災情報や避難情報等の重要な情報を確実に提供することを目的とするものです。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■根拠法令</strong></p><p><span style=\"font-size: 12px;\">　電波法附則第15項による読み替え後の電波法第103条の２第４項第12号の４</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p><span style=\"font-size: 12px;\">　地上基幹放送事業者、地方公共団体等</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象</strong></p><p>①停電対策、②予備設備の整備、③耐震対策</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 12.8px;\">　</strong><span style=\"color: rgb(51, 51, 51); font-size: 12.8px;\">総務省情報流通行政局放送施設整備促進課（03-5253-5949）</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><a href=\"https://www.soumu.go.jp/menu_seisaku/ictseisaku/housou_suishin/hosonet_kyojinka04.html\" target=\"_blank\">https://www.soumu.go.jp/menu_seisaku/ictseisaku/housou_suishin/hosonet_kyojinka04.html</a></p>",
+ "use_purpose": "安全・防災対策支援がほしい",
+ "industry": "情報通信業",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "地方公共団体等　１／２、地上基幹放送事業者等　１／３、受信障害対策用中継局に係る事業を実施する場合において、条件不利地域かつ財政力指数０．５以下の市町村　２／３",
+ "subsidy_max_limit": 0,
+ "acceptance_start_datetime": "2026-01-30T05:00:00Z",
+ "acceptance_end_datetime": "2027-03-31T05:00:00Z",
+ "project_end_deadline": null,
+ "request_reception_presence": "無",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXFjMAP",
+ "application_guidelines": [
+  {
+   "name": "公募要領（地上基幹放送等に関する耐災害性強化支援事業）v4.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "01 無線システム普及支援事業費等補助金交付要綱_R8.1（本体）.pdf"
+  },
+  {
+   "name": "02 無線システム普及支援事業費等補助金交付要綱_R8.1（様式）.pdf"
+  },
+  {
+   "name": "03 無線システム普及支援事業費等補助金交付要綱_R8.1（補足事項）.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "00_公募申請書.doc"
+  },
+  {
+   "name": "01 様式第1号 交付申請書.docx"
+  },
+  {
+   "name": "11 別紙1第16（様式）.docx"
+  },
+  {
+   "name": "20_整備計画書.docx"
+  },
+  {
+   "name": "20-1_契約予定内容に関する調査票.docx"
+  },
+  {
+   "name": "30_見積書記載例.xlsx"
+  },
+  {
+   "name": "40_工事概要書.docx"
+  },
+  {
+   "name": "80_口座設置届出書（様式）.doc"
+  },
+  {
+   "name": "90_申請確約書（記入例）.doc"
+  },
+  {
+   "name": "99_整備計画書（記入例）.docx"
+  }
+ ],
+ "institution_name": "地上基幹放送等に関する耐災害性強化支援事業",
+ "_meta": {
+  "first_seen": "2026-01-30T05:00:00Z",
+  "fetched_at": "2026-09-21T13:12:58Z"
+ }
+}

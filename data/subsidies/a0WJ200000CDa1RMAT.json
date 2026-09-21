@@ -1,0 +1,55 @@
+{
+ "id": "a0WJ200000CDa1RMAT",
+ "name": "S-00009261",
+ "title": "令和８年度における都型放課後等デイサービス事業補助金",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>こども家庭庁が策定した「放課後等デイサービスガイドライン」で定める支援を基本に、質の高いサービスの実施を推進するため、都型放課後等デイサービス事業の実施に当たっての必要な事項を定め、サービスの向上に取り組むことを目的とする。 </p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■根拠法令</strong></p><p>都型放課後等デイサービス事業補助金実施要綱</p><p>都型放課後等デイサービス事業補助金実施要領</p><p>都型放課後等デイサービス事業補助金交付要綱</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p> この事業の補助対象者は、実施要綱の要件を満たし、都型放課後等デイサービス事業を実施する事業者とする。 </p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■地理条件</strong></p><p>東京都内</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助額上限</strong></p><p>補助額上限（基本補助） 【月額】Ⅰ型：443,200円　Ⅱ型：395,200円　Ⅲ型：347,200円　Ⅳ型：167,680円　Ⅴ型：119,680円　Ⅵ型：71,680円</p><p>補助額上限（第3者評価） 600,000円</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>【局・部・課名】 福祉局障害者施策推進部療育課障害児通所支援担当</p><p>【電話番号】 03-5320-4380</p><p>【メールアドレス】<span style=\"font-size: 13px;\"> </span><span style=\"font-size: 13px;\">syougaijidou-togata01@section.metro.tokyo.jp</span></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><a href=\"https://www.shougaifukushi.metro.tokyo.lg.jp/Lib/LibDspCatego.php?catid=108\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(17, 85, 204); font-size: 14.6667px;\">https://www.shougaifukushi.metro.tokyo.lg.jp/Lib/LibDspCatego.php?catid=108</a></p>",
+ "use_purpose": "新たな事業を行いたい",
+ "industry": "医療、福祉",
+ "target_area_search": "東京都",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "10/10",
+ "subsidy_max_limit": 443200,
+ "acceptance_start_datetime": "2026-07-01T00:00:00Z",
+ "acceptance_end_datetime": "2027-01-28T15:00:00Z",
+ "project_end_deadline": null,
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDa1RMAT",
+ "application_guidelines": [
+  {
+   "name": "令和8年度実施要綱・実施要領.zip"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "都型放課後等デイサービス事業補助金交付要綱.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "02_【事業所名を記入してください】勤務形態一覧（交付申請）_別記第1号様式３別添.xlsx"
+  },
+  {
+   "name": "03_【事業所名を記入してください】都型放デイ補助交付申請書類（計算式有）（R8）.xlsx"
+  },
+  {
+   "name": "05_令和8年度都型放課後等制サービス事業実施通知.pdf"
+  },
+  {
+   "name": "04_収支予算書（都型参考様式）.xlsx"
+  },
+  {
+   "name": "06_令和8年度申請書提出期限.pdf"
+  },
+  {
+   "name": "01 _【事業所名を記入してください】事業計画書書式.xlsx"
+  }
+ ],
+ "institution_name": "都型放課後等デイサービス事業",
+ "_meta": {
+  "first_seen": "2026-07-01T00:00:00Z",
+  "fetched_at": "2026-09-21T13:10:42Z"
+ }
+}

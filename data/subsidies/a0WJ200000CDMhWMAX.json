@@ -1,0 +1,64 @@
+{
+ "id": "a0WJ200000CDMhWMAX",
+ "name": "S-00006494",
+ "title": "令和７年度東京港物流効率化等事業補助金",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><strong style=\"font-size: 14px; color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"font-size: 14px;\">　東京港では、東京港の物流効率化や環境負荷軽減を図るため、海上コンテナの国内輸送において、トラックから船舶や鉄道による輸送へとモーダルシフトを行う民間事業者に対する支援を行っています。</span></p><p><span style=\"font-size: 14px;\">　モーダルシフトは物流の2024年問題によるトラックドライバー不足に加え、輸送分野の脱炭素化を図るための対策としても有効であることから、令和６年度から補助制度を拡充しています。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 14px;\">■補助額</strong></p><p><span style=\"font-size: 14px;\">①フィーダー輸送事業：</span></p><p><span style=\"font-size: 14px;\">（実入り）1FEU当たり　3,000円</span></p><p><span style=\"font-size: 14px;\">（空）1FEU当たり：2,000円</span></p><p><span style=\"font-size: 14px;\">②はしけ横持輸送事業：</span></p><p><span style=\"font-size: 14px;\">（実入り）1FEU当たり　2,000円</span></p><p><span style=\"font-size: 14px;\">（空）1FEU当たり　1,000円</span></p><p><span style=\"font-size: 14px;\">③港内横持輸送事業（船舶）：</span></p><p><span style=\"font-size: 14px;\">海上コンテナ1本当たり　10,000円</span></p><p><span style=\"font-size: 14px;\">④港内横持輸送事業（鉄道）：</span></p><p><span style=\"font-size: 14px;\">海上コンテナ1本当たり　2,000円</span></p><p><span style=\"font-size: 14px;\">⑤鉄道コンテナ詰替輸送事業：</span></p><p><span style=\"font-size: 14px;\">（12ft鉄道コンテナ）：5,000円</span></p><p><span style=\"font-size: 14px;\">（20ft以上鉄道コンテナ）：10,000円</span></p><p><span style=\"font-size: 14px;\">※ただし、海上コンテナ1FEU当たり12ft鉄道コンテナ4本相当（20,000円）を上限とする。</span></p><p><br></p><p><strong style=\"font-size: 14px; color: rgb(0, 111, 173);\">■ホームページ</strong></p><p><a href=\"https://www.kouwan.metro.tokyo.lg.jp/business/user/hojyo\" target=\"_blank\">https://www.kouwan.metro.tokyo.lg.jp/business/user/hojyo</a></p>",
+ "use_purpose": "イベント・事業運営支援がほしい",
+ "industry": "運輸業、郵便業",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": null,
+ "subsidy_max_limit": 272000000,
+ "acceptance_start_datetime": "2025-04-13T15:00:00Z",
+ "acceptance_end_datetime": "2026-03-30T15:00:00Z",
+ "project_end_deadline": "2026-03-30T15:00:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDMhWMAX",
+ "application_guidelines": [
+  {
+   "name": "令和７年度東京港物流効率化等事業補助金実施要領.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "令和７年度東京港物流効率化等事業補助金交付要綱.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "別記第１号様式 申請書.docx"
+  },
+  {
+   "name": "別記第１号様式 別紙（貨物情報・CFS情報）.xlsx"
+  },
+  {
+   "name": "別記第２号様式 誓約書.docx"
+  },
+  {
+   "name": "別記第４号様式 変更・中止承認申請書.docx"
+  },
+  {
+   "name": "別記第６号様式 実績報告書.xlsx"
+  },
+  {
+   "name": "別記第７号様式 最終輸送実績報告書.docx"
+  },
+  {
+   "name": "別記第９号様式 請求書.docx"
+  },
+  {
+   "name": "委任状.docx"
+  },
+  {
+   "name": "委任状（記載例）.pdf"
+  }
+ ],
+ "institution_name": "令和７年度東京港物流効率化等事業補助金",
+ "_meta": {
+  "first_seen": "2025-04-13T15:00:00Z",
+  "fetched_at": "2026-09-21T13:12:58Z"
+ }
+}

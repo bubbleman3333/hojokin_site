@@ -1,0 +1,40 @@
+{
+ "id": "a0WJ200000CDYs1MAH",
+ "name": "S-00009099",
+ "title": "令和8年度_アイヌ中小企業振興対策事業費補助金",
+ "subsidy_catch_phrase": "アイヌ補助金",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>本事業は、アイヌ中小企業の産業振興を目的として、アイヌ民工芸品に関して、①販路拡大を支援するための展示・販売会開催支援事業、②民工芸品制作技術の向上を図るための技術研修支援事業を実施することにより、小規模・零細、かつ、家内工業的な規模の事業者が多いアイヌ中小企業・小規模事業者の経営基盤の強化を図ることとしています。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象者</strong></p><p>「民間事業者等」であって、アイヌ民工芸品に関する知見を持っている事業者。なお、「民間事業者等」とは、国及び地方公共団体を除く企業又は団体で、定款等により代表者、活動内容及び財産管理方法等について確認できる者をいいます。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■事業の対象者</strong></p><p>北海道に居住するアイヌ民工芸品制作者を事業の対象者としてください。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>住所：〒１００－８９１２　東京都千代田区霞が関１－３－１</p><p>部署：中小企業庁 事業環境部 財務課（担当：大光・伊東）</p><p>電話：０３－３５０１－５８０３、ＦＡＸ：０３－３５０１－６８６８</p><p>E-MAIL：bzl-zaimuka-jinkenhan@meti.go.jp</p>",
+ "use_purpose": "新たな事業を行いたい / 販路拡大・海外展開をしたい / イベント・事業運営支援がほしい / 人材育成を行いたい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 公務（他に分類されるものを除く） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "北海道",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "補助対象経費の1／2以内",
+ "subsidy_max_limit": 7165000,
+ "acceptance_start_datetime": "2026-05-13T06:00:00Z",
+ "acceptance_end_datetime": "2026-06-04T08:00:00Z",
+ "project_end_deadline": "2027-03-31T14:59:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYs1MAH",
+ "application_guidelines": [
+  {
+   "name": "01_公募要領（R８アイヌ補助金）.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "交付要綱_アイヌ中小企業振興対策事業費補助金.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "02_公募申請書等の様式（R8アイヌ補助金）.docx"
+  }
+ ],
+ "institution_name": "アイヌ中小企業振興対策事業費補助金",
+ "_meta": {
+  "first_seen": "2026-05-13T06:00:00Z",
+  "fetched_at": "2026-09-21T13:12:58Z"
+ }
+}

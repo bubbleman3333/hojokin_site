@@ -1,0 +1,48 @@
+{
+ "id": "a0WJ200000CDK76MAH",
+ "name": "S-00006080",
+ "title": "東京都民間事業者に係る低公害・低燃費車導入促進補助金（補助金申請）",
+ "subsidy_catch_phrase": "圧縮天然ガス自動車（ＣＮＧ自動車）導入補助金",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><br></p><p>圧縮天然ガス自動車の導入に対して補助します。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象者</strong></p><p><br></p><p>・中小企業者（個人事業者を含む）</p><p><br></p><p>・上記の事業者へリースをするリース事業者</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象</strong></p><p><br></p><p>圧縮天然ガス自動車（ＣＮＧ自動車）</p><p><br></p><p>（都内に使用の本拠を置く車両。車両総重量３．５トン以下の車両を除く。）</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助要件</strong></p><p><br></p><p>・補助金交付決定を受けた日以降に購入（車検登録）する車両であること。</p><p><br></p><p>・令和9年2月28日までに車両を購入し、都に実績報告書を提出すること。（最終報告期限　令和9年3月31日）</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助額</strong></p><p><br></p><p>車両総重量3.5t超8t以下 100，000円/台</p><p><br></p><p>車両総重量8t超 200，000円/台</p>",
+ "use_purpose": "設備整備・IT導入をしたい / エコ・SDGs活動支援がほしい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "東京都",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": null,
+ "subsidy_max_limit": 200000,
+ "acceptance_start_datetime": "2026-03-31T15:00:00Z",
+ "acceptance_end_datetime": "2027-02-26T14:59:00Z",
+ "project_end_deadline": "2027-03-31T14:59:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDK76MAH",
+ "application_guidelines": [],
+ "outline_of_grant": [
+  {
+   "name": "東京都民間事業者に係る低公害・低燃費車導入促進補助金交付要綱.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "第１号様式（ＣＮＧ）.doc"
+  },
+  {
+   "name": "第１号様式その１（ＣＮＧ）.doc"
+  },
+  {
+   "name": "第７号様式(ＣＮＧ）.doc"
+  },
+  {
+   "name": "第３号様式（ＣＮＧ）.doc"
+  },
+  {
+   "name": "第５号様式（ＣＮＧ）.doc"
+  }
+ ],
+ "institution_name": "東京都民間所業者に係る低公害・低燃費車導入促進補助金",
+ "_meta": {
+  "first_seen": "2026-03-31T15:00:00Z",
+  "fetched_at": "2026-09-21T13:12:58Z"
+ }
+}

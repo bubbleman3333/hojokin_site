@@ -1,0 +1,46 @@
+{
+ "id": "a0WfQ000003CWvFUAW",
+ "name": "S-00009827",
+ "title": "燃料電池フォークリフト実装支援事業助成金",
+ "subsidy_catch_phrase": "東京都が、水素エネルギーが活用された水素社会の早期実現に向けて事業用の燃料電池フォークリフトの普及を促進するために行う助成金事業。",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"color: rgb(34, 34, 34);\">﻿</span>　燃料電池（水素）フォークリフトの購入を東京都が支援します。水素エネルギーが活用された水素社会の早期実現に向けて、燃料電池フォークリフトの普及促進を図るため燃料電池フォークリフトの購入費の一部を助成する。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■根拠法令</strong></p><p>・燃料電池フォークリフト実装支援事業実施要綱</p><p>・燃料電池フォークリフト実装支援事業助成金交付要綱</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■助成対象者（下記に掲げる者）</strong></p><p>・民間企業（リース・レンタル事業者を含む。）</p><p>・地方自治法（昭和22年法律第67号）第１条の三に定める普通地方公共団体のうち、東京都内の地方公営企業法（昭和27年法律第292号）第二条に定める事業を行う者</p><p>・独立行政法人通則法（平成11年法律第103号）第２条第１項に規定する独立行政法人</p><p>・一般社団法人及び一般財団法人並びに公益社団法人及び公益財団法人</p><p>・法律により直接設立された法人</p><p>・その他知事が認める者</p><p><br></p><p>※上記の他、以下のいずれにも該当しないこと。</p><p>・税金の滞納があるもの</p><p>・刑事上の処分を受けたことがあるもの</p><p>・公的資金の交付先として社会通念上適切でないと認められるもの</p><p>・暴力団、暴力団員等及び法人その他の団体の代表者、役員又は使用人その他の従業者もしくは構成員に暴力団員等に該当する者があるもの</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■助成対象フォークリフトの要件（次の全ての要件を満たすこと）</strong></p><p>・令和５年４月１日から令和13年３月31日までの間に購入された定格荷重が1.8t又は2.5tの燃料電池フォークリフト（中古車を除く。）であること。</p><p>・主たる定置場の位置の住所が東京都内にあること。</p><p>・国その他の団体からの補助金（以下「国補助等」という。）がある場合は、当該補助金の交付を申請していること。</p><p>・「TOKYO H2プロジェクト」の参画団体が導入するフォークリフトであること。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p><a href=\"https://tokyo-co2down-mobi.form.kintoneapp.com/public/tokyokankyo-mobility-contact\" rel=\"noopener noreferrer\" target=\"_blank\">問い合わせフォーム</a></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■事業ホームページURL</strong></p><p><a href=\"https://www.tokyo-co2down.jp/subsidy/fc-forklift/\" rel=\"noopener noreferrer\" target=\"_blank\">燃料電池フォークリフト実装支援事業 | 補助金・助成金 | クール・ネット東京</a></p>",
+ "use_purpose": "設備整備・IT導入をしたい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 公務（他に分類されるものを除く） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "東京都",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": null,
+ "subsidy_max_limit": 0,
+ "acceptance_start_datetime": "2026-09-15T08:00:00Z",
+ "acceptance_end_datetime": "2027-03-31T08:00:00Z",
+ "project_end_deadline": null,
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003CWvFUAW",
+ "application_guidelines": [
+  {
+   "name": "燃料電池フォークリフト実装支援事業実施要綱.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "燃料電池フォークリフト実装支援事業助成金交付要綱.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "各種様式（申請者向け）_燃料電池フォークリフト実装支援事業.xlsx"
+  },
+  {
+   "name": "指定様式_導入車両一覧表（燃料電池フォークリフト実装支援事業）.xlsx"
+  },
+  {
+   "name": "指定様式_貸与料金の算定根拠明細書.xlsx"
+  }
+ ],
+ "institution_name": "燃料電池フォークリフト実装支援事業助成金",
+ "_meta": {
+  "first_seen": "2026-09-15T08:00:00Z",
+  "fetched_at": "2026-09-21T13:10:42Z"
+ }
+}

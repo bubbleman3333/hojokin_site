@@ -1,0 +1,46 @@
+{
+ "id": "a0WJ200000CDPWgMAP",
+ "name": "S-00006796",
+ "title": "令和７年度　産業車両等の脱炭素化促進事業のうち、フォークリフトの燃料電池化促進事業（二酸化炭素排出抑制対策事業費等補助金）",
+ "subsidy_catch_phrase": "燃料電池フォークリフトを導入する事業者に経費の一部を補助します。",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"font-size: 12px;\">燃料電池フォークリフトを導入する経費の一部を補助することにより、環境優位性の高い燃料電池フォークリフトの導入推進を図り、もってエネルギー起源二酸化炭素の排出抑制に資することを目的としています。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p><span style=\"font-size: 12px;\">①民間企業（リース・レンタル事業者を含む）</span></p><p><span style=\"font-size: 12px;\">②地方公共団体</span></p><p><span style=\"font-size: 12px;\">③独立行政法人通則法（平成１１年法律第１０３号）第２条第１項に規定する独立行政法人</span></p><p><span style=\"font-size: 12px;\">④一般社団法人・一般財団法人及び公益社団法人・公益財団法人</span></p><p><span style=\"font-size: 12px;\">⑤ 法律により直接設立された法人</span></p><p><span style=\"font-size: 12px;\">⑥その他環境大臣の承認を得て財団が認める者</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■申請時の依頼事項</strong><strong style=\"color: rgb(14, 14, 15);\">＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊</strong></p><p><strong style=\"color: rgb(14, 14, 15);\">申請後は担当者様のメールアドレス確認のため、応募アドレス＜fork_oubo@heco-hojo.jp＞まで</strong></p><p><strong style=\"color: rgb(14, 14, 15);\">【申請済みである旨】を記載した電子メールを送付いただきますようお願いいたします。</strong></p><p><strong style=\"color: rgb(14, 14, 15);\">＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊</strong></p><p><br></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p><span style=\"font-size: 12.8px;\">　</span><strong style=\"font-size: 14px;\">fork_ask＠heco-hojo.jp</strong></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><a href=\"https://www.heco-hojo.jp/\" target=\"_blank\">公益財団法人北海道環境財団（環境省補助金専用サイト）</a></p>",
+ "use_purpose": "新たな事業を行いたい / 設備整備・IT導入をしたい / エコ・SDGs活動支援がほしい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 複合サービス事業 / サービス業（他に分類されないもの） / 公務（他に分類されるものを除く） / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 医療、福祉",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "補助対象経費と一般的なエンジン車との差額の1/2　ただし、令和2年度までに環境省補助金を利用して導入した実績がある場合は1/3（一般的なエンジン車との差額に対して）",
+ "subsidy_max_limit": 5500000,
+ "acceptance_start_datetime": "2025-05-29T07:00:00Z",
+ "acceptance_end_datetime": "2025-11-28T09:00:00Z",
+ "project_end_deadline": "2026-02-27T14:45:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDPWgMAP",
+ "application_guidelines": [
+  {
+   "name": "【公募要領】R7フォークリフトの燃料電池化促進事業.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "【交付規程】R7_空港・港湾における脱炭素化促進事業及びフォークリフトの燃料電池化促進事業.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "01_【様式１】応募申請書02_【様式２】実施計画書03_【様式３】経費内訳.xlsx"
+  },
+  {
+   "name": "30_応募申請書　提出書類チェックリスト.xlsx"
+  },
+  {
+   "name": "07_【添付1－4－1】ハード対策事業計算ファイル（Dファイル）.xlsx"
+  }
+ ],
+ "institution_name": "令和７年度　産業車両等の脱炭素化促進事業のうち、フォークリフトの燃料電池化促進事業（二酸化炭素排出抑制対策事業費等補助金）",
+ "_meta": {
+  "first_seen": "2025-05-29T07:00:00Z",
+  "fetched_at": "2026-09-21T13:12:58Z"
+ }
+}

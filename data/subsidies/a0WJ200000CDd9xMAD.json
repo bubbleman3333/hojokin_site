@@ -1,0 +1,96 @@
+{
+ "id": "a0WJ200000CDd9xMAD",
+ "name": "S-00009481",
+ "title": "令和８年度SDGsファイナンス支援事業補助金(トランジションボンド/トランジションローン)",
+ "subsidy_catch_phrase": "SDGsファイナンス補助金　東京都　トランジションボンド",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>「トランジションボンド」及びトランジション要素を満たす「グリーンボンド」「サステナビリティ・リンク・ボンド」（以下、総称して「トランジションボンド等」という。）を発行しようとする事業者等に対して発行支援（外部レビューの付与をいう。）を行う事業に要する経費に補助金を交付することにより、<span style=\"color: rgb(68, 68, 68);\">トランジションボンド等</span>の発行及び投資の促進を図ることを目的とする。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■根拠法令</strong></p><p>東京都補助金等交付規則（昭和37年東京都規則第141号）</p><p>東京都補助金等交付規則の施行について（昭和37年12月11日付37財主調発第20号）</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p>経済産業省が実施する令和８年度温暖化対策促進事業費補助金（クライメート・イノベーション・ファイナンス推進事業）の交付決定を受けた者</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■地理条件</strong></p><p>補助事業による支援対象となるトランジションボンド等を発行する資金調達者は、都内に事務所又は事業所を有する企業等とする。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■備考</strong></p><p><span style=\"font-size: 14px;\">補助金の交付を受けた者は、名称、代表者名、補助内容等が公表される場合がある。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p><span style=\"font-size: 11pt;\">〒163-8001 </span></p><p><span style=\"font-size: 11pt;\">東京都新宿区西新宿二丁目８番１号 東京都庁第一本庁舎20階南</span></p><p><span style=\"font-size: 11pt;\">東京都産業労働局総務部国際金融都市推進課国際金融都市推進担当</span></p><p>電話<span style=\"font-size: 14px;\">03-5320-6274</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><span style=\"font-size: 12.8px;\">https://www.sangyo-rodo.metro.tokyo.lg.jp/gfct/initiatives/green-finance/green-subsidy</span></p>",
+ "use_purpose": "イベント・事業運営支援がほしい",
+ "industry": "学術研究、専門・技術サービス業",
+ "target_area_search": "全国",
+ "target_area_detail": "補助事業による支援対象となるトランジションボンド等を発行する支援対象事業者は、都内に事務所又は事業所を有する企業等とする。",
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "補助対象と認められる経費の合計額の１／１０（ただし、補助事業の対象となるトランジションボンド等が個人向けに発行される場合は、７／１０） ※千円未満の端数は切り捨て",
+ "subsidy_max_limit": 1000000,
+ "acceptance_start_datetime": "2026-07-01T05:00:00Z",
+ "acceptance_end_datetime": "2027-03-19T11:00:00Z",
+ "project_end_deadline": "2027-06-30T11:00:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDd9xMAD",
+ "application_guidelines": [
+  {
+   "name": "SDGsファイナンス促進支援事業補助金（トランジションファイナンス等）交付要綱.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "【様式第1】補助金交付申請書.docx"
+  },
+  {
+   "name": "【様式第1-2】案件概要説明資料.xlsx"
+  },
+  {
+   "name": "【様式第1-2】案件概要説明資料.pptx"
+  },
+  {
+   "name": "【様式第1別紙1】SDGsファイナンス促進支援事業(トランジションファイナンス)に要する経費内訳.docx"
+  },
+  {
+   "name": "【様式第1別紙3】個人投資家向けトランジションボンドにかかる確認書.xlsx"
+  },
+  {
+   "name": "【様式第1別紙4】支援対象事業者の要件確認書.docx"
+  },
+  {
+   "name": "【様式第1別紙2】補助金相当額の補助対象事業への充当に関する誓約書.docx"
+  },
+  {
+   "name": "【様式第3】変更交付決定通知書.doc"
+  },
+  {
+   "name": "【様式第4】変更交付申請書.doc"
+  },
+  {
+   "name": "【様式第2】交付決定通知書.docx"
+  },
+  {
+   "name": "【様式第5】中止(廃止)承認申請書.doc"
+  },
+  {
+   "name": "【様式第7】遂行状況報告書.doc"
+  },
+  {
+   "name": "【様式第6】遅延報告書.doc"
+  },
+  {
+   "name": "【様式第8】消費税及び地方消費税に係る仕入控除税額報告書.doc"
+  },
+  {
+   "name": "【様式第9】補助金取下書.docx"
+  },
+  {
+   "name": "【様式第10】完了実績報告書.docx"
+  },
+  {
+   "name": "【様式第10別紙1】実施状況報告書.xlsx"
+  },
+  {
+   "name": "【様式第10別紙2】経費所要額精算調書.doc"
+  },
+  {
+   "name": "【様式第12】精算払請求書.doc"
+  },
+  {
+   "name": "【様式第13】交付決定取消通知書.DOCX"
+  },
+  {
+   "name": "【様式第11】交付額確定通知書.doc"
+  }
+ ],
+ "application_form": [],
+ "institution_name": "令和８年度SDGsファイナンスに係る補助金",
+ "_meta": {
+  "first_seen": "2026-07-01T05:00:00Z",
+  "fetched_at": "2026-09-21T13:10:42Z"
+ }
+}

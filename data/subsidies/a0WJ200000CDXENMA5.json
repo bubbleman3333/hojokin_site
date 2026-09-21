@@ -1,0 +1,91 @@
+{
+ "id": "a0WJ200000CDXENMA5",
+ "name": "S-00007940",
+ "title": "民放ラジオ難聴解消支援事業（令和８年度公募）",
+ "subsidy_catch_phrase": "難聴対策のための中継局整備費用の一部を補助",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>本事業は、国民生活に密着した情報や災害時における生命・財産の確保に必要な情報の提供を確保するため、必要最小の空中線電力の中継局整備によりラジオの難聴を解消することを目的とするものです。</p><p>総務省では、ラジオの難聴解消のための中継局整備を行うラジオ放送事業者等に対し、その整備費用の一部補助を行います。</p><p>対象設備等の詳細は交付要綱、執行マニュアル（「参照URL」に掲載）をご確認ください。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■根拠法令</strong></p><p><span style=\"font-size: 14px;\">電波法第１０３条の２第４項第１２号の３</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p><span style=\"font-size: 14px;\">民間ラジオ放送事業者、地方公共団体　等</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象</strong></p><p><span style=\"color: rgb(62, 62, 60);\">難聴対策としての中継局整備</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p><span style=\"color: rgb(62, 62, 60);\">総務省情報流通行政局放送施設整備促進課（０３－５２５３－５９４９）</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p>https://www.soumu.go.jp/menu_seisaku/ictseisaku/housou_suishin/hosonet_kyojinka02.html</p>",
+ "use_purpose": "新たな事業を行いたい / 販路拡大・海外展開をしたい / イベント・事業運営支援がほしい / 事業を引き継ぎたい / 研究開発・実証事業を行いたい / 人材育成を行いたい / 資金繰りを改善したい / 雇用・職場環境を改善したい / 災害（自然災害、感染症等）支援がほしい / 安全・防災対策支援がほしい / まちづくり・地域振興支援がほしい / 設備整備・IT導入をしたい / エコ・SDGs活動支援がほしい / 教育・子育て・少子化支援がほしい / スポーツ・文化支援がほしい",
+ "industry": "情報通信業",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "地理的・地形的難聴、外国波混信　２／３ 、都市型難聴　１／２",
+ "subsidy_max_limit": 0,
+ "acceptance_start_datetime": "2026-01-30T05:00:00Z",
+ "acceptance_end_datetime": "2027-03-31T03:00:00Z",
+ "project_end_deadline": "2026-03-31T14:45:00Z",
+ "request_reception_presence": "無",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXENMA5",
+ "application_guidelines": [
+  {
+   "name": "公募要領（民放ラジオ難聴解消支援事業）v4.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "⑤-1 無線システム普及支援事業費等補助金交付要綱_R8.1（本体）.pdf"
+  },
+  {
+   "name": "⑤-2 無線システム普及支援事業費等補助金交付要綱_R8.1（様式）.pdf"
+  },
+  {
+   "name": "⑤-3 無線システム普及支援事業費等補助金交付要綱_R8.1（補足事項）.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "00 公募申請書（様式）.docx"
+  },
+  {
+   "name": "10 交付申請書 様式第１号.docx"
+  },
+  {
+   "name": "11 別紙１第14 （様式）.docx"
+  },
+  {
+   "name": "20 整備計画書（様式）.docx"
+  },
+  {
+   "name": "21 整備計画書_提出（１）（様式）.docx"
+  },
+  {
+   "name": "22 整備計画書_提出（２）（様式）.docx"
+  },
+  {
+   "name": "23 整備計画書_提出（３）（様式）.docx"
+  },
+  {
+   "name": "23-1 整備計画書_提出（様式）_参考３－3申請者の2034年度までのラジオ放送事業に係る収支見込を示す資料.xlsx"
+  },
+  {
+   "name": "24 整備計画書_提出（４）（様式）.docx"
+  },
+  {
+   "name": "25 整備計画書_提出（５）（様式）.docx"
+  },
+  {
+   "name": "26 整備計画書_提出（６）（様式）.docx"
+  },
+  {
+   "name": "30 契約予定内容に関する調査票（記入例）.docx"
+  },
+  {
+   "name": "30 見積書記載例.xlsx"
+  },
+  {
+   "name": "40 工事概要書（様式）.docx"
+  },
+  {
+   "name": "50 口座設置届出書（様式）.docx"
+  },
+  {
+   "name": "60 免許申請確約書（記入例）.docx"
+  }
+ ],
+ "institution_name": "民放ラジオ難聴解消支援事業",
+ "_meta": {
+  "first_seen": "2026-01-30T05:00:00Z",
+  "fetched_at": "2026-09-21T13:12:58Z"
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "id": "a0WJ200000CDdfpMAD",
+ "name": "S-00009563",
+ "title": "令和８年度　観光産業の活性化促進事業補助金",
+ "subsidy_catch_phrase": "観光産業の活性化を促進するため、観光関連業界団体等が行う生産性向上・新サービス開発、情報発信等の取組を支援します。",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>本事業は、観光産業の活性化を促進するため、観光関連業界団体等が行う生産性向上・新サービス開発、情報発信等の取組を支援することを目的とします。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p>観光関連業界団体</p><p>都内に営業施設を有する観光関連事業者のグループ</p><p>（グループは２者以上から成り、中小企業の観光関連事業者が２分の１以上を占めていることを要します。）</p><p>※詳細は「募集要領」をご参照ください。</p><p><span style=\"color: rgb(250, 32, 13);\">※</span><strong style=\"color: rgb(250, 32, 13);\">「補助対象情報」の「補助対象者/応募資格 - 従業員数」及び「業種」については、「募集要領」をご参照ください。</strong></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■地理条件</strong></p><p>東京都内</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■備考</strong></p><p>URL (https://www.sangyo-rodo.metro.tokyo.lg.jp/tourism/kakusyu/gyoukai/index.html) も合わせご確認ください。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>東京都 産業労働局 観光部 受入環境課</p><p>事業調整担当</p><p>電話：０３－５３２０－４８０２（課代表）</p><p>問合せ時間　９：００～１７：３０　（※１２：００～１３：００を除く）</p><p>土日祝日、年末年始を除く</p>",
+ "use_purpose": "人材育成を行いたい / 設備整備・IT導入をしたい",
+ "industry": "サービス業（他に分類されないもの） / 分類不能の産業 / 宿泊業、飲食サービス業",
+ "target_area_search": "東京都",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "2/3（4者未満の観光事業者グループは1/2）",
+ "subsidy_max_limit": 25000000,
+ "acceptance_start_datetime": "2026-03-31T15:00:00Z",
+ "acceptance_end_datetime": "2026-12-25T14:59:00Z",
+ "project_end_deadline": "2026-03-31T14:59:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdfpMAD",
+ "application_guidelines": [
+  {
+   "name": "R8観光産業の活性化促進事業_募集要領.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "R8観光産業の活性化促進事業_交付要綱.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "観光産業の活性化促進事業_様式.zip"
+  }
+ ],
+ "institution_name": "令和８年度　観光産業の活性化促進事業",
+ "_meta": {
+  "first_seen": "2026-03-31T15:00:00Z",
+  "fetched_at": "2026-09-21T13:10:42Z"
+ }
+}
