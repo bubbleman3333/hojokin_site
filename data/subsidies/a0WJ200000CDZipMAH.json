@@ -1,0 +1,40 @@
+{
+ "id": "a0WJ200000CDZipMAH",
+ "name": "S-00009234",
+ "title": "令和8年度東京都薬局物価高騰緊急対策事業支援金",
+ "subsidy_catch_phrase": "東京都では、直面する物価高騰に伴う影響を緩和し、安定的な医薬品の供給体制を確保するため、光熱費の物価高騰への緊急対策として、薬局の負担軽減に向けた支援金を支給します。",
+ "detail": "<p><span style=\"font-size: 14px;\">■応募資格 </span></p><p><span style=\"font-size: 14px;\">都内に開設している薬局（健康保険法第63条第３項第１号に定める保険薬局に限る。）の開設者 </span></p><p><br></p><p><span style=\"font-size: 14px;\">■問合せ先 </span></p><p><span style=\"font-size: 14px;\">03-6822-4155（東京都薬局物価高騰緊急対策支援金事務局）</span></p><p><span style=\"font-size: 14px;\">受付時間：平日午前9時から午後5時まで</span></p><p><br></p><p><span style=\"font-size: 14px;\">メールでのお問い合わせは、</span><span style=\"font-size: 14px; color: rgb(68, 68, 68);\">以下のメールアドレスにお送りください。</span></p><p>contact<span style=\"font-size: 14px; color: rgb(51, 51, 51);\">(at)</span>yakkyoku-bukka-08.jp</p><p><span style=\"font-size: 14px;\">※</span><span style=\"font-size: 14px; color: rgb(51, 51, 51);\">迷惑メール対策のため、メールアドレスの表記を一部変更しております。お手数ですが、メール送信の際は(at)を@に置き換えてご利用ください。</span></p><p><span style=\"font-size: 14px;\">件名：【東京都薬局物価高騰】お問い合わせ</span></p><p><span style=\"font-size: 14px;\">本文：①法人名又は屋号、②ハガキに記載の4桁の番号、③保険薬局コード（7桁）、④ご担当者様お名前、⑤電話番号、⑥お問い合わせ内容</span></p><p><br></p><p><span style=\"font-size: 14px;\">■参照URL </span></p><p>https://www.hokeniryo.metro.tokyo.lg.jp/anzen/kenkou_anzen/yakkyoku-bukka5</p>",
+ "use_purpose": "資金繰りを改善したい",
+ "industry": "医療、福祉",
+ "target_area_search": "東京都",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": null,
+ "subsidy_max_limit": 78000,
+ "acceptance_start_datetime": "2026-06-30T15:00:00Z",
+ "acceptance_end_datetime": "2026-08-07T14:59:00Z",
+ "project_end_deadline": "2026-08-07T14:59:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZipMAH",
+ "application_guidelines": [
+  {
+   "name": "【実施要綱】東京都薬局物価高騰緊急対策事業.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "【交付要綱】東京都薬局物価高騰緊急対策事業.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "別記第１号様式関係　別紙　一覧表（令和８年度）.xlsx"
+  }
+ ],
+ "institution_name": "薬局物価高騰緊急対策事業",
+ "_meta": {
+  "first_seen": "2026-06-30T15:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

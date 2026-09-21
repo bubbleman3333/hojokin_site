@@ -1,0 +1,40 @@
+{
+ "id": "a0WJ200000CDX4HMAX",
+ "name": "S-00007845",
+ "title": "令和７年度補正予算「GXサプライチェーン構築支援事業」",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>我が国において中小企業を含めて高い産業競争力を有する形で GX分野の国内製造サプライチェーンを確立するため、水電解装置、浮体式等洋上風力発電設備、ペロブスカイト太陽電池、燃料電 池等に加えて、これらの関連部素材や製造設備について、世界で競争しうる大規模な投資を計画する製造事業者等、もしくは現に国内で生産が限定的な部素材や固有の技術を有する製造事業者等に対して、補助を行う。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>経済産業省　GXグループ</p><p>GX投資促進課</p><p>担　当：渡、岡崎、髙野、宮野</p><p>メール：bzl-toushisokushinnteam@meti.go.jp</p><p>電　話：03‐3501-2067（直通）</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p>⁠<a href=\"https://www.meti.go.jp/main/yosan/yosan_fy2025/hosei/pdf/r7_gx_pr.pdf\" target=\"_blank\">https://www.meti.go.jp/main/yosan/yosan_fy2025/hosei/pdf/r7_gx_pr.pdf</a></p>",
+ "use_purpose": "新たな事業を行いたい",
+ "industry": "分類不能の産業",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": null,
+ "subsidy_max_limit": 84500000000,
+ "acceptance_start_datetime": "2026-01-19T03:00:00Z",
+ "acceptance_end_datetime": "2026-02-09T03:00:00Z",
+ "project_end_deadline": null,
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDX4HMAX",
+ "application_guidelines": [
+  {
+   "name": "公募要領.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "交付要綱（案）.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "公募要領（様式のみ）.pdf"
+  }
+ ],
+ "institution_name": "GXサプライチェーン構築支援事業",
+ "_meta": {
+  "first_seen": "2026-01-19T03:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

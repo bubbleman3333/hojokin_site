@@ -1,0 +1,52 @@
+{
+ "id": "a0W2x000003Qc7zEAC",
+ "name": "S-00000906",
+ "title": "【神戸市】令和３年度中小製造業投資促進等助成（③生産現場へのロボット導入に向けたシミュレーション）",
+ "subsidy_catch_phrase": "操業基盤の強化の一環として、生産現場へのロボット導入に向けたシミュレーションをサポートします",
+ "detail": "<p><b style=\"color: rgb(0, 111, 173);\">■目的・概要</b></p><p>市内中小製造業の操業基盤の強化を図る取組みの一環として、生産現場へのロボット導入に向けたシミュレーションを行う事業者に対し、予算の範囲内で助成金を交付します。</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■応募資格</b></p><p>神戸市内の主たる事業所（本社、生産工場、研究開発拠点）において1年以上前から継続して製造業を営む中小企業者。</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■備考</b></p><p>詳細は公募要領をご参照ください。</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■問合せ先</b></p><p>神戸市経済観光局工業課　電話：(078)984-0340</p><p>〒651-0087</p><p>神戸市中央区御幸通6-1-12（三宮ビル東館4階）</p><p>（お問い合わせは土・日・祝日を除く9:00～12:00、13:00～17:00）</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■参照URL</b></p><p><a href=\"https://www.city.kobe.lg.jp/a93457/business/sangyoshinko/shokogyo/venture/monodukuri/toshisokushin/03tosisokushinjosei.html\" target=\"_blank\">令和３年度　中小製造業投資促進等助成（神戸市HP）</a></p>",
+ "use_purpose": "設備整備・IT導入をしたい",
+ "industry": "製造業",
+ "target_area_search": "兵庫県",
+ "target_area_detail": "神戸市",
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "1/3以内",
+ "subsidy_max_limit": 500000,
+ "acceptance_start_datetime": "2021-04-07T00:00:00Z",
+ "acceptance_end_datetime": "2022-02-28T08:00:00Z",
+ "project_end_deadline": "2023-03-31T08:00:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000003Qc7zEAC",
+ "application_guidelines": [
+  {
+   "name": "【公募要領】令和３年度_中小製造業投資促進等助成(③ロボット導入に向けたシミュレーション).pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "【交付要綱】令和３年度_中小製造業投資促進等助成.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "【企業名】03_会社概要書(様式４).docx"
+  },
+  {
+   "name": "【！必ずご確認ください！】jGrants電子申請マニュアル[交付申請]20210407.pdf"
+  },
+  {
+   "name": "【企業名】02_助成対象経費明細書(様式３－ハ).xlsx"
+  },
+  {
+   "name": "【企業名】01_事業概要書(様式２－ハ).docx"
+  },
+  {
+   "name": "【企業名】04_神戸市税に関する誓約書兼調査に関する承諾書(様式５).docx"
+  }
+ ],
+ "institution_name": "【神戸市】中小製造業投資促進等助成",
+ "_meta": {
+  "first_seen": "2021-04-07T00:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

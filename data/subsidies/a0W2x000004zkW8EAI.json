@@ -1,0 +1,40 @@
+{
+ "id": "a0W2x000004zkW8EAI",
+ "name": "S-00002020",
+ "title": "令和4年度予算　需要家主導による太陽光発電導入促進補助金",
+ "subsidy_catch_phrase": "令和4年度予算　需要家主導による太陽光発電導入促進補助金",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>2030年の長期エネルギー需給見通しや野心的な温室効果ガス削減目標の実現に向けて、需要家が発電事業者と連携すること等により行う太陽光発電設備の導入に要する経費の一部を補助することにより、こうしたモデルの普及を図り、再生可能エネルギーの自立的な導入拡大を促進することを目的とします。</p><p><br></p><p>日本国内において、電気事業者による再生可能エネルギー電気の利用の促進に関する特別措置法 (平成23年法律第108号) 第9条第4項に基づく認定を得ず、電気事業法 (昭和39年法律第170号) 第2条第1項第5号ロに定める接続供給によることなく、当該太陽光発電により発電した電気を特定の需要家に長期間供給する等、本公募要領に定める要件を満たし、再生可能エネルギー電気を活用する需要家の電気の需要を満たすことを目的とした太陽光発電設備を、需要地外に新規に取得、設置する事業を、補助対象事業とします。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p>補助対象事業を行う者であって、公募要領に定める要件を満たす国内において事業活動を営んでいる等の法人</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); background-color: rgb(255, 255, 255);\">■お知らせ</strong></p><p>【6月30日更新】</p><p>・公募要領に不掲載の箇所（様式第6の一部）がありましたので42~43ページに追加する改訂、更新を行いました。</p><p>・申請様式の一部を更新しました。（様式第2、第4-1等は、下記「申請様式」に掲載のzipファイル内、2youshiki_R41_220630_1.1.xlsxをお使いください。）</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>JPEA太陽光発電推進センター（JP-PC） 案内窓口</p><p>電話番号　03-6628-5740（受付時間　9:30-17:30 土日、祝日は除く）</p>",
+ "use_purpose": "エコ・SDGs活動支援がほしい",
+ "industry": "電気・ガス・熱供給・水道業",
+ "target_area_search": "全国",
+ "target_area_detail": "全国",
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "1 ／ 2 以内（自治体連携型の場合は、2 ／ 3 以内）",
+ "subsidy_max_limit": 12000000000,
+ "acceptance_start_datetime": "2022-06-24T03:00:00Z",
+ "acceptance_end_datetime": "2022-08-05T08:00:00Z",
+ "project_end_deadline": "2023-03-24T14:59:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000004zkW8EAI",
+ "application_guidelines": [
+  {
+   "name": "koboyoryo_R41_220630_1.01.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "koufukitei_220315_1.0.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "yoshiki_R41_220630_1.1.zip"
+  }
+ ],
+ "institution_name": "需要家主導による太陽光発電導入促進補助金",
+ "_meta": {
+  "first_seen": "2022-06-24T03:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

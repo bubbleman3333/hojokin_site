@@ -1,0 +1,43 @@
+{
+ "id": "a0W2x000004znkfEAA",
+ "name": "S-00002083",
+ "title": "令和４年度　自動車事故対策費補助金（先進安全自動車（ＡＳＶ）の導入に対する支援）",
+ "subsidy_catch_phrase": "バス、タクシー、トラック運送事業者等の交通事故防止のための先進安全自動車（ＡＳＶ）の導入に対する取組を支援する補助制度です。",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>自動車事故を防止し、安全な自動車交通の実現を図ることは喫緊の課題である。そのため、車両点検・整備講習等の自動車事故防止対策と合わせて、自動車運送事業の安全性の向上を図ることが必要である。このような観点から、本事業は、車両の安全性の向上等の自動車運送事業の安全に資する事業を対象に補助を行うものです。</p><p>国土交通省では、自動車運送事業における交通事故防止の観点から、先進安全自動車（ＡＳＶ）の導入等の取組を支援するため、要件を満たした事業者に対して自動車事故対策費補助金を交付する事故防止対策支援推進事業を実施しており、今般、その補助金の申請受付を開始しますので、お知らせいたします。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助金対象事業者</strong></p><p>①自動車運送事業者（中小企業者に限る。）</p><p>②リース事業者（当該補助対象となる事業用自動車の貸し渡し先の自動車運送事業者が中小企業者の場合に限る。）</p><p>③一般貸切旅客自動車運送事業者（中小企業者以外。）</p><p>④リース事業者（当該補助対象となる事業用自動車の貸し渡し先の一般貸切旅客自動車運送事業者が中小企業者以外の場合に限る。）</p><p><br></p><p>※過去3年の間に行政処分を受けた自動車運送事業者を除く。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象経費</strong></p><p>補助対象装置の装置価格</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■申請時の注意事項</strong></p><p><span style=\"color: rgb(62, 62, 60);\">・自動車運送事業者においては</span>「同じ車両型式で、かつ補助対象経費が同額の車両20台以内」</p><p>を１件の申請としてください。</p><p>・リース事業者においては「１つの貸渡し先の自動車運送事業者につき、同じ車両型式で、</p><p><span style=\"color: rgb(62, 62, 60); background-color: rgb(255, 255, 255);\">　かつ補助対象経費が同額の車両</span>20台以内」を１件の申請としてください。</p><p>・複数の申請がある場合は、申請（申請書類等のアップロード）を複数回に分けてください。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>国土交通省自動車局技術・環境政策課</p><p>担当：古川、遠藤</p><p>電話：03－5253－8111（内線：42254）　03-5253-8591（直通）</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><a href=\"https://www.mlit.go.jp/jidosha/anzen/01asv/esc_04.html\" target=\"_blank\">https://www.mlit.go.jp/jidosha/anzen/01asv/esc_04.html</a></p>",
+ "use_purpose": "設備整備・IT導入をしたい",
+ "industry": "運輸業、郵便業 / 不動産業、物品賃貸業",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "１/２、１/３",
+ "subsidy_max_limit": 6000000,
+ "acceptance_start_datetime": "2022-07-22T00:00:00Z",
+ "acceptance_end_datetime": "2022-12-23T07:00:00Z",
+ "project_end_deadline": "2022-12-23T07:00:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000004znkfEAA",
+ "application_guidelines": [
+  {
+   "name": "03_募集要領（別添１：ＡＳＶ）.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "交付要綱.zip"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "5.交付申請書兼実績報告書記載例ほか（ASV・jGrants用）.doc"
+  },
+  {
+   "name": "4.交付申請書兼実績報告書様式（ASV）.doc"
+  }
+ ],
+ "institution_name": "令和４年度　自動車事故対策費補助金（先進安全自動車（ＡＳＶ）の導入に対する支援）",
+ "_meta": {
+  "first_seen": "2022-07-22T00:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

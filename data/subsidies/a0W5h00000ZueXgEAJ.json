@@ -1,0 +1,79 @@
+{
+ "id": "a0W5h00000ZueXgEAJ",
+ "name": "S-00004746",
+ "title": "令和６年度　バリアフリー情報発信支援事業補助金",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>東京都では、障害者や高齢者等が旅先で必要となるバリアフリー情報の充実に取り組んでいます。</p><p>このたび、都内民間事業者に対して、観光施設に関するバリアフリー情報を提供するアプリ等の機能拡充に必要となる経費の一部を補助する「バリアフリー情報発信支援事業補助金」の募集を開始しますので、お知らせします。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象者</strong></p><p>バリアフリー情報を提供するアプリ・ウェブサイトを運営する都内の事業者</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象経費</strong></p><p>バリアフリー情報を提供するアプリ・ウェブサイトの利便性向上に向けた機能の追加等を行うための経費</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助額</strong></p><p>補助対象経費の５分の４又は補助限度額2,000万円のいずれか低い額</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象期間</strong></p><p>交付決定の日から令和７年３月３１日までに事業が終了</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■募集期間</strong></p><p>令和６年１２月２７日（金）</p><p>※募集の詳細については、募集要領をご覧ください。</p><p>※締切日時点で書類に不備・不足があると受付できません。余裕をもってご申請ください。</p><p>※申請後、都での審査により、補助事業者を決定いたします。</p><p>※交付決定には、不備のない書類が整ってから２か月程度かかります。</p><p>事業実施に必要な期間を確認し、審査期間も考慮のうえご申請ください。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>産業労働局観光部受入環境課（代表）</p><p>電話：03-5320-4802</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><a href=\"https://www.sangyo-rodo.metro.tokyo.lg.jp/tourism/kakusyu/barrier-free-info/\" target=\"_blank\">https://www.sangyo-rodo.metro.tokyo.lg.jp/tourism/kakusyu/barrier-free-info/</a></p>",
+ "use_purpose": "設備整備・IT導入をしたい",
+ "industry": "生活関連サービス業、娯楽業",
+ "target_area_search": "東京都",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "補助対象経費の５分の４",
+ "subsidy_max_limit": 20000000,
+ "acceptance_start_datetime": "2024-04-26T05:00:00Z",
+ "acceptance_end_datetime": "2024-12-27T14:59:00Z",
+ "project_end_deadline": "2025-03-31T14:59:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W5h00000ZueXgEAJ",
+ "application_guidelines": [
+  {
+   "name": "募集要領_バリアフリー情報発信支援事業.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "交付要綱_バリアフリー情報発信支援事業.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "様式第１号 申請書.docx"
+  },
+  {
+   "name": "様式第１号 申請に必要な書類.docx"
+  },
+  {
+   "name": "様式第10－１号 財産処分承認申請書.docx"
+  },
+  {
+   "name": "様式第10－３号 財産処分結果報告書.docx"
+  },
+  {
+   "name": "様式第３号 辞退届（交付決定後）.docx"
+  },
+  {
+   "name": "様式第４－１号 事業計画変更承認申請書.docx"
+  },
+  {
+   "name": "様式第６号 実績報告書.docx"
+  },
+  {
+   "name": "様式第１号 別紙１（事業計画書）.docx"
+  },
+  {
+   "name": "様式第４－２号 事業中止（廃止）承認申請書.docx"
+  },
+  {
+   "name": "様式第１号 申請前確認書.docx"
+  },
+  {
+   "name": "様式第４－３号 事業者変更届.docx"
+  },
+  {
+   "name": "様式第５号 事業遅延（事故）報告書.docx"
+  },
+  {
+   "name": "様式第８号 請求書.docx"
+  },
+  {
+   "name": "様式第10－２号 財産移設承認申請書.docx"
+  }
+ ],
+ "institution_name": "バリアフリー情報発信支援事業補助金",
+ "_meta": {
+  "first_seen": "2024-04-26T05:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

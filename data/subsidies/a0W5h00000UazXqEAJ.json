@@ -1,0 +1,46 @@
+{
+ "id": "a0W5h00000UazXqEAJ",
+ "name": "S-00003865",
+ "title": "令和5年度補正家庭用蓄電池等の分散型エネルギーリソース導入支援事業費補助金",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><strong style=\"font-size: 14px; color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"font-size: 14px; color: black;\">　太陽光発電等の再生可能エネルギーは、時間帯や天候によって出力が変動するため、電力の需給バランス調整が必要となる。家庭用蓄電池等の分散型エネルギーリソースを効率的に活用することで、電力の需給バランスを需要側から調整することが可能であり、出力制御の抑制への貢献も期待されている。</span></p><p><span style=\"font-size: 14px; color: black;\">　本事業ではこれら設備導入を支援することにより、電力の需給バランスの調整に必要となる設備の確保を図るとともに、2030年の再生可能エネルギー比率36~38%の達成に貢献することを目的とする。</span></p><p><br></p><p><strong style=\"font-size: 14px; color: rgb(0, 111, 173);\">■応募資格等各種条件</strong></p><p><span style=\"font-size: 14px;\">公募要項をご確認ください。</span></p><p><br></p><p><strong style=\"font-size: 14px; color: rgb(0, 111, 173);\">■問合せ先</strong></p><p><span style=\"font-size: 14px;\">資源エネルギー庁　省エネルギー・新エネルギー部</span></p><p><span style=\"font-size: 14px;\">新エネルギーシステム課　令和5年度補正　補助金担当</span></p><p><span style=\"font-size: 14px;\">メール：bzl-eneshisuka-system@meti.go.jp</span></p><p><span style=\"font-size: 14px;\">※件名を「</span><span style=\"font-size: 14px; background-color: rgb(255, 255, 255); color: rgb(68, 68, 68);\">家庭用蓄電池等の分散型エネルギーリソース導入支援事業について</span><span style=\"font-size: 14px;\">」とし、送付をお願いします。</span></p>",
+ "use_purpose": "設備整備・IT導入をしたい",
+ "industry": "電気・ガス・熱供給・水道業",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "定額（10/10）",
+ "subsidy_max_limit": 10000000000,
+ "acceptance_start_datetime": "2023-12-12T08:00:00Z",
+ "acceptance_end_datetime": "2024-01-05T03:00:00Z",
+ "project_end_deadline": "2024-03-31T03:00:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W5h00000UazXqEAJ",
+ "application_guidelines": [
+  {
+   "name": "公募要領（申請書および提案書様式含む）.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "交付要綱.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "①申請書（様式１）.docx"
+  },
+  {
+   "name": "②提案書（様式２）.docx"
+  },
+  {
+   "name": "③委託・外注費の額の割合が５０％を超える理由書（様式３）.docx"
+  }
+ ],
+ "institution_name": "家庭用蓄電池等の分散型エネルギーリソース導入支援事業",
+ "_meta": {
+  "first_seen": "2023-12-12T08:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

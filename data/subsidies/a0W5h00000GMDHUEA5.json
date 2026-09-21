@@ -1,0 +1,36 @@
+{
+ "id": "a0W5h00000GMDHUEA5",
+ "name": "S-00003541",
+ "title": "令和５年度TOKYO戦略的イノベーション促進事業",
+ "subsidy_catch_phrase": "【最大8,000万円】中小企業・スタートアップ等の研究開発助成及び事業化支援",
+ "detail": "<p><strong style=\"font-size: 12px; color: rgb(0, 111, 173);\">■</strong><strong style=\"font-size: 12px; color: rgb(0, 0, 0);\">　</strong><strong style=\"font-size: 12px; color: rgb(0, 111, 178);\">目的</strong></p><p>都内中小企業等が「イノベーションマップ」（※）に基づき、自社のコア技術(強み)を基盤として、他企業、大学等の知見やノウハウを活用して事業化を目指す技術・製品開発を支援する事業です。</p><p><br></p><p><strong style=\"background-color: rgb(255, 255, 255); color: rgb(0, 111, 173);\">■　助成事業の要件</strong></p><p><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);\">①「イノベーションマップ」にある開発支援テーマに適合していること</span></p><p><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);\">②社外の知見やノウハウを活用すること</span></p><p><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);\">③早期に事業化を目指す研究開発であること</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); background-color: rgb(255, 255, 255);\">■　イノベーションマップ　開発支援テーマ</strong></p><p><span style=\"color: rgb(21, 21, 21); background-color: rgb(255, 255, 255);\">①防災・減災・災害復旧</span></p><p><span style=\"color: rgb(21, 21, 21); background-color: rgb(255, 255, 255);\">②インフラメンテナンス</span></p><p>③安全・安心の確保</p><p>④スポーツ振興・障害者スポーツ</p><p>⑤子育て・高齢者・障害者等の支援</p><p>⑥医療・健康</p><p>⑦環境・エネルギー・節電</p><p>⑧国際的な観光・金融都市の実現</p><p>⑨交通・物流・サプライチェーン</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); background-color: rgb(255, 255, 255);\">■　助成事業概要</strong></p><p>(１)助成対象者</p><p>・都内の本店又は支店で実質的な事業活動を行っている中小企業者（会社及び個人事業者）等</p><p>・都内での創業を具体的に計画している個人</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■　助成対象期間</strong></p><p>令和６年1月１日から令和８年12月31日まで(３年以内)</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■　申請書提出期間</strong></p><p><span style=\"color: rgb(68, 68, 68); background-color: rgb(255, 255, 255);\">令和５年８月１０日（木）～８月３０日（水）</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■　参照URL</strong></p><p><a href=\"https://www.tokyo-kosha.or.jp//support/josei/jigyo/tokyo-innovation.html\" target=\"_blank\" style=\"color: rgb(0, 0, 0);\"><u>https://www.tokyo-kosha.or.jp/support/josei/jigyo/tokyo-innovation.</u></a><u style=\"color: rgb(0, 0, 0);\">html</u></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■　備考</strong></p><p>応募にあたっては、公社ホームページ掲載の募集要項を必ずご一読ください。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■　問合せ先　</strong><strong style=\"color: rgb(0, 111, 173); background-color: rgb(255, 255, 255);\">■</strong></p><p>公益財団法人東京都中小企業振興公社　企画管理部　助成課　TOKYO戦略的イノベーション促進事業担当</p><p>〒101-0022</p><p>東京都千代田区神田練塀町３-３大東ビル４階</p><p>TEL：03-3251-7894･5</p><p>E-mail：<a href=\"mailto:josei@tokyo-kosha.or.jp\" target=\"_blank\" style=\"font-size: 14px; color: rgb(17, 85, 204);\">josei@tokyo-kosha.or.jp</a><span style=\"font-size: 12px; color: rgb(0, 0, 0);\"> </span></p>",
+ "use_purpose": "研究開発・実証事業を行いたい",
+ "industry": "建設業 / 製造業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 医療、福祉",
+ "target_area_search": "東京都",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "助成対象と認められる経費の2/3以内（下限額：１,５００万円）",
+ "subsidy_max_limit": 80000000,
+ "acceptance_start_datetime": "2023-08-10T01:00:00Z",
+ "acceptance_end_datetime": "2023-08-31T01:45:00Z",
+ "project_end_deadline": "2026-12-31T14:59:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W5h00000GMDHUEA5",
+ "application_guidelines": [
+  {
+   "name": "募集要項 (戦略イノベーション).pdf"
+  }
+ ],
+ "outline_of_grant": [],
+ "application_form": [
+  {
+   "name": "申請様式.xlsx"
+  }
+ ],
+ "institution_name": "令和5年度TOKYO戦略的イノベーション促進事業",
+ "_meta": {
+  "first_seen": "2023-08-10T01:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

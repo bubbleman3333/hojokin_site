@@ -1,0 +1,55 @@
+{
+ "id": "a0WJ200000CDLLvMAP",
+ "name": "S-00006378",
+ "title": "令和７年度岡山県小規模事業者事業継続力強化補助金（BCP補助金）",
+ "subsidy_catch_phrase": "岡山県BCP補助金",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"font-size: 14px;\">自然災害等の緊急事態においても地域経済の活力を維持することを目的として、ＢＣＰ（事業継続計画）等を作成しその計画に基づいた事業継続力の強化に資する取組を実施する小規模事業者に対し、補助金の交付を行うものです。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■根拠法令</strong></p><p><span style=\"font-size: 14px;\">岡山県小規模事業者事業継続力強化支援事業費補助金交付要綱</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p><span style=\"font-size: 11pt;\">・岡山県内で事業を営んでいる小規模事業者（商工業者）で、県や国等が実施するフォローアップ調査に協力できること。</span></p><p><span style=\"font-size: 11pt;\">・事業継続計画（BCP）等を策定し、計画に基づいた取組を実施する者。</span></p><p><span style=\"font-size: 11pt;\">・令和５年度岡山県小規模事業者事業継続力強化補助金（BCP補助金）または令和６年度岡山県小規模事業者事業継続力強化補助金（BCP補助金）において、交付決定を受けた事業者ではないこと。</span></p><p><span style=\"font-size: 12px;\">※公募要領を参考にして応募してください。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p><span style=\"color: rgb(0, 0, 0); font-size: 12px;\">〒700-0818</span></p><p><span style=\"font-family: Meiryo; color: rgb(0, 0, 0); font-size: 12px;\">岡山市北区弓之町4-19-401</span></p><p><span style=\"font-family: Meiryo; color: rgb(0, 0, 0); font-size: 12px;\">岡山県商工会連合会　</span><span style=\"color: rgb(0, 0, 0); font-size: 12px;\">BCP補助金事務局</span></p><p><span style=\"font-size: 12px;\">電話番号：086-238-5666</span></p><p><span style=\"font-size: 12px;\">メールアドレス：bcphojo@okasci.or.jp</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><a href=\"https://www.okasci.or.jp/~keieishien/article/index.cgi?c=zoom&amp;id=771\" target=\"_blank\">岡山県商工会連合会　経営支援サイト</a><span style=\"background-color: rgb(255, 255, 255); color: rgb(11, 92, 171);\">(okasci.or.jp)</span></p>",
+ "use_purpose": "安全・防災対策支援がほしい",
+ "industry": "建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 分類不能の産業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業",
+ "target_area_search": "岡山県",
+ "target_area_detail": null,
+ "target_number_of_employees": "20名以下",
+ "subsidy_rate": "2/3以内",
+ "subsidy_max_limit": 500000,
+ "acceptance_start_datetime": "2025-06-15T15:00:00Z",
+ "acceptance_end_datetime": "2025-07-31T08:00:00Z",
+ "project_end_deadline": "2025-11-28T14:59:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDLLvMAP",
+ "application_guidelines": [
+  {
+   "name": "公募要領（第1版）.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "【R7】交付要綱（令和7年5月27日制定）.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "（様式第１）別紙１_Ⅲ補助事業計画.docx"
+  },
+  {
+   "name": "【県認定BCP型】（様式第１）別紙２ｰ２補助事業計画書②（経費明細表）.xlsx"
+  },
+  {
+   "name": "■各事業継続計画(BCP)の対応について.pdf"
+  },
+  {
+   "name": "【公募申請】事業者向けJグランツ操作マニュアル.pdf"
+  },
+  {
+   "name": "（様式第１）別紙２ｰ１補助事業計画書②（経費明細表）.xlsx"
+  },
+  {
+   "name": "Q&A集（令和7年6月5日現在）.pdf"
+  }
+ ],
+ "institution_name": "岡山県小規模事業者事業継続力強化補助金",
+ "_meta": {
+  "first_seen": "2025-06-15T15:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

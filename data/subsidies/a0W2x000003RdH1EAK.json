@@ -1,0 +1,70 @@
+{
+ "id": "a0W2x000003RdH1EAK",
+ "name": "S-00001039",
+ "title": "農林水産物認証取得支援事業（農家認証取得支援事業）補助金",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><b style=\"color: rgb(0, 111, 173); font-size: 14px;\">■目的・概要</b></p><p><span style=\"font-size: 14px;\">公益財団法人東京都農林水産振興財団では、環境保全や農業経営の効率化を目指すGAPを推進するため、農家認証取得に要する経費を補助します。</span></p><p><br></p><p><span style=\"font-size: 14px;\">【認証の種類】</span></p><p><span style=\"font-size: 14px;\">・ＪＧＡＰ認証：一般社団法人 日本ＧＡＰ協会</span></p><p><span style=\"font-size: 14px;\">・ＡＳＩＡＧＡＰ認証：</span><span style=\"color: rgb(62, 62, 60); font-size: 14px;\">一般社団法人 日本ＧＡＰ協会</span></p><p><span style=\"color: rgb(62, 62, 60); font-size: 14px;\">・ＧＬＯＢＡＬＧ.Ａ.Ｐ. 認証：フードプラス</span></p><p><br></p><p><span style=\"font-size: 14px;\">【対象経費】</span></p><p><span style=\"font-size: 14px;\">＜事業区分＞ 　　　＜対象経費＞ 　　　　 ＜助成率＞</span></p><p><span style=\"font-size: 14px;\">・定期審査　　定期審査料、年間公示料　　10/10以内</span></p><p><span style=\"font-size: 14px;\"> </span></p><p><span style=\"font-size: 14px;\">・更新審査　　更新審査料、年間公示料　　10/10以内</span></p><p><br></p><p><span style=\"font-size: 14px;\">・研修等受講費用　　　　　　　　　　　　10/10以内</span></p><p><br></p><p><span style=\"font-size: 14px;\">※消費税については、対象経費に含まないものとする。</span></p><p><br></p><p><br></p><p><b style=\"color: rgb(0, 111, 173); font-size: 14px;\">■応募資格</b></p><p><span style=\"font-size: 14px;\">本事業を利用し、対象となる農家認証を既に取得された都内在住の農業者・団体・教育機関</span></p><p><span style=\"font-size: 14px;\"></span></p><p><br></p><p><b style=\"color: rgb(0, 111, 173); font-size: 14px;\">■問合せ先</b></p><p><span style=\"font-size: 14px;\">(公財)東京都農林水産振興財団</span></p><p><span style=\"font-size: 14px;\">地産地消推進課　認証支援係</span></p><p><span style=\"font-size: 14px;\">〒190-0013　東京都立川市富士見町3-8-1　Tel: 042-528-0510</span></p>",
+ "use_purpose": "販路拡大・海外展開をしたい",
+ "industry": "農業、林業",
+ "target_area_search": "東京都",
+ "target_area_detail": "東京都",
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "10/10以内",
+ "subsidy_max_limit": 0,
+ "acceptance_start_datetime": "2021-06-30T15:00:00Z",
+ "acceptance_end_datetime": "2021-12-28T14:59:00Z",
+ "project_end_deadline": null,
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000003RdH1EAK",
+ "application_guidelines": [
+  {
+   "name": "農林水産物認証取得支援事業（農家認証）公募要領.docx"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "農家認証取得支援事業：補助金交付要綱.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "農家認証取得支援事業実施要領（別紙１）申請者の概要.doc"
+  },
+  {
+   "name": "農家認証取得支援事業実施要領（別紙３）認証取得までの計画.doc"
+  },
+  {
+   "name": "農家認証取得支援事業実施要領（様式２）申込書（研修等受講）.doc"
+  },
+  {
+   "name": "農家認証取得支援事業補助金交付要綱（別記様式第４号）（中止・廃止）承認申請書.docx"
+  },
+  {
+   "name": "農家認証取得支援事業補助金交付要綱（別記様式第６号）実績報告書.docx"
+  },
+  {
+   "name": "農家認証取得支援事業実施要領（別紙２）申請団体の概要.doc"
+  },
+  {
+   "name": "農家認証取得支援事業実施要領（様式１）申込書（認証取得）.doc"
+  },
+  {
+   "name": "農家認証取得支援事業補助金交付要綱（別記様式第１号）申請書.docx"
+  },
+  {
+   "name": "農家認証取得支援事業補助金交付要綱（別記様式第２号）誓約書.docx"
+  },
+  {
+   "name": "農家認証取得支援事業補助金交付要綱（別記様式第５号）遂行状況報告書.docx"
+  },
+  {
+   "name": "農家認証取得支援事業補助金交付要綱（別記様式第８号）請求書.docx"
+  }
+ ],
+ "institution_name": "農林水産物認証取得支援事業（農家認証取得支援事業）補助金",
+ "_meta": {
+  "first_seen": "2021-06-30T15:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

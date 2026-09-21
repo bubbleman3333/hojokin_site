@@ -1,0 +1,46 @@
+{
+ "id": "a0W5h00000UazXlEAJ",
+ "name": "S-00003864",
+ "title": "令和６年度再生可能エネルギー導入拡大に向けた分散型エネルギーリソース導入支援等事業費補助金",
+ "subsidy_catch_phrase": "なし",
+ "detail": "<p><strong style=\"font-size: 14px; color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>本事業は、配電事業等の構築に必要な蓄電池やエネルギーマネジメントシステム等のリソースの導入及び配電事業への参入検討を行う上で必要な計画策定（「間接補助事業」という。）を実施する者に対して、間接補助事業に要する経費の一部を補助する事業の実施に要する経費を補助することにより、再生可能エネルギーの更なる導入拡大や電力供給の安定化を促すことを目的としています。</p><p><br></p><p><strong style=\"font-size: 14px; color: rgb(0, 111, 173);\">■応募資格等条件</strong></p><p><span style=\"font-size: 14px;\">公募要領をご確認ください。</span></p><p><br></p><p><strong style=\"font-size: 14px; color: rgb(0, 111, 173);\">■問合せ先</strong></p><p><span style=\"font-size: 14px;\">経済産業省　資源エネルギー庁　</span></p><p><span style=\"font-size: 14px;\">省エネルギー・新エネルギー部　新エネルギーシステム課　</span></p><p><span style=\"font-size: 14px;\">メール：bzl-eneshisuka-system@meti.go.jp</span></p><p><span style=\"font-size: 14px;\">※なお、お問い合わせの際は、件名（題名）を必ず「再生可能エネルギー導入拡大に向けた分散型エネルギーリソース導入支援等事業について」としてください。他の件名（題名）ではお問い合わせに回答できない場合があります。</span></p>",
+ "use_purpose": "研究開発・実証事業を行いたい / 災害（自然災害、感染症等）支援がほしい / 安全・防災対策支援がほしい / 設備整備・IT導入をしたい",
+ "industry": "電気・ガス・熱供給・水道業",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "定額（10/10）",
+ "subsidy_max_limit": 1330000000,
+ "acceptance_start_datetime": "2024-02-20T01:00:00Z",
+ "acceptance_end_datetime": "2024-03-14T03:00:00Z",
+ "project_end_deadline": "2025-03-31T03:00:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W5h00000UazXlEAJ",
+ "application_guidelines": [
+  {
+   "name": "公募要領（申請書および提案書様式含む）.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "交付要綱（案）.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "①申請書（様式１）.docx"
+  },
+  {
+   "name": "②提案書（様式２）.docx"
+  },
+  {
+   "name": "③委託・外注費の額の割合が５０％を超える理由書（様式３）.docx"
+  }
+ ],
+ "institution_name": "再生可能エネルギー導入拡大・分散型エネルギーリソース導入支援等事業",
+ "_meta": {
+  "first_seen": "2024-02-20T01:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

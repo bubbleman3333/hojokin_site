@@ -1,0 +1,40 @@
+{
+ "id": "a0W2x000006EcltEAC",
+ "name": "S-00001518",
+ "title": "令和３年度補正　地域共生型再生可能エネルギー等普及促進事業費補助金（地域マイクログリッド構築支援事業のうち、 地域マイクログリッド構築事業）",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><b style=\"color: rgb(0, 111, 173);\">■目的・概要</b></p><p>地域の再生可能エネルギー設備・蓄電池等の調整力・EMS設備等を用いて、既存の系統線を活用して電力を供給できる「地域マイクログリッド」を構築する民間事業者等を支援することを目的とする。</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■補助対象設備</b></p><p>・再生可能エネルギー発電設備</p><p>（太陽光発電設備、風力発電設備、バイオマス発電設備、水力発電設備、地熱発電設備）</p><p>・エネルギーマネジメント設備（EMS設備）</p><p>・需給調整設備</p><p>（蓄電システム、業務用・産業用V2H充放電設備、発電設備、その他）</p><p>・受変電設備</p><p>・保安・遮断設備</p><p>（事故検知設備、遮断設備）</p><p>・その他</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■補助対象経費</b></p><p>設計費</p><p>設備費</p><p>工事費</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■補助率</b></p><p>補助対象経費の２／３以内</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■補助上限金額</b></p><p>6億円</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■問合せ先</b></p><p>一般社団法人 環境共創イニシアチブ　事業第３部</p><p>地域マイクログリッド構築支援事業　担当</p><p>ＴＥＬ：０３-３５４４-６１２５</p><p><a href=\"https://sii.or.jp/\" target=\"_blank\">https://sii.or.jp/</a></p><p><br></p><p>受付時間は平日の１０：００～１２：００、１３：００～１７：００です。</p><p>通話料がかかりますのでご注意ください。</p>",
+ "use_purpose": "新たな事業を行いたい / 災害（自然災害、感染症等）支援がほしい / 安全・防災対策支援がほしい / まちづくり・地域振興支援がほしい / 設備整備・IT導入をしたい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 公務（他に分類されるものを除く） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "全国",
+ "target_area_detail": "補助対象地域の制約なし",
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "補助対象経費の２／３以内",
+ "subsidy_max_limit": 600000000,
+ "acceptance_start_datetime": "2022-03-31T10:45:00Z",
+ "acceptance_end_datetime": "2022-05-20T08:00:00Z",
+ "project_end_deadline": null,
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000006EcltEAC",
+ "application_guidelines": [
+  {
+   "name": "R3補正地域マイクログリッド構築事業_公募要領.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "R3補正地域マイクログリッド構築事業_交付規程.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "R3rMG_kofu.zip"
+  }
+ ],
+ "institution_name": "【令和3年度補正】 地域共生型再生可能エネルギー等普及促進事業",
+ "_meta": {
+  "first_seen": "2022-03-31T10:45:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

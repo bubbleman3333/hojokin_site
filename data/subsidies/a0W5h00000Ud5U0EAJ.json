@@ -1,0 +1,36 @@
+{
+ "id": "a0W5h00000Ud5U0EAJ",
+ "name": "S-00004362",
+ "title": "令和６年度第１回　創業助成事業",
+ "subsidy_catch_phrase": "都内創業（予定）者に対し、創業初期に必要な経費の一部を助成します。",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>都内開業率の向上を目標に掲げ、東京都及び公益財団法人東京都中小企業振興公社では、東京都内で創業予定の個人又は創業から間もない中小企業者等に対し、創業初期に必要な経費の一部を助成する「創業助成事業」を実施しています。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); background-color: rgb(255, 255, 255);\">■助成対象者</strong></p><p>都内での創業を具体的に計画している個人又は創業後５年未満の中小企業者等のうち、一定の要件を満たす方</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■助成対象期間</strong></p><p>交付決定日（令和６年９月１日予定）から6か月以上２年が経過する日までの間で事業に必要な期間</p><p>【最長のケース(２年)】令和６年９月１日～令和８年８月31日</p><p>【最短のケース(６か月)】令和６年９月１日～令和７年２月28日</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■助成対象経費</strong></p><p>賃借料、広告費、器具備品購入費、産業財産権出願・導入費、専門家指導費、従業員人件費、委託費（市場調査・分析費）</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■申請要件</strong></p><p>【申請要件１】下記いずれかに当てはまる方</p><p>○都内で創業予定の個人の方</p><p>○都内で事業を行う、事業を始めてから５年未満の個人事業主の方・法人代表者の方</p><p>【申請要件２】指定された１9の創業支援事業のいずれかを利用し、所定の要件を満たしている方</p><p>※申請要件１・２の詳細、および３・４については募集要項をご確認ください。</p><p><br></p><p><strong style=\"background-color: rgb(255, 255, 255); color: rgb(0, 111, 173);\">■申請にあたっての注意事項</strong></p><p>・申請にあたっては、募集要項、電子申請マニュアルを必ずご確認ください。</p><p>・申請書は参照URL内にございます。</p><p><span style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);\">・jGrantsの仕様上、申請フォームは４月18日23:59に締め切りとなります。</span></p><p><span style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);\">・締め切りを超過した場合は一切受け付けができませんので時間に余裕を持った申請をお願いいたします。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>公益財団法人　東京都中小企業振興公社</p><p>事業戦略部　創業支援課　創業助成担当</p><p>TEL：03-5220-1142</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><a href=\"https://startup-station.jp/m2/services/sogyokassei/\" target=\"_blank\">https://startup-station.jp/m2/services/sogyokassei/</a></p>",
+ "use_purpose": "新たな事業を行いたい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 公務（他に分類されるものを除く） / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "東京都",
+ "target_area_detail": null,
+ "target_number_of_employees": "300名以下",
+ "subsidy_rate": "2/3以内",
+ "subsidy_max_limit": 4000000,
+ "acceptance_start_datetime": "2024-04-08T15:00:00Z",
+ "acceptance_end_datetime": "2024-04-18T14:59:00Z",
+ "project_end_deadline": "2026-08-31T14:59:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W5h00000Ud5U0EAJ",
+ "application_guidelines": [],
+ "outline_of_grant": [
+  {
+   "name": "boshuyoko_denshi_r6_1.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "densishinseimanyual_r6_1.pdf"
+  }
+ ],
+ "institution_name": "創業助成事業",
+ "_meta": {
+  "first_seen": "2024-04-08T15:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

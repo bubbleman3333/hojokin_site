@@ -1,0 +1,54 @@
+{
+ "id": "a0WJ2000000rx4vMAA",
+ "name": "S-00005163",
+ "title": "令和6年度東京都介護支援専門員法定研修受講料補助金",
+ "subsidy_catch_phrase": "介護支援専門員法定研修受講料を事業所等が負担した場合、一部を補助します",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><strong style=\"color: rgb(0, 111, 173);\">　</strong>東京都内の介護保険施設及び事業所等において、介護支援専門員資格を活用する業務に従事する者が資格取得及び資格維持に必要な法定研修を受講する際に</p><p>当該受講料を事業所等が負担をする場合、これに係る受講料を補助することで、介護支援専門員の人材確保・定着を促進することを目的としています。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); background-color: rgb(255, 255, 255);\">■補助金申請方法マニュアル：</strong><a href=\"https://www.kaigohouteikenshuhojokin.jp/\" target=\"_blank\" style=\"color: rgb(0, 111, 173); background-color: rgb(255, 255, 255);\"><strong>https://www.kaigohouteikenshuhojokin.jp/</strong></a></p><p><span style=\"color: rgb(68, 68, 68); background-color: rgb(255, 255, 255);\">　</span><strong style=\"color: rgb(1, 95, 189); background-color: rgb(255, 255, 255);\">Jグランツマニュアル：</strong><a href=\"https://www.jgrants-portal.go.jp/request-flow\" target=\"_blank\" style=\"color: rgb(1, 95, 189); background-color: rgb(255, 255, 255);\"><strong>https://www.jgrants-portal.go.jp/request-flow</strong></a></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">﻿■問合せ先</strong></p><p><strong style=\"color: rgb(0, 111, 173);\">　コールセンター</strong><span style=\"color: rgb(0, 0, 0); font-size: 18px;\">　</span><strong style=\"color: rgb(0, 0, 0); font-size: 18px;\"><u>０５０-３５０４-１８８１</u></strong><strong style=\"font-size: 18px;\"><u>（平日 午前９時から午後６時まで）</u></strong></p><p><strong style=\"font-size: 16px;\"> 【開設期間】令和６年９月２日（月）から令和７年３月２８日（金）</strong></p><p><strong style=\"font-size: 16px;\"> </strong>土曜日、日曜日、祝日及び年末年始（令和６年12月28日から令和７年１月５日まで）は除く</p><p>受託事業者：イマジネーション株式会社</p><p><strong style=\"color: rgb(0, 111, 173); background-color: rgb(255, 255, 255);\">　</strong></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); background-color: rgb(255, 255, 255);\">　■Q＆A　制度概要：</strong><span style=\"color: rgb(2, 18, 28); background-color: rgb(255, 255, 255);\">東京都ホームページ</span></p><p><strong style=\"color: rgb(0, 111, 173); background-color: rgb(255, 255, 255);\"> </strong>https://www.fukushi.metro.tokyo.lg.jp/kourei/hoken/kaigo_lib/care/kensyuuzyukouryouhozyo.html</p>",
+ "use_purpose": "人材育成を行いたい / 雇用・職場環境を改善したい",
+ "industry": "医療、福祉",
+ "target_area_search": "東京都",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "3/4",
+ "subsidy_max_limit": 0,
+ "acceptance_start_datetime": "2024-08-31T15:00:00Z",
+ "acceptance_end_datetime": "2025-03-30T15:00:00Z",
+ "project_end_deadline": null,
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ2000000rx4vMAA",
+ "application_guidelines": [],
+ "outline_of_grant": [
+  {
+   "name": "交付要綱.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "変更交付申請1010.xlsx"
+  },
+  {
+   "name": "補助要綱（様式）（実績報告）.XLSX"
+  },
+  {
+   "name": "補助要綱（様式）（確認書）.XLSX"
+  },
+  {
+   "name": "委任状.docx"
+  },
+  {
+   "name": "補助要綱（様式）（請求書） .xlsx"
+  },
+  {
+   "name": "補助要綱（様式）紙申請用（請求書）委任状を使用した場合.xlsx"
+  },
+  {
+   "name": "補助要綱（様式）（口座振替依頼書）委任状を使用した場合.XLSX"
+  }
+ ],
+ "institution_name": "介護支援専門員研修受講料補助金",
+ "_meta": {
+  "first_seen": "2024-08-31T15:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

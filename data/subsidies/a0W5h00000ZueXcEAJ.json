@@ -1,0 +1,67 @@
+{
+ "id": "a0W5h00000ZueXcEAJ",
+ "name": "S-00004742",
+ "title": "ドローンを活用したツアー造成支援補助金",
+ "subsidy_catch_phrase": "ストレスフリー観光の実現に資する新技術の実装を図る取組を支援します。",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■概要</strong></p><p>東京都では、障害者や高齢者を含む誰もがドローンを操作して観光を楽しめるコンテンツの創出を促進するなど、アクセシブル・ツーリズムを推進しています。</p><p>この度、ドローンを活用したツアーづくりへの補助を実施します。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象者</strong></p><p>東京都内に本社又は主たる営業所を置く旅行事業者</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象事業</strong></p><p>ドローンを活用し、障害者や高齢者など、移動やコミュニケーションにおける困難さに直面する人々のニーズに応えながら、誰もが都内観光を楽しみ地域の魅力を実感できる旅行商品を造成・販売・運営する取組</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象経費</strong></p><p>（１）<span style=\"color: rgb(68, 68, 68);\">商品造成経費（現地調査費、ドローン活用に係るシステム構築費 等）</span></p><p>（２）<span style=\"color: rgb(68, 68, 68);\">商品販売経費（広告掲載経費、広報ツール作成経費）</span></p><p>（３）<span style=\"color: rgb(68, 68, 68);\">商品運営経費（ツアー催行に係る経費、スタッフ手配経費）</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助限度額</strong></p><p>１旅行商品当たり５００万円 </p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助率</strong></p><p>３分の２以内</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>東京都産業労働局観光部受入環境課</p><p>電話：03-5320-4802</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><a href=\"https://www.sangyo-rodo.metro.tokyo.lg.jp/tourism/kakusyu/drone-accessibletourism/\" target=\"_blank\">https://www.sangyo-rodo.metro.tokyo.lg.jp/tourism/kakusyu/drone-accessibletourism/</a></p>",
+ "use_purpose": "新たな事業を行いたい / イベント・事業運営支援がほしい / 研究開発・実証事業を行いたい / まちづくり・地域振興支援がほしい / 設備整備・IT導入をしたい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 公務（他に分類されるものを除く） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "東京都",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "補助対象経費の2/3以内",
+ "subsidy_max_limit": 5000000,
+ "acceptance_start_datetime": "2026-09-17T05:00:00Z",
+ "acceptance_end_datetime": "2026-10-16T14:59:00Z",
+ "project_end_deadline": "2027-03-31T14:59:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W5h00000ZueXcEAJ",
+ "application_guidelines": [
+  {
+   "name": "令和８年度ドローンを活用したツアー造成等支援補助金 募集要領 第2回.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "ドローンを活用したツアー造成等支援補助金交付要綱.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "01第1号様式（交付申請書）.docx"
+  },
+  {
+   "name": "03第1号様式（経費別明細）.xlsx"
+  },
+  {
+   "name": "06第3号様式（遅延報告）.docx"
+  },
+  {
+   "name": "07第4号様式（変更申請書）.docx"
+  },
+  {
+   "name": "09第5号様式（実績報告書）.docx"
+  },
+  {
+   "name": "10第5号様式（別紙）.docx"
+  },
+  {
+   "name": "11経費別明細（5号関係）.xlsx"
+  },
+  {
+   "name": "13第7号様式（請求書）.docx"
+  },
+  {
+   "name": "14第8号様式（財産処分）.docx"
+  },
+  {
+   "name": "02第1号様式（事業計画書）.docx"
+  }
+ ],
+ "institution_name": "ドローンを活用したツアー造成支援事業",
+ "_meta": {
+  "first_seen": "2026-09-17T05:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

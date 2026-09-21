@@ -1,0 +1,49 @@
+{
+ "id": "a0W2x000006FDXlEAO",
+ "name": "S-00001949",
+ "title": "フィンテック企業等に対するイノベーション支援事業（金融サービス事業化支援補助金）",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的</strong></p><p>　本事業は、フィンテック企業等と金融事業者等の協働による実証実験の実施を促進し、フィンテック企業等の事業化を支援することで、都内フィンテック市場の活性化を図り、金融分野におけるイノベーションを創出していくことを目的とする。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象事業</strong></p><p><strong style=\"color: rgb(0, 111, 173);\">　</strong>本補助金の交付対象となる事業は、フィンテック企業等と金融事業者等が協働して、本事業の補助金の交付決定日以降で令和６年３月３１日までに実施を予定している金融分野のイノベーション創出に資する実証実験とする。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■根拠法令</strong></p><p>・東京都補助金等交付規則（昭和37年東京都規則第141号）</p><p>・東京都補助金等交付規則の施行について（昭和37年12月11日付財主調発第20号）</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格（一部抜粋）</strong></p><p>（１）革新的なアイデアや技術に基づくビジネスモデルにより、新たな金融サービスの事業化を志向するフィンテック企業等であること。</p><p>（２）東京都内に登記簿上の本店又は支店があること。</p><p>（３）実証実験の実施能力を有する事業者であり、実証実験を最後まで完遂する意思があること。</p><p>（４）補助対象事業について、同一年度内に国や他自治体（東京都の他部署を含む）からの委託や助成を受けていないこと。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象経費</strong></p><p>（１）クラウドサービス利用費</p><p>（２）委託・外注費</p><p>（３）専門家等への相談経費</p><p><br></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■交付申請受付期間</strong></p><p>本事業では以下の期間募集を行う。</p><p>令和５年４月28日（金）～令和６年２月29日（木）</p><p><br></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>東京都スタートアップ・国際金融都市戦略室 戦略推進部 戦略事業推進課 国際金融都市担当</p><p>電話：０３－５３８８－２１６３</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><a href=\"https://www.seisakukikaku.metro.tokyo.lg.jp/pgs/gfct/nurturing-players/post-35.html\" target=\"_blank\">https://www.seisakukikaku.metro.tokyo.lg.jp/pgs/gfct/nurturing-players/post-35.html</a></p>",
+ "use_purpose": "新たな事業を行いたい / 販路拡大・海外展開をしたい / 研究開発・実証事業を行いたい",
+ "industry": "分類不能の産業 / 金融業、保険業",
+ "target_area_search": "東京都",
+ "target_area_detail": "東京都",
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "2/3",
+ "subsidy_max_limit": 3000000,
+ "acceptance_start_datetime": "2023-04-28T05:00:00Z",
+ "acceptance_end_datetime": "2024-02-29T15:00:00Z",
+ "project_end_deadline": "2024-03-31T15:00:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000006FDXlEAO",
+ "application_guidelines": [
+  {
+   "name": "募集要領（事業化支援）.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "交付要綱（事業化支援）.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "第１号様式（交付申請書）（事業化支援）.docx"
+  },
+  {
+   "name": "第２号様式（事業概要書）（事業化支援）.docx"
+  },
+  {
+   "name": "第２号様式（別紙・実施計画書）（事業化支援）.docx"
+  },
+  {
+   "name": "第３号様式（宣誓書）（事業化支援）.docx"
+  }
+ ],
+ "institution_name": "フィンテック企業に対する海外進出支援事業",
+ "_meta": {
+  "first_seen": "2023-04-28T05:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

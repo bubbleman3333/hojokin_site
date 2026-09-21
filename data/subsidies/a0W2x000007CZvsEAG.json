@@ -1,0 +1,40 @@
+{
+ "id": "a0W2x000007CZvsEAG",
+ "name": "S-00002377",
+ "title": "令和４年度補正予算副業・兼業支援補助金",
+ "subsidy_catch_phrase": "【事務局】副業兼業支援補助金",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■公募概要</strong></p><p>経済産業省では、令和4年度補正予算「副業・兼業支援補助金」を実施する事務局を広く募集します。応募される方におかれましては、事業内容等をご理解いただいた上で、募集要領に基づき応募してください。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■事業内容</strong></p><p>企業等が副業に人材を送り出すため又は副業の人材を受け入れるために要する経費に対して、当該費用の一部を助成することにより、副業・兼業を促進し、もって企業間・産業間の労働移動の円滑化を図ることを目的とします。</p><p>事業内容の詳細、応募方法その他留意していただきたい点は、募集要領に記載のとおりです。応募される方は熟読いただくようお願いいたします。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■対象者</strong></p><p>募集要領に定める要件を満たす者を対象とします。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■公募期間</strong></p><p>令和5年1月6日（金曜日）～令和5年1月26日（木曜日）12時〆</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■提出先</strong></p><p>本事業は、補助金申請システム「jGrants」で応募を受け付けます。</p><p>jGrantsを利用されない方は、電子メールでの応募も可能です。</p><p>※詳細は、募集要領をご確認ください。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>〒100-8901 東京都千代田区霞が関1-3-1</p><p>経済産業省 経済産業政策局 産業人材課 </p><p>担当：高木、鈴木、高瀬</p><p>電話：03-3501-2259</p><p>E-MAIL：bzl-fukugyo-kengyo@meti.go.jp</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); background-color: rgb(255, 255, 255);\">■参照URL</strong></p><p><a href=\"https://www.meti.go.jp/information/publicoffer/kobo/2023/k230106002.html\" target=\"_blank\" style=\"color: rgb(0, 111, 173); background-color: rgb(255, 255, 255);\">https://www.meti.go.jp/information/publicoffer/kobo/2023/k230106002.html</a></p>",
+ "use_purpose": "人材育成を行いたい",
+ "industry": "分類不能の産業",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": null,
+ "subsidy_max_limit": 4299400000,
+ "acceptance_start_datetime": "2023-01-05T15:00:00Z",
+ "acceptance_end_datetime": "2023-01-26T03:00:00Z",
+ "project_end_deadline": "2023-03-31T14:45:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000007CZvsEAG",
+ "application_guidelines": [
+  {
+   "name": "募集要領.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "交付要綱（案）.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "申請書及び提案書.docx"
+  }
+ ],
+ "institution_name": "副業・兼業支援補助金",
+ "_meta": {
+  "first_seen": "2023-01-05T15:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

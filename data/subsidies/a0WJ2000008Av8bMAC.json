@@ -1,0 +1,41 @@
+{
+ "id": "a0WJ2000008Av8bMAC",
+ "name": "S-00005455",
+ "title": "デジタル技術活用推進助成金に係る状況報告等について",
+ "subsidy_catch_phrase": "東京都中小企業振興公社の実施するデジタル技術活用推進助成事業の完了後の活用状況報告用のページです。",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>東京都中小企業振興公社の実施するデジタル技術活用推進助成事業において事業完了後に下記の提出を５年間行なう。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■本ページの対象事業者</strong></p><p><span style=\"color: rgb(0, 0, 0);\">すでに助成事業が完了（※）しており、上記の提出物を郵送で行ってる事業者</span></p><p><span style=\"color: rgb(0, 0, 0);\">（※）完了とは、助成金が支払済みの事業を指します。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■備考</strong></p><p><span style=\"color: rgb(0, 0, 0);\">gBizIDプライムアカウントを取得の上、提出する必要があります。</span></p><p><br></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問い合わせ先</strong></p><p><span style=\"color: rgb(0, 0, 0);\">東京都中小企業振興公社総合支援部生産性向上支援課</span></p><p><span style=\"color: rgb(0, 0, 0);\">TEL : 03-3251-7919</span></p>",
+ "use_purpose": "設備整備・IT導入をしたい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "東京都",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": null,
+ "subsidy_max_limit": 0,
+ "acceptance_start_datetime": "2022-11-12T15:00:00Z",
+ "acceptance_end_datetime": "2029-02-14T15:00:00Z",
+ "project_end_deadline": null,
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ2000008Av8bMAC",
+ "application_guidelines": [],
+ "outline_of_grant": [],
+ "application_form": [
+  {
+   "name": "別紙1-2_生産性デジ推助成金の結果状況報告.xlsx"
+  },
+  {
+   "name": "別紙1-5_【対象者のみ】賃金引上げ計画実績報告書.xlsx"
+  },
+  {
+   "name": "別紙1-3_効果調査票.docx"
+  },
+  {
+   "name": "別紙1-4_変更届_生産性デジ推活用状況報告.docx"
+  }
+ ],
+ "institution_name": "デジタル技術活用推進助成金",
+ "_meta": {
+  "first_seen": "2022-11-12T15:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

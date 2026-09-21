@@ -1,0 +1,46 @@
+{
+ "id": "a0WJ2000000p4S1MAI",
+ "name": "S-00004917",
+ "title": "令和6年度「年収の壁」対策支援奨励金",
+ "subsidy_catch_phrase": "働く意欲のある女性が就業調整を行うことなく、能力を十分に発揮できる環境を整備するため、「年収の壁」の原因の１つとなっている配偶者の収入要件がある家族手当の見直しを行った都内中小企業事業主に奨励金を交付します。",
+ "detail": "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><h3 style=\"text-align: center;\"><strong style=\"font-size: 22px;\">【交付申請期間】</strong></h3><h3 style=\"text-align: center;\"><strong style=\"font-size: 22.88px;\">事前エントリー当選メール送信日から1か月以内</strong></h3><h3 style=\"text-align: center;\"><strong style=\"font-size: 22.88px;\">（当日23時59分まで）</strong></h3><p style=\"text-align: center;\"><span style=\"font-size: 22px;\">奨励金詳細は下記よりご確認ください。</span></p><p style=\"text-align: center;\"><a href=\"https://nenshunokabe-syoureikin.jp/\" target=\"_blank\" style=\"font-size: 20px;\">「年収の壁」対策支援奨励金特設WEBサイト</a></p><p style=\"text-align: center;\"><a href=\"https://www.shigotozaidan.or.jp/koyo-kankyo/joseikin/nensyunokabe.html\" target=\"_blank\" style=\"font-size: 20px;\">（公財）東京しごと財団HP</a></p><p style=\"text-align: center;\">【お問い合わせ先】</p><p style=\"text-align: center;\">（公財）東京しごと財団「年収の壁」対策支援奨励金担当</p><p style=\"text-align: center;\">&#128222;03-5211-2315（平日9時～17時）*平日12時～13時、土日・祝日、年末年始を除く</p>",
+ "use_purpose": "雇用・職場環境を改善したい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "東京都",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": null,
+ "subsidy_max_limit": 100000,
+ "acceptance_start_datetime": "2024-06-05T01:30:00Z",
+ "acceptance_end_datetime": "2025-04-06T15:00:00Z",
+ "project_end_deadline": "2026-03-30T15:00:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ2000000p4S1MAI",
+ "application_guidelines": [
+  {
+   "name": "「年収の壁」対策支援奨励金募集要項.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "「年収の壁」対策支援奨励金交付要綱.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "各種様式（入力用）.zip"
+  },
+  {
+   "name": "各種様式（記入例）.zip"
+  },
+  {
+   "name": "各種様式（PDF印刷用）.zip"
+  }
+ ],
+ "institution_name": "「年収の壁」対策支援奨励金",
+ "_meta": {
+  "first_seen": "2024-06-05T01:30:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

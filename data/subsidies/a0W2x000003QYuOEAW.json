@@ -1,0 +1,40 @@
+{
+ "id": "a0W2x000003QYuOEAW",
+ "name": "S-00000880",
+ "title": "出向起業等創出支援事業（令和３年度１次公募）",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><b style=\"color: rgb(0, 111, 173); font-size: 14px;\">■目的・概要:</b></p><p style=\"text-align: justify;\"><span style=\"font-size: 11pt; color: black;\">我が国においては、多くの人材がいわゆる「大企業」に集中しているなか、企業内で０からの新規事業に挑戦できる環境・機会は決して十分ではありません。また、現下の状況においては、コロナ禍の影響で、大企業等による新規事業へのリソース投下や大企業等人材個人による辞職起業が行いにくくなることが見込まれます。</span></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><span style=\"font-size: 11pt; color: black;\">このような状況を踏まえ、本事業では、大企業等の経営資源の開放に資するエコシステムの構築を促し、新規事業に係る多様な経営人材を育成し、新規事業創造を促進することを目的とし、「出向起業」を行う事業者を対象に、新規事業に係る試作品開発等に伴う経費の一部を補助いたします。</span></p><p><br></p><p><b style=\"font-size: 14px; color: rgb(0, 111, 173);\">■補助上限額について:</b></p><p><span style=\"font-size: 14px;\">補助上限額は申請内容によって異なりますので、詳細は公募要領をご確認ください。</span></p><p><br></p><p><b style=\"color: rgb(0, 111, 173); font-size: 14px;\">■備考:</b></p><p><span style=\"font-size: 14px;\">事業完了期限までに全ての補助対象経費の検収および支払いを完了させてください。</span></p><p><br></p><p><b style=\"font-size: 14px; color: rgb(0, 111, 173);\">■問合せ先</b></p><p><span style=\"font-size: 14px;\">出向起業等創出支援事業　事務局</span></p><p><span style=\"font-size: 14px; background-color: rgb(255, 255, 255); color: rgb(62, 62, 60);\">TEL： 03-6435-8542</span></p><p><span style=\"font-size: 14px;\">MAIL： syukko-kigyo@jissui.or.jp</span></p><p><span style=\"font-size: 14px;\">※メールにてお問合せいただく際は、</span><b style=\"font-size: 14px;\">「電子申請（jGrants）利用」</b><span style=\"font-size: 14px;\">の旨も明記してください。</span></p><p><br></p><p><b style=\"font-size: 14px; color: rgb(0, 111, 173);\">■参照URL</b></p><p><span style=\"font-size: 14px;\">URL：</span><a href=\"https://jissui.or.jp/project/project002/\" target=\"_blank\" style=\"font-size: 14px;\">https://jissui.or.jp/project/project002</a></p>",
+ "use_purpose": "新たな事業を行いたい / 研究開発・実証事業を行いたい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 公務（他に分類されるものを除く） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "1/2",
+ "subsidy_max_limit": 0,
+ "acceptance_start_datetime": "2021-04-16T01:00:00Z",
+ "acceptance_end_datetime": "2021-05-31T08:00:00Z",
+ "project_end_deadline": "2022-01-31T15:00:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000003QYuOEAW",
+ "application_guidelines": [
+  {
+   "name": "r3sk_kouboyouryou.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "r3sk_koufukitei.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "r3sk_shinseishorui.zip"
+  }
+ ],
+ "institution_name": "令和3年度 大企業人材等新規事業創造支援事業費補助金",
+ "_meta": {
+  "first_seen": "2021-04-16T01:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

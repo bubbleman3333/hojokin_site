@@ -1,0 +1,40 @@
+{
+ "id": "a0WJ200000CDHcNMAX",
+ "name": "S-00005749",
+ "title": "令和７年度技術協力活用型・新興国市場開拓事業費補助金（社会課題解決型国際共同開発事業）",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"font-size: 11pt;\">日本企業が成長著しい新興国市場において経済的プレゼンスを獲得するためには、目まぐるしく変化するビジネス環境や、多様性に富んだ現地顧客のニーズに合致した製品・サービスを適時適切に投入することが重要です。他方、中堅・中小企業等がこれを実施するには、限られた資金や人材の不足が障壁となっています。特に、日本企業の進出が少なく、情報も少ないアフリカ等の地域では、こうした状況が顕著です。</span></p><p>\t<span style=\"font-size: 11pt;\">本事業では他社に先駆けて、開発途上国における社会課題の解決に繋がる製品・サービスの開発等に、開発途上国現地の大学・研究機関・NGO・企業等と共同で取り組む日本企業を事業リスク軽減の観点から支援します。具体的には、現地ニーズに合致した製品・サービスの開発等に必要な費用の一部を民間機関等が助成し、開発途上国の社会課題解決及び日本企業の海外展開を促進します。</span></p>",
+ "use_purpose": "新たな事業を行いたい / 販路拡大・海外展開をしたい / イベント・事業運営支援がほしい / 研究開発・実証事業を行いたい / 人材育成を行いたい",
+ "industry": "分類不能の産業",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "募集要項参照",
+ "subsidy_max_limit": 85000000,
+ "acceptance_start_datetime": "2025-01-16T03:00:00Z",
+ "acceptance_end_datetime": "2025-02-17T03:00:00Z",
+ "project_end_deadline": "2026-03-31T14:59:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDHcNMAX",
+ "application_guidelines": [
+  {
+   "name": "02_募集要領（社会課題解決型国際共同開発事業）.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "01_交付要綱改正案（社会課題解決型国際共同開発事業）.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "04_（様式２）提案書（社会課題解決型国際共同開発事業）.pdf"
+  }
+ ],
+ "institution_name": "技術協力活用型・新興国市場開拓事業費補助金（社会課題解決型国際共同開発事業（製品・サービス開発等支援事業））",
+ "_meta": {
+  "first_seen": "2025-01-16T03:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

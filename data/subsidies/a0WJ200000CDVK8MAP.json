@@ -1,0 +1,39 @@
+{
+ "id": "a0WJ200000CDVK8MAP",
+ "name": "S-00007302",
+ "title": "令和7年度 宇宙製品等開発経費助成",
+ "subsidy_catch_phrase": "宇宙産業をテーマとする製品・技術の研究開発に必要な経費を助成",
+ "detail": "<p><strong style=\"color: rgb(255, 0, 0); font-size: 18px;\">※　ご申請の際は、必ず募集要項をご確認ください　※</strong></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■事業ホームページ</strong></p><p><a href=\"https://www.tokyo-kosha.or.jp/support/josei/jigyo/uchu-josei/index.html\" target=\"_blank\">https://www.tokyo-kosha.or.jp/support/josei/jigyo/uchu-josei/index.html</a></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■助成事業の目的</strong></p><p>都内の中小企業者等に対して、「宇宙産業」をテーマとする製品や技術の開発・改良に係る経費の一部を助成することにより、中小企業の宇宙産業におけるビジネスチャンス獲得を後押しすることを目的としています。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■助成対象者</strong></p><p>・都内の本店又は支店で実質的な事業活動を行っている中小企業者（会社及び個人事業者）等</p><p>・都内での創業を具体的に計画している個人</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■助成対象事業</strong></p><p>宇宙産業をテーマとする製品・技術の研究開発</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■助成内容</strong></p><p>本助成事業は「機器開発助成」と「ソリューション開発助成」により構成されています。</p><p>申請時にどちらか一方を選択いただき、選択内容に基づいて審査を行います。</p><p>※ 申請後、「機器開発助成」「ソリューション開発助成」の変更を行うことはできません。</p><p><br></p><p><strong>（1）機器開発助成</strong></p><p class=\"ql-indent-1\">・対象事業　：　ロケット、人工衛星、探査機、地上施設及びこれらに関連した機器類の開発・改良</p><p class=\"ql-indent-1\">・限度額　　：　1億円（申請下限額1,500万円）</p><p class=\"ql-indent-1\">・助成率　　：　助成対象経費の2/3以内</p><p class=\"ql-indent-1\">・対象期間　：　令和8年2月1日から最長令和11年1月31日（3年以内）</p><p class=\"ql-indent-1\">・対象経費　：　研究開発に要する経費</p><p class=\"ql-indent-4\">①原材料・副資材費　②機械装置・工具器具費　③委託・外注費　④専門家指導費　⑤産業財産権出願・導入費　⑥直接人件費　⑦展示会等出展費　⑧広告費</p><p><strong>（2）ソリューション開発助成</strong></p><p class=\"ql-indent-1\">・対象事業　：　「人工衛星による通信・観測・測位」等のデータ利活用サービスの開発・改良</p><p class=\"ql-indent-1\">・限度額　　：　2,000万円 （※ 申請下限額はありません）</p><p class=\"ql-indent-1\">・助成率　　：　助成対象経費の2/3以内</p><p class=\"ql-indent-1\">・対象期間　：　令和8年2月1日から最長令和9年10月31日（1年9か月以内）</p><p class=\"ql-indent-1\">・対象経費　：　研究開発に要する経費</p><p class=\"ql-indent-4\">①原材料・副資材費　②機械装置・工具器具費　③委託・外注費　④専門家指導費　⑤産業財産権出願・導入費　⑥直接人件費　⑦展示会等出展費　⑧広告費</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■申請受付期間</strong></p><p>令和7年9月19日（金）　～　10月10日（金）17時00分</p><p>※　受付期間を過ぎた場合は、申請を受け付けることができません。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>公益財団法人東京都中小企業振興公社</p><p>企画管理部　助成課　宇宙助成事務局</p><p>〒101-0022　東京都千代区神田練塀町3-3　大東ビル4階</p><p>TEL：03-3251-7894</p><p>e-mail：uchu-josei@tokyo-kosha.or.jp</p>",
+ "use_purpose": "新たな事業を行いたい / 研究開発・実証事業を行いたい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "東京都",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "助成対象経費の2/3以内",
+ "subsidy_max_limit": 100000000,
+ "acceptance_start_datetime": "2025-09-18T15:00:00Z",
+ "acceptance_end_datetime": "2025-10-10T08:00:00Z",
+ "project_end_deadline": "2029-01-31T14:59:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVK8MAP",
+ "application_guidelines": [
+  {
+   "name": "募集要項_令和7年度宇宙製品等開発経費助成.pdf"
+  }
+ ],
+ "outline_of_grant": [],
+ "application_form": [
+  {
+   "name": "令和7年度宇宙製品等開発経費助成_機器開発助成_申請書.xlsx"
+  },
+  {
+   "name": "令和7年度宇宙製品等開発経費助成_ソリューション開発助成_申請書.xlsx"
+  }
+ ],
+ "institution_name": "航空宇宙産業への参入支援事業",
+ "_meta": {
+  "first_seen": "2025-09-18T15:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

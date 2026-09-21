@@ -1,0 +1,43 @@
+{
+ "id": "a0W2x000007CaUtEAK",
+ "name": "S-00002389",
+ "title": "令和4年度 事業環境変化対応型支援事業費補助金（相談窓口設置運営事業）",
+ "subsidy_catch_phrase": "インボイス制度の導入にあたり、中小・小規模事業者が抱える経営課題を相談できるワンストップ窓口を設置し、運営するための費用を補助する。ＢＰＯ事業等を行っている民間事業者の事業を補助させていだたき、インボイス制度の円滑な導入を実現する。",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>インボイス制度の円滑な導入に向け、中小・小規模事業者からの経営相談や各種支援策の相談等への対応を実施するために、補助事業者が相談窓口を設置し、相談内容に応じた各種窓口への案内、専門家等を活用した相談体制の構築等を行うためのオンラインツール等の導入、専門家等の活用に係る費用等の必要な経費を補助することにより、中小・小規模事業者のインボイス制度への円滑な対応を図ることを目的とする。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>中小企業庁　小規模企業振興課　団体班</p><p>TEL：03ｰ3501ｰ2036</p><p>FAX：03-3501-6989</p><p>mail: bzl-invoice-team@meti.go.jp</p><p><br></p>",
+ "use_purpose": "新たな事業を行いたい / イベント・事業運営支援がほしい",
+ "industry": "情報通信業 / サービス業（他に分類されないもの）",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "定額",
+ "subsidy_max_limit": 1800000000,
+ "acceptance_start_datetime": "2023-02-07T03:00:00Z",
+ "acceptance_end_datetime": "2023-02-17T08:00:00Z",
+ "project_end_deadline": "2023-03-31T08:00:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000007CaUtEAK",
+ "application_guidelines": [
+  {
+   "name": "令和４年度「事業環境変化対応型支援事業費補助金（相談窓口設置運営事業）」に係る補助事業者募集要領.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "事業環境変化対応支援事業費補助金（相談窓口設置運営事業）交付要綱.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "様式１.docx"
+  },
+  {
+   "name": "様式２.docx"
+  }
+ ],
+ "institution_name": "事業環境変化対応型支援事業費補助金（相談窓口設置運営事業）",
+ "_meta": {
+  "first_seen": "2023-02-07T03:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

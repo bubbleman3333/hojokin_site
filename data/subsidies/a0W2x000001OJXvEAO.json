@@ -1,0 +1,70 @@
+{
+ "id": "a0W2x000001OJXvEAO",
+ "name": "S-00000113",
+ "title": "令和３年度　神戸挑戦企業等支援補助金",
+ "subsidy_catch_phrase": "神戸市内中小企業の戦略産業分野における新事業展開のための試作開発や新素材・新製品の実用化に向けた開発、大学・公設試等の研究機関等と連携し社会課題の解決につながる革新的な開発を支援いたします。",
+ "detail": "<p><b style=\"color: rgb(0, 111, 173); font-size: 16px;\">■目的・概要</b></p><p><span style=\"font-size: 16px;\">戦略産業分野（航空・宇宙、医療・健康・福祉、農業・食糧、環境・エネルギー（水素を除く）の４分野）における新事業展開のための試作開発や新素材・新製品の実用化に向けた開発、大学・公設試等の研究機関等と連携し社会課題の解決につながる革新的な開発に取り組む神戸市内中小企業等に対し補助金を交付することにより、ものづくり技術の高度化と市内産業の振興を図ります。</span></p><p><br></p><p><b style=\"color: rgb(0, 111, 173); font-size: 16px;\">■補助対象となる企業</b></p><p><span style=\"font-size: 16px;\">本補助金の補助対象者は、以下の要件を満たす者とします。</span></p><p><br></p><p><span style=\"font-size: 16px;\">① 単独枠</span></p><p><span style=\"font-size: 16px;\">市内中小企業で、神戸市市税条例に定める神戸市税の滞納又は未申告がない者</span></p><p><span style=\"font-size: 16px;\">※ 市内中小企業とは、神戸市内に本社または主たる事業所を置く中小企業をいいます。 </span></p><p><br></p><p><span style=\"font-size: 16px;\">② コンソーシアム枠</span></p><p><span style=\"font-size: 16px;\">市内中小企業が幹事となって構成されるコンソーシアムで、市内企業に神戸市市税条例に定める神戸市税の滞納又は未申告がない者</span></p><p><span style=\"font-size: 16px;\">※ 構成する企業の内、2分の1以上が市内企業であることが必要です。</span></p><p><span style=\"font-size: 16px;\">※ 市内中小企業とは、神戸市内に本社または主たる事業所を置く中小企業をいいます。 </span></p><p><span style=\"font-size: 16px;\">※ 産学連携事業で申請される場合は、必然的にコンソーシアム枠となります。</span></p><p><br></p><p><b style=\"color: rgb(0, 111, 173); font-size: 16px;\">■備考</b></p><p><span style=\"font-size: 16px;\">詳細は公募要領をご確認ください。</span></p><p><br></p><p><b style=\"color: rgb(0, 111, 173); font-size: 16px;\">■問合せ先</b></p><p><span style=\"font-size: 16px;\">神戸市経済観光局工業課　電話：(078)984-0340</span></p><p><span style=\"font-size: 16px;\">〒651-0087</span></p><p><span style=\"font-size: 16px;\">神戸市中央区御幸通6-1-12（三宮ビル東館4階）</span></p><p><span style=\"font-size: 16px;\">（お問い合わせは土・日・祝日を除く9:00～12:00、13:00～17:00）</span></p><p><br></p><p><b style=\"color: rgb(0, 111, 173); font-size: 16px;\">■参照URL</b></p><p><a href=\"http://new.cms.city.kobe.lg.jp/cms8341/a93457/business/sangyoshinko/shokogyo/venture/monodukuri/r3tyousenkigyo.html\" target=\"_blank\" style=\"font-size: 16px;\">令和3年度　神戸挑戦企業等支援補助金（神戸市HP）</a></p>",
+ "use_purpose": "新たな事業を行いたい / 研究開発・実証事業を行いたい",
+ "industry": "製造業",
+ "target_area_search": "兵庫県",
+ "target_area_detail": "神戸市",
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "最大1/2（補助上限金額は申請枠ごとに異なります。詳細は公募要領をご確認ください）",
+ "subsidy_max_limit": 4000000,
+ "acceptance_start_datetime": "2021-05-07T05:00:00Z",
+ "acceptance_end_datetime": "2021-06-04T08:00:00Z",
+ "project_end_deadline": "2022-03-30T15:00:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000001OJXvEAO",
+ "application_guidelines": [
+  {
+   "name": "令和３年度 神戸挑戦企業等支援補助制度公募要領.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "神戸挑戦企業等支援補助金交付要綱.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "【様式第３号】企業概要書.doc"
+  },
+  {
+   "name": "【様式第７号その２・別記】事業計画書（コンソ2カ年事業・2年目用）.doc"
+  },
+  {
+   "name": "【様式第１１号その１・その２】事業実績報告書.doc"
+  },
+  {
+   "name": "【様式第１３号】請求書.doc"
+  },
+  {
+   "name": "【様式第２号】コンソーシアム概要書.doc"
+  },
+  {
+   "name": "【様式第９号】概算払請求書.doc"
+  },
+  {
+   "name": "【様式第４号その１～その４・別記】事業計画書.doc"
+  },
+  {
+   "name": "【様式第４号の２】神戸市税に関する誓約書 兼 承諾書.doc"
+  },
+  {
+   "name": "【様式第７号の２】神戸市税に関する誓約書 兼 承諾書（コンソ2カ年事業・2年目用）.doc"
+  },
+  {
+   "name": "【様式第１０号】補助事業計画変更等届出書.doc"
+  },
+  {
+   "name": "【様式第１４号】状況報告書.doc"
+  }
+ ],
+ "institution_name": "【神戸市】神戸挑戦企業等支援補助金",
+ "_meta": {
+  "first_seen": "2021-05-07T05:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

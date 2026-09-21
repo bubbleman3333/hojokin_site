@@ -1,0 +1,39 @@
+{
+ "id": "a0W2x000003QcJcEAK",
+ "name": "S-00000909",
+ "title": "令和３年度無線システム普及支援事業費等補助金",
+ "subsidy_catch_phrase": "中間周波数漏洩対策事業",
+ "detail": "<p><b style=\"color: rgb(0, 111, 173);\">■目的・概要</b></p><p><span style=\"font-size: 10.5pt;\">新４Ｋ８Ｋ衛星放送受信には、適切な衛星放送用受信設備を用いなければ、放送受信が困難になるだけでなく、放送電波が漏洩して他の無線局運用に影響を及ぼす可能性があります。引き続き、この事象を広く周知すると共に、具体的な対策工事を行う申請者に国の助成金を交付し、新４Ｋ８Ｋ衛星放送の受信設備からの電波漏洩対策を施し、他の無線システムとの共用をはかり我が国の電波の有効利用と電波環境の維持・発展を図ります</span><span style=\"font-size: 10.5pt;\">。</span></p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■根拠法令</b></p><p>無線システム普及支援事業費等補助金交付要領</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■応募資格</b></p><p>電波漏洩対策の工事登録事業者</p><p>漏洩対策が必要な受信設備の所有者</p><p>電器店、家電量販店、ホームセンター等</p><p>マンション管理組合等</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■地理条件</b></p><p>全国</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■備考</b></p><p>（ここに備考を入力して下さい。）</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■問合せ先</b></p><p>（一般社団法人）放送サービス推進協会</p><p>　4K8K推進センター</p><p>　03-5785-3770</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■参照URL</b></p><p>URL：　http://www.apab.or.jp</p>",
+ "use_purpose": "設備整備・IT導入をしたい",
+ "industry": "建設業 / 情報通信業 / 卸売業、小売業",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": null,
+ "subsidy_max_limit": 25000000,
+ "acceptance_start_datetime": "2021-04-01T03:00:00Z",
+ "acceptance_end_datetime": "2022-02-10T03:00:00Z",
+ "project_end_deadline": "2022-03-31T03:00:00Z",
+ "request_reception_presence": "無",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000003QcJcEAK",
+ "application_guidelines": [],
+ "outline_of_grant": [
+  {
+   "name": "中間周波数漏洩対策事業助成金交付要綱_2021年度版_20210402.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "様式10 工事実績報告書（集合）V4_1.pdf"
+  },
+  {
+   "name": "様式4 助成金交付申請書（集合）V4_1.pdf"
+  }
+ ],
+ "institution_name": "令和３年度無線システム普及支援事業費等補助金",
+ "_meta": {
+  "first_seen": "2021-04-01T03:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

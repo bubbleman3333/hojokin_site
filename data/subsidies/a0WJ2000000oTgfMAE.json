@@ -1,0 +1,52 @@
+{
+ "id": "a0WJ2000000oTgfMAE",
+ "name": "S-00004796",
+ "title": "令和6年度_建設機械の電動化促進事業",
+ "subsidy_catch_phrase": "建設機械の電動化促進をはかり、2050年カーボンニュ－トラル及び2030年温室効果ガス削減目標（2013年度比46％減）の達成の一助とします。",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>補助金は、建設事業者等がGX建設機械等を導入する際に必要な経費について、その一部を補助することにより、建設現場等で使用されるGX建設機械の普及促進、市場活性化及び一層の二酸化炭素排出抑制を支援し、低炭素社会の実現に資することを目的とするものです。</p><p>多様な地域・現場におけるGX建設機械を用いた施工のモデルケースを把握することで、今後のＧＸ建設機械の普及拡大に資することに重点を置いて取組を行います。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p>補助対象事業者</p><p>・民間企業</p><p>・ 独立行政法人通則法(平成１１年法律第１０３号)第２条第１項に規定する独立行政法人</p><p>・一般社団法人・一般財団法人及び公益社団法人・公益財団法人</p><p>・その他環境大臣の承認を経て協会が認める者</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); background-color: rgb(255, 255, 255);\">■</strong><strong style=\"color: rgb(1, 114, 176);\">申請者</strong></p><p>・建設機械の販売店等による代行申請を原則としています。</p><p><br></p><p><strong style=\"color: rgb(0, 109, 169); background-color: rgb(255, 255, 255);\">■</strong><strong style=\"color: rgb(0, 109, 169);\">補助対象機械</strong></p><p>・電動建設機械の導入に当たっては、国土交通省がＧＸ建設機械と認定した機種及び型式</p><p>・充電設備の導入に当たっては、①の認定機械を充電するために、当該ＧＸ建設機械の製造事業者、輸入事業者等からの申請に基づき事前に協会で審査・承認されたものであり、上記ＧＸ建設機械とあわせて調達するもの</p><p>・補助対象となる建設機械稼働時にCO2を無排出で運用できること</p><p><br></p><p>※その他の要件や詳細については「公募要領」を参照してください。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■</strong><strong style=\"color: rgb(0, 106, 166);\">公募期間</strong></p><p><strong style=\"color: rgb(0, 106, 166);\">2次公募</strong></p><p>・2024年10月1日(火)～11月29日(金)</p><p>※申請書類作成にあたっては、日本建設機械施工協会ホームページより「申請書類」をダウンロードしてください。すべての必要書類を準備いただき申請してください。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>一般社団法人日本建設機械施工協会　「建設機械の電動化促進事業」　事務局</p><p>E-mail:　jcma_hojyo@jcmanet.or.jp</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p>https://jcmanet.or.jp/hojojigyo/</p>",
+ "use_purpose": "エコ・SDGs活動支援がほしい",
+ "industry": "漁業 / 建設業 / 製造業 / サービス業（他に分類されないもの） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "補助対象経費の2/3(但し上限無し）公募要領参照",
+ "subsidy_max_limit": 209330000,
+ "acceptance_start_datetime": "2024-05-27T00:30:00Z",
+ "acceptance_end_datetime": "2024-11-28T04:30:00Z",
+ "project_end_deadline": "2025-04-30T03:00:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ2000000oTgfMAE",
+ "application_guidelines": [
+  {
+   "name": "建設機械の電動化促進事業　補助金公募要領.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "建設機械の電動化促進事業　補助金交付規定.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "①様式16　公募申請書.doc"
+  },
+  {
+   "name": "②様式第1（別紙1）事業実施計画書.doc"
+  },
+  {
+   "name": "③計算ファイル輸送機器用.xlsx"
+  },
+  {
+   "name": "④様式第1（別紙2）経費所要額精算調書内訳.doc"
+  },
+  {
+   "name": "⑤様式17　別紙2明細.docx"
+  }
+ ],
+ "institution_name": "二酸化炭素排出抑制対策事業費等補助金",
+ "_meta": {
+  "first_seen": "2024-05-27T00:30:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

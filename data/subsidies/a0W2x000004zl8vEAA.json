@@ -1,0 +1,40 @@
+{
+ "id": "a0W2x000004zl8vEAA",
+ "name": "S-00002039",
+ "title": "令和4年度当初予算「Beyond 5G研究開発促進事業（電波有効利用型）」に係る補助事業者の公募",
+ "subsidy_catch_phrase": "【補助事業者（執行機関）】Beyond 5Gの実現に必要な要素技術を確立するため、Beyond 5G研究開発基金を活用した取組と密接な連携を図りつつ、民間企業や大学等への公募型研究開発を実施する事業。",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"color: rgb(51, 51, 51); font-size: 12.8px;\">　総務省では、2030年代のあらゆる産業・社会の基盤になると想定される次世代の情報通信技術Beyond 5Gについて、その実現に必要な要素技術を早期に確立するため、専門的な知見や経験を有する団体（執行機関）を通じ、企業、大学等の研究開発を支援することとしています（Beyond 5G研究開発促進事業）。</span></p><p><span style=\"color: rgb(51, 51, 51); font-size: 12.8px;\">　このため、本件公募により、Beyond 5Gに関する研究開発を行う企業、大学等に対する研究開発の委託に係る事務等を行う執行機関を補助事業者として公募します。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p><strong style=\"font-size: 12px; background-color: rgb(255, 255, 255);\"><u>独立行政法人又は一般社団法人若しくは一般財団法人であること。</u></strong></p><p><span style=\"font-size: 12px;\">その他、公募要領をご参照ください。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■備考</strong></p><p><span style=\"font-size: 12px;\">必要書類（提案書）等については、下記参照URLから総務省のウェブページをご参照ください。</span></p><p><span style=\"color: rgb(51, 51, 51); font-size: 12.8px;\">また、本事業において委託を行う研究開発は、Beyond 5Gの実現に向けた要素技術のうち、「周波数を効率的に利用する技術」、「周波数の共同利用を促進する技術」又は「高い周波数への移行を促進する技術」とします。詳しくは、下記参照URL内の「研究開発方針」をご参照ください。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p><span style=\"color: rgb(51, 51, 51); font-size: 12.8px;\">総務省 国際戦略局 技術政策課 調査係</span></p><p><span style=\"color: rgb(51, 51, 51); font-size: 12.8px;\">電話：（直通）03－5253－5727</span></p><p><span style=\"color: rgb(51, 51, 51); font-size: 12.8px;\">E-mail：b5g-rd_atmark_ml.soumu.go.jp</span></p><p><span style=\"color: rgb(51, 51, 51); font-size: 12.8px;\">(スパムメール防止のため「@」を「_atmark_」に換えて表記しています。)</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><a href=\"https://www.soumu.go.jp/menu_news/s-news/01tsushin03_02000348.html\" target=\"_blank\">https://www.soumu.go.jp/menu_news/s-news/01tsushin03_02000348.html</a></p>",
+ "use_purpose": "新たな事業を行いたい / 研究開発・実証事業を行いたい",
+ "industry": "情報通信業",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "定額",
+ "subsidy_max_limit": 10000000000,
+ "acceptance_start_datetime": "2022-06-13T05:00:00Z",
+ "acceptance_end_datetime": "2022-07-04T03:00:00Z",
+ "project_end_deadline": "2022-07-04T03:00:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000004zl8vEAA",
+ "application_guidelines": [
+  {
+   "name": "公募要領（電波有効利用型）.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "革新的情報通信技術研究開発推進事業費補助金交付要綱.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "公募申請書.docx"
+  }
+ ],
+ "institution_name": "Beyond 5G研究開発促進事業",
+ "_meta": {
+  "first_seen": "2022-06-13T05:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

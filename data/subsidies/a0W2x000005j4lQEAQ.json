@@ -1,0 +1,36 @@
+{
+ "id": "a0W2x000005j4lQEAQ",
+ "name": "S-00001315",
+ "title": "感染症対策サポート助成事業（備品購入、内装・設備工事コース）",
+ "subsidy_catch_phrase": "感染症対策に係る備品購入、内装・設備工事経費の一部を支援します！",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>都内中小企業者等が新型コロナウイルス感染拡大予防のために行う取組費用の一部を助成することにより、都内中小企業者等による経済活動の推進に寄与することを目的としています。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■助成対象者</strong></p><p>都内中小企業者（会社及び個人事業者）、一般財団法人、一般社団法人、特定非営利活動法人（NPO法人）、中小企業団体等</p><p>※医療法人、社会福祉法人、学校法人、商工会、商工会連合会、商工会議所、公益財団法人、公益社団法人、商店街振興組合、宗教法人は対象外です。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■助成率</strong></p><p>助成対象と認められる経費の３分の２以内（千円未満は切り捨て）</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■助成対象経費</strong></p><p>感染予防対策に係る備品購入費、内装・設備工事に係る経費の一部</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■助成限度額</strong></p><p>１実施場所につき、最大２００万円まで</p><p>○備品購入のみの場合　５０万円まで</p><p>○内装・設備工事を実施する場合　１００万円まで</p><p>○内装・設備工事に換気設備の設置工事を含む場合　２００万円まで</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■助成対象期間</strong></p><p>令和４年１月１日（土）～令和５年１０月３１日（火）</p><p>この期間内に発注、契約、実施、支払までを完了する必要があります。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>公益財団法人東京都中小企業振興公社</p><p>感染症対策サポート助成事業事務局</p><p>電話番号：０３－４３３５－７９９０</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><a href=\"https://www.tokyo-kosha.or.jp/support/josei/jigyo/final/kansentaisaku.html\" target=\"_blank\" style=\"color: rgb(17, 85, 204); font-family: Arial, Helvetica, sans-serif; font-size: small; background-color: rgb(255, 255, 255);\">https://www.tokyo-kosha.or.jp/support/josei/jigyo/final/kansentaisaku.html</a></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■備考</strong></p><p>・助成金にはルールがあります。申請に先立ち、かならず上記WEBページに掲載されている「募集要項」をお読みいただきますようお願いいたします。</p><p>・本コースは１事業者につき１申請（採択）です。</p>",
+ "use_purpose": "災害（自然災害、感染症等）支援がほしい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "東京都",
+ "target_area_detail": null,
+ "target_number_of_employees": "300名以下",
+ "subsidy_rate": "３分の２",
+ "subsidy_max_limit": 2000000,
+ "acceptance_start_datetime": "2022-01-21T00:00:00Z",
+ "acceptance_end_datetime": "2023-05-07T14:59:00Z",
+ "project_end_deadline": "2023-11-15T14:59:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000005j4lQEAQ",
+ "application_guidelines": [],
+ "outline_of_grant": [
+  {
+   "name": "感染症対策サポート助成事業（備品購入・内装設備工事コース）募集要項.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "感染症対策サポート助成事業（備品購入、内装・設備工事コース）申請書.xlsx"
+  }
+ ],
+ "institution_name": "感染症対策サポート助成事業",
+ "_meta": {
+  "first_seen": "2022-01-21T00:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

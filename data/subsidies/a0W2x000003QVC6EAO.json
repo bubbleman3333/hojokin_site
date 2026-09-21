@@ -1,0 +1,36 @@
+{
+ "id": "a0W2x000003QVC6EAO",
+ "name": "S-00000136",
+ "title": "宿泊施設における安全・安心向上 支援補助金",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><b style=\"color: rgb(0, 111, 173);\">■目的・概要</b></p><p>東京都及び（公財）東京観光財団では、国内外から東京都を訪れて宿泊施設に滞在する旅行者の安全・安心を確保するため、防犯カメラの導入に取り組む宿泊事業者に対し、設備等の整備に要する経費の一部を補助します。</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■補助対象施設</b></p><p>東京都内において旅館業法の許可を受けて「旅館・ホテル営業」「簡易宿所営業」を行っている施設</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■補助対象要件</b></p><p>次の要件を全て満<span style=\"font-family: Tahoma, sans-serif;\">﻿</span>たす必要があります。</p><p><span style=\"font-size: 10.5pt; color: rgb(94, 94, 94);\">・</span>施設における犯罪発生の抑止又は犯罪被害の防止を目的とする</p><p>・施設内及び施設敷地内に設置する防犯カメラ及び録画装置等</p><p>・設置目的や運用方法等について規約を定め適切な設置運用を実施</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■補助対象経費</b></p><p>防犯カメラ及び録画装置等機器の購入、設置及び工事に係る経費</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■補助額</b></p><p>補助対象経費の２分の１以内で、１施設あたり万円を限度（２台まで）</p><p>※１施設あたり最大２か所、同一年度に１回限りとします。</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■問合せ先</b></p><p>公益財団法人東京観光財団 地域振興部 観光インフラ整備課</p><p>電話：０３－５５７９－８４６３</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■参照URL</b></p><p> <a href=\"https://www.tcvb.or.jp/jp/project/infra/camera/\" target=\"_blank\">https://www.tcvb.or.jp/jp/project/infra/camera/</a></p>",
+ "use_purpose": "設備整備・IT導入をしたい",
+ "industry": "宿泊業、飲食サービス業",
+ "target_area_search": "東京都",
+ "target_area_detail": "東京都",
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "１／２",
+ "subsidy_max_limit": 900000,
+ "acceptance_start_datetime": "2021-03-23T01:00:00Z",
+ "acceptance_end_datetime": "2021-03-31T08:00:00Z",
+ "project_end_deadline": null,
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000003QVC6EAO",
+ "application_guidelines": [],
+ "outline_of_grant": [
+  {
+   "name": "宿泊施設における安全・安心向上支援補助金　交付要綱等.zip"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "申請書.zip"
+  }
+ ],
+ "institution_name": "防犯カメラ補助金",
+ "_meta": {
+  "first_seen": "2021-03-23T01:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

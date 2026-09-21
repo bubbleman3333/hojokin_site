@@ -1,0 +1,40 @@
+{
+ "id": "a0W2x000005jQ5kEAE",
+ "name": "S-00001370",
+ "title": "基礎素材産業の低炭素化投資促進に向けた設計・実証事業補助金",
+ "subsidy_catch_phrase": "基礎素材産業の低炭素化に向けた取組を支援します",
+ "detail": "<p><b style=\"color: rgb(0, 111, 173);\">■目的・概要</b></p><p><span style=\"font-size: 14px;\">　基礎素材産業である鉄鋼業、化学工業、窯業・土石製品業、パルプ・紙・紙加工品製造業の事業者が保有する石炭等火力自家発電所（子会社等が保有する石炭等火力自家発電所を含む。以下同じ。）の燃料転換や製鉄用設備の低炭素化改修に向けた取組のうち、事業実施可能性調査（以下「補助事業」という。）に要する経費の一部を補助することにより、我が国全体の低炭素化に向けた取組を促進することを目的とします。</span></p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■補助対象事業</b></p><p><span style=\"font-size: 14px;\">　エネルギー管理を一体で行っている工場・事業場等（以下、「事業所」という。）において実施する次に掲げる事業区分（Ａ）、（Ｂ）に該当するものを補助対象事業とします。</span></p><p><span style=\"font-size: 14px;\">\t</span><span style=\"font-size: 14px; color: red;\"> </span></p><p><span style=\"font-size: 14px;\">（Ａ）基礎素材産業各社が保有する石炭等火力自家発電所の燃料転換に向けた事業実施可能性調査</span></p><p><span style=\"font-size: 14px;\">　基礎素材産業各社とは、日本標準産業分類（平成２５年総務省告示第４０５号）に掲げる鉄鋼業、化学工業、窯業・土石製品業、パルプ・紙・紙加工品製造業の法人を指します（※）。石炭等の燃料をLNGやバイオマス等に転換することにより、期待される自家発電所（自家消費を目的とした共同火力を含む）からのCO₂排出削減量が試算できるという要件を満たすこと。（補助対象者）\t</span><span style=\"font-size: 14px; color: red;\"> </span></p><p><br></p><p><span style=\"font-size: 14px;\">（Ｂ）製鉄用設備の低炭素化改修に向けた事業実施可能性調査</span></p><p><span style=\"font-size: 14px;\">　日本標準産業分類に掲げる製鉄業の法人を対象とします（※）。CO₂排出量の多い製鉄用設備（高炉やコークス炉等）の低炭素化改修により、大幅なCO₂排出量の削減が期待できるという要件を満たすこと。</span></p><p><br></p><p><span style=\"font-size: 14px;\">※申請する事業所における事業活動が、上記産業分類のいずれかに該当し、直近1年間で売上が発生していることを証明できることを指します。</span></p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■備考</b></p><p><span style=\"font-size: 14px;\">原則、Jグランツからの応募とします。</span></p><p><br></p><p><b style=\"color: rgb(0, 12, 18);\">﻿【電子申請システム「jGrants」の利用環境】</b></p><p>●jGrantsの動作環境は以下のとおりです。</p><p>下記のブラウザの最新バージョンをご利用ください。</p><p>なお、I<u>nternetExplorer等の下記以外のブラウザは、申請上のエラー等が生じますので利用しないでください。</u></p><p>●Windows：chrome、firefox、edge(※1)</p><p>●macOS：chrome、firefox、safari</p><p>●Android：chrome</p><p>※1 <u>edgeの「InternetExplorerモード」は申請上のエラー等が生じますので利用しないでください。</u></p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■問合せ先</b></p><p><span style=\"font-size: 14px;\">経済産業省　製造産業局　素材産業課、金属課</span></p><p><span style=\"font-size: 14px;\">　担当：荒井、谷内</span></p><p><span style=\"font-size: 14px;\">E-mail：kisosozai_r3hosei@meti.go.jp</span></p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■参照URL</b></p><p><span style=\"font-family: sans-serif; color: rgb(51, 51, 51);\"> jGrants電子申請に関するよくあるご質問 ：</span>https://www.jgrants-portal.go.jp/faq</p>",
+ "use_purpose": "研究開発・実証事業を行いたい / エコ・SDGs活動支援がほしい",
+ "industry": "製造業",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "２／３以内",
+ "subsidy_max_limit": 1500000000,
+ "acceptance_start_datetime": "2022-03-04T01:00:00Z",
+ "acceptance_end_datetime": "2022-04-01T08:00:00Z",
+ "project_end_deadline": "2023-03-31T08:00:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000005jQ5kEAE",
+ "application_guidelines": [
+  {
+   "name": "01_公募要領.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "03_交付要綱.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "02_申請書および提案書.pdf"
+  }
+ ],
+ "institution_name": "(直補助)基礎素材産業の低炭素化投資促進に向けた設計・実証事業補助金",
+ "_meta": {
+  "first_seen": "2022-03-04T01:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

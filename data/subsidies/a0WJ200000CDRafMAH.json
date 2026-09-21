@@ -1,0 +1,28 @@
+{
+ "id": "a0WJ200000CDRafMAH",
+ "name": "S-00007015",
+ "title": "危機管理対策促進事業_事業完了後の各種申請",
+ "subsidy_catch_phrase": "東京都中小企業振興公社が実施する危機管理対策事業の事業完了後（助成金受け取り後）の各種手続き用のページです。",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■概要</strong></p><p><span style=\"background-color: rgb(255, 255, 255); color: rgb(68, 68, 68);\">東京都中小企業振興公社の実施する</span>危機管理対策促進事業<span style=\"background-color: rgb(255, 255, 255); color: rgb(68, 68, 68);\">（</span><strong style=\"background-color: rgb(255, 255, 255); color: rgb(0, 111, 173); font-size: 14px;\">本申請の対象となる助成金事業</strong><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); font-size: 14px;\">を参照</span><span style=\"background-color: rgb(255, 255, 255); color: rgb(68, 68, 68);\">）</span>において事業完了後に<span style=\"background-color: rgb(255, 255, 255); color: rgb(68, 68, 68);\">以下の申請を行なう</span></p><p><br></p><p>・事業者変更申請</p><p>・財産処分申請（承認申請）</p><p>・財産処分申請（結果報告）</p><p>・実施結果の状況報告</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■申請対象の事業者</strong></p><p>すでに助成事業が完了（※）しており、上記の手続きのために公社から本URLを通知された事業者</p><p>（※）完了とは、助成金が支払済みの事業を指します。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■本申請の対象となる助成金事業</strong></p><ul><li>BCP実践促進助成金</li><li><span style=\"background-color: rgb(255, 255, 255); color: rgb(68, 68, 68);\">BCP実践促進助成金(連携型)</span></li><li>LED照明等節電促進助成金</li><li><span style=\"background-color: rgb(255, 255, 255); font-size: 12px; color: rgb(0, 0, 0);\">サイバーセキュリティ対策促進助成金</span></li></ul><p><strong style=\"color: rgb(0, 111, 173);\">■備考</strong></p><p>gBizIDプライムアカウントを取得の上、申請する必要があります。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>公益財団法人　東京都中小企業振興公社　企画管理部　設備支援課</p><p>TEL　03-3251-7889</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p>https://www.tokyo-kosha.or.jp/support/josei/yoshiki/index.html#bcp</p>",
+ "use_purpose": "安全・防災対策支援がほしい / エコ・SDGs活動支援がほしい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 公務（他に分類されるものを除く） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "茨城県/栃木県/群馬県/埼玉県/千葉県/東京都/神奈川県/山梨県",
+ "target_area_detail": "基準日現在で都内に本店がある場合に限り、補助対象地域にある県への設置は可。",
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": null,
+ "subsidy_max_limit": 15000000,
+ "acceptance_start_datetime": "2024-05-13T00:00:00Z",
+ "acceptance_end_datetime": "2029-12-31T14:59:00Z",
+ "project_end_deadline": null,
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDRafMAH",
+ "application_guidelines": [],
+ "outline_of_grant": [],
+ "application_form": [],
+ "institution_name": "危機管理対策促進事業_事業完了後の各種申請",
+ "_meta": {
+  "first_seen": "2024-05-13T00:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

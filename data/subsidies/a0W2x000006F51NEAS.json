@@ -1,0 +1,39 @@
+{
+ "id": "a0W2x000006F51NEAS",
+ "name": "S-00001683",
+ "title": "【厚生労働省】令和4年度働き方改革推進支援助成金（労働時間適正管理推進コース）",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><b style=\"color: rgb(0, 111, 173);\">■目的・概要（サマリ）:</b></p><p>労務・労働時間の適正管理の推進に向けた環境設備に取り組む中小企業事業主に対し助成</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■目的・概要:</b></p><p>この助成金は、働き方改革の推進に向けて、中小企業事業主が、労務・労働時間の適正な管理を行うため、研修、周知・啓発、労働時間の管理の適正化に資する機械・器具の導入等を実施し、生産性の向上を図り、労働時間等の設定の改善の成果を上げた事業主に重点的に助成金を支給することにより、中小企業における労働時間等の設定の改善の推進を図ることを目的とする。</p><p><br></p><p><br></p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■問い合わせ先:</b></p><p>【担当係】</p><p><br></p><p><br></p><p>厚生労働省労働基準局労働条件政策課新たな働き方推進係</p><p><br></p><p><br></p><p>【お問い合わせ可能時間】</p><p><br></p><p><br></p><p>平日９：３０～１８：１５</p><p><br></p><p><br></p><p>【電話番号】</p><p><br></p><p><br></p><p>０３－５２５３－１１１１</p><p><br></p><p><br></p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■参照URL:</b></p><p><a href=\"https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000150891_00001.html\" target=\"_blank\">https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000150891_00001.html</a></p>",
+ "use_purpose": "人材育成を行いたい / 設備整備・IT導入をしたい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 公務（他に分類されるものを除く） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "300名以下",
+ "subsidy_rate": "3/4（一定の条件を満たした場合は4/5）",
+ "subsidy_max_limit": 5800000,
+ "acceptance_start_datetime": "2022-03-31T15:00:00Z",
+ "acceptance_end_datetime": "2023-01-13T14:59:00Z",
+ "project_end_deadline": "2023-03-16T14:59:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000006F51NEAS",
+ "application_guidelines": [],
+ "outline_of_grant": [
+  {
+   "name": "要綱要領・マニュアル（適正管理コース） （12月12日以降の交付申請用）.zip"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "申請様式（適正管理コース）（12月12日以降に交付申請される方はこちらをご利用ください）_s.docx"
+  },
+  {
+   "name": "申請様式（適正管理コース）.docx"
+  }
+ ],
+ "institution_name": "働き方改革推進支援助成金",
+ "_meta": {
+  "first_seen": "2022-03-31T15:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

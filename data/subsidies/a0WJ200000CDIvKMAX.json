@@ -1,0 +1,52 @@
+{
+ "id": "a0WJ200000CDIvKMAX",
+ "name": "S-00005878",
+ "title": "令和７年度医療機関におけるＡＩ技術活用促進事業（単年度型）",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p class=\"ql-indent-1\">この事業は、医療機関におけるＡＩ技術の活用を支援することで、医療従事者の業務負担を軽減し、専門業務に注力可能な環境を整備するとともに、患者の待ち時間の短縮等、医療の質・患者サービスを向上させることを目的としています。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格（補助対象事業者）</strong></p><p class=\"ql-indent-1\">東京都内における２００床未満の病院の開設者（病床配分決定を受け、新規に２００床未満の病院を開設する者を含む。）又は有床診療所の開設者（病床配分決定を受け、新規に有床診療所を開設する者を含む。）であって、東京都知事（以下「知事」という。）が適当と認める者。ただし、次の者を除く。</p><p class=\"ql-indent-1\">(1)　国</p><p class=\"ql-indent-1\">(2)　地方自治法（昭和２２年法律第６７号）第１条の３に規定する地方公共団体</p><p class=\"ql-indent-1\">(3)　地方独立行政法人法（平成１５年法律第１１８号）第２条第１項に規定する地方独立行政法人及び同条第２項に規定する特定独立行政法人</p><p class=\"ql-indent-1\">(4)　独立行政法人通則法（平成１１年法律第１０３号）第２条第１項に規定する独立行政法人及び同条第２項に規定する特定独立行政法人</p><p class=\"ql-indent-1\">(5)　国立大学法人法（平成１５年法律第１１２号）第２条第１項に規定する国立大学法人</p><p class=\"ql-indent-1\">(6)　この補助金の交付を受けたことがある医療機関（ただし、２００床未満の病院であって、事業期間が２か年にわたる事業計画に基づき、２か年目に交付申請をする病院は除く。）</p><p class=\"ql-indent-1\">(7)　暴力団（東京都暴力団排除条例（平成２３年東京都条例第５４号。以下「暴排条例」という。）第２条第２号に規定する暴力団をいう。）</p><p class=\"ql-indent-1\">(8)　法人その他団体の代表者、役員、使用人その他の従業者若しくは構成員に暴力団員等（暴排条例第２条第３号に規定する暴力団員及び同条第４号に規定する暴力団関係者をいう。）に該当する者があるもの</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p class=\"ql-indent-1\">東京都保健医療局医療政策部医療政策課医療改革推進担当</p><p class=\"ql-indent-1\">TEL：03-5320-4448</p><p class=\"ql-indent-1\">Email：S1150401@section.metro.tokyo.jp</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照ＵＲＬ</strong></p><p class=\"ql-indent-1\"><a href=\"https://www.hokeniryo.metro.tokyo.lg.jp/iryo/jigyo/ai.html\" target=\"_blank\">https://www.hokeniryo.metro.tokyo.lg.jp/iryo/jigyo/ai</a></p>",
+ "use_purpose": "設備整備・IT導入をしたい",
+ "industry": "医療、福祉",
+ "target_area_search": "東京都",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "1/2",
+ "subsidy_max_limit": 10000000,
+ "acceptance_start_datetime": "2025-04-18T03:00:00Z",
+ "acceptance_end_datetime": "2026-03-31T03:00:00Z",
+ "project_end_deadline": "2026-03-31T14:45:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDIvKMAX",
+ "application_guidelines": [
+  {
+   "name": "医療機関におけるＡＩ技術活用促進事業実施要綱.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "医療機関におけるＡＩ技術活用促進事業補助金交付要綱.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "01 交付申請.zip"
+  },
+  {
+   "name": "04 実績報告.zip"
+  },
+  {
+   "name": "02 変更交付申請.zip"
+  },
+  {
+   "name": "03 契約手続き.zip"
+  },
+  {
+   "name": "05 消費税報告.zip"
+  }
+ ],
+ "institution_name": "医療機関におけるAI技術活用促進事業",
+ "_meta": {
+  "first_seen": "2025-04-18T03:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

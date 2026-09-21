@@ -1,0 +1,67 @@
+{
+ "id": "a0W2x000001OGv7EAG",
+ "name": "S-00000059",
+ "title": "【神戸市】令和３年度中小製造業投資促進等助成（①設備投資・新増設）",
+ "subsidy_catch_phrase": "操業基盤の強化に向けた設備投資をサポートします",
+ "detail": "<p><b style=\"color: rgb(0, 111, 173);\">■目的・概要</b></p><p>市内中小製造業の操業基盤の強化を図るため、技術力や生産性の向上、受注拡大、研究開発機能の強化などに向けた設備投資等を行う事業者に対し、予算の範囲内で助成金を交付します。</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■応募資格</b></p><p>神戸市内の主たる事業所（本社、生産工場、研究開発拠点）において1年以上前から継続して製造業を営む中小企業者又はこれら事業者で構成される団体（事業協同組合等）。</p><p><span style=\"background-color: rgb(255, 255, 255); font-size: 14px;\">ただし、「サプライチェーン強靭化のための海外生産拠点の神戸市内への移転に必要な設備・建物」の取得について申請する場合は、市内に主たる事業所を持たない中小製造業者又はこれら事業者で構成される団体も対象とします。</span></p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■地理条件</b></p><p>都市計画法に基づく用途地域が「工業専用地域」「工業地域」「準工業地域」のいずれかに該当する地域　等</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■備考</b></p><p>詳細は公募要領をご参照ください。</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■問合せ先</b></p><p>神戸市経済観光局工業課　電話：(078)984-0340</p><p>〒651-0087</p><p>神戸市中央区御幸通6-1-12（三宮ビル東館4階）</p><p>（お問い合わせは土・日・祝日を除く9:00～12:00、13:00～17:00）</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■参照URL</b></p><p><a href=\"https://www.city.kobe.lg.jp/a93457/business/sangyoshinko/shokogyo/venture/monodukuri/toshisokushin/03tosisokushinjosei.html\" target=\"_blank\">令和３年度　中小製造業投資促進等助成（神戸市HP）</a></p>",
+ "use_purpose": "雇用・職場環境を改善したい / 設備整備・IT導入をしたい",
+ "industry": "製造業",
+ "target_area_search": "兵庫県",
+ "target_area_detail": "神戸市",
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "最大1/2（申請区分により異なります。詳細は公募要領をご参照ください）",
+ "subsidy_max_limit": 30000000,
+ "acceptance_start_datetime": "2021-04-07T00:00:00Z",
+ "acceptance_end_datetime": "2021-05-14T08:00:00Z",
+ "project_end_deadline": "2023-03-31T08:00:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000001OGv7EAG",
+ "application_guidelines": [
+  {
+   "name": "【公募要領】令和３年度_中小製造業投資促進等助成(①設備投資・新増設).pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "【交付要綱】令和３年度_中小製造業投資促進等助成.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "【企業名】01_事業概要書(様式２－イ).docx"
+  },
+  {
+   "name": "【企業名】02_助成対象経費明細書(様式３－イ).xlsx"
+  },
+  {
+   "name": "【企業名】04_神戸市税に関する誓約書兼調査に関する承諾書(様式５).docx"
+  },
+  {
+   "name": "【企業名】03_会社概要書(様式４).docx"
+  },
+  {
+   "name": "【企業名】19_戦略産業分野での事業展開に関する計画書.docx"
+  },
+  {
+   "name": "【企業名】20_IoT・AI・ロボット導入に関する計画書.docx"
+  },
+  {
+   "name": "【企業名】21_更新設備の騒音・振動等に関する説明書.docx"
+  },
+  {
+   "name": "【企業名】17_海外生産拠点の神戸市内への移転に関する計画書.docx"
+  },
+  {
+   "name": "【企業名】18_健康・医療物資製造に関する計画書.docx"
+  },
+  {
+   "name": "【！必ずご確認ください！】jGrants電子申請マニュアル[交付申請]20210407.pdf"
+  }
+ ],
+ "institution_name": "【神戸市】中小製造業投資促進等助成",
+ "_meta": {
+  "first_seen": "2021-04-07T00:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "id": "a0W2x000003R8LOEA0",
+ "name": "S-00000986",
+ "title": "地上基幹放送等に関する耐災害性強化支援事業（令和３年度第２次公募）",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><b style=\"color: rgb(0, 111, 173);\">■目的・概要</b></p><p>総務省では、地上基幹放送等の放送局等の停電対策や予備設備の整備を行う地方公共団体、民間テレビ・ラジオ放送事業者等に対して、その整備費用の一部補助を行います。</p><p>本事業は、大規模な自然災害が発生した際に、放送局等が被災し、放送の継続が不可能となる事態を回避し、被災情報や避難情報等の重要な情報を確実に提供することを目的とするものです。</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■根拠法令</b></p><p>電波法附則第15項による読み替え後の電波法第103条の２第４項第12号の４</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■応募資格</b></p><p>　地上基幹放送事業者、地方公共団体等</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■補助対象</b></p><p>　①停電対策、②予備設備の整備</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■問合せ先</b></p><p><b style=\"color: rgb(0, 111, 173); font-size: 12.8px;\">　</b><span style=\"color: rgb(51, 51, 51); font-size: 12.8px;\">総務省情報流通行政局地上放送課（03-5253-5949）</span></p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■参照URL</b></p><p>https://www.soumu.go.jp/menu_seisaku/ictseisaku/housou_suishin/hosonet_kyojinka04.html</p>",
+ "use_purpose": "安全・防災対策支援がほしい",
+ "industry": "情報通信業",
+ "target_area_search": "全国",
+ "target_area_detail": "全国",
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "地方公共団体等　１／２、地上基幹放送事業者等　１／３",
+ "subsidy_max_limit": 45000000,
+ "acceptance_start_datetime": "2021-05-31T05:00:00Z",
+ "acceptance_end_datetime": "2021-06-18T03:00:00Z",
+ "project_end_deadline": "2022-03-31T14:45:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000003R8LOEA0",
+ "application_guidelines": [
+  {
+   "name": "公募要領（耐災害性強化支援事業）.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "無線システム普及支援事業費等補助金交付要綱.pdf"
+  }
+ ],
+ "application_form": [],
+ "institution_name": "地上基幹放送等に関する耐災害性強化支援事業",
+ "_meta": {
+  "first_seen": "2021-05-31T05:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "id": "a0WJ2000008ApseMAC",
+ "name": "S-00005439",
+ "title": "令和６年度展示会出展助成事業（第９回）",
+ "subsidy_catch_phrase": "ＢtoＢの展示会への出展費用等を助成します",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><strong style=\"font-size: 14px;\">都内中小企業者</strong><span style=\"font-size: 14px;\">が、販路拡大及び経営基盤の更なる強化を図るために行う</span><strong style=\"font-size: 14px;\">展示会への出展</strong><span style=\"font-size: 14px;\">等に係る経費の一部を助成します。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■</strong><strong style=\"color: rgb(0, 111, 173); font-size: 14px; background-color: rgb(255, 255, 255);\">助成限度額</strong></p><p><span style=\"font-size: 14px; background-color: rgb(255, 255, 255);\">150万円</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■</strong><strong style=\"color: rgb(0, 111, 173); font-size: 14px; background-color: rgb(255, 255, 255);\">助成率</strong></p><p><span style=\"font-size: 14px; background-color: rgb(255, 255, 255);\">助成対象と認められる経費の２／３以内（千円未満切捨て）</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 14px;\">■申請受付期間</strong></p><p><span style=\"font-size: 14px;\">令和6年12月1日（日）9:00　～　令和6年12月20日（金）12:00</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照https://www.tokyo-kosha.or.jp/support/josei/jigyo/r6tenjikai.html</strong></p>",
+ "use_purpose": "販路拡大・海外展開をしたい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "東京都",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "助成対象と認められる経費の２／３以内",
+ "subsidy_max_limit": 1500000,
+ "acceptance_start_datetime": "2024-12-01T00:00:00Z",
+ "acceptance_end_datetime": "2024-12-20T03:00:00Z",
+ "project_end_deadline": "2026-03-31T08:00:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ2000008ApseMAC",
+ "application_guidelines": [
+  {
+   "name": "令和6年度展示会出展助成事業_募集要項兼事務の手引き (4).pdf"
+  }
+ ],
+ "outline_of_grant": [],
+ "application_form": [
+  {
+   "name": "令和６年度展示会出展助成事業_申請概要書フォーマット (1).xlsx"
+  }
+ ],
+ "institution_name": "令和６年度展示会出展助成事業",
+ "_meta": {
+  "first_seen": "2024-12-01T00:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

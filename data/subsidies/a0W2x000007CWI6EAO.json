@@ -1,0 +1,40 @@
+{
+ "id": "a0W2x000007CWI6EAO",
+ "name": "S-00002302",
+ "title": "令和4年度高等教育機関における共同講座創造支援事業費補助金",
+ "subsidy_catch_phrase": "【事務局・民間団体等】高等教育機関における共同講座創造支援事業費補助金",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"color: rgb(27, 27, 27);\">本公募は、企業等（間接補助事業者）への補助金の交付事務等を行う</span><span style=\"color: rgb(27, 27, 27); background-color: rgb(255, 255, 255);\">民間団体等</span><span style=\"color: rgb(27, 27, 27);\">（</span><span style=\"color: rgb(27, 27, 27); background-color: rgb(255, 255, 255);\">補助事業者</span><span style=\"color: rgb(27, 27, 27);\">）を公募するものです。</span></p><p><span style=\"color: rgb(27, 27, 27);\">経済産業省では、令和4年度高等教育機関における共同講座創造支援事業を実施する</span><span style=\"color: rgb(27, 27, 27); background-color: rgb(255, 255, 255);\">民間団体等（補助事業者）</span><span style=\"color: rgb(27, 27, 27);\">を、以下の要領で広く募集します。希望される方におかれましては、事業内容等を御理解いただいた上で、公募要領に基づき応募してください。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■事業内容</strong></p><p><span style=\"color: rgb(15, 15, 15);\">本事業は、企業等（間接補助事業者）が大学や高等専門学校等の高等教育機関において、自社に必要な分野の人材育成に係る講座やコース・学科等（共同講座）を設置することを目的として費用を支出する際に当該費用の一部を補助します。それにより、企業等（間接補助事業者）内の人材のリスキリングや、当該分野の学生の輩出を実現し、産業界のニーズに即した人材の育成の加速化を図ります。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p><span style=\"color: rgb(0, 0, 0);\">経済産業省</span></p><p><span style=\"color: rgb(0, 0, 0);\">経済産業政策局産業人材課　西村・石森</span></p><p><span style=\"color: rgb(0, 0, 0);\">産業技術環境局大学連携推進室　金岡・大坪</span></p><p><span style=\"color: rgb(0, 0, 0);\">E-mail：</span>bzl-kyodokoza-sozosien@meti.go.jp</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><a href=\"https://www.meti.go.jp/information/publicoffer/kobo.html\" target=\"_blank\">https://www.meti.go.jp/information/publicoffer/kobo.html</a></p>",
+ "use_purpose": "人材育成を行いたい",
+ "industry": "分類不能の産業",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "定額",
+ "subsidy_max_limit": 360221000,
+ "acceptance_start_datetime": "2022-12-12T03:00:00Z",
+ "acceptance_end_datetime": "2023-01-10T03:00:00Z",
+ "project_end_deadline": "2023-03-31T14:45:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000007CWI6EAO",
+ "application_guidelines": [
+  {
+   "name": "公募要領（共同講座創造支援事業費補助金）.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "交付要綱案（共同講座創造支援事業費補助金）.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "様式1～3（共同講座創造支援事業費補助金）.docx"
+  }
+ ],
+ "institution_name": "令和4年度高等教育機関における共同講座創造支援事業費補助金",
+ "_meta": {
+  "first_seen": "2022-12-12T03:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

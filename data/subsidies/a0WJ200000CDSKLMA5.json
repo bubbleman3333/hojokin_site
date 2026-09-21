@@ -1,0 +1,39 @@
+{
+ "id": "a0WJ200000CDSKLMA5",
+ "name": "S-00007052",
+ "title": "令和７年度 介護現場のニーズに対応した製品開発支援事業",
+ "subsidy_catch_phrase": "介護従事者の負担軽減につながる次世代介護機器等の開発・改良・普及を支援（助成限度額2,000万円、助成率２／３以内）",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"color: rgb(2, 2, 2);\">都内の中小企業者等が介護現場のニーズに対応した次世代介護機器等の開発・改良及び普及を行うために要する経費の一部を助成します。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■申請受付期間</strong></p><p>令和７年７月16日（水）～令和７年８月22日（金）17時00分</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p><span style=\"color: rgb(2, 2, 2);\">公益財団法人東京都中小企業振興公社</span></p><p><span style=\"color: rgb(2, 2, 2);\">企画管理部　助成課　介護現場のニーズに対応した製品開発支援事業事務局</span></p><p><span style=\"color: rgb(2, 2, 2);\">TEL:03-3251-7894（受付時間：平日9:00～17:00）</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><strong style=\"color: rgb(0, 111, 173);\">URL：</strong><a href=\"https://www.tokyo-kosha.or.jp/support/josei/jigyo/kaigoneeds/index.html\" target=\"_blank\" style=\"color: rgb(11, 92, 171);\">https://www.tokyo-kosha.or.jp/support/josei/jigyo/kaigoneeds/index.html</a></p>",
+ "use_purpose": "新たな事業を行いたい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 公務（他に分類されるものを除く） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "東京都",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "助成対象経費の２／３以内",
+ "subsidy_max_limit": 20000000,
+ "acceptance_start_datetime": "2025-07-15T15:00:00Z",
+ "acceptance_end_datetime": "2025-08-22T08:00:00Z",
+ "project_end_deadline": "2027-10-31T14:59:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDSKLMA5",
+ "application_guidelines": [],
+ "outline_of_grant": [
+  {
+   "name": "R7年度介護現場のニーズに対応した製品開発支援事業_募集要項.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "R7年度介護現場のニーズに対応した製品開発支援事業_申請書.xlsx"
+  },
+  {
+   "name": "R7年度介護現場のニーズに対応した製品開発支援事業_申請書記入例.xlsx"
+  }
+ ],
+ "institution_name": "介護現場のニーズに対応した製品開発支援事業",
+ "_meta": {
+  "first_seen": "2025-07-15T15:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "id": "a0WJ200000CDH2pMAH",
+ "name": "S-00005709",
+ "title": "地域デジタル人材育成・確保推進事業費（企業データに基づく実践的なケーススタディ教育プログラム事業）補助金",
+ "subsidy_catch_phrase": "ＤＸ推進プロセスを一気通貫で疑似体験するオンライン教育プログラム",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"font-size: 12px; background-color: rgb(255, 255, 255);\">地域企業・産業のデジタル化・ＤＸを図るため、実践的なデジタル技術の実装方法を学ぶ「企業データに基づく実践的なケーススタディ教育プログラム」を通じ、経営課題や事業環境の変化に合わせた業務・ビジネスモデルの変革（デジタルトランスフォーメーション（ＤＸ））を推進する人材を育成することを目的とします。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p>次の要件を満たす企業・団体等とします。</p><p>①日本に拠点を有していること。</p><p>②本事業を的確に遂行する組織、人員等を有していること。</p><p>③本事業を円滑に遂行するために必要な経営基盤を有し、かつ、資金等について十分な管理能力を有していること。</p><p>④経済産業省からの補助金交付等停止措置又は指名停止措置が講じられている者ではないこと。</p><p>⑤経済産業省におけるＥＢＰＭに関する取組に協力すること。</p><p>※詳細は募集要領をご確認ください。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>〒１００－８９０１　東京都千代田区霞が関１－３－１</p><p>経済産業省　商務情報政策局 情報技術利用促進課</p><p>担当：中野、内田</p><p>E-mail：bzl-digital@meti.go.jp</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><a href=\"https://www.meti.go.jp/information/publicoffer/kobo/2025/k250123002.html\" target=\"_blank\">https://www.meti.go.jp/information/publicoffer/kobo/2025/k250123002.html</a></p>",
+ "use_purpose": "人材育成を行いたい",
+ "industry": "情報通信業 / 教育、学習支援業",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "4/5以内",
+ "subsidy_max_limit": 68000000,
+ "acceptance_start_datetime": "2025-01-22T15:00:00Z",
+ "acceptance_end_datetime": "2025-02-14T08:00:00Z",
+ "project_end_deadline": "2026-03-31T14:59:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDH2pMAH",
+ "application_guidelines": [
+  {
+   "name": "募集要領.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "交付要綱（案）.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "申請様式.docx"
+  },
+  {
+   "name": "申請様式.pdf"
+  }
+ ],
+ "institution_name": "地域デジタル人材育成・確保推進事業費（企業データに基づく実践的なケーススタディ教育プログラム事業）補助金",
+ "_meta": {
+  "first_seen": "2025-01-22T15:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "id": "a0W5h00000UcDDXEA3",
+ "name": "S-00004027",
+ "title": "東京都広域団体認定訓練助成金",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>広域的に認定訓練を実施する中小企業事業主の団体又はその連合団体に対し、当該認定訓練の運営に要する経費の一部を助成することにより、認定訓練を振興し、計画的かつ効果的な人材育成を推進することを目的としています。</p>",
+ "use_purpose": "人材育成を行いたい",
+ "industry": "分類不能の産業",
+ "target_area_search": "東京都",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": null,
+ "subsidy_max_limit": 0,
+ "acceptance_start_datetime": "2026-09-30T15:00:00Z",
+ "acceptance_end_datetime": "2026-10-30T14:59:00Z",
+ "project_end_deadline": null,
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W5h00000UcDDXEA3",
+ "application_guidelines": [],
+ "outline_of_grant": [],
+ "application_form": [],
+ "institution_name": "東京都広域団体認定訓練助成金",
+ "_meta": {
+  "first_seen": "2026-09-21T13:28:27Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

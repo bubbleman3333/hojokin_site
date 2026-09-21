@@ -1,0 +1,40 @@
+{
+ "id": "a0W2x000003QXuzEAG",
+ "name": "S-00000869",
+ "title": "令和３年度_グローバル・スタートアップ・エコシステム強化事業（ものづくりスタートアップ・エコシステム構築事業）",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><b style=\"color: rgb(0, 111, 173); font-size: 14px;\">■目的・概要</b></p><p style=\"text-align: justify;\"><span style=\"color: black; font-size: 14px;\">ソフトとハードの融合領域にて事業を行うスタートアップ等が、それらの事業化に向けた設計製造面、ビジネス面、その他必要な領域の支援を行う事業者（以下、「事業化支援機関」という。）と連携して行う、プロダクトの社会実装に向けた実証等を行う事業（間接補助事業）にかかる経費に対して、</span><span style=\"color: rgb(62, 62, 60); font-size: 14px; background-color: rgb(255, 255, 255);\">その費用負担を軽減 するため当該費用の一部を支援します。</span></p><p><b style=\"font-size: 14px;\">詳細は公募要領・参照URL先をご確認ください。</b></p><p><br></p><p><b style=\"color: rgb(0, 111, 173); font-size: 14px;\">■備考</b></p><p><span style=\"background-color: rgb(255, 255, 255); font-size: 14px;\">事業完了期限までに全ての補助対象経費の検収および支払いを完了させてください。</span></p><p><br></p><p><b style=\"color: rgb(0, 111, 173); font-size: 14px;\">■問合せ先</b></p><p><span style=\"font-size: 14px;\">ものづくりスタートアップ・エコシステム構築事業　事務局</span></p><p><span style=\"font-size: 14px;\">TEL：03-6435-8837</span></p><p><span style=\"font-size: 14px;\">MAIL： gse-monosuta@jissui.or.jp</span></p><p><span style=\"font-size: 14px;\">※メールにてお問合せいただく際は、</span><b style=\"font-size: 14px;\">「電子申請（jGrants）利用」</b><span style=\"font-size: 14px;\">の旨も明記してください。</span></p><p><br></p><p><b style=\"color: rgb(0, 111, 173); font-size: 14px;\">■参照URL</b></p><p><span style=\"font-size: 14px;\">URL：</span><a href=\"https://jissui.or.jp/project/project004/\" target=\"_blank\" style=\"font-size: 14px;\">https://jissui.or.jp/project/project004/</a></p>",
+ "use_purpose": "新たな事業を行いたい / 研究開発・実証事業を行いたい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 公務（他に分類されるものを除く） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "2/3以内",
+ "subsidy_max_limit": 50000000,
+ "acceptance_start_datetime": "2021-04-01T15:00:00Z",
+ "acceptance_end_datetime": "2021-05-12T08:00:00Z",
+ "project_end_deadline": "2022-02-27T15:00:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000003QXuzEAG",
+ "application_guidelines": [
+  {
+   "name": "R3MS_kouboyouryou.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "R3MS_koufukitei.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "R3MS_shinseiyoushiki.zip"
+  }
+ ],
+ "institution_name": "グローバル・スタートアップ・エコシステム強化事業(ものづくりスタートアップ・エコシステム構築事業)",
+ "_meta": {
+  "first_seen": "2021-04-01T15:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

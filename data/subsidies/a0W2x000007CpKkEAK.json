@@ -1,0 +1,55 @@
+{
+ "id": "a0W2x000007CpKkEAK",
+ "name": "S-00003115",
+ "title": "令和４年度補正 貿易投資促進事業費補助金 （貿易プラットフォーム活用による貿易手続きデジタル化推進事業）",
+ "subsidy_catch_phrase": "貿易PF補助金",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>本事業は、貿易手続きは紙等のアナログ手段で行われ膨大な書類が発生している等、非効率な状況が続いていることから、迅速な貿易プラットフォーム（以下、「貿易PF」という。）の利用拡大による貿易円滑化と貿易コストの低減を目指し、貿易PFと利用企業の社内システムとの連携構築に係る費用の一部、および貿易PF間の連携構築に係る費用の一部を補助し、事業者が効率的に貿易手続きを行い得る環境整備を行うことを目的とする。 </p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p>補助対象となる事業者 </p><p>【類型1】 国内外の貿易PFサービスを利用しようとする日本国の法人</p><p>貿易PFサービスを利用しようとする日本国の法人が1社で応募する場合に限る。 </p><p><br></p><p>【類型2】貿易PFサービスを提供する日本国の法人</p><p>貿易PFサービスを提供する日本国の法人が1社で応募する場合に限る。 </p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■備考</strong></p><p>下記「補助金上限額」が当システムの制限により「50,000,000円」とありますが、正しくは以下となります。</p><p>【類型1】補助上限額3,000万円</p><p>【類型2】補助上限額5,000万円</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>貿易プラットフォーム活用による貿易手続きデジタル化推進事業</p><p>事務局：一般財団法人日本貿易関係手続簡易化協会（JASTPRO）</p><p>担当：幸田、村井、柴田</p><p>電子メール: pf-hojo”AT”jastpro.or.jp</p><p>※メール送信の際は、上記アドレス”AT”の部分を@に置き換えてください。お問合せは必ずE-MAILでお願いします。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p>https://www.pf-hojo-jastpro.org/</p>",
+ "use_purpose": "新たな事業を行いたい / 販路拡大・海外展開をしたい / 雇用・職場環境を改善したい / 設備整備・IT導入をしたい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 公務（他に分類されるものを除く） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "大企業 1/2、中小企業2/3",
+ "subsidy_max_limit": 50000000,
+ "acceptance_start_datetime": "2023-04-17T05:00:00Z",
+ "acceptance_end_datetime": "2023-05-19T03:00:00Z",
+ "project_end_deadline": "2024-02-16T05:00:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000007CpKkEAK",
+ "application_guidelines": [
+  {
+   "name": "010公募要領.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "020交付規程（案）.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "様式４_中小企業補助率の適用要件審査.docx"
+  },
+  {
+   "name": "様式１_申請書.docx"
+  },
+  {
+   "name": "様式２_提案書.docx"
+  },
+  {
+   "name": "様式２別添１_事業概要（参考）.pdf"
+  },
+  {
+   "name": "様式３_申請法人概要表.docx"
+  },
+  {
+   "name": "様式２別添２_積算内訳書_20230420版.xlsx"
+  }
+ ],
+ "institution_name": "貿易プラットフォーム活用による貿易手続デジタル化推進事業費補助金",
+ "_meta": {
+  "first_seen": "2023-04-17T05:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

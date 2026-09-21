@@ -1,0 +1,40 @@
+{
+ "id": "a0W2x000003QYnXEAW",
+ "name": "S-00000876",
+ "title": "【福井県】令和３年度生産工程自動化支援事業補助金",
+ "subsidy_catch_phrase": "生産性向上につながる構想づくりや設計費を支援します",
+ "detail": "<p><b style=\"color: rgb(0, 111, 173);\">■目的・概要</b></p><p>生産工程の自動化や省力化などを目的とした設備導入を計画する県内中小企業に対し、導入前の構想やシステムの設計などの費用を支援します。</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■応募資格</b></p><p>県内中小企業</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■補助対象事業</b></p><p>生産工程自動化に関する構想やシステムの設計</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■補助対象経費</b></p><p>調査・設計費、謝金、その他の経費</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■採択予定件数</b></p><p>3件程度</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■問合せ先</b></p><p>〒910-8580</p><p>福井県福井市大手3丁目17-1</p><p>福井県産業労働部産業技術課　新技術支援室</p><p>「生産工程自動化支援事業補助金」担当</p><p>TEL：0776-20-0538　FAX：0776-20-0646</p><p>E-mail：<a href=\"mailto:sangyo-gijutsu@pref.fukui.lg.jp\" target=\"_blank\">sangyo-gijutsu@pref.fukui.lg.jp</a></p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■参照URL</b></p><p><a href=\"https://www.pref.fukui.lg.jp/doc/chisangi/sangakukan/seisankoutei.html\" target=\"_blank\">https://www.pref.fukui.lg.jp/doc/chisangi/sangakukan/seisankoutei.html</a></p>",
+ "use_purpose": "設備整備・IT導入をしたい",
+ "industry": "製造業 / 農業、林業",
+ "target_area_search": "福井県",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "1/2",
+ "subsidy_max_limit": 1000000,
+ "acceptance_start_datetime": "2021-04-01T00:00:00Z",
+ "acceptance_end_datetime": "2021-05-14T08:00:00Z",
+ "project_end_deadline": "2022-02-28T08:00:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000003QYnXEAW",
+ "application_guidelines": [
+  {
+   "name": "募集案内（生産工程自動化支援）.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "令和３年度生産工程自動化支援事業補助金交付要領.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "様式集.doc"
+  }
+ ],
+ "institution_name": "生産工程自動化支援事業",
+ "_meta": {
+  "first_seen": "2021-04-01T00:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

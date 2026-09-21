@@ -1,0 +1,73 @@
+{
+ "id": "a0W2x000003QcNkEAK",
+ "name": "S-00000911",
+ "title": "令和３年度水素関連製品の研究・開発・実証補助金",
+ "subsidy_catch_phrase": "神戸市内中小企業の水素関連製品の実用化に向けた研究・開発・実証を支援します。",
+ "detail": "<p><b style=\"font-size: 16px; color: rgb(0, 111, 173);\">■目的・概要</b></p><p><span style=\"font-size: 16px;\">　水素関連製品の実用化に向けた研究・開発・実証に取り組む、神戸市内に本社または主たる事業所を置く中小企業（以下「神戸市内中小企業」という。）若しくは神戸市内中小企業等により構成されるコンソーシアムに対し補助金を交付することにより、市内水素関連産業の振興を図ります。</span></p><p><br></p><p><b style=\"font-size: 16px; color: rgb(0, 111, 173);\">■補助対象となる企業</b></p><p><span style=\"font-size: 16px;\">　本補助金の補助対象者は、以下の要件を満たす者とします。</span></p><p><br></p><p><span style=\"font-size: 16px;\">　（1）単独枠</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 16px;\">神戸市内中小企業で、神戸市市税条例に定める神戸市税の滞納又は未申告がない者  </span></p><p><span style=\"font-size: 16px;\">　（2）コンソーシアム枠 </span></p><p class=\"ql-indent-1\"><span style=\"font-size: 16px;\">神戸市内中小企業が幹事となって構成されるコンソーシアムで、神戸市内企業に神戸市市税条例に定める神戸市税の滞納又は未申告がない者</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 16px;\">・構成企業のうち２分の１以上が神戸市内企業であることが必要です。</span></p><p><br></p><p><b style=\"font-size: 16px; color: rgb(0, 111, 173);\">■備考</b></p><p><span style=\"font-size: 16px;\">　詳細は公募要領をご確認ください。</span></p><p><br></p><p><b style=\"font-size: 16px; color: rgb(0, 111, 173);\">■問合せ先</b></p><p><span style=\"font-size: 16px;\">　神戸市経済観光局工業課　電話：(078)984-0340</span></p><p><span style=\"font-size: 16px;\">　〒651-0087</span></p><p><span style=\"font-size: 16px;\">　神戸市中央区御幸通6-1-12（三宮ビル東館4階）</span></p><p><span style=\"font-size: 16px;\">　（お問い合わせは土・日・祝日を除く9:00～12:00、13:00～17:00）</span></p><p><span style=\"color: rgb(0, 111, 173);\">﻿</span></p><p><b style=\"font-size: 16px; color: rgb(0, 111, 173);\">■参照URL</b></p><p><span style=\"font-size: 16px;\">　</span><a href=\"https://www.city.kobe.lg.jp/a93457/business/sangyoshinko/shokogyo/chushokigyo/suisokaihatsuhojo.html\" target=\"_blank\" style=\"font-size: 16px;\">令和3年度　水素関連製品の研究・開発・実証補助金（神戸市HP）</a></p>",
+ "use_purpose": "新たな事業を行いたい / 研究開発・実証事業を行いたい",
+ "industry": "製造業",
+ "target_area_search": "兵庫県",
+ "target_area_detail": "神戸市",
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "最大1/2（補助上限金額は申請枠ごとに異なります。詳細は公募要領をご確認ください）",
+ "subsidy_max_limit": 6000000,
+ "acceptance_start_datetime": "2021-05-07T00:00:00Z",
+ "acceptance_end_datetime": "2021-06-04T08:00:00Z",
+ "project_end_deadline": "2022-03-31T08:00:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000003QcNkEAK",
+ "application_guidelines": [
+  {
+   "name": "公募要領.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "水素関連製品の研究・開発・実証補金金交付要綱.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "【様式第２号】コンソーシアム概要書.doc"
+  },
+  {
+   "name": "【様式第３号】企業概要書.doc"
+  },
+  {
+   "name": "【様式第７号その２・その３】事業計画書（コンソ2カ年事業・2年目用）.doc"
+  },
+  {
+   "name": "【様式第４号その１～その４・別記】事業計画書.doc"
+  },
+  {
+   "name": "【様式第１１号その２】事業実績報告書（費用の明細）.xlsx"
+  },
+  {
+   "name": "【様式第１３号】請求書.doc"
+  },
+  {
+   "name": "【様式第４号の２】神戸市税に関する誓約書　兼 調査に関する承諾書.doc"
+  },
+  {
+   "name": "【様式第１１号その１】事業実績報告書.doc"
+  },
+  {
+   "name": "【様式第７号の２】神戸市税に関する誓約書 兼 承諾書（コンソ2カ年事業・2年目用）.doc"
+  },
+  {
+   "name": "【様式第１０号】補助事業計画変更等届出書.doc"
+  },
+  {
+   "name": "【様式第９号】概算払請求書.doc"
+  },
+  {
+   "name": "（必ずご確認ください！）jGrants電子申請マニュアル【交付申請】.pdf"
+  }
+ ],
+ "institution_name": "【神戸市】水素関連製品の研究・開発・実証補助金",
+ "_meta": {
+  "first_seen": "2021-05-07T00:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

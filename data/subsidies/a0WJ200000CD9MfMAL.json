@@ -1,0 +1,43 @@
+{
+ "id": "a0WJ200000CD9MfMAL",
+ "name": "S-00005648",
+ "title": "令和６年度補正「グローバルサウス未来志向型共創等事業費補助金（小規模実証・ＦＳ事業）」",
+ "subsidy_catch_phrase": "令和６年度補正グローバルサウス事業（小規模実証・ＦＳ事業事務局の募集）",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173); font-size: 14px;\">■目的・概要</strong></p><p><span style=\"font-size: 14px; color: rgb(255, 0, 0);\">※本公募は、事業実施可能性調査事業及び小規模実証事業を行う事業者を公募するものではありませんので、ご注意ください。</span></p><p><br></p><p><span style=\"font-size: 14px;\">　いわゆるグローバルサウス諸国（ASEAN、インド、中東、アフリカ、中南米、太平洋島嶼国等。以下、「グローバルサウス諸国」という。）では、産業の脆弱さ、保健・防災・食糧問題等といった課題を抱えています。</span></p><p><span style=\"font-size: 14px;\">　経済産業省は、グローバルサウス諸国が抱える課題を解決することを通じて当該地域の市場の成長力を活かし、日本の経済安全保障（サプライチェーン強靱化等）の確保及び日本国内のイノベーション創出等により国内産業活性化を目指すと共に、グローバルサウス諸国との経済連携を強化するため、本邦企業が行うインフラ等の海外展開に向けた事業実施可能性調査事業（以下「ＦＳ事業」）及び小規模実証事業（以下「実証事業」）の実施に必要な費用の一部を補助します。</span></p><p><span style=\"font-size: 14px;\">　本公募では、</span><span style=\"font-size: 14px; color: rgb(68, 68, 68);\">ＦＳ事業</span><span style=\"font-size: 14px;\">及び</span><span style=\"font-size: 14px; color: rgb(68, 68, 68);\">実証事業</span><span style=\"font-size: 14px;\">の実施に必要な費用の一部を助成する事業</span><span style=\"font-size: 14px; color: rgb(68, 68, 68);\">を実施する、補助事業者（執行団体（事務局））を公募します。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 14px;\">■応募資格</strong></p><p><span style=\"font-size: 14px;\">募集要領の【１．事業概要】１－５．応募資格　の要件を全て満たす企業・団体等</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 14px;\">■問合せ先</strong></p><p><span style=\"font-size: 14px;\">〒１００－８９０１　東京都千代田区霞が関１－３－１</span></p><p><span style=\"font-size: 14px;\">経済産業省通商政策局貿易振興課</span></p><p><span style=\"font-size: 14px; color: rgb(51, 51, 51);\">担当：斎藤（さいとう）、村上（むらかみ）</span></p><p><span style=\"font-size: 14px; color: rgb(51, 51, 51);\">メール：bzl-fst-boekishinkoka＊meti.go.jp</span></p><p><span style=\"font-size: 14px; color: rgb(51, 51, 51);\">※上記メールアドレスの＊は＠に置き換えていただきますようお願いします。</span></p><p><span style=\"font-size: 14px; color: rgb(51, 51, 51);\">※お問い合わせはメールでお願いします。なお、お問い合わせの際は、件名（題名）を必ず</span><span style=\"font-size: 14px;\">「【問い合わせ】グローバルサウス未来志向型共創等事業費補助金（</span><span style=\"font-size: 14px; color: rgb(68, 68, 68);\">小規模実証・ＦＳ事業</span><span style=\"font-size: 14px;\">事務局の募集）」</span><span style=\"font-size: 14px; color: rgb(51, 51, 51);\">としてください。　</span></p>",
+ "use_purpose": "販路拡大・海外展開をしたい",
+ "industry": "建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 卸売業、小売業 / 金融業、保険業 / 学術研究、専門・技術サービス業 / 生活関連サービス業、娯楽業 / 医療、福祉",
+ "target_area_search": "全国",
+ "target_area_detail": "全国",
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "定額",
+ "subsidy_max_limit": 14600000000,
+ "acceptance_start_datetime": "2025-01-24T06:00:00Z",
+ "acceptance_end_datetime": "2025-02-13T03:00:00Z",
+ "project_end_deadline": "2027-03-31T14:45:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CD9MfMAL",
+ "application_guidelines": [
+  {
+   "name": "募集要領（GS小規模事務局）.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "交付要綱（GS小規模事務局).pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "申請書等（GS小規模事務局）.pdf"
+  },
+  {
+   "name": "申請書等（GS小規模事務局）.docx"
+  }
+ ],
+ "institution_name": "グローバルサウス未来志向型共創等事業費補助金",
+ "_meta": {
+  "first_seen": "2025-01-24T06:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

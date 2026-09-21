@@ -1,0 +1,39 @@
+{
+ "id": "a0W5h00000GMoywEAD",
+ "name": "S-00003669",
+ "title": "令和５年度女性活躍のためのフェムテック開発支援・普及促進事業",
+ "subsidy_catch_phrase": "「女性の健康課題」解決に資する製品の開発・改良・普及を支援",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■申請受付期間</strong></p><p><strong>令和５年９月２５日（月）～令和５年１０月１６日（月）</strong>17時00分</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■助成事業の概要</strong></p><p><span style=\"color: black; font-size: 14px;\">都内の中小企業者等が行う、</span><strong style=\"color: rgb(244, 145, 5); font-size: 18px;\">女性の健康課題を解決</strong><span style=\"color: black; font-size: 14px;\">するための開発・改良および普及に要する経費の一部を助成します。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■対象テーマ</strong></p><p><strong style=\"color: rgb(0, 111, 173);\">・</strong><strong>月経</strong></p><p><strong style=\"color: rgb(0, 111, 173);\">・</strong><strong>妊娠・不妊</strong></p><p><strong style=\"color: rgb(0, 111, 173);\">・</strong><strong>産後ケア</strong></p><p><strong style=\"color: rgb(0, 111, 173);\">・</strong><strong>更年期</strong></p><p><strong style=\"color: rgb(0, 111, 173);\">・</strong><strong>婦人科系疾患等</strong></p><p><strong style=\"color: rgb(0, 111, 173);\">・</strong><strong>ヘルスリテラシー</strong></p><p><br></p><p>〇助成限度額</p><p><span style=\"font-size: 18px;\">　</span><strong style=\"font-size: 18px;\">2,000</strong>万円</p><p><br></p><p>〇助成率</p><p>助成対象と認められる経費の<strong style=\"font-size: 16px;\">２/３</strong>以内（千円未満は切り捨て）</p><p><br></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>公益財団法人東京都中小企業振興公社</p><p>企画管理部　助成課　フェムテック事務局</p><p>TEL:03-3251-7895（受付時間：平日9:00～17:00）</p><p>e-mail:<a href=\"mailto:femtech@tokyo-kosha.or.jp\" target=\"_blank\">femtech@tokyo-kosha.or.jp</a></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><a href=\"https://www.tokyo-kosha.or.jp/support/josei/jigyo/femtech/index.htm\" target=\"_blank\">https://www.tokyo-kosha.or.jp/support/josei/jigyo/femtech/index.htm</a></p>",
+ "use_purpose": "研究開発・実証事業を行いたい",
+ "industry": "建設業 / 製造業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 運輸業、郵便業 / 卸売業、小売業 / 宿泊業、飲食サービス業",
+ "target_area_search": "東京都",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "助成対象と認められる経費の2/3以内",
+ "subsidy_max_limit": 20000000,
+ "acceptance_start_datetime": "2023-09-25T01:00:00Z",
+ "acceptance_end_datetime": "2023-10-16T08:00:00Z",
+ "project_end_deadline": "2025-11-30T14:59:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W5h00000GMoywEAD",
+ "application_guidelines": [
+  {
+   "name": "募集要項.pdf"
+  }
+ ],
+ "outline_of_grant": [],
+ "application_form": [
+  {
+   "name": "申請書.xlsx"
+  },
+  {
+   "name": "申請書記入例.pdf"
+  }
+ ],
+ "institution_name": "令和５年度女性活躍のためのフェムテック開発支援・普及促進事業",
+ "_meta": {
+  "first_seen": "2023-09-25T01:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

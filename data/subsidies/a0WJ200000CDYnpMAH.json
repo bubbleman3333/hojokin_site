@@ -1,0 +1,40 @@
+{
+ "id": "a0WJ200000CDYnpMAH",
+ "name": "S-00009055",
+ "title": "令和8年度 バス事業者人材開発支援奨励金",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173); font-size: 14px;\">■概要</strong></p><p><span style=\"font-size: 14px;\">　都内の乗合バス事業者が、女性、若者又は就職氷河期世代をバス運転手として新たに採用し、人材育成に取り組んだ場合に奨励金を支給します。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 14px;\">■受付期間</strong></p><p><span style=\"font-size: 14px;\">　令和8年５月29日(金)から令和9年2月28日(日)まで</span></p><p><span style=\"font-size: 14px;\">　※　予算の上限に達した場合は、受付期間内でも受付を終了します。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 14px;\">■対象事業者の主な要件</strong></p><p><span style=\"font-size: 14px;\">・都内に本社又は主たる事業所を置く乗合バス事業者で、中小企業等に該当すること</span></p><p><span style=\"font-size: 14px;\">・東京都内を含む路線又は営業区域において運行していること</span></p><p><span style=\"font-size: 14px;\">・女性、若者又は就職氷河期世代を正規雇用の運転手として新たに採用し、大型二種免許の取得に係る講習費用を全額負担し、大型二種免許を取得させていること</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 14px;\">■お問合せ先</strong></p><p><span style=\"font-size: 14px;\">　バス事業者人材開発支援奨励金　事務局</span></p><p><span style=\"font-size: 14px;\">　TEL：03-4550-0961（平日9時～17時）</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 14px;\">■ホームページ</strong></p><p><span style=\"font-size: 14px;\">　</span><a href=\"https://bus-jinzai.shigotozaidan.or.jp\" target=\"_blank\" style=\"font-size: 16px;\">https://bus-jinzai.shigotozaidan.or.jp</a></p><p><br></p><p><span style=\"font-size: 14px;\">※本奨励金の概要・申請方法・手続きの流れなどについて、下記「詳細」欄に掲載している「募集要項」を必ずお読みください。</span></p>",
+ "use_purpose": "人材育成を行いたい / 雇用・職場環境を改善したい",
+ "industry": "運輸業、郵便業",
+ "target_area_search": "東京都",
+ "target_area_detail": "都内に本社又は主たる事業所（支店・営業所等）を置く乗合バス事業者であること",
+ "target_number_of_employees": "300名以下",
+ "subsidy_rate": "対象労働者1人につき30万円（年度内に上限５人）、特別加算（年度内に上限2つ。同一取組の複数回申請不可）",
+ "subsidy_max_limit": 1900000,
+ "acceptance_start_datetime": "2026-05-29T05:00:00Z",
+ "acceptance_end_datetime": "2027-02-28T14:59:00Z",
+ "project_end_deadline": null,
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYnpMAH",
+ "application_guidelines": [
+  {
+   "name": "R8バス事業者人材開発支援奨励金_募集要項 .pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "バス事業者人材開発支援奨励金_支給要綱.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "様式第９号_人材育成実績報告書.xlsx"
+  }
+ ],
+ "institution_name": "バス事業者人材開発支援奨励金",
+ "_meta": {
+  "first_seen": "2026-05-29T05:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

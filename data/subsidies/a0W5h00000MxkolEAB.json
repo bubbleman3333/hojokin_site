@@ -1,0 +1,36 @@
+{
+ "id": "a0W5h00000MxkolEAB",
+ "name": "S-00003513",
+ "title": "オフィスビル等のエネルギー効率化による経営安定事業",
+ "subsidy_catch_phrase": "都内にオフィスビル等を所有する中小企業者が、オフィスビル等の省エネ化、創エネ化の取組を実行するために要する経費の一部を助成します",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173); font-size: 13px;\">■目的</strong></p><p>都内に所有しているオフィスビル等の省エネ化、創エネ化を図るために省エネルギー診断を受けた中小企業者に対して、省エネルギー診断の報告書に基づく省エネ化、創エネ化に必要となる設備更新費等を支援することで経営基盤の安定化を図ることを目的としています。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 13px;\">■対象者</strong></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 13px;\">以下の①～③のいずれかの省エネルギー診断を受け、導入予定の設備について記載されている診断報告書を受領していること</strong></p><p>①公益財団法人東京都中小企業振興公社が実施する「オフィスビル等のエネルギー効率化による経営安定事業」における「専門家派遣」の支援を受けた事業者</p><p>②クール・ネット東京（東京都地球温暖化防止活動推進センター）が実施する「省エネルギー診断」を受けた事業者</p><p>③一般財団法人省エネルギーセンターが実施する「省エネ最適化診断」を受けた事業者</p><p>※いずれも、申請日時点で実施から３年以内のもの</p><p>※詳細は募集要項をご確認ください。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 13px;\">■助成対象経費</strong></p><p>省エネ化、創エネ化に資する設備導入に必要な経費の一部</p><p>※省エネルギー診断の報告書に記載されている取組を実施するための必要最小限の経費となります。</p><p>※詳細は募集要項をご確認ください。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 13px;\">■助成対象期間</strong></p><p>交付決定日の翌日から１年間</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 13px;\">■参照URL</strong></p><p><a href=\"https://www.tokyo-kosha.or.jp/support/josei/jigyo/building_energy.html\" target=\"_blank\">https://www.tokyo-kosha.or.jp/support/josei/jigyo/building_energy.html</a></p><p><br></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 13px;\">■問合せ先</strong></p><p>エネルギー対策支援事務局</p><p>TEL：03-4431-3761（平日 9時～16時30分※12/29～1/3を除く）</p><p><br></p><p>※jGrantsの技術トラブル、GビズIDに関するご質問等は「GビズIDヘルプデスク」へお問い合わせください。</p><p>GビズIDヘルプデスク</p><p>TEL：0570-023-797</p>",
+ "use_purpose": "資金繰りを改善したい / 設備整備・IT導入をしたい / エコ・SDGs活動支援がほしい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "東京都",
+ "target_area_detail": "※詳細は募集要項をご確認ください。",
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "助成対象経費の２/３以内（千円未満切り捨て）",
+ "subsidy_max_limit": 30000000,
+ "acceptance_start_datetime": "2023-08-10T00:00:00Z",
+ "acceptance_end_datetime": "2023-10-31T07:30:00Z",
+ "project_end_deadline": null,
+ "request_reception_presence": "無",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W5h00000MxkolEAB",
+ "application_guidelines": [
+  {
+   "name": "オフィスビル_助成金_募集要項_改訂版.pdf"
+  }
+ ],
+ "outline_of_grant": [],
+ "application_form": [
+  {
+   "name": "01_様式第1号 助成金申請書（オフィスビル）.xlsx"
+  }
+ ],
+ "institution_name": "オフィスビル等のエネルギー効率化による経営安定事業",
+ "_meta": {
+  "first_seen": "2023-08-10T00:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

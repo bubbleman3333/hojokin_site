@@ -1,0 +1,40 @@
+{
+ "id": "a0W5h00000UbQyOEAV",
+ "name": "S-00003958",
+ "title": "再生可能エネルギー電源制御装置技術開発等事業費補助金",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>電源制限の対象となる太陽光・風力発電所を拡大し、効率的に運用するためのシステムの構築を行う事業に要する経費の一部を補助することによって、地域間連系線を通じた域外への再エネ送電可能量を増加させ、再生可能エネルギーの出力制御量の抑制を図ることを目的とする。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格等各種条件</strong></p><p>公募要項をご確認ください。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>資源エネルギー庁　省エネルギー・新エネルギー部</p><p>制度審議室　令和５年度補正　補助金担当</p><p>メール：\t<span style=\"font-size: 12px; color: rgb(0, 0, 0);\">bzl-shoshinseido_koubo@meti.go.jp</span></p><p><span style=\"font-size: 12px; color: rgb(0, 0, 0);\">※件名を「再生可能エネルギー電源制御装置技術開発等事業費補助金について」とし、送付をお願いいたします。</span></p>",
+ "use_purpose": "研究開発・実証事業を行いたい",
+ "industry": "電気・ガス・熱供給・水道業",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "２／３",
+ "subsidy_max_limit": 1999727000,
+ "acceptance_start_datetime": "2024-01-15T03:00:00Z",
+ "acceptance_end_datetime": "2024-02-13T03:00:00Z",
+ "project_end_deadline": "2024-03-31T03:00:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W5h00000UbQyOEAV",
+ "application_guidelines": [
+  {
+   "name": "０１　公募要領（令和５年度補正）.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "０３　（案）交付要綱.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "０２　申請様式（公募要領抜粋）.docx"
+  }
+ ],
+ "institution_name": "再生可能エネルギー電源制御装置技術開発等事業費補助金",
+ "_meta": {
+  "first_seen": "2024-01-15T03:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

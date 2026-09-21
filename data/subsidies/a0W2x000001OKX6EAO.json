@@ -1,0 +1,40 @@
+{
+ "id": "a0W2x000001OKX6EAO",
+ "name": "S-00000128",
+ "title": "令和3年度_アイヌ中小企業振興対策事業費補助金",
+ "subsidy_catch_phrase": "アイヌ補助金",
+ "detail": "<p><b style=\"color: rgb(0, 111, 173);\">■目的・概要</b></p><p>　本事業は、アイヌ中小企業の産業振興を目的として、アイヌ民工芸品に関して、①販路拡大を支援するための展示・販売会開催支援事業、②民工芸品制作技術の向上を図るための技術研修支援事業を実施することにより、小規模・零細、かつ、家内工業的な規模の事業者が多いアイヌ中小企業・小規模事業者の経営基盤の強化を図ることとしています。</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■補助対象者</b></p><p>　「民間事業者等」であって、アイヌ民工芸品に関する知見を持っている事業者。なお、「民間事業者等」とは、国及び地方公共団体を除く企業又は団体で、定款等により代表者、活動内容及び財産管理方法等について確認できる者をいいます。</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■事業の対象者</b></p><p>　北海道に居住するアイヌ民工芸品制作者を事業の対象者としてください。</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■問合せ先</b></p><p>住所：〒１００－８９１２　東京都千代田区霞が関１－３－１</p><p>部署：中小企業庁 事業環境部 財務課（担当：神谷）</p><p>電話：０３－３５０１－５８０３、ＦＡＸ：０３－３５０１－６８６８</p><p>E-MAIL：zaimuka-jinkenhan@meti.go.jp</p>",
+ "use_purpose": null,
+ "industry": null,
+ "target_area_search": "",
+ "target_area_detail": null,
+ "target_number_of_employees": null,
+ "subsidy_rate": "補助対象経費の1／2以内",
+ "subsidy_max_limit": 7165000,
+ "acceptance_start_datetime": "2021-03-05T08:00:00Z",
+ "acceptance_end_datetime": "2021-03-26T08:00:00Z",
+ "project_end_deadline": "2022-03-31T14:59:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000001OKX6EAO",
+ "application_guidelines": [
+  {
+   "name": "01_公募要領（R3アイヌ補助金）.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "03_交付要綱案_アイヌ中小企業振興対策事業費補助金.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "02_経費明細表（経費配分内訳）（R3アイヌ補助金）.doc"
+  }
+ ],
+ "institution_name": "アイヌ中小企業振興対策事業費補助金",
+ "_meta": {
+  "first_seen": "2021-03-05T08:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

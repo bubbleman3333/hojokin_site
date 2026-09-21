@@ -1,0 +1,43 @@
+{
+ "id": "a0W5h00000UcrNEEAZ",
+ "name": "S-00004236",
+ "title": "【令和５年度補正　物流効率化先進的実証事業費補助金（荷主企業における物流効率化に向けた先進的な実証事業）補助事業者募集】",
+ "subsidy_catch_phrase": "令和５年度　物流効率化先進的実証事業（荷主企業における物流効率化に向けた先進的な実証事業）事業者の募集",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>我が国の国民生活・経済を支える社会インフラである物流には、「物流の2024年問題」のみならず、構造的な需給ひっ迫による輸送力不足の危機が迫っています。物流の2024年問題を乗り越え、社会インフラである物流を維持するためには、荷主事業者の行動変容が重要です。</p><p>物流効率化のための設備投資の支援を通じて、荷主事業者や物流事業者にもたらされる投資効果を明らかにすることを事業目的とします。</p><p>更に、本実証の成果については積極的な横展開を行い、投資意欲を喚起していきます。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p>募集要領に記載の応募資格の要件を全て満たす中小企業等及び中堅企業等</p><p>※公募の開始は令和６年３月７日（木）、申請は令和６年３月１５日（金）から受付開始をいたします。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助金上限額</strong></p><p>中小企業等：100,000,000円　中堅企業等：500,000,000円</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>物流効率化に向けた先進的な実証事業 事務局</p><p>E-mail：<a href=\"mailto:info_logi@logiefficiency-meti.jp\" target=\"_blank\">info_logi@logiefficiency-meti.jp</a></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■更新情報</strong></p><p>３月１１日（月）　応募書類作成要領（V2.0）および申請様式の中の様式５提出書類チェックリスト（v2.0）・様式８リース料軽減計算確認書の手引(v2.0)に更新しました。</p><p>３月２１日（木）　公募要領（v2.0）および申請様式の中の様式６コンソーシアム協定書（正式版）、様式７コンソーシアム誓約書（正式版）、申請様式等(v2.0)、様式８リース料軽減計算書確認の手引き(v3.0)を更新、申請様式　提案書記入例を追加しました。</p>",
+ "use_purpose": "研究開発・実証事業を行いたい",
+ "industry": "建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 公務（他に分類されるものを除く） / 分類不能の産業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "全国",
+ "target_area_detail": "全国",
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "中小企業等２/３、中堅企業等１/２",
+ "subsidy_max_limit": 500000000,
+ "acceptance_start_datetime": "2024-03-15T03:00:00Z",
+ "acceptance_end_datetime": "2024-04-03T08:00:00Z",
+ "project_end_deadline": "2025-02-07T14:45:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W5h00000UcrNEEAZ",
+ "application_guidelines": [
+  {
+   "name": "公募要領_v2.0.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "交付規程.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "応募書類作成要領_v2.0.pdf"
+  },
+  {
+   "name": "申請様式_３月２１日更新.zip"
+  }
+ ],
+ "institution_name": "「物流効率化に向けた先進的な実証事業」に係る補助事業",
+ "_meta": {
+  "first_seen": "2024-03-15T03:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

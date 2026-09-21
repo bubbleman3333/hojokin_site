@@ -1,0 +1,36 @@
+{
+ "id": "a0WJ2000000oowhMAA",
+ "name": "S-00004892",
+ "title": "令和６年度再生可能エネルギー導入拡大・系統用蓄電池等電力貯蔵システム導入支援事業費補助金",
+ "subsidy_catch_phrase": "R6系統用蓄電池補助金",
+ "detail": "<p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"font-size: 11pt;\">　本事業は、民間団体等（以下「補助事業者」という。）が行う、民間事業者等（以下「間接補助事業者」という。）が再生可能エネルギー（以下「再エネ」という。）の出力変動に対応する調整力等として活用可能な系統用蓄電システムや水電解装置等の導入（以下「間接補助事業」という。）に要する経費に対して、当該経費を補助する事業（以下「補助事業」という。）に要する経費を補助することで、２０５０年カーボンニュートラルの実現に向け再生可能エネルギーの導入拡大や電力供給の安定化を促すことを目的としています。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格等各種条件</strong></p><p>公募要領をご確認ください。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>経済産業省　資源エネルギー庁</p><p>省エネルギー・新エネルギー部</p><p>新エネルギーシステム課　蓄電池担当　<a href=\"mailto:bzl-eneshisuka-battery@meti.go.jp\" target=\"_blank\" style=\"font-size: 12pt;\">bzl-eneshisuka-battery@meti.go.jp</a></p><p><br></p>",
+ "use_purpose": "設備整備・IT導入をしたい",
+ "industry": "電気・ガス・熱供給・水道業",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "定額（10/10）",
+ "subsidy_max_limit": 40000000000,
+ "acceptance_start_datetime": "2024-05-20T03:00:00Z",
+ "acceptance_end_datetime": "2024-06-10T08:00:00Z",
+ "project_end_deadline": null,
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ2000000oowhMAA",
+ "application_guidelines": [
+  {
+   "name": "公募要領.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "再生可能エネルギー導入拡大・系統用蓄電池等電力貯蔵システム導入支援事業費補助金交付要綱.pdf"
+  }
+ ],
+ "application_form": [],
+ "institution_name": "再生可能エネルギー導入拡大・系統用蓄電池等電力貯蔵システム導入支援事業費補助金",
+ "_meta": {
+  "first_seen": "2024-05-20T03:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

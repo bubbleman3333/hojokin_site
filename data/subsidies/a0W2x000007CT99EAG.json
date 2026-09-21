@@ -1,0 +1,40 @@
+{
+ "id": "a0W2x000007CT99EAG",
+ "name": "S-00002271",
+ "title": "令和４年度　石油製品販売業構造改善対策事業費補助金（ＳＳの事業再構築・経営力強化事業のうち人材育成支援事業に係るもの）",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><br></p><p>本事業は、ＳＳの事業再構築・経営力強化に向けて、ＳＳの経営者や従業員が必要となる知識・スキル等を修得するための人材育成研修を企画・開催する事業を実施する民間団体等に対して補助するものです。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p>次の要件を満たす民間団体等とします。</p><p>※コンソーシアム形式による申請の場合は、幹事者を決めていただくとともに、幹事者が事業提案書を提出してください。（ただし、幹事者が業務の全てを他の者に再委託することはできません。）</p><p>①日本に拠点を有していること。</p><p>②本事業を的確に遂行する組織、人員等を有していること。</p><p>③本事業を円滑に遂行するために必要な経営基盤を有し、かつ、資金等について十分な管理能力を有していること。</p><p>④経済産業省からの補助金交付等停止措置又は指名停止措置が講じられている者ではないこと。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■備考</strong></p><p>その他、詳細は募集要領を参照ください。</p>",
+ "use_purpose": "人材育成を行いたい",
+ "industry": "分類不能の産業",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "定額（10/10）",
+ "subsidy_max_limit": 500000000,
+ "acceptance_start_datetime": "2022-11-28T01:00:00Z",
+ "acceptance_end_datetime": "2022-12-19T08:00:00Z",
+ "project_end_deadline": "2023-03-31T09:15:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000007CT99EAG",
+ "application_guidelines": [
+  {
+   "name": "01_募集要領（ＳＳの事業再構築・経営力強化事業（人材育成支援事業））.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "03_交付要綱案（ＳＳの事業再構築･経営力強化事業）.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "02_申請様式（ＳＳの事業再構築・経営力強化事業（人材育成支援事業））.docx"
+  }
+ ],
+ "institution_name": "石油製品販売業構造改善対策事業費補助金（ＳＳの事業再構築・経営力強化事業）",
+ "_meta": {
+  "first_seen": "2022-11-28T01:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

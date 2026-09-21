@@ -1,0 +1,46 @@
+{
+ "id": "a0WJ200000CDIpxMAH",
+ "name": "S-00005863",
+ "title": "高度人材インターンシップ受入支援費補助金",
+ "subsidy_catch_phrase": "海外の高度外国人材を対象にしたインターンを実施！​",
+ "detail": "<p>■目的・概要</p><p>外国人材の採用に意欲のある中小企業等と、日本で働きたい海外在住の高度外国人材を対象に、採用・就職前にインターンシップの場を提供する高度人材インターンシップを実施します。</p><p>企業によるインターンシップ生への宿泊場所の提供及び滞在費支給に対して補助を行うことで、本事業を円滑・効果的に実施することを目的としています。</p><p><br></p><p>■根拠規程</p><p>高度人材インターンシップ受入支援費補助金交付要綱</p><p><br></p><p>■対象事業者</p><p>高度人材インターンシップ事業に参加し、高度外国人材を３か月程度インターンシップ生として受け入れることが決定していること（※その他要件あり）。</p><p><br></p><p>■対象事業</p><p>東京都が主催する高度人材インターンシップ事業</p><p><br></p><p><span style=\"color: rgb(68, 68, 68);\">■補助額上限</span></p><p>宿泊費、滞在費とも１日あたり4,000円</p><p><br></p><p>■申請期間</p><p>〇交付申請受付期間：令和７年８月１８日（月）から令和７年９月１０日（水）まで</p><p>〇補助対象期間：インターンシップ生が補助事業者においてインターンシップを実施した期間（当該インターンシップ生が日本に到着したその日から、帰国する日までの期間）</p><p>但し、宿泊場所の提供について、東京都がインターンシップ生に対し宿泊場所を提供した期間は、補助対象外とする。</p><p>〇実績報告受付期限：令和８年１月９日（金）まで</p><p><br></p><p>■問合せ先</p><p><br></p><p>東京都産業労働局雇用就業部</p><p>就業推進課人材確保推進担当</p><p>03-5320-4628</p><p><br></p><p>■参照URL</p><p><a href=\"https://tcgi.metro.tokyo.lg.jp/company/subsidy25\" target=\"_blank\" style=\"color: rgb(11, 92, 171);\">https://tcgi.metro.tokyo.lg.jp/company/subsidy25</a></p>",
+ "use_purpose": "新たな事業を行いたい / 販路拡大・海外展開をしたい / 雇用・職場環境を改善したい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "東京都",
+ "target_area_detail": null,
+ "target_number_of_employees": "300名以下",
+ "subsidy_rate": "宿泊費、滞在費とも10/10",
+ "subsidy_max_limit": 4000,
+ "acceptance_start_datetime": "2025-08-17T15:00:00Z",
+ "acceptance_end_datetime": "2025-09-10T14:59:00Z",
+ "project_end_deadline": null,
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDIpxMAH",
+ "application_guidelines": [
+  {
+   "name": "R7高度人材インターンシップ受入支援費補助金　募集要項（電子申請用）.docx"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "参考　高度人材インターンシップ受入支援事業費補助金交付要綱.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "(R7)交付申請時様式_Internship.zip"
+  },
+  {
+   "name": "(R7)実績報告時様式_Internship.zip"
+  },
+  {
+   "name": "(R7)その他様式_Internship.zip"
+  }
+ ],
+ "institution_name": "高度人材インターンシップ受入支援費補助金",
+ "_meta": {
+  "first_seen": "2025-08-17T15:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

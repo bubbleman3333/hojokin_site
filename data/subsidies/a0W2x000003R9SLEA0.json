@@ -1,0 +1,36 @@
+{
+ "id": "a0W2x000003R9SLEA0",
+ "name": "S-00001005",
+ "title": "意欲ある事業者経営・技術支援補助金（区分2：新事業展開分）",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><b style=\"color: rgb(0, 111, 173);\">■目的・概要</b></p><p>八尾市内の中小企業者のみなさまを対象に、令和3年度意欲ある事業者経営・技術支援補助金（区分2：新事業展開分）として、以下のような取り組みにかかる費用の1/2を補助します。（補助上限額：250万円）</p><p><br></p><p>【取り組み例】</p><p>・新製品開発、新分野進出、技術革新及び国内生産への転換を行う際のデザイン費、設</p><p>計費、試作費、機械・<span style=\"color: rgb(0, 0, 0);\">設備機器・機材等の購入</span></p><p>・新たにDXやITを用いて、業務の効率化を推進するためのシステム開発費・設計費・</p><p>購入費・利用費及び導入関連費</p><p>・企業ブランドの構築や企業ロゴの作成・刷新にかかるデザイン費</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■対象者</b></p><p><span style=\"color: rgb(0, 0, 0);\">中小企業基本法に定義する中小企業者</span></p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■問合せ先</b></p><p>八尾市　魅力創造部　産業政策課　イノベーション推進係</p><p>〒581-0006　大阪府八尾市清水町1-1-6</p><p>電話：072-924-3964</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■参照URL</b></p><p>https://www.city.yao.osaka.jp/0000057197.html</p>",
+ "use_purpose": "新たな事業を行いたい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "大阪府",
+ "target_area_detail": "補助対象となる経費は、八尾市内での事業活動に係る経費に限る。",
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "1/2",
+ "subsidy_max_limit": 2500000,
+ "acceptance_start_datetime": "2021-06-01T08:00:00Z",
+ "acceptance_end_datetime": "2022-01-31T14:59:00Z",
+ "project_end_deadline": "2022-05-31T14:59:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000003R9SLEA0",
+ "application_guidelines": [],
+ "outline_of_grant": [
+  {
+   "name": "交付要綱・交付基準.zip"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "申請様式.zip"
+  }
+ ],
+ "institution_name": "意欲ある事業者経営・技術支援事業",
+ "_meta": {
+  "first_seen": "2021-06-01T08:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "id": "a0W5h00000178sUEAQ",
+ "name": "S-00003337",
+ "title": "令和５年度宿泊施設を活用した文化体験等観光支援事業補助金",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"color: rgb(68, 68, 68);\">東京都では、東京における長期滞在を促し、インバウンド需要を確実に取り込むため、都内体験型観光提供事業者と連携して日本文化等の体験型観光を企画する都内宿泊施設の取組を支援する、宿泊施設を活用した文化体験等観光支援事業を実施しています。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象者</strong></p><p>「補助対象施設」の宿泊施設を運営する者</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象施設</strong></p><p><span style=\"background-color: rgb(255, 255, 255);\">東京都内において、旅館業法（昭和23年法律第138号）第３条第１項の許可を受けて、同法第２条第２項又は第３項の営業を行っている施設</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象経費</strong></p><p>都内体験型観光提供事業者と連携して、外国人向け体験プログラムを作成する費用及び体験プログラムを実施するための施設整備費用</p><p>※都内体験型観光提供事業者１者以上と連携し、定期的なプログラム提供を条件とします。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助額</strong></p><p>ア　補助対象施設を運営する者</p><p>補助対象経費の３分の２または１，５００万円のいずれか低い額</p><p>イ　アのうち、中小事業者</p><p>補助対象経費の４分の３または５００万円のいずれか低い額</p><p>※中小事業者については、ア又はイのどちらか一方を申請できます。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象期間</strong></p><p>交付決定の日から令和６年３月３１日までに事業が終了</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); background-color: rgb(255, 255, 255);\">■募集期間</strong></p><p>令和５年１２月２８日（木）</p><p>※募集の詳細については、募集要領をご覧ください。</p><p>※締切日時点で書類に不備・不足があると受付できません。余裕をもってご申請ください。</p><p><span style=\"background-color: rgb(255, 255, 255);\">※申請後、都での審査により、補助事業者を決定いたします。</span></p><p>※交付決定には、不備のない書類が揃ってから２か月程度かかります。</p><p>　事業実施に必要な期間を確認し、審査期間も考慮のうえご申請ください。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>産業労働局観光部受入環境課（代表）</p><p>電話：03-5320-4802</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p>https://www.sangyo-rodo.metro.tokyo.lg.jp/tourism/kakusyu/culture/</p>",
+ "use_purpose": "設備整備・IT導入をしたい",
+ "industry": "宿泊業、飲食サービス業",
+ "target_area_search": "東京都",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "補助対象経費の３分の２または４分の３",
+ "subsidy_max_limit": 15000000,
+ "acceptance_start_datetime": "2023-05-26T05:00:00Z",
+ "acceptance_end_datetime": "2023-12-28T14:59:00Z",
+ "project_end_deadline": "2024-03-31T14:59:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W5h00000178sUEAQ",
+ "application_guidelines": [
+  {
+   "name": "宿泊施設を活用した文化体験等観光支援事業補助金募集要領.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "宿泊施設を活用した文化体験等観光支援事業交付要綱.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "様式第１号 別紙１（事業計画書）.docx"
+  },
+  {
+   "name": "様式第１号 別紙２（誓約書）.doc"
+  },
+  {
+   "name": "様式第５号 事業遅延（事故）報告書.docx"
+  },
+  {
+   "name": "様式第１号 申請に必要な書類.docx"
+  },
+  {
+   "name": "様式第１号 申請前確認書.docx"
+  },
+  {
+   "name": "様式第１号 申請書.docx"
+  },
+  {
+   "name": "様式第４－３号 事業者変更届.docx"
+  },
+  {
+   "name": "様式第６号 実績報告書.docx"
+  },
+  {
+   "name": "様式第８号 請求書.docx"
+  },
+  {
+   "name": "様式第３号 辞退届（交付決定後）.docx"
+  },
+  {
+   "name": "様式第４－１号 事業計画変更承認申請書.docx"
+  },
+  {
+   "name": "様式第４－２号 事業中止（廃止）承認申請書.docx"
+  },
+  {
+   "name": "様式第10－１号 財産処分承認申請書.docx"
+  },
+  {
+   "name": "様式第10－２号 財産移設承認申請書.docx"
+  },
+  {
+   "name": "様式第10－３号 財産処分結果報告書.docx"
+  }
+ ],
+ "institution_name": "宿泊施設を活用した文化体験等観光支援事業",
+ "_meta": {
+  "first_seen": "2023-05-26T05:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

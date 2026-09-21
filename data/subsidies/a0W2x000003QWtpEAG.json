@@ -1,0 +1,40 @@
+{
+ "id": "a0W2x000003QWtpEAG",
+ "name": "S-00000164",
+ "title": "地上基幹放送ネットワーク整備事業（令和３年度第１次公募）",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><b style=\"color: rgb(0, 111, 173);\">■目的・概要</b></p><p>本事業は、災害時に放送停波による情報遮断等を回避し、被災情報や避難情報など国民の生命・財産の確保に不可欠な情報を確実に提供することを目的とするものです。</p><p>総務省では、予備送信所設備等、災害対策補完送信所等、緊急地震速報設備等の整備を行う地方公共団体、民間テレビ・ラジオ放送事業者等に対して、その整備費用の一部補助を行います。</p><p>対象設備等の詳細は交付要綱、実施マニュアル（「参照ＵＲＬ」に掲載）をご確認ください。</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■応募資格</b></p><p>地方公共団体</p><p>地上基幹放送事業者　等</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■問合せ先</b></p><p>総務省情報流通行政局地上放送課（０３－５２５３－５７３７）</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■参照URL</b></p><p><a href=\"https://www.soumu.go.jp/menu_seisaku/ictseisaku/housou_suishin/hosonet_kyojinka01.html\" target=\"_blank\">https://www.soumu.go.jp/menu_seisaku/ictseisaku/housou_suishin/hosonet_kyojinka01.html</a></p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■注意事項</b></p><p>補助額上限はシステムの都合上、０となっておりますが、上限はございません。</p>",
+ "use_purpose": "災害（自然災害、感染症等）支援がほしい / 安全・防災対策支援がほしい",
+ "industry": "情報通信業",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "1/2、1/3",
+ "subsidy_max_limit": 0,
+ "acceptance_start_datetime": "2021-03-31T15:00:00Z",
+ "acceptance_end_datetime": "2021-04-23T03:00:00Z",
+ "project_end_deadline": "2022-03-30T15:00:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000003QWtpEAG",
+ "application_guidelines": [
+  {
+   "name": "公募要領（地上基幹NW）.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "02 地上基幹放送ネットワーク整備事業交付要綱.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "様式（地上基幹放送ネットワーク整備事業）.zip"
+  }
+ ],
+ "institution_name": "放送ネットワーク整備支援事業費補助金（地上基幹放送ネットワーク整備事業）",
+ "_meta": {
+  "first_seen": "2021-03-31T15:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

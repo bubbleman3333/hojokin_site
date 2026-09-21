@@ -1,0 +1,43 @@
+{
+ "id": "a0W2x000005jk1CEAQ",
+ "name": "S-00001404",
+ "title": "令和４年度健康経営制度運営事業費補助金",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><b style=\"color: rgb(0, 111, 173);\">■目的・概要</b></p><p><span style=\"font-size: 11pt;\">　近年、現役世代に対する職域での疾病予防・健康づくりの取組みとして、「健康経営」を実践する企業等が増加しています。企業理念に基づき、経営的な視点で従業員の心身の健康保持・増進に取り組むことは、従業員の活力向上や生産性の向上等の組織の活性化をもたらし、結果的に業績向上や株価向上につながると期待されます。</span></p><p><span style=\"font-size: 11pt;\">　本事業は、こうした動きを更に加速するため、健康経営に取り組む企業等を顕彰する「健康経営優良法人認定制度」を通じて、健康経営に関する取組みのすそ野を拡大し、企業等による従業員の健康保持・増進への投資を促進することを目的とします。</span></p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■応募資格</b></p><p><span style=\"font-size: 11pt;\">　次の要件を満たす企業・団体等とします。※コンソーシアム形式による申請の場合は、幹事者を決めていただくとともに、幹事者が事業提案書を提出してください。（ただし、幹事者が業務の全てを他の者に再委託することはできません。）</span></p><p><span style=\"font-size: 11pt;\">　①日本に拠点を有していること。</span></p><p><span style=\"font-size: 11pt;\">　②本事業を的確に遂行する組織、人員等を有していること。</span></p><p><span style=\"font-size: 11pt;\">　③本事業を円滑に遂行するために必要な経営基盤を有し、かつ、資金等について十分な管理能力を有していること。</span></p><p><span style=\"font-size: 11pt;\">　④経済産業省からの補助金交付等停止措置又は指名停止措置が講じられている者ではないこと。</span></p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■問合せ先</b></p><p><span style=\"font-size: 11pt;\">　〒１００－８９０１　東京都千代田区霞が関１－３－１</span></p><p><span style=\"font-size: 11pt;\">　経済産業省　商務・サービスグループ　ヘルスケア産業課</span></p><p><span style=\"font-size: 11pt;\">　担当：丸山、栗本、大筋、西本</span></p><p><span style=\"font-size: 11pt;\">　E-mail：healthcare@meti.go.jp</span></p>",
+ "use_purpose": "新たな事業を行いたい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "1/2",
+ "subsidy_max_limit": 100000000,
+ "acceptance_start_datetime": "2022-02-08T01:00:00Z",
+ "acceptance_end_datetime": "2022-03-01T08:00:00Z",
+ "project_end_deadline": "2023-03-17T13:50:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000005jk1CEAQ",
+ "application_guidelines": [
+  {
+   "name": "公募要領.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "交付要綱.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "様式１　申請書.docx"
+  },
+  {
+   "name": "様式２　提案書.docx"
+  }
+ ],
+ "institution_name": "健康経営制度運営事業",
+ "_meta": {
+  "first_seen": "2022-02-08T01:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

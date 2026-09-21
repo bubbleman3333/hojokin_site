@@ -1,0 +1,63 @@
+{
+ "id": "a0WJ200000CDKHiMAP",
+ "name": "S-00006142",
+ "title": "【令和7年度】西粟倉村協力隊事業補助金",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><span style=\"color: rgb(0, 111, 173);\">■目的・概要</span></p><p><span style=\"font-size: 12.8px;\">西粟倉村において、地域おこし協力隊員として地域外の人材を積極的に誘致し、定住・定着を図るとともに、新たな視点による新たな取組を村の発展につなげ、地域力の維持・強化をはかることを目的として、各種補助金条例（昭和29年西粟倉村条例第12号）第２条第１項各号の規定により、予算の範囲内で西粟倉村地域おこし協力隊事業補助金（以下「補助金」という。）を交付するものとする。</span></p><p><br></p><p><span style=\"color: rgb(0, 111, 173);\">■根拠法令</span></p><p>各種補助金条例（昭和29年西粟倉村条例第12号）</p><p><br></p><p><span style=\"color: rgb(0, 111, 173);\">■応募資格</span></p><p><span style=\"font-size: 12.8px;\">　補助金の交付対象者は、村が実施する「西粟倉村地域おこし協力隊　受入れ事業者審査会」（以下「審査会」という。）を通過し、その審査会で通過した事業を実施する者、村が行政事業の遂行のために連携する必要があると認めた者（上記全てを合わせて以下「補助対象者」という。）とする。</span></p><p><span style=\"font-size: 12.8px;\">２　前項の規定にかかわらず、次の各号に該当する者に対しては、補助金を交付しない。</span></p><p><span style=\"font-size: 12.8px;\">(１)　本人又は団体の主たる構成員が村税及び各種使用料を滞納しているとき。</span></p><p><span style=\"font-size: 12.8px;\">(２)　本人又は団体が暴力団（暴力団員による不当な行為の防止等に関する法律（平成３年法律第77号）第２条各号に規定する暴力団員をいう。）、暴力団の統制下にある団体又は暴力団の構成員（暴力団の構成団体の構成員を含む。以下同じ。）若しくは暴力団の構成員でなくなった日から５年を経過しない者の統制下にある団体であるとき。</span></p><p><span style=\"font-size: 12.8px;\">(３)　所属する協力隊員が、国税、地方税及び各種使用料を滞納しているとき。</span></p><p><span style=\"font-size: 12.8px;\">(４)　その他村長が不適当と認めるもの。</span></p><p><br></p><p><span style=\"color: rgb(0, 111, 173);\">■地理条件</span></p><p>西粟倉村に事務所を置く事業者に限る</p><p><br></p><p><span style=\"color: rgb(0, 111, 173);\">■問合せ先</span></p><p>西粟倉村役場　総務企画課（地域おこし協力隊担当係）</p><p>0868-79-2111　もしくは　n.kyouryoku@gmail.com　等</p>",
+ "use_purpose": "新たな事業を行いたい / 販路拡大・海外展開をしたい / 事業を引き継ぎたい / 人材育成を行いたい / まちづくり・地域振興支援がほしい",
+ "industry": "製造業 / 電気・ガス・熱供給・水道業 / サービス業（他に分類されないもの） / 農業、林業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "岡山県",
+ "target_area_detail": "岡山県英田郡西粟倉村",
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": null,
+ "subsidy_max_limit": 5450000,
+ "acceptance_start_datetime": "2024-03-16T23:30:00Z",
+ "acceptance_end_datetime": "2026-03-31T14:59:00Z",
+ "project_end_deadline": "2026-03-31T14:59:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDKHiMAP",
+ "application_guidelines": [],
+ "outline_of_grant": [
+  {
+   "name": "条文_西粟倉村地域おこし協力隊推進要綱250401.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "様式第１号_交付申請書.docx"
+  },
+  {
+   "name": "【参考】日報入力シート（名前）.xlsx"
+  },
+  {
+   "name": "【R7】支出整理簿.xlsx"
+  },
+  {
+   "name": "様式第４号_実績報告書.docx"
+  },
+  {
+   "name": "様式第３号_変更承認申請書.docx"
+  },
+  {
+   "name": "様式第６号_消費税仕入控除税額報告書.docx"
+  },
+  {
+   "name": "様式第７号_補助金精算払請求書.docx"
+  },
+  {
+   "name": "様式第８号_補助金概算払請求書.docx"
+  },
+  {
+   "name": "【記載例】様式第１号_交付申請書.docx"
+  },
+  {
+   "name": "西粟倉村地域おこし協力隊事業補助要綱にかかる注意事項について.docx"
+  }
+ ],
+ "institution_name": "西粟倉村　地域おこし協力隊事業補助",
+ "_meta": {
+  "first_seen": "2024-03-16T23:30:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

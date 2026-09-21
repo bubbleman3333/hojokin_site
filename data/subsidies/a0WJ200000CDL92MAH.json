@@ -1,0 +1,36 @@
+{
+ "id": "a0WJ200000CDL92MAH",
+ "name": "S-00006340",
+ "title": "INPIT事業再編計画支援事業補助金（令和７年度）",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>産業競争力強化法（産競法）第２３条第１項の事業再編計画の認定を受けた特定中堅企業者に対して、その工業所有権の保護及び利用を図るために必要な検討に要する調査事業等に必要な経費の一部を助成することにより、その認定事業再編計画に基づく取組を支援します。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■根拠法令</strong></p><p><span style=\"color: rgb(68, 68, 68); font-size: 12px;\">産競法第３４条の２第２項</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象者</strong></p><p>産競法第３４条の２の規定に基づくに規定する認定事業再編事業者等である特定中堅企業者（産競法第２条第２４項に規定する中堅企業者であって、その成長発展を図るための事業活動を行っているものとして主務省令で定める要件に該当するもの。）</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>INPIT（独立行政法人工業所有権情報・研修館）</p><p>知財活用支援センター　助成事業担当</p><p><span style=\"color: rgb(68, 68, 68); font-size: 12px;\">電話番号\t03-3581-1101（内線3852）</span></p><p><span style=\"font-size: 12px; color: rgb(68, 68, 68);\">メールアドレス\tip-ct06@inpit.go.jp</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p>INPIT事業再編計画支援事業補助金HP</p><p>https://www.inpit.go.jp/shien/tokutei-chuuken/index.html</p>",
+ "use_purpose": "新たな事業を行いたい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "901名以上",
+ "subsidy_rate": "1/3以内",
+ "subsidy_max_limit": 6500000,
+ "acceptance_start_datetime": "2025-04-01T08:00:00Z",
+ "acceptance_end_datetime": "2025-12-19T08:00:00Z",
+ "project_end_deadline": "2026-03-31T14:59:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDL92MAH",
+ "application_guidelines": [
+  {
+   "name": "ＩＮＰＩＴ事業再編計画支援事業補助金交付要領.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "ＩＮＰＩＴ事業再編支援事業補助金交付要綱.pdf"
+  }
+ ],
+ "application_form": [],
+ "institution_name": "INPIT事業再編計画支援事業補助金",
+ "_meta": {
+  "first_seen": "2025-04-01T08:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

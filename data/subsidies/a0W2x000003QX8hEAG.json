@@ -1,0 +1,40 @@
+{
+ "id": "a0W2x000003QX8hEAG",
+ "name": "S-00000737",
+ "title": "情報通信技術利活用事業費補助金（令和４年度地域課題解決のためのスマートシティ推進事業）スマートシティ推進事業）",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要（サマリ）:</strong></p><p>地域が抱える様々な課題の解決や地域活性化・地方創生のため、スマートシティリファレンスアーキテクチャを満たす都市OS／データ連携基盤の導入（整備・改修）や当該都市OSに接続するデジタル技術を活用したサービス・アセットの整備等を行う事業</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要:</strong></p><p>平成28年12月に施行された「官民データ活用推進基本法」（以下「法」という。）において「多様な分野における横断的な官民データ活用基盤の整備」（法第15条第２項）が定められ、総務省では平成29年度から「データ利活用型スマートシティ推進事業」を実施するなど、地域におけるデータ活用の環境整備を促進してきた。</p><p>さらに、令和３年12月に閣議決定された「デジタル社会の実現に向けた重点計画」において「様々な準公共サービス分野の取組を、地域で包括的・一体的に組み込んだスマートシティの取組を加速させる。そのため、生活全般にまたがる複数のサービス分野のデータについて、各サービス主体にその収集・保有するデータを分散管理させながら連携させ、これらの連携による相乗効果を生かした先端的サービスの提供を促すために、データ連携基盤の整備を進める。」とされている。加えて、「新経済・財政再生計画改革工程表2021」（令和３年12月23日経済財政諮問会議決定）では「スマートシティ数：2025年度まで100地域」「都市OS（データ連携基盤）の導入地域数：2025年度までに100地域」などがKPIとされた。</p><p>これらを踏まえ、本事業においては、地域が抱える様々な課題の解決や地域活性化・地方創生を実現するため、スマートシティに取り組む地方公共団体等による都市OS／データ連携基盤の導入（整備・改修）や当該都市OSに接続するサービス、データ及びアセットの初期投資等にかかる経費の一部を補助する。</p><p><br></p><p><strong style=\"background-color: rgb(255, 255, 255); color: rgb(0, 111, 173);\">■補助対象者:</strong></p><p>情報通信技術利活用事業費補助金（一般会計）交付要綱第４条に規定する者とする。ただし、交付要綱第４条第１項第３号に規定する法人格を有する組織が実施団体となる場合には、事業に関連する都道府県又は市区町村との間で、出資 、包括連携協定、コンソーシアム組成等によりガバナンスが確立されていることを条件とする。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■</strong><strong style=\"color: rgb(0, 111, 173); background-color: rgb(255, 255, 255);\">参照URL</strong><strong style=\"color: rgb(0, 111, 173);\">:</strong></p><p>令和４年度「地域課題解決のためのスマートシティ推進事業」提案の公募について</p><p><a href=\"https://www.soumu.go.jp/menu_news/s-news/01ryutsu06_02000308.html\" target=\"_blank\">https://www.soumu.go.jp/menu_news/s-news/01ryutsu06_02000308.html</a></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問い合わせ先:</strong></p><p>総務省情報流通行政局地域通信振興課</p><p>担当： 嶋田、奥寺</p><p>電話： 03-5253-5756</p><p>E-mail： ict-town_atmark_ml.soumu.go.jp</p><p>※迷惑メール対策のため、「@」を「_atmark_」と表示しております。</p><p>送信の際には、「@」に変更してください。</p><p><br></p><p><strong style=\"background-color: rgb(255, 255, 255); color: rgb(0, 111, 173);\">■備考:</strong></p><p>詳細等については参照URLに記載したURLから総務省の報道発表内容を確認してください。</p>",
+ "use_purpose": "まちづくり・地域振興支援がほしい / 設備整備・IT導入をしたい",
+ "industry": "情報通信業",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "1/2",
+ "subsidy_max_limit": 0,
+ "acceptance_start_datetime": "2022-04-05T05:00:00Z",
+ "acceptance_end_datetime": "2022-05-16T03:00:00Z",
+ "project_end_deadline": "2023-03-31T14:59:59Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000003QX8hEAG",
+ "application_guidelines": [
+  {
+   "name": "実施要領等.zip"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "情報通信技術利活用事業費補助金（一般会計）交付要綱.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "令和4年度スマートシティ関連事業応募様式.zip"
+  }
+ ],
+ "institution_name": "情報通信技術利活用事業費補助金（令和４年度地域課題解決のためのスマートシティ推進事業）",
+ "_meta": {
+  "first_seen": "2022-04-05T05:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

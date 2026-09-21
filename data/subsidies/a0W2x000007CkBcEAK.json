@@ -1,0 +1,46 @@
+{
+ "id": "a0W2x000007CkBcEAK",
+ "name": "S-00002641",
+ "title": "地域特産品開発支援事業費補助金",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"background-color: rgb(255, 255, 255); color: rgb(68, 68, 68);\">東京産の原材料の使用や、独自の技術・伝統的な製造技術などの活用により、質の高い東京ならではの特産品の開発を進める事業者を支援するため、開発に要する経費の一部を補助し、もって都内食品製造事業者の活性化を目指すことを目的とします</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■根拠法令</strong></p><p>地域特産品開発支援事業実施要綱／実施要領</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p>事業実施主体が消費者向けに販売する食品の開発において、次の①～③のいずれかの条件を満たす食品を開発する事業において、東京都の会計年度内に補助事業の対象として決定を受けた事業実施内容に取り組み、かつ経費の支払いが完了した事業について経費の一部を補助します</p><p>①　都内産の原材料を使用するもの</p><p>②　独自の技術や東京の伝統的な製造技術を利用するもの</p><p>③　地方独立行政法人東京都立産業技術センター食品技術センターの研究シーズや技術を活用するもの</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■地理条件</strong></p><p>次の①又は②に該当するもの</p><p>①　法人の場合は、登記簿謄本（履歴事項全部証明書）により、都内所在等が確認できること</p><p>②　個人事業者の場合は、都内税務署に提出した個人事業の開業・廃業等届出書の写し（税務署受付印のあるもの）により、都内所在等が確認できること</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■備考</strong></p><p>詳しくは公募要領をご覧ください</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>東京都 産業労働局 商工部 経営支援課 事業促進担当</p><p>〒163-8001　新宿区西新宿２－８－１都庁第一本庁舎20階北側　ＴＥＬ：03-5320-4778、ＦＡＸ：03-5388-1465</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p>https://www.sangyo-rodo.metro.tokyo.lg.jp/chushou/shoko/keiei/tokusan/kaihatu/index.html</p>",
+ "use_purpose": "新たな事業を行いたい / 販路拡大・海外展開をしたい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "東京都",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "１/2以内",
+ "subsidy_max_limit": 1500000,
+ "acceptance_start_datetime": "2024-02-02T00:00:00Z",
+ "acceptance_end_datetime": "2024-03-21T14:59:00Z",
+ "project_end_deadline": "2025-03-31T14:59:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000007CkBcEAK",
+ "application_guidelines": [
+  {
+   "name": "公募要領.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "地域特産品開発支援事業実施要綱・要領.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "様式１号（交付申請書）.xlsx"
+  },
+  {
+   "name": "様式１の２号（誓約書）.doc"
+  },
+  {
+   "name": "★【記入例】　様式１号（交付申請書）.xlsx"
+  }
+ ],
+ "institution_name": "地域特産品開発支援事業",
+ "_meta": {
+  "first_seen": "2024-02-02T00:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

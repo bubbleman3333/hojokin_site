@@ -1,0 +1,40 @@
+{
+ "id": "a0W2x000006EaEREA0",
+ "name": "S-00001516",
+ "title": "健全な製品エコシステム構築・ルール形成促進事業",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><b style=\"color: rgb(0, 111, 173);\">■目的・概要</b></p><p><span style=\"font-size: 11pt;\">この補助金は、</span><span style=\"font-size: 10.5pt;\">民間企業等（以下「間接補助事業者」という。）が</span><span style=\"font-size: 11pt;\">蓄電池のエコシステムの構築に資する実証事業</span><span style=\"font-size: 10.5pt;\">（以下「間接補助事業」という。）</span><span style=\"font-size: 11pt;\">に伴う経費に対して、民間団体等（以下「補助事業者」という。）が、当該経費の一部を助成する事業（以下「補助事業」という。）等に要する経費を補助し、「CASE」、特に自動車の電動化技術の社会実装を進めることにより、２０５０年カーボンニュートラル実現に向けて運輸分野のCO2削減に貢献することを目的とします。</span></p><p><b style=\"color: rgb(0, 111, 173);\">■応募資格</b></p><p><span style=\"font-size: 11pt;\">次の要件を満たす民間団体等とします。</span></p><p><span style=\"font-size: 11pt;\">※コンソーシアム形式による申請の場合は、幹事者を決めていただくとともに、幹事者が事業提案書を提出してください。（ただし、幹事者が業務の全てを他の者に再委託することはできません。）</span></p><p><span style=\"font-size: 11pt;\">①日本に拠点を有していること。</span></p><p><span style=\"font-size: 11pt;\">②本事業を的確に遂行する組織、人員等を有していること。</span></p><p><span style=\"font-size: 11pt;\">③本事業を円滑に遂行するために必要な経営基盤を有し、かつ、資金等について十分な管理能力を有していること。</span></p><p><span style=\"font-size: 11pt;\">④経済産業省からの補助金交付等停止措置又は指名停止措置が講じられている者ではないこと。</span></p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■地理条件</b></p><p><span style=\"font-size: 11pt;\">日本に拠点を有していること。</span></p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■備考</b></p><p>なし</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■問合せ先</b></p><p><span style=\"font-size: 11pt;\">〒１００－８９０１　東京都千代田区霞が関１－３－１</span></p><p><span style=\"font-size: 11pt;\">経済産業省　製造産業局　自動車課</span></p><p><span style=\"font-size: 11pt;\">担当：西野、佐藤、齋藤、安藤</span></p><p><span style=\"font-size: 11pt;\">E-mail：「</span><a href=\"mailto:bzl-battery-ecosystem@meti.go.jp\" target=\"_blank\">bzl-battery-ecosystem@meti.go.jp</a><span style=\"font-size: 11pt;\">」</span></p>",
+ "use_purpose": "新たな事業を行いたい / 研究開発・実証事業を行いたい",
+ "industry": "製造業",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "定額",
+ "subsidy_max_limit": 500000000,
+ "acceptance_start_datetime": "2022-04-06T00:00:00Z",
+ "acceptance_end_datetime": "2022-05-06T09:00:00Z",
+ "project_end_deadline": "2023-03-31T14:59:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000006EaEREA0",
+ "application_guidelines": [
+  {
+   "name": "公募要領_健全な製品エコシステム構築・ルール形成促進事業.docx"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "交付要綱案_健全な製品エコシステム構築・ルール形成促進事業.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "申請様式_健全な製品エコシステム構築・ルール形成促進事業.docx"
+  }
+ ],
+ "institution_name": "令和４年度無人自動運転等のCASE対応に向けた実証・支援事業（健全な製品エコシステム構築・ルール形成促進事業）",
+ "_meta": {
+  "first_seen": "2022-04-06T00:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

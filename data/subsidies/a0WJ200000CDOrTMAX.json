@@ -1,0 +1,64 @@
+{
+ "id": "a0WJ200000CDOrTMAX",
+ "name": "S-00006731",
+ "title": "東京都中小企業障害者雇用スタート支援奨励金",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"font-size: 14px; color: rgb(49, 49, 49);\">　東京都では、障害を持つ方が希望とやりがいを持って、いきいきと活躍できる社会の実現を目指しています。</span></p><p><span style=\"font-size: 14px; color: rgb(49, 49, 49);\">　このため、初めて障害者を雇用される中小事業主を応援し、奨励金を支給します。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■根拠法令</strong></p><p>東京都中小企業障害者雇用スタート支援奨励金支給要領</p><p><span style=\"color: rgb(68, 68, 68);\">東京都中小企業障害者雇用スタート支援奨励金支給要綱</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p>TOKYOはたらくネットのページをご確認ください。</p><p><a href=\"https://www.hataraku.metro.tokyo.lg.jp/shogai/josei/start/\" target=\"_blank\">https://www.hataraku.metro.tokyo.lg.jp/shogai/josei/start/</a></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>東京都産業労働局 雇用就業部 就業推進課 障害者雇用促進担当</p><p>電話(代表)：03-5320-4663（直通）</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p>TOKYOはたらくネット「東京都中小企業障害者雇用スタート支援奨励金」</p><p><a href=\"https://www.hataraku.metro.tokyo.lg.jp/shogai/josei/start/\" target=\"_blank\">https://www.hataraku.metro.tokyo.lg.jp/shogai/josei/start/</a></p>",
+ "use_purpose": "雇用・職場環境を改善したい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "東京都",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": null,
+ "subsidy_max_limit": 1200000,
+ "acceptance_start_datetime": "2025-05-31T15:00:00Z",
+ "acceptance_end_datetime": "2028-03-31T14:59:00Z",
+ "project_end_deadline": null,
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDOrTMAX",
+ "application_guidelines": [
+  {
+   "name": "東京都中小企業障害者雇用スタート支援奨励金支給要領.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "東京都中小企業障害者雇用スタート支援奨励金支給要綱.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "チェックリスト.xlsx"
+  },
+  {
+   "name": "雇用継続の念書（代表者変更）.doc"
+  },
+  {
+   "name": "支払金口座振替依頼書（Word形式）.doc"
+  },
+  {
+   "name": "1号 支給申請書.doc"
+  },
+  {
+   "name": "1号-2誓約書.xlsx"
+  },
+  {
+   "name": "4号 申請撤回届.doc"
+  },
+  {
+   "name": "5号 名称等変更.doc"
+  },
+  {
+   "name": "別添1週平均所定内実労働時間確認表.xls"
+  },
+  {
+   "name": "別添2育成方針.doc"
+  }
+ ],
+ "institution_name": "東京都中小企業障害者雇用スタート支援奨励事業",
+ "_meta": {
+  "first_seen": "2025-05-31T15:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

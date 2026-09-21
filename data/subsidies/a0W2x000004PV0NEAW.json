@@ -1,0 +1,36 @@
+{
+ "id": "a0W2x000004PV0NEAW",
+ "name": "S-00001103",
+ "title": "原子力発電施設等の周辺地域における大規模開発地区への企業立地促進事業費補助金",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>この補助金は、原子力発電施設等の周辺地域における大規模開発地区に立地する企業の用地取得に係る費用の一部を補助することにより、企業の立地促進を通じて電源地域の振興を図り、もって原子力発電施設等の設置の円滑化に資することを目的とします。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■根拠法令</strong></p><p>補助金等に係る予算の執行の適正化に関する法律</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p>用地取得後、原則として３年以内に操業等が見込まれるものであること。</p><p>操業開始後１年以内に雇用創出効果が５人以上見込まれるものであること。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■地理条件</strong></p><p>原子力発電施設等の設置がその区域内において行われている市町村（当該施設の設置が行われている地点が整備法第３条第１項第２号に該当する場合に限る。）のうち、次の一から三までに掲げる要件を満たしているものの区域内                          </p><p>一　当該市町村が地方自治法（昭和２２年法律第６７号）第２５２条の１９第１項に規定する政令で指定する市以外の市町村であること。      </p><p>二　当該市町村が工業再配置促進法を廃止する法律（平成１８年法律第３２号）による廃止前の工業再配置促進法（昭和４７年法律第７３号）第２条第２項に規定する誘導地域をその区域とする市町村であること。       </p><p>三 当該企業立地の立地地点が国又は県の計画に基づき整備された５，０００ヘクタール以上の大規模な工業基地内であること。 </p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■備考</strong></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>東北経済産業局地域経済部　企業成長支援課</p><p>０２２－２２１－４８０７</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p>",
+ "use_purpose": "設備整備・IT導入をしたい",
+ "industry": "建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / サービス業（他に分類されないもの） / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 不動産業、物品賃貸業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 医療、福祉",
+ "target_area_search": "青森県/岩手県/宮城県/秋田県/山形県/福島県",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "2500円/㎡",
+ "subsidy_max_limit": 55000000,
+ "acceptance_start_datetime": "2022-10-31T23:30:00Z",
+ "acceptance_end_datetime": "2023-03-31T14:59:00Z",
+ "project_end_deadline": "2023-03-31T14:59:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000004PV0NEAW",
+ "application_guidelines": [],
+ "outline_of_grant": [
+  {
+   "name": "原子力発電施設等の周辺地域における大規模開発地区への企業立地促進事業費補助金　交付要綱（条文）.jtd"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "原子力発電施設等の周辺地域における大規模開発地区への企業立地促進事業費補助金　様式.jtd"
+  }
+ ],
+ "institution_name": "原子力発電施設等の周辺地域における大規模開発地区への企業立地促進事業費補助金",
+ "_meta": {
+  "first_seen": "2022-10-31T23:30:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

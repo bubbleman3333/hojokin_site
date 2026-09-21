@@ -1,0 +1,39 @@
+{
+ "id": "a0W5h00000ZuohtEAB",
+ "name": "S-00004776",
+ "title": "埼玉県中小企業等奨学金返還支援事業補助金（令和６年度）",
+ "subsidy_catch_phrase": "奨学金を返還する従業員に手当を支給する中小企業等へ補助します！\n若者から選ばれる魅力ある企業を目指して取り組みませんか！",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>埼玉県内の中小企業等の人材確保と定着を促進し、若者から選ばれる魅力ある中小企業等を支援するため、奨学金返還支援制度を設ける中小企業等が従業員に支給した手当等の一定額を補助します。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p>埼玉県内に事業所を有し、補助対象者に勤務する従業員（以下「支援対象者」という。）への奨学金返還支援制度を設け、手当等として、奨学金返還のための金銭を支給する中小企業者及びその他の法人であって、埼玉県中小企業等人材確保奨学金返還支援事業実施要領 別表第１に掲げる者（みなし大企業に該当しない者及び国又は地方公共団体から出資を受けていない者に限る。）であること。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>補助金申請に関する問合せ先</p><p>埼玉県中小企業団体中央会（奨学金返還支援室）</p><p>埼玉県さいたま市大宮区桜木町１-７-５大宮ソニックシティ９階</p><p>TEL：０４８－７００－４６００ FAX：０４８－７００－４６０１</p><p>e-Mail：toiawase@saitama-shougakukinhojyo.com</p><p><br></p><p>奨学金返還支援制度に関する問合せ先</p><p>埼玉県産業労働部雇用労働課</p><p>TEL：０４８－８３０－４５３８ FAX：０４８－８３０－４８５１</p><p><br></p><p>参照URL：https://saitama-shougakukinhojyo.com/</p><p><br></p>",
+ "use_purpose": "人材育成を行いたい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 公務（他に分類されるものを除く） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "埼玉県",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "１／２ 又は ２／３",
+ "subsidy_max_limit": 0,
+ "acceptance_start_datetime": "2024-06-01T00:00:00Z",
+ "acceptance_end_datetime": "2025-01-21T08:00:00Z",
+ "project_end_deadline": "2025-03-31T03:00:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W5h00000ZuohtEAB",
+ "application_guidelines": [],
+ "outline_of_grant": [
+  {
+   "name": "overview.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "kinyuurei.zip"
+  },
+  {
+   "name": "shinseiyoushiki.zip"
+  }
+ ],
+ "institution_name": "埼玉県中小企業等奨学金返還支援事業補助金（令和８年度）",
+ "_meta": {
+  "first_seen": "2024-06-01T00:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

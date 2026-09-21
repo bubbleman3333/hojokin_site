@@ -1,0 +1,61 @@
+{
+ "id": "a0WJ200000CDP1wMAH",
+ "name": "S-00006746",
+ "title": "令和７年度東京都医療ＤＸ人材育成支援事業",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"font-size: 12.8px;\">医療機関の職員のＩＴ・ＤＸに関する資格取得に係る経費等を支援することで、電子カルテの操作等、医療ＤＸに関連する知識・技能等を有する人材の育成を図り、もって電子カルテシステムを始めとするデジタル技術の導入を支援することを目的とします。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助事業対象者</strong></p><p><span style=\"font-size: 12.8px;\">東京都内において、病院又は医科診療所を開設する者であって、東京都知事（以下「知事」という。）が適当と認める者。ただし、次の者を除く。</span></p><p><span style=\"font-size: 12.8px;\">(1)　国</span></p><p><span style=\"font-size: 12.8px;\">(2)　地方自治法（昭和２２年法律第６７号）第１条の３に規定する地方公共団体</span></p><p><span style=\"font-size: 12.8px;\">(3)　地方独立行政法人法（平成１５年法律第１１８号）第２条第１項に規定する地方独立行政法人及び同条第２項に規定する特定独立行政法人</span></p><p><span style=\"font-size: 12.8px;\">(4)　独立行政法人通則法（平成１１年法律第１０３号）第２条第１項に規定する独立行政法人及び同条第２項に規定する特定独立行政法人</span></p><p><span style=\"font-size: 12.8px;\">(5)　国立大学法人法（平成１５年法律第１１２号）第２条第１項に規定する国立大学法人</span></p><p><span style=\"font-size: 12.8px;\">(6)　この補助金の交付を受けたことがある医療機関</span></p><p><span style=\"font-size: 12.8px;\">(7)　暴力団（東京都暴力団排除条例（平成２３年東京都条例第５４号。以下「暴排条例」という。）第２条第２号に規定する暴力団をいう。）</span></p><p><span style=\"font-size: 12.8px;\">(8)　法人その他団体の代表者、役員、使用人その他の従業者若しくは構成員に暴力団員等（暴排条例第２条第３号に規定する暴力団員及び道場第４号に規定する暴力団関係者をいう。）に該当する者があるもの</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>東京都保健医療局医療政策部医療政策課医療改革推進担当</p><p>TEL：03-5320-4448（直通）</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><span style=\"font-size: 12.8px;\">https://www.hokeniryo.metro.tokyo.lg.jp/iryo/jigyo/h_gaiyou/dx_zinzai </span></p>",
+ "use_purpose": "人材育成を行いたい",
+ "industry": "医療、福祉",
+ "target_area_search": "東京都",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "10分の10",
+ "subsidy_max_limit": 500000,
+ "acceptance_start_datetime": "2025-07-23T00:00:00Z",
+ "acceptance_end_datetime": "2025-11-28T15:00:00Z",
+ "project_end_deadline": "2026-03-31T14:45:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDP1wMAH",
+ "application_guidelines": [
+  {
+   "name": "医療ＤＸ人材育成支援事業実施要綱.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "医療ＤＸ人材育成支援事業補助金交付要綱.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "01-1 第１号様式（交付申請書）.doc"
+  },
+  {
+   "name": "01-2 第１号様式別紙１（事業計画書）.doc"
+  },
+  {
+   "name": "01-3 第１号様式別紙２（経費所要額調）.xls"
+  },
+  {
+   "name": "02-1 第２号様式（実績報告書）.doc"
+  },
+  {
+   "name": "02-2 第２号様式別紙１（実績報告書）.doc"
+  },
+  {
+   "name": "02-3 第２号様式別紙２（経費所要額精算書）.xls"
+  },
+  {
+   "name": "03 第３号様式.doc"
+  },
+  {
+   "name": "01-4歳入歳出予算書（見込書）抄本.docx"
+  }
+ ],
+ "institution_name": "東京都医療ＤＸ人材育成支援事業",
+ "_meta": {
+  "first_seen": "2025-07-23T00:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

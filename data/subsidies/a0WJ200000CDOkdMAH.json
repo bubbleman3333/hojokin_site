@@ -1,0 +1,49 @@
+{
+ "id": "a0WJ200000CDOkdMAH",
+ "name": "S-00006713",
+ "title": "令和７年度和歌山市スマートシティ実証実験サポート事業",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"color: rgb(1, 14, 21);\">本事業は、国内において広く普及していない先進的な技術やサービス、または既に国内において広く普及している技術又はサービスを組み合わせることにより実現される新たなサービスといった先端技術等（以下「先端技術等」という。）を活用した実証実験により、本市のスマートシティの取組を推進することを目的として、実証実験の実施事業者を募集する。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■対象事業</strong></p><p><span style=\"color: rgb(0, 5, 8);\">地域課題及び行政課題の解決を主題とし、本市をフィールドとして先端技術等を活用した実証実験。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■スケジュール</strong></p><p>募集要項公表 令和７年５月１９日（月）</p><p><strong><u>参加資格確認申請書受付　令和７年６月１９日（木）午後５時まで（必着）</u></strong></p><p>参加資格確認通知書送付　令和７年６月２４日（火）（予定）</p><p>質問受付 令和７年６月２４日（火）午後５時まで</p><p>質問回答 令和７年６月３０日（月）（予定）</p><p><strong><u>実施計画書提出 令和７年７月１４日（月）午後５時まで</u></strong></p><p>実施計画審査会 令和７年７月下旬（予定）</p><p>事業者の決定（通知） 令和７年８月上旬（予定）</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■備考</strong></p><p><span style=\"color: rgb(8, 0, 0);\">①jGrants上では申請受付はできません。</span></p><p><span style=\"color: rgb(8, 0, 0);\">提出書類等を期限までに必ず募集要項に記載の提出方法にてご提出ください。</span></p><p><span style=\"color: rgb(8, 0, 0);\">※持参の場合、午前９時から午後５時までとする。ただし、土曜日、日曜日、祝日は除く。</span></p><p><span style=\"color: rgb(8, 0, 0);\">※郵送の場合、記録が残る簡易書留郵便等で行い、提出期限必着のこと。</span></p><p><span style=\"color: rgb(8, 0, 0);\">※連絡先のE-mailアドレスは必ず記載すること。</span></p><p><br></p><p><span style=\"color: rgb(8, 0, 0);\">②本サポート事業の募集要項、提出書類並びに補助金交付要綱等の詳細については、詳細欄の添付資料にてご確認ください。</span></p><p><br></p><p><br></p><p><strong style=\"color: rgb(8, 0, 0);\">＜本事業に関する問合せ先・書類提出先＞</strong></p><p><strong style=\"color: rgb(8, 0, 0);\">和歌山市　</strong><strong>総務局　総務部　デジタル推進課</strong></p><p><strong style=\"color: rgb(8, 0, 0);\">所在地：和歌山市七番丁２３番地</strong></p><p><strong style=\"color: rgb(8, 0, 0);\">ＴＥＬ：０７３－４３５－</strong><strong>１０２３</strong></p><p><strong style=\"color: rgb(8, 0, 0);\">メールアドレス：</strong><strong>digital@city.wakayama.lg.jp</strong></p>",
+ "use_purpose": "新たな事業を行いたい / 研究開発・実証事業を行いたい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 公務（他に分類されるものを除く） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "１／２以内",
+ "subsidy_max_limit": 1500000,
+ "acceptance_start_datetime": "2025-05-19T00:00:00Z",
+ "acceptance_end_datetime": "2025-06-19T08:00:00Z",
+ "project_end_deadline": "2026-02-28T14:45:00Z",
+ "request_reception_presence": "無",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDOkdMAH",
+ "application_guidelines": [
+  {
+   "name": "01　実証実験募集要項0.08.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "和歌山市スマートシティ実証実験サポート補助金交付要綱（R7.4.1～）.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "02　参加資格確認申請様式0.01（様式１～４）.docx"
+  },
+  {
+   "name": "03　実施計画書0.01（様式５）.pptx"
+  },
+  {
+   "name": "04　収支予算書（様式６）.docx"
+  },
+  {
+   "name": "05　スケジュール表0.02（様式７）.xlsx"
+  }
+ ],
+ "institution_name": "和歌山市スマートシティ実証実験サポート事業",
+ "_meta": {
+  "first_seen": "2025-05-19T00:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

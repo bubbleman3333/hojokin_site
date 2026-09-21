@@ -1,0 +1,32 @@
+{
+ "id": "a0W2x000006s5NhEAI",
+ "name": "S-00002175",
+ "title": "令和4年度展示会出展助成事業（第7回申請受付）",
+ "subsidy_catch_phrase": "ＢtoＢの展示会への出展費用等を助成します",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的</strong></p><p><strong>都内中小企業者</strong>が、販路拡大及び経営基盤の更なる強化を図るために行う<strong>展示会への出展</strong>等に係る経費の一部を助成します。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■助成限度額</strong></p><p>150万円</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■助成率</strong></p><p>助成対象と認められる経費の２／３以内（千円未満切捨て）</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); background-color: rgb(255, 255, 255);\">■申請受付期間</strong></p><p><span style=\"color: rgb(24, 24, 24); background-color: rgb(255, 255, 255);\">令和４年10月3日（月）10:00　～　令和４年10月31日（月）17:00</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><a href=\"https://www.tokyo-kosha.or.jp/support/josei/jigyo/r4tenjikai.html\" target=\"_blank\">https://www.tokyo-kosha.or.jp/support/josei/jigyo/r4tenjikai.html<strong>﻿</strong></a></p>",
+ "use_purpose": "販路拡大・海外展開をしたい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "東京都",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "助成対象と認められる経費の２／３以内",
+ "subsidy_max_limit": 1500000,
+ "acceptance_start_datetime": "2022-10-03T01:00:00Z",
+ "acceptance_end_datetime": "2022-10-31T08:00:00Z",
+ "project_end_deadline": "2023-12-31T08:00:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000006s5NhEAI",
+ "application_guidelines": [
+  {
+   "name": "募集要項.pdf"
+  }
+ ],
+ "outline_of_grant": [],
+ "application_form": [],
+ "institution_name": "令和4年度展示会出展助成事業",
+ "_meta": {
+  "first_seen": "2022-10-03T01:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

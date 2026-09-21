@@ -1,0 +1,40 @@
+{
+ "id": "a0W2x000003QhlNEAS",
+ "name": "S-00000937",
+ "title": "令和３年度　地域共生型再生可能エネルギー等普及促進事業費補助金（地域マイクログリッド構築支援事業のうち、地域マイクログリッド構築事業）",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><b style=\"color: rgb(0, 111, 173);\">■目的・概要</b></p><p>地域の再生可能エネルギー設備・蓄電池等の調整力・EMS機器等を用いて、既存の系統線を活用して電力を供給できる「地域マイクログリッド」を構築する民間事業者等を支援することを目的とする。</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■補助対象設備</b></p><p>・再生可能エネルギー発電設備</p><p>（太陽光発電設備、風力発電設備、バイオマス発電設備、水力発電設備、地熱発電設備）</p><p>・エネルギーマネジメント機器（EMS機器）</p><p>・需給調整力設備</p><p>（蓄電システム、業務用・産業用V2H充放電設備、発電設備、燃料タンク等、その他）</p><p>・受変電設備</p><p>・保安・遮断設備</p><p>（事故検知設備、遮断設備）</p><p>・その他</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■補助対象経費</b></p><p>設計費</p><p>設備費</p><p>工事費</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■補助率</b></p><p>補助対象経費の２／３以内</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■補助上限金額</b></p><p>6億円</p><p>※複数年度事業の場合であっても、事業全体の上限は６憶円とする。</p><p><br></p><p><b style=\"color: rgb(0, 111, 173); background-color: rgb(255, 255, 255);\">■複数年度</b></p><p>最大２年</p><p><span style=\"background-color: rgb(255, 255, 255); color: rgb(62, 62, 60);\">※原則単年度事業を対象とするが、事業工程上単年度では事業完了が不可能であると確認できる事業について、最大２年までの事業を複数年度事業として申請することができる。</span></p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■問合せ先</b></p><p>一般社団法人 環境共創イニシアチブ　事業第３部</p><p>地域マイクログリッド構築支援事業　担当</p><p>ＴＥＬ：０３-３５４４-６１２５</p><p><a href=\"https://sii.or.jp/\" target=\"_blank\">https://sii.or.jp/</a></p><p><br></p><p>受付時間は平日の１０：００～１２：００、１３：００～１７：００です。</p><p>通話料がかかりますのでご注意ください。</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■参照URL</b></p><p><a href=\"https://sii.or.jp/microgrid03/note1.html\" target=\"_blank\">公募情報（地域マイクログリッド構築事業）</a></p>",
+ "use_purpose": "新たな事業を行いたい / 災害（自然災害、感染症等）支援がほしい / 安全・防災対策支援がほしい / まちづくり・地域振興支援がほしい / 設備整備・IT導入をしたい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 公務（他に分類されるものを除く） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "全国",
+ "target_area_detail": "補助対象地域の制約なし",
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "補助対象経費の２／３以内",
+ "subsidy_max_limit": 600000000,
+ "acceptance_start_datetime": "2021-04-28T04:00:00Z",
+ "acceptance_end_datetime": "2021-11-30T08:00:00Z",
+ "project_end_deadline": "2022-03-04T08:00:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000003QhlNEAS",
+ "application_guidelines": [
+  {
+   "name": "R3地域マイクログリッド構築事業_公募要領.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "R3MG｜交付規程.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "R3MG_kofu.zip"
+  }
+ ],
+ "institution_name": "令和3年度 地域共生型再生可能エネルギー等普及促進事業費補助金",
+ "_meta": {
+  "first_seen": "2021-04-28T04:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

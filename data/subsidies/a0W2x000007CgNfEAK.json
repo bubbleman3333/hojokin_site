@@ -1,0 +1,39 @@
+{
+ "id": "a0W2x000007CgNfEAK",
+ "name": "S-00002553",
+ "title": "令和５年度新製品・新技術開発助成事業",
+ "subsidy_catch_phrase": "実用化の見込みのある、新製品・新技術の自社開発を行う研究開発を支援",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■助成事業の目的</strong></p><p>都内の中小企業者等に対して新製品・新技術の研究開発にかかる経費の一部を助成することにより、技術力の強化及び新分野の開拓を促進し、東京の産業の活性化を図ることを目的としています。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■助成事業の概要</strong></p><p>実用化の見込みのある、新製品・新技術の自社開発を行う都内中小企業者等に対し、その研究開発経費の一部を助成します。</p><p><br></p><p>（１）助成対象者</p><p>・都内の本店又は支店で実質的な事業活動を行っている中小企業者（会社または個人事業者）等</p><p>・都内で創業を具体的に計画している個人</p><p><br></p><p>（２）助成対象期間</p><p><u>令和５年９月１日 ～令和７年５月 31 日（</u><u style=\"color: rgb(68, 68, 68); background-color: rgb(255, 255, 255);\">最長</u><u>１年９ヶ月） </u></p><p><br></p><p>（３）助成対象経費</p><p>①原材料・副資材費</p><p>②機械装置・工具器具費</p><p>③委託・外注費</p><p>④産業財産権出願・導入費</p><p>⑤専門家指導費</p><p>⑥直接人件費</p><p>※直接人件費は、ソフトウエアの開発に係る工程、ソフトウエア以外の開発における設計工程に直接従事する時間のみ対象となります。</p><p><br></p><p>（４）助成限度額</p><p><u>1,500 万円</u></p><p>※助成金の支払いは、助成事業を完了し、公社の検査・審査を経た後となります。</p><p><br></p><p>（５）助成率</p><p><u>助成対象と認められる経費の1/2以内</u>（千円未満は切り捨て）</p><p><br></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■対象となる研究開発</strong></p><p>①新製品・新技術の<span style=\"background-color: rgb(255, 255, 255); color: rgb(68, 68, 68);\">研究開発</span></p><p>新しい機能を付加した製品・製造技術等に関するハード面の研究開発</p><p>②新たなソフトウエアの<span style=\"background-color: rgb(255, 255, 255); color: rgb(68, 68, 68);\">研究開発</span></p><p>新しいソフトウエア、アプリ、システム等の研究開発</p><p>③新たなサービス創出のための研究開発</p><p>新たなサービスの提供による生産性向上、高付加価値化を目的とした研究開発</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); background-color: rgb(255, 255, 255);\">■申請受付期間</strong></p><p>令和５年３月１３日（月）～令和５年４月５日（水）17時00分</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■備考</strong></p><p><span style=\"background-color: rgb(255, 255, 255); color: rgb(68, 68, 68);\">・確定申告書、登記簿謄本、納税証明書などについては一次審査通過者のみにご提出いただきます。</span></p><p>・<span style=\"color: rgb(11, 11, 11);\">上記に係る詳細は、「募集要項」をご確認ください。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>公益財団法人東京都中小企業振興公社</p><p>企画管理部　助成課　新製品助成事務局</p><p>〒101-0022</p><p>東京都千代区神田練塀町３-３大東ビル４階</p><p>TEL:03-3251-7895</p><p>e-mail:shinseihin-josei@tokyo-kosha.or.jp</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p>https://www.tokyo-kosha.or.jp/support/josei/jigyo/shinseihin.html</p>",
+ "use_purpose": "研究開発・実証事業を行いたい",
+ "industry": "建設業 / 製造業 / 情報通信業 / 運輸業、郵便業 / 卸売業、小売業",
+ "target_area_search": "東京都",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "助成対象と認められる経費の１/２以内",
+ "subsidy_max_limit": 15000000,
+ "acceptance_start_datetime": "2023-03-13T02:00:00Z",
+ "acceptance_end_datetime": "2023-04-05T08:00:00Z",
+ "project_end_deadline": "2026-12-31T14:45:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000007CgNfEAK",
+ "application_guidelines": [
+  {
+   "name": "募集要項(R5新製品).pdf"
+  }
+ ],
+ "outline_of_grant": [],
+ "application_form": [
+  {
+   "name": "電子申請マニュアル(R5新製品).pdf"
+  },
+  {
+   "name": "申請書様式(R5新製品).xlsx"
+  }
+ ],
+ "institution_name": "新製品・新技術開発助成事業",
+ "_meta": {
+  "first_seen": "2023-03-13T02:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

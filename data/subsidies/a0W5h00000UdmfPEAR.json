@@ -1,0 +1,52 @@
+{
+ "id": "a0W5h00000UdmfPEAR",
+ "name": "S-00004596",
+ "title": "【群馬県】令和６年度　カーボンニュートラルビジネス支援補助金",
+ "subsidy_catch_phrase": "脱炭素化に資するビジネスの創出につながる製品・サービスの開発等を進める事業者を支援します",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■補助対象者</strong></p><p>県内に事業所を有する事業者、又は補助対象事業を県内で行う事業者</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象事業</strong></p><p>脱炭素化に資するビジネスの創出につながる製品やサービスの開発事業又はビジネスモデル事業（実証実験等を含む）</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>群馬県 知事戦略部 グリーンイノベーション推進課 企業連携係</p><p>〒371-8570　群馬県前橋市大手町1-1-1　県庁舎16階北フロア</p><p>TEL：027-898-2751</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p>群馬県ホームページ（カーボンニュートラルビジネス支援補助金）のページを参照ください。</p><p>https://www.pref.gunma.jp/site/hojokin/638243.html</p>",
+ "use_purpose": "新たな事業を行いたい / 研究開発・実証事業を行いたい / まちづくり・地域振興支援がほしい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "群馬県",
+ "target_area_detail": "実証実験等、補助対象事業を群馬県内で行うこと",
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "10/10",
+ "subsidy_max_limit": 5000000,
+ "acceptance_start_datetime": "2024-04-14T15:00:00Z",
+ "acceptance_end_datetime": "2024-05-24T08:00:00Z",
+ "project_end_deadline": "2025-02-17T14:45:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W5h00000UdmfPEAR",
+ "application_guidelines": [
+  {
+   "name": "05_02_カーボンニュートラルビジネス支援補助金募集案内 .pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "05_03_カーボンニュートラルビジネス支援補助金交付要綱.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "05_04_【様式第１】申請書、【別紙１～５】計画書（カーボンニュートラルビジネス支援補助金）.docx"
+  },
+  {
+   "name": "05_05_【様式第１別紙６】補助対象事業に要する経費明細書（カーボンニュートラルビジネス支援補助金）.xlsx"
+  },
+  {
+   "name": "05_06_【別記様式１】委託・外注計画書（カーボンニュートラルビジネス支援補助金）.docx"
+  },
+  {
+   "name": "05_07_【別記様式２】システム開発に係る人件費積算表（カーボンニュートラルビジネス支援補助金）.xlsx"
+  },
+  {
+   "name": "05_08_経営状況表（カーボンニュートラルビジネス支援補助金）.xlsx"
+  }
+ ],
+ "institution_name": "カーボンニュートラルビジネス支援補助金",
+ "_meta": {
+  "first_seen": "2024-04-14T15:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

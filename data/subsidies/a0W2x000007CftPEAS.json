@@ -1,0 +1,28 @@
+{
+ "id": "a0W2x000007CftPEAS",
+ "name": "S-00002540",
+ "title": "（終了）資産運用業の創業に係る補助金_令和5年度",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><b style=\"color: rgb(0, 111, 173);\">■目的・概要</b></p><p>（ここに目的・概要を入力して下さい。）</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■根拠法令</b></p><p>（ここに補助金に紐づく根拠法令を入力して下さい。）</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■応募資格</b></p><p>（ここに補助対象者・応募資格を入力して下さい。）</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■地理条件</b></p><p>（ここに必要な地理条件を入力して下さい。）</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■備考</b></p><p>（ここに備考を入力して下さい。）</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■問合せ先</b></p><p>（ここに問合せ先を入力して下さい。）</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■参照URL</b></p><p>（ここに参照URLを入力して下さい。URLをリンク化したい場合は、リンクの埋め込みを行ってください。）</p>",
+ "use_purpose": "販路拡大・海外展開をしたい",
+ "industry": "金融業、保険業",
+ "target_area_search": "東京都",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": null,
+ "subsidy_max_limit": 5000000,
+ "acceptance_start_datetime": "2023-03-31T15:00:00Z",
+ "acceptance_end_datetime": "2024-02-29T14:59:00Z",
+ "project_end_deadline": "2024-03-31T14:59:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000007CftPEAS",
+ "application_guidelines": [],
+ "outline_of_grant": [],
+ "application_form": [],
+ "institution_name": "独立系資産運用業者への補助金",
+ "_meta": {
+  "first_seen": "2023-03-31T15:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

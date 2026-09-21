@@ -1,0 +1,42 @@
+{
+ "id": "a0WJ2000000rY2VMAU",
+ "name": "S-00005150",
+ "title": "令和６年度 高齢者向け新ビジネス創出支援事業",
+ "subsidy_catch_phrase": "高齢者向け製品・サービスの開発・改良等に要する経費の一部を助成（助成限度額750万円、助成率２／３以内）",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"font-size: 10.5pt;\">　</span>東京都が設定した高齢者向けビジネスにおける支援テーマに沿い、都内の中小企業者等が高齢者を対象として開発・改良する製品・サービスに対し、新しい事業展開に要する経費の一部を助成することにより、都内の中小企業者等が高齢者市場でビジネスチャンスを獲得できるよう支援すること<span style=\"font-size: 10.5pt;\">。</span></p><p><br></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■申請受付期間</strong></p><p>令和6年8月1日（木）～8月30日（金）17時00分</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p><span style=\"font-size: 12pt;\">企画管理部　助成課　高齢者向け新ビジネス創出支援事業担当</span></p><p>〒101-0022　東京都千代田区神田練塀町３-３　大東ビル４階</p><p>TEL：03－3251－7894・7895（平日9:00-17:00）</p><p>e-mail：koureisha@tokyo-kosha.or.jp</p><p><br></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p>URL: https://www.tokyo-kosha.or.jp/support/josei/jigyo/koureisha/index.html</p>",
+ "use_purpose": "新たな事業を行いたい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 公務（他に分類されるものを除く） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "東京都",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "助成対象経費の２／３以内",
+ "subsidy_max_limit": 7500000,
+ "acceptance_start_datetime": "2024-08-01T01:00:00Z",
+ "acceptance_end_datetime": "2024-08-30T08:00:00Z",
+ "project_end_deadline": "2026-10-31T14:59:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ2000000rY2VMAU",
+ "application_guidelines": [],
+ "outline_of_grant": [
+  {
+   "name": "R6年度高齢者向け新ビジネス創出支援事業_募集要項.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "R6年度高齢者向け新ビジネス創出支援事業_申請書記入例.xlsx"
+  },
+  {
+   "name": "R6年度高齢者向け新ビジネス創出支援事業_申請書.xlsx"
+  },
+  {
+   "name": "R6年度高齢者向け新ビジネス創出支援事業_申請前確認書.xlsx"
+  }
+ ],
+ "institution_name": "高齢者向け新ビジネス創出支援事業",
+ "_meta": {
+  "first_seen": "2024-08-01T01:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

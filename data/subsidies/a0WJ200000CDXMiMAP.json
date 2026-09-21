@@ -1,0 +1,46 @@
+{
+ "id": "a0WJ200000CDXMiMAP",
+ "name": "S-00008022",
+ "title": "令和８年度資格取得サポート助成金",
+ "subsidy_catch_phrase": "従業員の資格や免許の取得に必要な研修の経費の一部を助成します！",
+ "detail": "<p><br></p><p><strong style=\"font-size: 22px; color: rgb(0, 34, 255);\">従業員のスキルアップのための研修を実施する都内企業等に対し、助成金を支給します。</strong></p><p><strong style=\"font-size: 22px; color: rgb(0, 34, 255);\">建設・建築・運輸分野の国家資格取得等に向けて、<u>教育機関の公開研修</u>を利用して実施する研修が助成対象です。</strong></p><p><br></p><p><span style=\"font-size: 22px;\">【提出期限】  </span></p><p><strong style=\"color: red; font-size: 22px;\">研修開始予定日の１か月前（23時59分）まで </strong></p><p><span style=\"font-size: 22px;\">【交付申請書受付期間】 </span></p><p><strong style=\"color: red; font-size: 22px;\">令和８年４月30日から令和９年２月28日（23時59分）まで</strong></p><p><span style=\"font-size: 12px;\">※ 予算の範囲を超える申請があった場合等、申請受付期間内でも受付を終了することがあります。 </span></p><h3><span style=\"font-size: 12px;\"> ※ Jグランツで交付申請した場合、助成金請求までの全ての手続きを、Jグランツにて行っていただきます。</span></h3><h3 style=\"text-align: center;\"><br></h3><p><span style=\"font-size: 22px;\">助成金の詳細は 公益財団法人東京しごと財団ホームページ よりご確認ください。</span></p><p><br></p><h3>● <a href=\"https://www.koyokankyo.shigotozaidan.or.jp/jigyo/skillup/skill-R8shikaku.html\" target=\"_blank\">資格取得サポート助成金</a></h3>",
+ "use_purpose": "人材育成を行いたい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 公務（他に分類されるものを除く） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "東京都",
+ "target_area_detail": "都内に本社又は主たる事業所（支店・営業所等）がある中小企業等",
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "助成対象経費の2分の1",
+ "subsidy_max_limit": 1000000,
+ "acceptance_start_datetime": "2026-04-30T05:00:00Z",
+ "acceptance_end_datetime": "2027-02-28T15:00:00Z",
+ "project_end_deadline": "2028-08-31T15:00:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXMiMAP",
+ "application_guidelines": [
+  {
+   "name": "令和８年度資格取得サポート助成金 募集要項.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "令和８年度資格取得サポート助成金　交付要綱.zip"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "令和８年度資格取得サポート助成金　申請様式.zip"
+  },
+  {
+   "name": "令和８年度資格取得サポート助成金　電子申請の手引き.pdf"
+  },
+  {
+   "name": "令和８年度JグランツQ&A.pdf"
+  }
+ ],
+ "institution_name": "中小企業人材スキルアップ支援事業",
+ "_meta": {
+  "first_seen": "2026-04-30T05:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

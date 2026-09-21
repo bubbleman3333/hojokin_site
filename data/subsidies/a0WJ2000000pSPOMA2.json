@@ -1,0 +1,49 @@
+{
+ "id": "a0WJ2000000pSPOMA2",
+ "name": "S-00004943",
+ "title": "令和６年度訪問看護ステーション代替職員確保支援事業",
+ "subsidy_catch_phrase": "訪問看護ステーションで働く看護職員が、出産や育児、介護のため、長期間にわたって休業する場合に、訪問看護ステーションが代替職員を確保する経費を支援します。",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173); font-size: 14px;\">■目的・概要</strong></p><p><span style=\"font-size: 14px;\">「訪問看護ステーション代替職員（産休等）確保支援事業実施 要綱」（平成２９年３月２２日付２８福保高介第１６６５号。以下「実施要綱」という。） に基づき、訪問看護ステーションに勤務する看護職員が出産、育児又は家族の介護のため長期間にわたって休業する場合に、当該訪問看護ステーションが代替職員の確保にかかる経費を支援することにより、訪問看護師の勤務環境の向上及び定着の推進を図る。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 14px;\">■根拠法令</strong></p><p><span style=\"font-size: 14px;\">訪問看護ステーション代替職員（産休等）確保支援事業費補助金実施要綱</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 14px;\">■応募資格</strong></p><p><span style=\"font-size: 14px; background-color: rgb(255, 255, 255);\">交付要綱及び別紙参照</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 14px;\">■地理条件</strong></p><p><span style=\"font-size: 14px;\">東京都内の訪問看護ステーション</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 14px;\">■問合せ先</strong></p><p><span style=\"font-size: 14px;\">東京都 福祉局 高齢者施策推進部 在宅支援課</span></p><p><span style=\"font-size: 14px;\">介護医療連携推進担当</span></p><p><span style=\"font-size: 14px;\">電話：０３－５３２０－４２１６</span></p><p><span style=\"font-size: 14px;\">土日祝日、年末年始を除く</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 14px;\">■参照URL</strong></p><p><a href=\"https://www.fukushi.metro.tokyo.lg.jp/kourei/hoken/houkan/6daitai.html\" target=\"_blank\" style=\"font-size: 14px; color: rgb(68, 68, 68); background-color: white;\">https://www.fukushi.metro.tokyo.lg.jp/kourei/hoken/houkan/6daitai.html</a><span style=\"font-size: 14px; color: rgb(68, 68, 68); background-color: white;\">﻿</span></p><p><strong style=\"font-size: 14px; color: rgb(255, 0, 0); background-color: white;\">※申請様式は上記リンク先または下記詳細の申請様式から必要なものをダウンロードしてください。</strong></p>",
+ "use_purpose": "雇用・職場環境を改善したい",
+ "industry": "医療、福祉",
+ "target_area_search": "東京都",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "10/10",
+ "subsidy_max_limit": 2508000,
+ "acceptance_start_datetime": "2024-03-31T15:00:00Z",
+ "acceptance_end_datetime": "2025-03-31T15:00:00Z",
+ "project_end_deadline": "2025-03-31T15:00:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ2000000pSPOMA2",
+ "application_guidelines": [
+  {
+   "name": "代替・実施要綱（令和6年3月7日改正）.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "代替・交付要綱（令和6年3月22日改正）.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "01_交付申請.zip"
+  },
+  {
+   "name": "02_実績報告.zip"
+  },
+  {
+   "name": "03_請求書.zip"
+  },
+  {
+   "name": "Jグランツ補助金申請ガイド.pdf"
+  }
+ ],
+ "institution_name": "訪問看護推進総合事業①",
+ "_meta": {
+  "first_seen": "2024-03-31T15:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "id": "a0WJ200000CDOIPMA5",
+ "name": "S-00006653",
+ "title": "働き方改革推進支援助成金（団体推進コース）",
+ "subsidy_catch_phrase": "働き方改革推進支援助成金は、生産性を向上させ、労働時間の削減や年次有給休暇の促進に向けた環境整備に取り組む中小企業事業主の皆様を支援します。",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>働き方改革推進支援助成金（団体推進コース）</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p>中小企業事業主</p><p>※詳細についてはHP掲載のリーフレットや交付要綱ご確認ください。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>厚生労働省労働基準局労働条件政策課新たな働き方推進係</p><p>03-5253-1111（代表）</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><a href=\"https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000200273.html\" target=\"_blank\">働き方改革推進支援助成金（団体推進コース）｜厚生労働省</a></p>",
+ "use_purpose": "雇用・職場環境を改善したい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "助成金上限額、対象経費の合計額または総事業費から収入額を控除した額のいずれか低い方の額",
+ "subsidy_max_limit": 10000000,
+ "acceptance_start_datetime": "2025-05-07T15:00:00Z",
+ "acceptance_end_datetime": "2025-11-30T14:59:00Z",
+ "project_end_deadline": null,
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDOIPMA5",
+ "application_guidelines": [],
+ "outline_of_grant": [],
+ "application_form": [],
+ "institution_name": "働き方改革推進支援助成金",
+ "_meta": {
+  "first_seen": "2025-05-07T15:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

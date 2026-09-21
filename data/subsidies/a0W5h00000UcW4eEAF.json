@@ -1,0 +1,40 @@
+{
+ "id": "a0W5h00000UcW4eEAF",
+ "name": "S-00004107",
+ "title": "令和６年度ヘルスケア産業国際展開推進事業費補助金",
+ "subsidy_catch_phrase": "我が国のヘルスケア製品・サービスの海外展開を支援する補助金です。",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"background-color: rgb(255, 255, 255); font-size: 14.6667px;\">本事業では、我が国が高い競争力を有する医療や介護等のヘルスケアに関して、技術及びサービス、製品の強みを活かした戦略的な海外展開を計画・実施する医療機関や企業等の事業者の基礎調査及び実証調査費用を補助することによって、我が国のヘルスケア製品・サービスの海外展開を促進させることを目的とします。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p>次の要件を満たす企業・団体等とします。</p><p>※コンソーシアム形式による申請の場合は、幹事者を決めていただくとともに、幹事者が事業提案書を提出してください。（ただし、幹事者が業務の全てを他の者に再委託することはできません。）</p><p>①日本に拠点を有していること。</p><p>②本事業を的確に遂行する組織、人員等を有していること。</p><p>③本事業を円滑に遂行するために必要な経営基盤を有し、かつ、資金等について十分な管理能力を有していること。</p><p>④経済産業省からの補助金交付等停止措置又は指名停止措置が講じられている者ではないこと。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>〒１００－８９０１ 東京都千代田区霞が関１－３－１</p><p>経済産業省 商務・サービスグループ ヘルスケア産業課</p><p>E-mail：bzl-kokusai-team-ml2@meti.go.jp</p>",
+ "use_purpose": "販路拡大・海外展開をしたい / 研究開発・実証事業を行いたい",
+ "industry": "医療、福祉",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "10/10",
+ "subsidy_max_limit": 210000000,
+ "acceptance_start_datetime": "2024-02-09T03:00:00Z",
+ "acceptance_end_datetime": "2024-02-28T03:00:00Z",
+ "project_end_deadline": "2025-03-30T15:00:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W5h00000UcW4eEAF",
+ "application_guidelines": [
+  {
+   "name": "01_公募要領（申請書様式含む）（R６年度ヘルスケア産業国際展開推進事業費補助金）r.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "02_交付要綱（案）（ヘルスケア産業国際展開推進事業費補助金）.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "01_公募要領（様式のみ）（R６年度ヘルスケア産業国際展開推進事業費補助金）.docx"
+  }
+ ],
+ "institution_name": "ヘルスケア産業国際展開推進事業費補助金",
+ "_meta": {
+  "first_seen": "2024-02-09T03:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

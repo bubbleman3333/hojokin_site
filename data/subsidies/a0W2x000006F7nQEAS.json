@@ -1,0 +1,40 @@
+{
+ "id": "a0W2x000006F7nQEAS",
+ "name": "S-00001745",
+ "title": "（再公募）令和４年度中小企業経営支援等対策費補助金（若者人材確保プロジェクトの実証）執行団体公募",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><b style=\"color: rgb(0, 111, 173);\">■目的・概要</b></p><p><span style=\"color: black; font-size: 11pt;\">本事業は、民間事業者等が複数の地域企業を束ね、業界団体、経営支援機関、自治体等とも連携し、地域ぐるみで若者人材に向けた仕事やキャリアステップを作り、求人・採用、人材育成、キャリア支援等を行う総合的な取組を支援することで、地域において当該取組が民間ビジネスとして自立・継続していくことを促し、ひいては地域の共通課題である若者人材の流出を防止・流入を促進することを目的とします。</span></p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■応募資格</b></p><p>次の①～④までの全ての要件を満たす法人格を有する民間団体等とします。 </p><p>※コンソーシアム形式による申請の場合は、幹事者を決めていただくとともに、幹事者が事業提案書を提出してください。（ただし、幹事者が業務の全てを他の者に再委託することはできません。） </p><p>①日本に拠点を有していること。 </p><p>②本事業を的確に遂行する組織、人員等を有していること。 </p><p>③本事業を円滑に遂行するために必要な経営基盤を有し、かつ、資金等について十分な管理能力を有していること。 </p><p>④経済産業省からの補助金交付等停止措置又は指名停止措置が講じられている者ではないこと。 </p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■説明会</b></p><p>本公募に関する説明会を以下のとおり行います。説明会への参加を希望される方は、以下の期限までに登録してください。</p><p><br></p><p>開催日時：令和４年４月２７日（水曜日）１５時</p><p>開催方法：「Microsoft Teams」</p><p>登録方法：電子メールで、必要事項（所属組織及び所属部署名、担当者名、電話番号、メールアドレス）を連絡してください。</p><p>登録期限：令和４年４月２６日（火曜日）１２時</p><p>登録先：bzl-jinzai-r4@meti.go.jp</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■備考</b></p><p>本公募は、事務局（執行団体）の公募です。</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■問合せ先</b></p><p><span style=\"font-size: 11pt;\">経済産業省地域経済産業グループ地域経済活性化戦略室</span></p><p><span style=\"font-size: 11pt;\">担当者：吉川、河野</span></p><p><span style=\"font-size: 11pt;\">電話：03-3501-1697</span></p><p><span style=\"font-size: 11pt;\">E-MAIL：bzl-jinzai-r4@meti.go.jp</span></p>",
+ "use_purpose": "人材育成を行いたい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 公務（他に分類されるものを除く） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "定額補助（１０／１０）",
+ "subsidy_max_limit": 95000000,
+ "acceptance_start_datetime": "2022-04-21T08:00:00Z",
+ "acceptance_end_datetime": "2022-05-18T03:00:00Z",
+ "project_end_deadline": "2023-03-24T14:45:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000006F7nQEAS",
+ "application_guidelines": [
+  {
+   "name": "公募要領.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "交付要綱.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "（様式１）申請書、（様式２）提案書.docx"
+  }
+ ],
+ "institution_name": "中小企業経営支援等対策費補助金（若者人材確保プロジェクトの実証）",
+ "_meta": {
+  "first_seen": "2022-04-21T08:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "id": "a0WJ200000CBfjuMAD",
+ "name": "S-00005574",
+ "title": "令和６年度補正「再生可能エネルギー導入拡大・分散型エネルギーリソース導入支援等事業費補助金（広域的な需給調整に資する大規模系統整備に係る調査等支援）」",
+ "subsidy_catch_phrase": "広域的な需給調整に資する大規模系統整備に係る調査等支援補助金",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>本補助金は、民間団体等が行う、広域的な需給調整に資する、大規模な広域系統整備である海底直流送電の整備計画作成に向けた調査検討事業に要する経費の一部を補助することによって、補助事業者による円滑な実施案作成及び整備計画策定の促進を目的とします。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p>公募要領をご確認ください。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>系統整備（東地域）担当</p><p>bzl-grid-east@meti.go.jp</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p>https://www.meti.go.jp/main/yosan/yosan_fy2024/hosei/pdf/r6_pr.pdf</p>",
+ "use_purpose": "資金繰りを改善したい",
+ "industry": "電気・ガス・熱供給・水道業",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "1/3以内",
+ "subsidy_max_limit": 165840000,
+ "acceptance_start_datetime": "2025-01-31T03:00:00Z",
+ "acceptance_end_datetime": "2025-02-21T03:00:00Z",
+ "project_end_deadline": null,
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CBfjuMAD",
+ "application_guidelines": [
+  {
+   "name": "公募要領（申請書および提案書様式含む）.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "（案）交付要綱.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "公募要領（申請書および提案書様式含む）.docx"
+  }
+ ],
+ "institution_name": "令和６年度補正「再生可能エネルギー導入拡大・分散型エネルギーリソース導入支援等事業費補助金（広域的な需給調整に資する大規模系統整備に係る調査等支援）」",
+ "_meta": {
+  "first_seen": "2025-01-31T03:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

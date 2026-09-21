@@ -1,0 +1,51 @@
+{
+ "id": "a0WJ200000CDGvOMAX",
+ "name": "S-00005694",
+ "title": "情報通信技術利活用事業費補助金（令和６年度補正地域社会DX推進パッケージ事業）",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要（サマリ）:</strong></p><p><span style=\"font-size: 11pt;\">デジタル技術を活用して地域課題の解決を図るために、通信インフラなどを整備する取組を支援</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要:</strong></p><p><span style=\"font-size: 11pt;\">　ＩＣＴ技術を活用した地方創生2.0の実現のため、人口減少・少子高齢化や経済構造変化等が進行する中、持続可能な地域社会を形成するには、デジタル技術の実装（地域社会ＤＸ）を通じた省力化・地域活性化等による地域社会課題の解決が重要とされています。</span></p><p><span style=\"font-size: 11pt;\">　このため、総務省ではデジタル人材/体制の確保支援、AI・自動運転等の先進的ソリューションや先進無線システムの実証、地域の通信インフラ整備の補助等の総合的な施策を通じて、デジタル実装の好事例を創出し、全国における早期実用化を目指す「地域社会DX推進パッケージ事業」を実施します。</span></p><p><span style=\"color: black; font-size: 11pt;\">　この事業の一環として実施する地域課題の解決に必要となる通信インフラなどの整備経費の補助（補助事業）に関し、地方公共団体や地域の企業・団体などを対象に広く提案を募集します。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); background-color: rgb(255, 255, 255);\">■補助対象者:</strong></p><p>情報通信技術利活用事業費補助金（一般会計）交付要綱第４条に規定する者とする。ただし、交付要綱第４条第１項第３号に規定する法人格を有する組織が実施団体となる場合には、事業に関連する都道府県又は市区町村との間で、出資 、包括連携協定、コンソーシアム組成等によりガバナンスが確立されていることを条件とする。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■</strong><strong style=\"color: rgb(0, 111, 173); background-color: rgb(255, 255, 255);\">参照URL</strong><strong style=\"color: rgb(0, 111, 173);\">:詳細は以下HPをご覧ください。</strong></p><p>【報道発表】デジタル技術を活用した地域課題解決のための通信インフラなどの補助事業の公募</p><p><span style=\"color: rgb(0, 0, 0); font-size: 12px; background-color: rgb(240, 247, 255);\">https://www.soumu.go.jp/menu_news/s-news/01ryutsu06_02000417.html</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問い合わせ先:</strong></p><p>総務省情報流通行政局地域通信振興課</p><p>担当： 藤原、北村　堀</p><p>電話： 03-5253-5758</p><p>E-mail： ict<span style=\"color: rgb(0, 0, 0);\">-town_atmark_ml.soumu.go.jp</span></p><p>※迷惑メール対策のため、「@」を「_atmark_」と表示しております。</p><p>送信の際には、「@」に変更してください。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); background-color: rgb(255, 255, 255);\">■備考:</strong></p><p>詳細は「参照URL」に記載のURLからご確認ください。</p>",
+ "use_purpose": "まちづくり・地域振興支援がほしい / 設備整備・IT導入をしたい",
+ "industry": "情報通信業",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "1/2",
+ "subsidy_max_limit": 0,
+ "acceptance_start_datetime": "2025-01-28T05:00:00Z",
+ "acceptance_end_datetime": "2025-03-06T03:00:00Z",
+ "project_end_deadline": "2026-03-31T03:00:00Z",
+ "request_reception_presence": "無",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDGvOMAX",
+ "application_guidelines": [
+  {
+   "name": "地域社会DX推進パッケージ事業(補助事業)実施要領.pdf"
+  }
+ ],
+ "outline_of_grant": [],
+ "application_form": [
+  {
+   "name": "【様式１】企画提案書_全事業.pptx"
+  },
+  {
+   "name": "【様式２】企画提案書概要_全事業.pptx"
+  },
+  {
+   "name": "【様式４ー１】企画提案書_都市OSの構築・改修を伴う事業のみ.pptx"
+  },
+  {
+   "name": "【様式３ー１】申請者概要説明書_全事業（民間事業者など（消費税納税義務者））.docx"
+  },
+  {
+   "name": "【様式３ー２】申請者概要説明書_全事業（地方公共団体・民間事業者など（消費税免税事業者））.docx"
+  },
+  {
+   "name": "【様式４－２】スマートシティセキュリティガイドライン導入チェックシート_都市OSの構築・改修伴う事業のみ.xlsx"
+  }
+ ],
+ "institution_name": "情報通信技術利活用事業費補助金（地域社会DX推進パッケージ事業実施）",
+ "_meta": {
+  "first_seen": "2025-01-28T05:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

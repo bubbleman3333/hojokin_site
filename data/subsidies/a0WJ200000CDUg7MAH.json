@@ -1,0 +1,40 @@
+{
+ "id": "a0WJ200000CDUg7MAH",
+ "name": "S-00007187",
+ "title": "【令和７年度・第２回】INPIT外国出願補助金",
+ "subsidy_catch_phrase": "中小企業者等の外国での特許、実用新案、意匠、商標の権利取得を支援します！",
+ "detail": "<p><strong style=\"color: rgb(0, 107, 255);\">■目的・概要</strong></p><p>外国における発明、実用新案考案、意匠又は商標の権利化に要する経費の一部を交付することで、外国における権利取得を促進させ、国際的な知的財産戦略の構築を支援します。</p><p><br></p><p><strong style=\"color: rgb(0, 107, 255);\">■補助対象者</strong></p><p>中小企業者及び試験研究機関等</p><p>※詳細は、公募要領等をご確認ください。</p><p><br></p><p><strong style=\"color: rgb(0, 107, 255);\">■問合せ先</strong></p><p>＜INPIT外国出願補助金事務局＞</p><p>受付時間 10：00～17：00（土日祝日及び12/29～1/3を除く。）</p><p>電話番号 03-3502-5424</p><p>お間違いのないよう十分ご注意ください。</p><p>メールアドレス info@gaikoku.inpit.go.jp</p><p>※INPIT外国出願補助金事務局は、一般社団法人発明推進協会が受託、運営しています。</p><p><br></p><p><strong style=\"color: rgb(0, 107, 255);\">■参照URL</strong></p><p>INPIT外国出願補助金HP</p><p>https://www.inpit.go.jp/shien/gaikoku/index.html</p><p><br></p><p><strong style=\"color: rgb(255, 0, 0); font-size: 14px;\">■注意事項</strong></p><p><strong style=\"color: rgb(255, 0, 0); font-size: 14px;\">※本補助金は【１社（者）１申請】です。複数案件の申請を希望する場合は、案件をまとめて申請してください。</strong></p><p><strong style=\"color: rgb(255, 0, 0); font-size: 14px;\">※申請フォーム内の担当者欄は、実際に申請作業を行う担当者名と連絡先をご入力ください。</strong></p>",
+ "use_purpose": "新たな事業を行いたい / 販路拡大・海外展開をしたい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "300名以下",
+ "subsidy_rate": "1/2",
+ "subsidy_max_limit": 3000000,
+ "acceptance_start_datetime": "2025-09-01T01:00:00Z",
+ "acceptance_end_datetime": "2025-09-22T08:00:00Z",
+ "project_end_deadline": "2026-03-31T14:59:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDUg7MAH",
+ "application_guidelines": [
+  {
+   "name": "【1.1版】公募要領（出願補助）令和7年度第2回（2025.9.12更新）.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "INPIT外国出願補助金交付要綱.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "様式第1別紙.zip"
+  }
+ ],
+ "institution_name": "INPIT外国出願補助金",
+ "_meta": {
+  "first_seen": "2025-09-01T01:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "id": "a0W2x000006FFAKEA4",
+ "name": "S-00001990",
+ "title": "無人自動運転等のCASE対応に向けた実証・支援事業費補助金（商用電動車等の普及加速に向けた実証事業）",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>本事業は、運輸部門における省エネルギー化のため、自動運転をはじめとした次世代自動車等の開発の加速化、データ連携による運輸最適化や環境性の向上を実現することを目的に、民間団体等が行う実証等の事業（以下、「補助事業」という。）に要する経費に対して、その経費の一部を助成する事業である。</p><p>なお、本事業は、経済産業省の令和４年度「無人自動運転等のＣＡＳＥ対応に向けた実証・支援事業」の内数として実施するものである。</p><p><br></p><p>（１）自動運転車両等の先行開発の効率化のため、実機を使用せず車両全体をシミュレーションで評価できるよう、データ連携や最適制御を可能とする半導体等の機能モデル及びモデル接続のガイドラインを構築する事業。</p><p>（２）地域における電気自動車又は水素燃料電池自動車の普及に向け、地域内の様々なステークホルダーが電動化への課題解決のために連携し、経済性やモビリティの運用上の課題及び解決の方向性を明らかにすることで、地域での新たな交通ビジネスモデル並びに運輸の最適化に繋がる導入のユースケースを構築する事業。</p><p><br></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p>公募要領で定める応募資格の要件を満たす者</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>無人自動運転等のＣＡＳＥ対応に向けた実証・支援事業費補助金事務局</p><p>（一般社団法人環境パートナーシップ会議　基金管理事業部）</p><p>担当：下條、曽根、堤</p><p>＊お問合せは以下の宛先まで電子メールにてお願いします。</p><p>E-MAIL：　maas-jimukyoku@azapa.co.jp</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p>事務局ホームページ：</p><p>https://epc.or.jp/fund_dept/case/04kobo</p>",
+ "use_purpose": "新たな事業を行いたい / 研究開発・実証事業を行いたい / まちづくり・地域振興支援がほしい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 公務（他に分類されるものを除く） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "2/3以内",
+ "subsidy_max_limit": 350000000,
+ "acceptance_start_datetime": "2022-06-13T05:00:00Z",
+ "acceptance_end_datetime": "2022-07-01T02:00:00Z",
+ "project_end_deadline": "2023-02-28T14:59:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000006FFAKEA4",
+ "application_guidelines": [
+  {
+   "name": "【CASE】補助事業者公募要領及び様式.zip"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "交付要綱.pdf"
+  }
+ ],
+ "application_form": [],
+ "institution_name": "CASE補助金",
+ "_meta": {
+  "first_seen": "2022-06-13T05:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

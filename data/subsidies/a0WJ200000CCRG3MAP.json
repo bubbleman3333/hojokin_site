@@ -1,0 +1,40 @@
+{
+ "id": "a0WJ200000CCRG3MAP",
+ "name": "S-00005616",
+ "title": "令和６年度補正「再生可能エネルギー導入拡大・分散型エネルギーリソース導入支援等事業費補助金（DRリソース導入のための業務産業用蓄電システム等導入支援事業）」",
+ "subsidy_catch_phrase": "R6補業務産業用蓄電池等",
+ "detail": "<p><br></p><p><strong style=\"font-family: sans-serif; color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"font-family: sans-serif; font-size: 11pt;\">　本事業は、</span><span style=\"font-family: sans-serif;\">\t</span><span style=\"font-family: sans-serif; font-size: 11pt;\">電力需給の状況に合わせて電力需要の最適化（DR：ディマンドリスポンス）に活用可能な業務産業用蓄電システムの国内での導入、需要家保有リソースによるディマンドリスポンス対応のために必要なIoT化を図る事業や再生可能エネルギー発電設備に併設する蓄電システムの国内での導入（以下「間接補助事業」という。）を実施する者（以下「間接補助事業者」という。）に対して、間接補助事業に要する経費の一部を補助する事業（以下「補助事業」という。）の実施に要する経費を補助することにより、再生可能エネルギーの更なる導入拡大や電力需給の安定化を促すことを目的とします。</span></p><p><strong style=\"font-family: sans-serif; color: rgb(0, 111, 173);\">■応募資格等各種条件</strong></p><p><span style=\"font-family: sans-serif;\">公募要領をご確認ください。</span></p><p><br></p><p><strong style=\"font-family: sans-serif; color: rgb(0, 111, 173);\">■問合せ先</strong></p><p><span style=\"font-family: sans-serif;\">経済産業省　資源エネルギー庁</span></p><p><span style=\"font-family: sans-serif;\">省エネルギー・新エネルギー部</span></p><p><span style=\"font-family: sans-serif;\">新エネルギーシステム課　</span><span style=\"font-family: sans-serif; font-size: 11pt;\">中山、内藤、大場、杉崎、越渡</span><span style=\"font-family: sans-serif;\"> bzl-eneshisuka-system@meti.go.jp　</span></p>",
+ "use_purpose": "設備整備・IT導入をしたい",
+ "industry": "電気・ガス・熱供給・水道業",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "定額（10/10）",
+ "subsidy_max_limit": 3270000000,
+ "acceptance_start_datetime": "2025-01-10T03:00:00Z",
+ "acceptance_end_datetime": "2025-01-30T08:00:00Z",
+ "project_end_deadline": null,
+ "request_reception_presence": "無",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CCRG3MAP",
+ "application_guidelines": [
+  {
+   "name": "【R6補_業産用・IoT化・再エネ併設】公募要領 .docx"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "＜財務省協議済＞R6補（業務用）交付要綱（大規模、Jグランツ限定）.doc"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "【R6補_業産用・IoT化・再エネ併設】公募要領 .docx"
+  }
+ ],
+ "institution_name": "再生可能エネルギー導入拡大・系統用蓄電池等電力貯蔵システム導入支援事業費補助金",
+ "_meta": {
+  "first_seen": "2025-01-10T03:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

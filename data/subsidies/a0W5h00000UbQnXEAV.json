@@ -1,0 +1,58 @@
+{
+ "id": "a0W5h00000UbQnXEAV",
+ "name": "S-00003955",
+ "title": "東京都中小企業障害者雇用支援助成金",
+ "subsidy_catch_phrase": "国の特定求職者雇用開発助成金に引き続き、東京都が障害者の雇用継続を支援します！",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>東京都では、大企業と比べて障害者雇用が進んでいない都内の中小企業を対象として、障害者雇用の拡大と職場定着の促進を図るため、標記助成制度を実施しています。</p><p>国の特定求職者雇用開発助成金（特定就職困難者コース、発達障害者・難治性疾患患者雇用開発コース）の助成対象期間が満了となる中小企業に対して、引き続き東京都が独自に賃金助成するものです。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■根拠法令</strong></p><p>東京都中小企業障害者雇用支援助成金支給要綱</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■支給要件</strong></p><p>障害者を雇用し、国の特定求職者雇用開発助成金（特定就職困難者コースまたは発達障害者・難治性疾患患者雇用開発コース）（以下、「特開金」）の支給を受け、助成対象期間が満了となった後も、引き続き雇用を継続する事業主。</p><p>詳細は「東京都中小企業障害者雇用支援助成金支給要綱」をご確認ください。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■地理条件</strong></p><p>東京都内の事業所で支給対象者が働いていること。</p><p><span style=\"color: rgb(68, 68, 68); background-color: rgb(255, 255, 255);\">詳細は「東京都中小企業障害者雇用支援助成金支給要綱」をご確認ください。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■備考</strong></p><p>下記URLをご確認ください。</p><p>https://www.hataraku.metro.tokyo.lg.jp/shogai/josei/chushou_shien/</p><p><br></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■お問合せ先</strong></p><p>東京都産業労働局雇用就業部就業推進課</p><p>障害者雇用促進担当</p><p>電話：０３ー５３２０－４６６３</p><p>問合せ時間　９：００～１７：００</p><p>土日祝日、年末年始を除く</p>",
+ "use_purpose": "人材育成を行いたい / 雇用・職場環境を改善したい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "東京都",
+ "target_area_detail": null,
+ "target_number_of_employees": "300名以下",
+ "subsidy_rate": null,
+ "subsidy_max_limit": 1980000,
+ "acceptance_start_datetime": "2023-01-20T00:00:00Z",
+ "acceptance_end_datetime": "2029-03-31T14:59:00Z",
+ "project_end_deadline": null,
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W5h00000UbQnXEAV",
+ "application_guidelines": [
+  {
+   "name": "東京都中小企業障害者雇用支援助成金支給要領（H30.04.01）.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "東京都中小企業障害者雇用支援助成金支給要綱（R06.04.01）.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "継続雇用計画書（様式第１号）.doc"
+  },
+  {
+   "name": "支給申請書（様式第２号）.doc"
+  },
+  {
+   "name": "雇用継続の念書の見本【任意様式】.doc"
+  },
+  {
+   "name": "実績報告書（様式第５号）.doc"
+  },
+  {
+   "name": "支払金口座振替依頼書（第１号様式）.doc"
+  },
+  {
+   "name": "名称等変更報告書（様式第７号）.doc"
+  },
+  {
+   "name": "誓約書（様式第２号－２）.docx"
+  }
+ ],
+ "institution_name": "東京都中小企業障害者雇用支援助成金",
+ "_meta": {
+  "first_seen": "2023-01-20T00:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

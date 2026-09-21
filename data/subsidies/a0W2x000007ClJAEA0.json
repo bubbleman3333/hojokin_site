@@ -1,0 +1,40 @@
+{
+ "id": "a0W2x000007ClJAEA0",
+ "name": "S-00002789",
+ "title": "先端技術による次世代受入環境構築事業補助金",
+ "subsidy_catch_phrase": "エリア単位での観光分野の新技術活用を支援します。",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■概要</strong></p><p>旅行者の利便性向上を図るため、エリア単位で観光分野における新技術の実装を図る取り組みを支援します。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象者</strong></p><p>２者以上の都内事業者で構成される地域グループ</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象事業</strong></p><p>エリア単位で複数の施設（ホテル・レストラン・観光施設・商業施設等）が連携し、観光分野の新技術の実装を図る取組</p><p><br></p><p>【想定事例】</p><p>・ 複数施設の混雑情報をリアルタイムで表示できるシステム等の構築</p><p>・ 店舗のウェブサイト、アプリを多言語に自動翻訳できるサービスの導入</p><p>・ エリア内で利用できる電子共通パス（クーポン等）の導入　など</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象経費</strong></p><p>（１）機械設備導入費（購入費、リース・レンタル費等）</p><p>（２）システム等導入経費（システム構築、アプリの開発等）</p><p>（３）専門家指導費（技術指導、マーケティング指導等）</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助限度額</strong></p><p>4,000万円</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助率</strong></p><p>２分の１以内</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>東京都産業労働局観光部受入環境課</p><p>電話：03-5320-4802</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><a href=\"https://www.sangyo-rodo.metro.tokyo.lg.jp/tourism/kakusyu/advanced-tech/\" target=\"_blank\">https://www.sangyo-rodo.metro.tokyo.lg.jp/tourism/kakusyu/advanced-tech/</a></p>",
+ "use_purpose": "新たな事業を行いたい / イベント・事業運営支援がほしい / 研究開発・実証事業を行いたい / まちづくり・地域振興支援がほしい / 設備整備・IT導入をしたい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 公務（他に分類されるものを除く） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "東京都",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "補助対象経費の1/2以内",
+ "subsidy_max_limit": 40000000,
+ "acceptance_start_datetime": "2023-03-31T15:00:00Z",
+ "acceptance_end_datetime": "2023-06-23T14:59:00Z",
+ "project_end_deadline": "2024-03-31T14:59:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000007ClJAEA0",
+ "application_guidelines": [
+  {
+   "name": "令和５年度　先端技術による次世代受入環境構築事業募集要領.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "先端技術による次世代受入環境構築事業補助金交付要綱.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "先端技術による次世代受入環境構築事業　申請様式一式 .zip"
+  }
+ ],
+ "institution_name": "先端技術による次世代受入環境構築事業",
+ "_meta": {
+  "first_seen": "2023-03-31T15:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

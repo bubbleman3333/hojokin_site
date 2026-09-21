@@ -1,0 +1,40 @@
+{
+ "id": "a0W2x000005i3SrEAI",
+ "name": "S-00001226",
+ "title": "令和３年度「高等教育機関における共同講座創造支援事業費補助金（中小企業新事業創出促進対策事業）」",
+ "subsidy_catch_phrase": "【事務局・民間団体等】高等教育機関における共同講座創造支援事業費補助金",
+ "detail": "<p><b style=\"color: rgb(0, 111, 173);\">■目的・概要</b></p><p>本公募は、企業等（間接補助事業者）への補助金の交付事務等を行う補助事業者（民間団体等）を公募するものです。</p><p>経済産業省では、令和３年度「高等教育機関における共同講座創造支援事業」を実施する補助事業者（民間団体等）を、以下の要領で広く募集します。希望される方におかれましては、事業内容等を御理解いただいた上で、公募要領に基づき応募してください。</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■事業内容</b></p><p>本事業は、企業等（以下「間接補助事業者」という。）が大学や高等専門学校等の高等教育機関において人材育成に係る共同講座やコース・学科等を設置することを目的として費用を支出する際に当該費用の一部を助成します。それにより、間接補助事業者内の人材のアップスキリング・リスキリングや、当該分野の学生の輩出を実現し、産業界のニーズに即した人材の育成の加速化を図ります。</p><p>業務の概要や詳細、応募方法その他留意していただきたい点は、公募要領に記載のとおりです。応募される方は、熟読いただくようお願いいたします。</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■問合せ先</b></p><p>経済産業省</p><p>経済産業政策局産業人材課　高田・小林</p><p>産業技術環境局大学連携推進室　小林・大坪</p><p>E-mail：kyodokoza-sozosien@meti.go.jp</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■参照URL</b></p><p><a href=\"https://www.meti.go.jp/information/publicoffer/kobo.html\" target=\"_blank\">https://www.meti.go.jp/information/publicoffer/kobo.html</a></p>",
+ "use_purpose": "人材育成を行いたい",
+ "industry": "分類不能の産業",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "定額",
+ "subsidy_max_limit": 49998000,
+ "acceptance_start_datetime": "2022-01-04T03:00:00Z",
+ "acceptance_end_datetime": "2022-01-26T03:00:00Z",
+ "project_end_deadline": "2022-03-31T14:45:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000005i3SrEAI",
+ "application_guidelines": [
+  {
+   "name": "公募要領 .pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "交付要綱（案）.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "申請書（様式1）・提案書（様式2）.docx"
+  }
+ ],
+ "institution_name": null,
+ "_meta": {
+  "first_seen": "2022-01-04T03:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

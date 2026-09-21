@@ -1,0 +1,39 @@
+{
+ "id": "a0W5h00000MnjbNEAR",
+ "name": "S-00003763",
+ "title": "令和５年度製品開発着手支援助成事業",
+ "subsidy_catch_phrase": "技術的課題の事前検討を支援",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■助成事業の目的</strong></p><p>都内の中小企業者等が製品・技術開発を実施するにあたり、技術的な課題を検討するために、社外資源を活用して実施する技術検討の経費の一部を助成することにより、都内の中小企業等による新たな製品・技術開発を促進することを目的としています。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■助成事業の概要</strong></p><p>製品・技術開発を行う都内中小企業者等に対し、開発実施にあたって考えなくてはならない素材や機能、手法の選定等の技術検討に要する経費の一部を助成します。</p><p><br></p><p>（１）助成対象者</p><p>都内中小企業者（会社または個人事業者）、中小企業団体等、都内創業予定者、複数の企業等で構成される中小企業グループ（共同申請）</p><p><br></p><p>（２）助成対象期間</p><p><u>令和6年3月1日～令和7年2月28日まで（最長1年）</u></p><p><br></p><p>（３）助成限度額</p><p><u>100万円（最下限10万円）</u></p><p>※助成金の支払いは、助成事業を完了し、公社の検査・審査を経た後となります。</p><p><br></p><p>（４）助成率</p><p><u>助成対象と認められる経費の1/2以内</u>（千円未満は切り捨て）</p><p>技術検討に要する経費の一部（①原材料・副資材費、②委託・外注費）</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■助成対象事業</strong></p><p>・事業化を視野に入れた<u>研究開発を実施する前の技術検討である</u>こと。</p><p>・他企業・大学・試験研究機関等の<u>社外資源を活用する</u>ものであること。</p><p>・委託・外注費の<u>委託費・外注費・共同開発費のいずれか1つ以上の経費を計上</u>すること。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); background-color: rgb(255, 255, 255);\">■申請エントリー</strong></p><p>令和5年10月4日（水）～令和5年10月31日（火）17時00分</p><p><br></p><p><strong style=\"background-color: rgb(255, 255, 255); color: rgb(0, 111, 173);\">■申請書提出期間</strong></p><p>令和5年11月13日（月）～令和5年11月24日（金）17時00分</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■備考</strong></p><p><span style=\"color: rgb(68, 68, 68); background-color: rgb(255, 255, 255);\">本助成事業は製品等の優位性や妥当性を公社が保証するものではありません。</span></p><p>技術検討は助成対象期間内に完了させなくてはなりません。</p><p><span style=\"color: rgb(11, 11, 11);\">上記に係る詳細やその他助成事業の内容は、「募集要項」をご確認ください。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>公益財団法人東京都中小企業振興公社　企画管理部　助成課</p><p>〒101-0022</p><p>東京都千代区神田練塀町３-３大東ビル４階</p><p>TEL:03-3251-7894・5</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■　参照URL</strong></p><p>https:www.tokyo-kosha.or.jp/support/josei/jigyo/chakushu.html</p>",
+ "use_purpose": "研究開発・実証事業を行いたい",
+ "industry": "建設業 / 製造業 / 情報通信業 / 運輸業、郵便業 / 卸売業、小売業",
+ "target_area_search": "東京都",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "助成対象と認められる経費の１/２以内",
+ "subsidy_max_limit": 1000000,
+ "acceptance_start_datetime": "2023-11-13T02:00:00Z",
+ "acceptance_end_datetime": "2023-11-24T08:00:00Z",
+ "project_end_deadline": "2025-02-28T08:00:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W5h00000MnjbNEAR",
+ "application_guidelines": [
+  {
+   "name": "募集要項.pdf"
+  }
+ ],
+ "outline_of_grant": [],
+ "application_form": [
+  {
+   "name": "申請書.xlsx"
+  },
+  {
+   "name": "申請書（記入例）.pdf"
+  }
+ ],
+ "institution_name": "令和５年度製品開発着手支援助成事業",
+ "_meta": {
+  "first_seen": "2023-11-13T02:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

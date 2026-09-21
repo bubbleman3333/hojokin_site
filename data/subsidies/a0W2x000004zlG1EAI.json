@@ -1,0 +1,64 @@
+{
+ "id": "a0W2x000004zlG1EAI",
+ "name": "S-00002043",
+ "title": "令和４年度　自動車事故対策費補助金（社会復帰促進事業）",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"font-size: 14px; color: rgb(0, 0, 0);\">高次脳機能障害者特有の症状として、社会的行動障害や記憶障害がありますが、適切なリハビリテーションを受けることで社会復帰につながる可能性があります。</span></p><p><span style=\"font-size: 14px; color: rgb(0, 0, 0);\">　頭部外傷を治療する病院や自立訓練を提供する事業所はあるものの、入院中は患者にとって守られた環境下での生活となるため、高次脳機能障害が概して目立たず、発見されないことがあるほか、高次脳機能障害に理解のある事業所も多くない状況にあります。そのため、高次脳機能障害の発見が遅れる場合や適切な自立訓練を受けられず、高次脳機能障害を有する者が社会復帰できない状況が生じています。</span></p><p><span style=\"font-size: 14px; color: rgb(0, 0, 0);\">　このため、国土交通省では、自動車事故による高次脳機能障害を有する者の社会復帰の促進を図る方策を検討することを目的として、自立訓練（機能訓練・生活訓練）を提供する障害福祉サービス等事業者のうち、高次脳機能障害への十分な理解がある者が行う、高次脳機能障害を有する者が病院・事業者から地域への生活を円滑に移行するためのサポートの取り組みに対して補助を行う、社会復帰促進事業のモデル事業を実施します。なお、予算の範囲内で国が当該事業の実施に要する費用を補助します。</span></p><p><span style=\"font-size: 14px; color: rgb(0, 0, 0);\">　本日より、令和４年度実施に係る公募を開始します。</span></p><p><br></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p>自動車事故被害者を受け入れている自立訓練事業所</p><p><br></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p><span style=\"font-size: 14px; color: rgb(0, 0, 0);\">国土交通省自動車局保障制度参事官室　大橋、北村、大塚</span></p><p><span style=\"font-size: 14px; color: rgb(0, 0, 0);\">TEL：（03）5253-8111 （内線41418）　直通 03-5253-8580</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><a href=\"https://www.mlit.go.jp/jidosha/jidosha_tk2_000102.html\" target=\"_blank\" style=\"font-size: 14px; color: rgb(1, 101, 34);\">https://www.mlit.go.jp/jidosha/jidosha_tk2_000102.html</a></p>",
+ "use_purpose": "雇用・職場環境を改善したい",
+ "industry": "医療、福祉",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "10/10",
+ "subsidy_max_limit": 12000000,
+ "acceptance_start_datetime": "2022-06-22T05:00:00Z",
+ "acceptance_end_datetime": "2022-07-13T15:00:00Z",
+ "project_end_deadline": "2023-03-31T14:45:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000004zlG1EAI",
+ "application_guidelines": [
+  {
+   "name": "03_【社会復帰促進事業】R4公募要領.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "01_【社会復帰促進事業】R4交付要綱（本文・様式・別表）.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "09_【社会復帰促進事業】研修等開催計画書.xlsx"
+  },
+  {
+   "name": "11_【社会復帰促進事業】出張等計画書.xlsx"
+  },
+  {
+   "name": "06_【社会復帰促進事業】申請書類（ネットワーク構築支援費）.xlsx"
+  },
+  {
+   "name": "04_【社会復帰促進事業】交付申請書総括表.xlsx"
+  },
+  {
+   "name": "05_【社会復帰促進事業】応募様式【様式１・様式２】.xlsx"
+  },
+  {
+   "name": "12_【社会復帰促進事業】R4交付申請必要書類確認書.xlsx"
+  },
+  {
+   "name": "07_【社会復帰促進事業】申請書類（自立訓練提供支援費）.xlsx"
+  },
+  {
+   "name": "08_【社会復帰促進事業】申請書類（地域連携支援費）.xlsx"
+  },
+  {
+   "name": "10_【社会復帰促進事業】研修等参加計画書.xlsx"
+  }
+ ],
+ "institution_name": "自動車事故対策費補助金（社会復帰促進事業）",
+ "_meta": {
+  "first_seen": "2022-06-22T05:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

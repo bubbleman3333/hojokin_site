@@ -1,0 +1,28 @@
+{
+ "id": "a0W5h00000UcDDYEA3",
+ "name": "S-00004028",
+ "title": "東京都事業内職業訓練事業補助金",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>認定職業訓練の実施を促進し、その内容の充実を図るため、中小企業事業主及び中小企業事業主の団体に対し、訓練の運営と設備等の整備に要する経費の一部を補助します。</p>",
+ "use_purpose": "人材育成を行いたい",
+ "industry": "分類不能の産業",
+ "target_area_search": "東京都",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": null,
+ "subsidy_max_limit": 0,
+ "acceptance_start_datetime": "2026-03-31T15:00:00Z",
+ "acceptance_end_datetime": "2026-04-15T14:59:00Z",
+ "project_end_deadline": null,
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W5h00000UcDDYEA3",
+ "application_guidelines": [],
+ "outline_of_grant": [],
+ "application_form": [],
+ "institution_name": "東京都事業内職業訓練事業補助金",
+ "_meta": {
+  "first_seen": "2026-03-31T15:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

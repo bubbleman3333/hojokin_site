@@ -1,0 +1,55 @@
+{
+ "id": "a0W5h00000UawJJEAZ",
+ "name": "S-00003855",
+ "title": "令和６年度東京都地域医療連携システムデジタル環境整備推進事業",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>地域医療を担う医療機関間の切れ目のない継続した連携を推進するため、東京都全域においてデジタル技術を活用したネットワークを構築し、診療情報の共有等を図ることを目的とします。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助事業対象者</strong></p><p>東京都内において、医療法（昭和２３年法律第２０５号）第７条の規定に基づき許可を受けた病院若しくは診療所又は同法第８条の規定に基づき届出をした診療所の開設者であって、東京都知事（以下「知事」という。）が適当と認めるもの。ただし、以下の者を除く。</p><p>(1) 地方自治法（昭和２２年法律第６７号）第１条の３に規定する地方公共団体</p><p>(2) 地方独立行政法人法（平成１５年法律第１１８号）第２条第１項に規定する地方独立行政法人及び同条第２項に規定する特定独立行政法人</p><p>(3) 独立行政法人通則法（平成１１年７月１６日法律第１０３号）第２条第１項に規定する独立行政法人及び同条第２項に規定する特定独立行政法人</p><p>(4) 国立大学法人法（平成１５年７月１６日法律第１２０号）第２条第１項に規定する国立大学法人</p><p>(5) この補助金の交付を受けた年度の翌年度から起算して５年を経過していない医療機関</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■備考</strong></p><p>補助率</p><p>医療法（昭和23年法律第205号）第7条第2項各号に規定する病床の合計数が200床未満の場合</p><p>4分の3</p><p>上記該当しない場合</p><p>2分の1</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>東京都保健医療局医療政策部医療政策課医療改革推進担当</p><p>TEL：03-5320-4448（直通）</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p>https://www.hokeniryo.metro.tokyo.lg.jp/iryo/jigyo/ict.html</p>",
+ "use_purpose": "設備整備・IT導入をしたい",
+ "industry": "医療、福祉",
+ "target_area_search": "東京都",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "3/4もしくは1/2※詳細は備考欄に記載",
+ "subsidy_max_limit": 20000000,
+ "acceptance_start_datetime": "2023-04-01T00:00:00Z",
+ "acceptance_end_datetime": "2025-03-31T03:00:00Z",
+ "project_end_deadline": "2025-03-31T03:00:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W5h00000UawJJEAZ",
+ "application_guidelines": [
+  {
+   "name": "東京都地域医療連携システムデジタル環境整備推進推進事業（実施要綱）.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "東京都地域医療連携システムデジタル環境整備推進事業（交付要綱・契約手続基準）.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "事業計画様式.zip"
+  },
+  {
+   "name": "交付申請様式.zip"
+  },
+  {
+   "name": "入札等報告・随意契約報告様式.zip"
+  },
+  {
+   "name": "消費税報告様式.zip"
+  },
+  {
+   "name": "契約締結報告様式.zip"
+  },
+  {
+   "name": "実績報告様式.zip"
+  }
+ ],
+ "institution_name": "東京都地域医療連携システムデジタル環境整備推進事業",
+ "_meta": {
+  "first_seen": "2023-04-01T00:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

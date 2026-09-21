@@ -1,0 +1,42 @@
+{
+ "id": "a0W2x000007CjlUEAS",
+ "name": "S-00002626",
+ "title": "モデル実証事業・改良事業",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"font-size: 12px;\">食品産業の生産性向上により国際競争力を強化するため、AI、ロボット、IoT等を活用した食品の製造・品質管理等の自動化、リモート化技術、さらにはコロナ対策の更なる向上のための非接触型技術を実際の食品製造や飲食店等の現場にモデル的に導入、実証する取組を支援するとともに、より多くの中小企業が導入できるよう、低コスト化や小型化のための改良の取組を支援します。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募団体の要件</strong></p><p>①食品製造事業者、外食事業者、機械メーカー、システムインテグレーター、情報関連企業、研究機関、コンサルタント、食品製造業等関係団体、外食産業関係団体等を構成員とするコンソーシアム</p><p>②生産性向上に取り組み、成果物の横展開の見込みのある単独の事業者</p><p>（食品製造事業者、外食事業者を含む食品に関わる事業者。食品製造事業者、外食事業者に加え、機械メーカー、システムインテグレーター、情報関連企業、研究機関、コンサルタント、食品製造業等関係団体、外食産業関係団体等も対象）</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p><span style=\"font-size: 12px; color: rgb(0, 0, 0);\">〒105-0011　東京都港区芝公園3-1-22　日本能率協会ビル7F</span></p><p><span style=\"font-size: 12px; color: rgb(0, 0, 0);\">株式会社日本能率協会コンサルティング</span></p><p><span style=\"font-size: 12px; color: rgb(0, 0, 0);\">JMAC食品産業労働生産性向上技術導入実証事業　事務局</span></p><p><span style=\"font-size: 12px; color: rgb(0, 0, 0);\">担当：寺脇、丹羽　宛</span></p><p><a href=\"https://jgrants-portal.lightning.force.com/lightning/r/JG2_Subsidy__c/a0W2x000007CjlKEAS/view\" target=\"_blank\">maff_food_innovation@jmac.co.jp</a></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><a href=\"https://jmac-foods.com/adopted/1338/\" target=\"_blank\">https://jmac-foods.com/adopted/1338/</a></p>",
+ "use_purpose": "研究開発・実証事業を行いたい / 設備整備・IT導入をしたい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 公務（他に分類されるものを除く） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "１／２以内",
+ "subsidy_max_limit": 25000000,
+ "acceptance_start_datetime": "2023-03-06T01:00:00Z",
+ "acceptance_end_datetime": "2023-06-05T08:00:00Z",
+ "project_end_deadline": "2024-02-15T14:59:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000007CjlUEAS",
+ "application_guidelines": [
+  {
+   "name": "公募要領_モデル実証・改良事業_R4食品産業労働生産性向上技術導入実証事業v1.0.pdf"
+  }
+ ],
+ "outline_of_grant": [],
+ "application_form": [
+  {
+   "name": "別紙様式4_事業計画サマリ_公募要領_モデル実証・改良事業_R4食品産業労働生産性向上技術導入実証事業v1.0.pptx"
+  },
+  {
+   "name": "別紙様式_公募要領_モデル実証・改良事業_R4食品産業労働生産性向上技術導入実証事業v1.0.docx"
+  },
+  {
+   "name": "別紙様式3_経費内訳書_公募要領_モデル実証・改良事業_R4食品産業労働生産性向上技術導入実証事業v1.0.xlsx"
+  }
+ ],
+ "institution_name": "令和４年度食品産業労働生産性向上技術導入実証事業",
+ "_meta": {
+  "first_seen": "2023-03-06T01:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

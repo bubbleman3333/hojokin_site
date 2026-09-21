@@ -1,0 +1,55 @@
+{
+ "id": "a0WJ200000CDXUPMA5",
+ "name": "S-00008103",
+ "title": "東京都配偶者暴力被害者等セーフティネット強化支援交付金",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的</strong></p><p class=\"ql-indent-1\">地域における配偶者暴力の被害者等支援の充実に資する、区市町村が民間シェルター等と連携し行う先進的な取組及び民間シェルター等による先進的な取組に要した経費に対し、東京都が交付することにより、都内における行政と民間が連携した配偶者暴力被害者等支援の充実を図ることを目的とする。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■交付の対象事業</strong></p><p class=\"ql-indent-1\" style=\"text-align: justify;\"><span style=\"color: windowtext; font-size: 13px;\">区市町村及び民間シェルター等が行う次に掲げる事業を実施するために必要な経費のうち、交付金交付の対象として知事が認める経費について、予算の範囲内で交付金を交付するものとする。 </span></p><ol><li style=\"text-align: justify;\"><span style=\"color: windowtext; font-size: 13px;\">知事が別に定める「令和８年度東京都配偶者暴力被害者等セーフティネット強化支援交付金区市町村実施要領」（令和８年３月１９日付７生都平第３８４号）に基づき区市町村が行う事業 </span></li><li style=\"text-align: justify;\"><span style=\"color: windowtext; font-size: 13px;\">知事が別に定める「令和８年度東京都配偶者暴力被害者等セーフティネット強化支援交付金民間シェルター等実施要領」（令和８年３月１９日付７生都平第３８４号）に基づき民間シェルター等が行う事業</span></li></ol><p style=\"text-align: justify;\"><strong style=\"color: rgb(0, 111, 173);\">■参考URL</strong></p><p style=\"text-align: justify;\"><strong style=\"color: rgb(0, 111, 173);\"> </strong><a href=\"https://www.seikatubunka.metro.tokyo.lg.jp/danjo/dv/0000001846\" target=\"_blank\" style=\"color: rgb(0, 111, 173);\"><strong>東京都配偶者暴力被害者等セーフティネット強化支援交付金|配偶者暴力対策|東京都生活文化局</strong></a></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p class=\"ql-indent-1\">東京都新宿区西新宿2-8-1　都庁第一本庁舎19階南</p><p class=\"ql-indent-1\">生活文化局 都民生活部 男女平等参画課</p><p class=\"ql-indent-1\">電話番号：03-5388-3189</p>",
+ "use_purpose": "安全・防災対策支援がほしい",
+ "industry": "医療、福祉",
+ "target_area_search": "東京都",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "10/10",
+ "subsidy_max_limit": 0,
+ "acceptance_start_datetime": "2026-03-24T15:00:00Z",
+ "acceptance_end_datetime": "2026-04-09T08:00:00Z",
+ "project_end_deadline": "2027-03-31T14:59:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXUPMA5",
+ "application_guidelines": [
+  {
+   "name": "01_R8実施要領（区市町村）.pdf"
+  },
+  {
+   "name": "02_R8実施要領（民間シェルター等）.pdf"
+  },
+  {
+   "name": "03_R8公募要領（区市町村）.pdf"
+  },
+  {
+   "name": "04_R8公募要領（民間シェルター等）.pdf"
+  },
+  {
+   "name": "要領関係様式.zip"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "01_R8交付要綱.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "02_交付要綱_様式.docx"
+  },
+  {
+   "name": "03_別紙様式1-4 .xlsx"
+  }
+ ],
+ "institution_name": "東京都配偶者暴力被害者等セーフティネット強化支援交付金",
+ "_meta": {
+  "first_seen": "2026-03-24T15:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

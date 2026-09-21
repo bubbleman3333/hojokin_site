@@ -1,0 +1,43 @@
+{
+ "id": "a0W5h00000UcqLdEAJ",
+ "name": "S-00004202",
+ "title": "【令和５年度補正　物流効率化先進的実証事業費補助金（自動配送ロボット導入促進実証事業）補助事業者募集】",
+ "subsidy_catch_phrase": "令和５年度　物流効率化先進的実証事業（自動配送ロボット導入促進実証）事業者の募集",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>我が国の国民生活・経済を支える社会インフラである物流には、「物流の2024年問題」のみならず、構造的な需給ひっ迫による輸送力不足の危機が迫っています。この危機は幹線輸送に閉じず、支線配送（ラストワンマイル配送）においても喫緊の問題となっています。</p><p>当該問題の解決に資する１つの手段として、自動配送ロボットを活用した配送サービスの社会実装が期待されているが、令和５年４月に改正道路交通法が施行され、本格的な社会実装のための制度環境が整いました。</p><p>そのような中で、本事業では、自動配送ロボットを活用した配送サービスの社会実装に向けて、サービス提供事業者が取り組む大規模なサービス実証事業に要する費用を補助することにより、事業採算性を確保したサービスモデルを創出し、当該市場の確立および導入促進を図ることを目的とします。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p>募集要領に記載の応募資格の要件を全て満たす大企業・中小企業</p><p>※公募の開始は令和６年３月１日（金）、申請は令和６年３月１５日（金）から受付開始をいたします。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助金上限額</strong></p><p><span style=\"color: rgb(68, 68, 68);\">大企業：40,000,000円　中小企業：80,000,000円</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>物流効率化に向けた先進的な実証事業 事務局</p><p>E-mail：<a href=\"mailto:info_robot@logiefficiency-meti.jp\" target=\"_blank\">info_robot@logiefficiency-meti.jp</a></p>",
+ "use_purpose": "研究開発・実証事業を行いたい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 公務（他に分類されるものを除く） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "全国",
+ "target_area_detail": "全国",
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "大企業１/３、中小企業２/３",
+ "subsidy_max_limit": 80000000,
+ "acceptance_start_datetime": "2024-03-15T03:00:00Z",
+ "acceptance_end_datetime": "2024-04-08T08:00:00Z",
+ "project_end_deadline": "2025-02-21T14:45:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W5h00000UcqLdEAJ",
+ "application_guidelines": [
+  {
+   "name": "公募要領.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "交付規程.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "申請様式.zip"
+  },
+  {
+   "name": "応募書類作成要領.pdf"
+  }
+ ],
+ "institution_name": "「物流効率化に向けた先進的な実証事業」に係る補助事業",
+ "_meta": {
+  "first_seen": "2024-03-15T03:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

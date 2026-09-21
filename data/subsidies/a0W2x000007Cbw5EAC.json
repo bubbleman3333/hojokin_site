@@ -1,0 +1,40 @@
+{
+ "id": "a0W2x000007Cbw5EAC",
+ "name": "S-00002434",
+ "title": "令和5年度「大企業等人材による新規事業創造促進事業（出向起業等による新規事業創造の実践）」",
+ "subsidy_catch_phrase": "出向起業補助金",
+ "detail": "<p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"color: rgb(26, 26, 26); font-size: 16px;\">本公募は、民間事業者等（間接補助事業者）への補助金（間接補助金）の交付事務等を行う補助事業者（執行団体）を公募するものです。</span></p><p><span style=\"color: rgb(26, 26, 26); font-size: 16px;\">経済産業省では、令和5年度「大企業等人材による新規事業創造促進事業（出向起業等による新規事業創造の実践）」を実施する補助事業者（執行団体）を、以下の要領で広く募集します。応募される方におかれましては、事業内容等をご理解いただいた上で、公募要領に基づき応募してください。</span></p><p><br></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■事業内容</strong></p><p><span style=\"color: rgb(26, 26, 26); font-size: 16px;\">現下の状況においては、大企業等による新規事業へのリソース投下や大企業等人材による辞職起業に一定のハードルが見込まれます。これを踏まえ、本事業では、大企業等人材が、所属企業を辞職せずに、自ら外部資金調達や個人資産の投下等により起業した、資本が独立したスタートアップへの出向・長期派遣研修等を通じて行う新規事業（出向起業）を支援します。これによって、これまで活用されてこなかった経営資源（人材・知的財産含む）の開放を促し、新規事業の担い手の数の増加を目指します。</span></p><p><span style=\"color: rgb(26, 26, 26); font-size: 16px;\">事業内容の詳細、応募方法その他留意していただきたい点は、公募要領に記載のとおりです。応募される方は、熟読いただくようお願いいたします。なお、本公募は、令和5年度当初予算成立後、速やかに事業を開始出来るようにするため、予算成立前に公募の手続きを行うものです。補助事業者（執行団体）の決定や予算の執行は、令和5年度当初予算の成立が前提であり、今後、内容等が変更になることもありますので、あらかじめご了承ください。</span></p><p><br></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■応募資格</strong></p><p><span style=\"font-size: 16px; color: rgb(26, 26, 26);\">公募要領に定める要件を満たす者を対象とします。</span></p><p><br></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■問合せ先</strong></p><p><span style=\"font-size: 16px;\">本事業へのお問合せは、以下のメールアドレスへご連絡ください（電話でのお問合せは受け付けておりません）。その際、メールの件名を「（質問）大企業等人材による新規事業創造促進事業（出向起業等による新規事業創造の実践）」としてください。他の件名ではお問合せに回答できない場合があります。</span></p><p><br></p><p><span style=\"font-size: 16px;\">経済産業省 経済産業政策局 産業人材課</span></p><p><span style=\"font-size: 16px;\">担当：金子、伊藤、高瀬</span></p><p><span style=\"font-size: 16px;\">E-MAIL：</span><a href=\"mailto:bzl-souzoukahojo@meti.go.jp\" target=\"_blank\" style=\"font-size: 16px; color: rgb(0, 89, 123);\">bzl-souzoukahojo@meti.go.jp</a></p>",
+ "use_purpose": "新たな事業を行いたい",
+ "industry": "学術研究、専門・技術サービス業",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "定額",
+ "subsidy_max_limit": 345000000,
+ "acceptance_start_datetime": "2023-01-30T04:00:00Z",
+ "acceptance_end_datetime": "2023-02-21T03:00:00Z",
+ "project_end_deadline": "2024-03-31T14:45:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000007Cbw5EAC",
+ "application_guidelines": [
+  {
+   "name": "01_公募要領.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "03_交付要綱案.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "02_様式1～3.docx"
+  }
+ ],
+ "institution_name": "多様な人材の活躍による企業価値向上促進事業（出向起業補助金）",
+ "_meta": {
+  "first_seen": "2023-01-30T04:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "id": "a0WJ200000CDQNmMAP",
+ "name": "S-00006894",
+ "title": "R7年度第1回 インキュベーション施設支援機能強化事業助成金",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><strong style=\"font-size: 11px; color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"font-size: 11px; color: rgb(0, 0, 0);\">東京都が運営する『インキュベーション・コミュニティ「INCU Tokyo」』に登録されたインキュベーション施設運営事業者の内、公社「ハンズオン支援」を利用して実施する支援策に関する経費の一部を助成いたします。</span></p><p><br></p><p><strong style=\"font-size: 11px; color: rgb(0, 111, 173);\">■応募資格</strong></p><p><span style=\"font-size: 11px; color: rgb(0, 0, 0);\">以下に掲げる団体かつ</span><span style=\"font-size: 11px;\">『インキュベーション・コミュニティ「INCU Tokyo」』に登録済みであること。</span></p><p><span style=\"font-size: 11px; color: rgb(0, 0, 0);\">・中小企業者 ・区市町村 ・一般社団法人 ・一般財団法人</span></p><p><span style=\"font-size: 11px; color: rgb(0, 0, 0);\">・公益社団法人 ・公益財団法人 ・大学 ・地方銀行 ・信用金庫</span></p><p><span style=\"font-size: 11px; color: rgb(0, 0, 0);\">・信用組合 ・特定非営利活動法人 ・労働者協同組合</span></p><p><br></p><p><strong style=\"font-size: 11px; color: rgb(0, 111, 173);\">■問合せ先</strong></p><p><span style=\"font-size: 11px;\">公益財団法人 東京都中小企業振興公社</span></p><p><span style=\"font-size: 11px;\">事業戦略部 創業支援課</span></p><p><span style=\"font-size: 11px;\">インキュベーション施設担当</span></p><p><span style=\"font-size: 11px;\">TEL. 03-5220-1142</span></p><p><a href=\"mailto:kosha-incukyoka@tokyo-kosha.or.jp\" target=\"_blank\" style=\"font-size: 11px;\">incukyoka@tokyo-kosha.or.jp</a></p><p><br></p><p><strong style=\"font-size: 11px; color: rgb(0, 111, 173);\">■参照URL</strong></p><p><a href=\"https://startup-station.jp/m2/services/sogyokassei-incu/shien-kyoka/\" target=\"_blank\" style=\"font-size: 11px;\">https://startup-station.jp/m2/services/sogyokassei-incu/shien-kyoka/</a></p>",
+ "use_purpose": "新たな事業を行いたい / イベント・事業運営支援がほしい / 設備整備・IT導入をしたい",
+ "industry": "複合サービス事業 / サービス業（他に分類されないもの） / 公務（他に分類されるものを除く） / 分類不能の産業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "東京都",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "2/3 以内",
+ "subsidy_max_limit": 10000000,
+ "acceptance_start_datetime": "2025-06-23T00:00:00Z",
+ "acceptance_end_datetime": "2025-07-08T14:59:00Z",
+ "project_end_deadline": null,
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDQNmMAP",
+ "application_guidelines": [
+  {
+   "name": "r7_incu_boshu_shien-kyoka.pdf"
+  }
+ ],
+ "outline_of_grant": [],
+ "application_form": [
+  {
+   "name": "r7_incu_shinsei3.zip"
+  }
+ ],
+ "institution_name": "インキュベーション施設支援機能強化事業",
+ "_meta": {
+  "first_seen": "2025-06-23T00:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "id": "a0W5h00000UcMgEEAV",
+ "name": "S-00004067",
+ "title": "令和6年度「海外権利化支援事業」補助事業者（事業執行団体）公募",
+ "subsidy_catch_phrase": "【補助事業者（事業執行団体）／事務局】海外権利化支援事業",
+ "detail": "<p><strong style=\"color: rgb(5, 5, 5);\"><u>本公募は、民間事業者等（間接補助事業者）への補助金（間接補助金）の交付事務を行う補助事業者（事業執行団体）を公募するものです。</u></strong></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>特許庁では、令和6年度「海外権利化支援事業（中小企業等海外展開支援事業費補助金）」を実施する補助事業者を、以下の要領で広く募集します。</p><p><strong><u>なお、本公募は、令和６年度当初予算成立後、速やかに事業を開始できるようにするため、当初予算成立前に公募の手続きを行うものです。補助事業者の決定や予算の執行は、令和６年度当初予算の成立が前提であり、今後、内容等が変更になることもありますので、あらかじめ御了承ください。</u></strong></p><p><br></p><p><span style=\"color: rgb(0, 111, 173);\">■</span><strong style=\"color: rgb(0, 111, 173);\">事業内容</strong></p><p>海外における発明、実用新案、意匠又は商標の権利化（外国出願）、その特許出願に対して外国特許庁から発せられた拒絶理由通知に対する応答、特許出願に対する出願審査の請求に要する経費の一部を助成する事業を行うことにより、これらの権利を活用した海外展開を支援することを目的とします。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p>次の要件を満たす法人格を有する民間団体等とします。</p><p>①日本に拠点を有していること。</p><p>②本事業を的確に遂行する組織、人員等を有していること。</p><p>③本事業を円滑に遂行するために必要な経営基盤を有し、かつ、資金等について十分な管理能力を有していること。</p><p>④経済産業省からの補助金交付等停止措置又は指名停止措置が講じられている者ではないこと。</p><p>※詳細は、募集要領を参照願います。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>〒100-8915 東京都千代田区霞が関3丁目4番3号</p><p>特許庁 総務部 国際協力課 海外展開支援室 海外展開支援推進班</p><p>担当：原、柴原、藤本</p><p>TEL：03-3581-1101（内）2577</p><p>E-mail：PA0842@jpo.go.jp</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p>https://www.jpo.go.jp/news/chotatsu/kobo/20240216_international.html</p>",
+ "use_purpose": "新たな事業を行いたい / 販路拡大・海外展開をしたい",
+ "industry": "複合サービス事業 / サービス業（他に分類されないもの） / 分類不能の産業 / 学術研究、専門・技術サービス業",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "定額",
+ "subsidy_max_limit": 394976000,
+ "acceptance_start_datetime": "2024-02-16T05:00:00Z",
+ "acceptance_end_datetime": "2024-03-07T03:00:00Z",
+ "project_end_deadline": "2025-03-31T14:59:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W5h00000UcMgEEAV",
+ "application_guidelines": [
+  {
+   "name": "【募集要領】令和６年度「海外権利化支援事業」.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "【交付要綱（案）】海外権利化支援事業.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "（様式３）委託・外注費の額の割合が５０％を超える理由書.docx"
+  },
+  {
+   "name": "（様式２）提案書.docx"
+  },
+  {
+   "name": "（様式１）申請書.docx"
+  }
+ ],
+ "institution_name": "中小企業等海外展開支援事業費補助金 （海外権利化支援事業）",
+ "_meta": {
+  "first_seen": "2024-02-16T05:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

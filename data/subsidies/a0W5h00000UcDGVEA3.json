@@ -1,0 +1,40 @@
+{
+ "id": "a0W5h00000UcDGVEA3",
+ "name": "S-00004031",
+ "title": "休廃止鉱山鉱害防止等工事費補助金（令和５年度補正第１回公募　災害対策分）",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"font-size: 14px; color: rgb(8, 7, 7);\">休廃止鉱山（石炭鉱業及び亜炭鉱業に係るものを除く。）において、台風等の自然災害によって停電や道路不通などの事態が発生した際においても坑廃水処理施設の機能が維持されるように、非常用発電機やそれに必要な燃料タンク、貯水槽等を導入することにより、坑廃水処理施設の機能維持の向上を図ることを目的としています。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p>（１）基本的事項</p><p>応募資格：次の要件を満たす「（２）補助対象者」に該当する者とします。</p><p>①日本に拠点を有していること。</p><p>②本事業を的確に遂行する組織、人員等を有していること。</p><p>③本事業を円滑に遂行するために必要な経営基盤を有し、かつ、資金等について十分な管理能力を有していること。</p><p>④経済産業省からの補助金交付等停止措置又は指名停止措置が講じられている者ではないこと。</p><p>⑤政府からのＥＢＰＭに関する協力要請に応じること。</p><p>（２）補助対象者</p><p>次に掲げる鉱山において、金属鉱業等鉱害対策特別措置法（昭和４８年法律第２６号）における採掘権者又は租鉱権者（鉱山保安法（昭和２４年法律第７０号）第３９条第２項の規定により採掘権者又は租鉱権者とみなされる者を含む。）であって、坑廃水処理施設の機能維持の向上を行う者。</p><p>①鉱業権の消滅している鉱山。</p><p>②鉱業権は存続しているが、採掘活動を終了した後、長期間が経過し、かつ、今後採掘活動が再開される見込みのない鉱山。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>〒１００－８９０１　東京都千代田区霞が関１－３－１</p><p>経済産業省　産業保安グループ　鉱山･火薬類監理官付</p><p>担当：上田、根本</p><p>電話：０３－３５０１－１８７０</p><p>E-mail：<a href=\"mailto:bzl-kouzan-kayaku@meti.go.jp\" target=\"_blank\" style=\"font-size: 10.5pt; font-family: Century, serif;\">bzl-kouzan-kayaku@meti.go.jp</a></p>",
+ "use_purpose": "災害（自然災害、感染症等）支援がほしい",
+ "industry": "鉱業、採石業、砂利採取業",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "中小企業者等（みなし大企業を除く）： 補助対象経費の１／３以内、大企業：補助対象経費の１／４以内",
+ "subsidy_max_limit": 50000000,
+ "acceptance_start_datetime": "2024-01-30T01:00:00Z",
+ "acceptance_end_datetime": "2024-03-01T08:00:00Z",
+ "project_end_deadline": "2025-03-17T09:00:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W5h00000UcDGVEA3",
+ "application_guidelines": [
+  {
+   "name": "公募要領.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "休廃止鉱山鉱害防止等工事費補助金（休廃止鉱山鉱害防止施設等災害対策補助金）交付要綱.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "申請書等様式 .docx"
+  }
+ ],
+ "institution_name": "休廃止鉱山鉱害防止等工事費補助金",
+ "_meta": {
+  "first_seen": "2024-01-30T01:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

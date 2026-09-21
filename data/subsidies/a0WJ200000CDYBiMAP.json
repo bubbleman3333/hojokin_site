@@ -1,0 +1,46 @@
+{
+ "id": "a0WJ200000CDYBiMAP",
+ "name": "S-00008542",
+ "title": "東京都薬局における賃上げ・物価上昇に対する支援金",
+ "subsidy_catch_phrase": "薬局が賃金・物価上昇の影響を受けている状況を踏まえ、薬局の従事者の処遇改善を支援するとともに、物価上昇の影響に対する支援金を支給します。",
+ "detail": "<p><span style=\"font-size: 14px;\">≪支給対象施設≫</span></p><p><span style=\"font-size: 14px;\">　都内に開設している保険薬局</span></p><p><span style=\"font-size: 14px;\">　いずれも健康保険法（大正十一年法律第七十号）上の保険医療機関コードが発行されており、令和7年4月1日から本事業の申請時点までに診療報酬請求の実績がある薬局 </span></p><p><br></p><p>≪支給要件≫</p><p>必ず、東京都ホームページをご確認ください。</p><p><span style=\"font-size: 12.8px;\">東京都ホームページ：</span><a href=\"https://www.hokeniryo.metro.tokyo.lg.jp/anzen/kenkou_anzen/package-yakkyoku\" target=\"_blank\" style=\"font-size: 14px; color: rgb(4, 105, 193);\">https://www.hokeniryo.metro.tokyo.lg.jp/anzen/kenkou_anzen/package-yakkyoku</a></p><p><br></p><p><span style=\"font-size: 14px;\">≪問合せ先≫</span></p><p><span style=\"font-size: 14px;\">　東京都薬局における賃上げ・物価上昇に対する支援金事務局</span></p><p><span style=\"font-size: 14px;\">　電話番号：03-6821-2712</span></p><p><span style=\"font-size: 14px;\">　受付時間：平日午前９時から午後５時まで</span></p><p><br></p><p><span style=\"font-size: 14px;\">メールでのお問い合わせは、</span><span style=\"font-size: 14px; color: rgb(68, 68, 68);\">以下のメールアドレスにお送りください。</span></p><p>yakumu_r8bukka(at)nta.co.jp</p><p><span style=\"font-size: 14px;\">　※</span><span style=\"font-size: 14px; color: rgb(51, 51, 51);\">迷惑メール対策のため、メールアドレスの表記を一部変更しております。お手数ですが、メール送信の際は(at)を@に置き換えてご利用ください。</span></p><p><span style=\"font-size: 14px;\">　件名：【薬局賃上げ・物価対策支援金】お問い合わせ</span></p><p><span style=\"font-size: 14px;\">　本文：①法人名又は屋号、②保険薬局コード（7桁）、③ご担当者様お名前、④電話番号、⑤お問い合わせ内容</span></p><p><span style=\"font-size: 14px;\"> </span></p><p><span style=\"font-size: 14px;\">≪</span><span style=\"font-size: 12.8px;\">東京都ホームページ</span><span style=\"font-size: 14px;\">≫</span></p><p><a href=\"https://www.hokeniryo.metro.tokyo.lg.jp/anzen/kenkou_anzen/package-yakkyoku\" target=\"_blank\" style=\"font-size: 14px; color: rgb(4, 105, 193);\">https://www.hokeniryo.metro.tokyo.lg.jp/anzen/kenkou_anzen/package-yakkyoku</a></p>",
+ "use_purpose": "資金繰りを改善したい",
+ "industry": "医療、福祉",
+ "target_area_search": "東京都",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": null,
+ "subsidy_max_limit": 0,
+ "acceptance_start_datetime": "2026-04-27T00:00:00Z",
+ "acceptance_end_datetime": "2026-05-31T14:59:00Z",
+ "project_end_deadline": "2026-12-31T14:59:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYBiMAP",
+ "application_guidelines": [
+  {
+   "name": "東京都薬局における賃上げ・物価上昇に対する支援金実施要綱.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "東京都薬局における賃上げ・物価上昇に対する支援金交付要綱.pdf"
+  },
+  {
+   "name": "別記１_補助条件.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "実績報告書 【入力例・Jグランツ】 .xlsx"
+  },
+  {
+   "name": "実績報告書（Jグランツ）.xlsx"
+  }
+ ],
+ "institution_name": "東京都薬局における賃上げ・物価上昇に対する支援事業",
+ "_meta": {
+  "first_seen": "2026-04-27T00:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

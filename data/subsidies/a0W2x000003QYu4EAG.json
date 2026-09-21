@@ -1,0 +1,40 @@
+{
+ "id": "a0W2x000003QYu4EAG",
+ "name": "S-00000878",
+ "title": "令和3年度_スタートアップ向け経営人材支援事業",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><b style=\"color: rgb(0, 111, 173); font-size: 14px;\">■目的・概要</b></p><p><span style=\"font-size: 14px;\">経済産業省は、大企業等、スタートアップ企業（以下「SU」という。）の間でイノベーションの担い手となる人材が環流することで、SUへの人材流動性が高まりSUが成長するエコシステム（スタートアップエコシステム）を創出し、大企業等とSUによる価値共創が促進されイノベーションが創出されるエコシステム（イノベーションエコシステム）の創出を目指しています。</span></p><p><br></p><p><span style=\"font-size: 14px;\">一方、上記イノベーションエコシステム創出に向けて特にテック系SUにおいて、経営人材不足が顕著となっています。</span></p><p><span style=\"font-size: 14px;\">ここには、①大企業等からSUに人材を流動させるため民間事業者の取り組み・事業者間連携が不足している、②人材側にSUで働くことの価値が十分に認められていない、という2点から、大企業等に人材が滞留してしまっている構造上の課題が存在しています。</span></p><p><br></p><p style=\"text-align: justify;\"><span style=\"font-size: 14px;\">本事業では、SUの成長に寄与する人材を効率的・効果的にマッチングする好連携を創出・情報発信することで、広く民間ビジネスにおいて事業展開されることを目的に、スタートアップ経営人材不足にかかる構造上の課題を解消するため、民間事業者が新たに取り組もうとする大企業等からSUへの人材流動に向けた取り組みの費用の一部を補助いたします。</span></p><p><b style=\"font-size: 14px;\">詳細は公募要領・参照URL先をご確認ください。</b></p><p><br></p><p><b style=\"font-size: 14px; color: rgb(0, 111, 173);\">■補助上限額について:</b></p><p><span style=\"font-size: 14px;\">補助上限額は申請内容によって異なりますので、詳細は公募要領をご確認ください。</span></p><p><br></p><p><b style=\"color: rgb(0, 111, 173); font-size: 14px;\">■備考</b></p><p><span style=\"font-size: 14px;\">事業完了期限までに全ての補助対象経費の検収および支払いを完了させてください。</span></p><p><br></p><p><b style=\"color: rgb(0, 111, 173); font-size: 14px;\">■問合せ先</b></p><p><span style=\"font-size: 14px;\">スタートアップ向け経営人材支援事業　事務局﻿</span></p><p><span style=\"font-size: 14px;\">TEL</span><span style=\"font-size: 14px; color: rgb(62, 62, 60); background-color: rgb(255, 255, 255);\">： 03-6435-8962</span></p><p><span style=\"font-size: 14px;\">MAIL： </span><span style=\"font-size: 14px; font-family: NotoSansJP, Slack-Lato, appleLogo, sans-serif; background-color: rgb(248, 248, 248);\">su-hr@jissui.or.jp</span></p><p><span style=\"font-size: 14px;\">※メールにてお問合せいただく際は、</span><b style=\"font-size: 14px;\">「電子申請（jGrants）利用」</b><span style=\"font-size: 14px;\">の旨も明記してください。</span></p><p><br></p><p><b style=\"color: rgb(0, 111, 173); font-size: 14px;\">■参照URL</b></p><p><span style=\"font-size: 14px;\">URL：</span><a href=\"https://jissui.or.jp/project/project005/\" target=\"_blank\" style=\"font-size: 14px;\">https://jissui.or.jp/project/project005/</a></p>",
+ "use_purpose": "研究開発・実証事業を行いたい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 公務（他に分類されるものを除く） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "1/2",
+ "subsidy_max_limit": 60000000,
+ "acceptance_start_datetime": "2021-04-16T08:30:00Z",
+ "acceptance_end_datetime": "2021-05-20T08:00:00Z",
+ "project_end_deadline": "2022-02-13T15:00:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000003QYu4EAG",
+ "application_guidelines": [
+  {
+   "name": "r3su_kouboyouryou.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "r3su_koufukitei.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "r3su_shinseishorui.zip"
+  }
+ ],
+ "institution_name": "中小企業新事業創出促進対策事業費補助金（スタートアップ向け経営人材支援事業）",
+ "_meta": {
+  "first_seen": "2021-04-16T08:30:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

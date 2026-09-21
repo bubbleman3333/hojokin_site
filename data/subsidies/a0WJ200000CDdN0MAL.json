@@ -1,0 +1,39 @@
+{
+ "id": "a0WJ200000CDdN0MAL",
+ "name": "S-00009505",
+ "title": "令和８年度 非石油由来製品等開発支援事業",
+ "subsidy_catch_phrase": "石油供給不足に伴う課題解決に向けた製品・サービス等の開発・改良助成（助成限度額2,000万円、助成率4／5以内）",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的</strong></p><p><span style=\"color: rgb(39, 40, 40);\">近年の</span><strong>中東情勢の影響</strong>に伴い、原油供給不足や国際物流の停滞、原油由来の原材料及び各種石油製品等の価格高騰の影響により、都内の中小企業者等の経営が圧迫されている。こうした状況に対応するべく、この「非石油由来製品等開発支援事業（以下、「本助成事業」という）」は、<strong>石油代替製品</strong>や<strong>原材料の削減、エネルギー量の削減等に資する製品・サービス</strong>等の試作品の開発・改良を支援することにより、東京の産業の活性化につなげることを目的としています。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■申請受付期間</strong></p><p><strong>令和８年７月31日（金）～令和８年10月９日（金）17時00分</strong></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p><span style=\"color: rgb(37, 37, 37);\">公益財団法人東京都中小企業振興公社</span></p><p><span style=\"color: rgb(37, 37, 37);\">企画管理部　助成課　非石油由来製品等開発支援事業事務局</span></p><p><span style=\"color: rgb(37, 37, 37);\">TEL:03-3251-7894（受付時間：平日9:00～17:00）</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><span style=\"color: rgb(47, 47, 47);\">URL：</span><span style=\"font-size: 10.5pt;\"> </span><a href=\"https://www.tokyo-kosha.or.jp/support/josei/jigyo/hisekiyu_kaihatsu/index.html\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 9pt; color: rgb(4, 105, 193);\">https://www.tokyo-kosha.or.jp/support/josei/jigyo/hisekiyu_kaihatsu/index.html</a></p>",
+ "use_purpose": "新たな事業を行いたい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 公務（他に分類されるものを除く） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "東京都",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "助成対象と認められる経費の4／5以内（千円未満切捨て）",
+ "subsidy_max_limit": 20000000,
+ "acceptance_start_datetime": "2026-07-31T00:00:00Z",
+ "acceptance_end_datetime": "2026-10-09T08:00:00Z",
+ "project_end_deadline": "2028-10-31T14:59:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdN0MAL",
+ "application_guidelines": [],
+ "outline_of_grant": [
+  {
+   "name": "R8_非石油由来製品等開発支援事業募集要項.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "R8_非石油由来製品等開発支援事業_申請書.xlsx"
+  },
+  {
+   "name": "R8_非石油由来製品等開発支援事業_申請書記入例.xlsx"
+  }
+ ],
+ "institution_name": "非石油由来製品等開発支援事業",
+ "_meta": {
+  "first_seen": "2026-07-31T00:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

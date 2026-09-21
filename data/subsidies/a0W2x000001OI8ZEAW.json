@@ -1,0 +1,36 @@
+{
+ "id": "a0W2x000001OI8ZEAW",
+ "name": "S-00000077",
+ "title": "【愛知県】２０２１年度 新あいち創造研究開発補助金",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><b style=\"color: rgb(0, 111, 173);\">■目的・概要</b></p><p>愛知県内で実施する研究開発又は実証実験を支援する。</p><p><b>補助率</b>：中小企業 ２/３以内、大企業 １/２以内</p><p><b>補助限度額</b>：中小企業 １億円（トライアル型は５００万円）、大企業 2億円</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■応募方法</b></p><p>下記から「<b>公募要領</b>」及び「<b>応募書類一式</b>」をダウンロードし、必要事項を記載の上、「申請フォーム」にアップロードしてください。</p><p>※応募書類の記入にあたっては、「公募要領」２９ページから３９ページの「<b>記載上の注意事項（記載例）</b>」を必ず御確認ください。</p><p>※申請にあたっては、「公募要領」１５ページの「<b>提出書類チェックシート（電子提出用）</b>」を必ず御確認ください。</p><p>※jGrantsの動作環境は以下のとおりです。下記のブラウザの最新バージョンをご利用ください。</p><p>Windowsの場合：edge、chrome、firefox</p><p>macOSの場合：safari、chrome、firefox</p><p>Android版の場合：chrome</p><p>なお、IE（インターネットエクスプローラー）からもアクセスは可能ですが、画面が正しく表示されないど円滑な使用に支障が想定されます。動作環境に適したブラウザをインストールのうえ、操作をお願いします。</p><p>（提出書類に不備があると受付できません。）</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■問合せ先</b></p><p>愛知県 経済産業局 産業部 産業科学技術課 研究開発支援グループ</p><p>Tel：052-954-6370　Fax：052-954-6977</p><p>E-mail：san-kagi@pref.aichi.lg.jp</p>",
+ "use_purpose": null,
+ "industry": null,
+ "target_area_search": "",
+ "target_area_detail": "愛知県内",
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "中小企業 ２/３以内、大企業 １/２以内",
+ "subsidy_max_limit": null,
+ "acceptance_start_datetime": "2021-03-21T23:45:00Z",
+ "acceptance_end_datetime": "2021-04-06T08:30:00Z",
+ "project_end_deadline": null,
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000001OI8ZEAW",
+ "application_guidelines": [
+  {
+   "name": "2021年度「新あいち創造研究開発補助金」公募要領案.pdf"
+  }
+ ],
+ "outline_of_grant": [],
+ "application_form": [
+  {
+   "name": "応募書類一式.zip"
+  }
+ ],
+ "institution_name": "【愛知県】２０２２年度「新あいち創造研究開発補助金」",
+ "_meta": {
+  "first_seen": "2021-03-21T23:45:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "id": "a0W2x000006s02eEAA",
+ "name": "S-00002127",
+ "title": "令和4年度ものづくり等高度連携・事業再構築促進補助金【2次公募】",
+ "subsidy_catch_phrase": "複数の中小企業等が連携し、連携体全体として新たな付加価値の創造や生産性向上を図るプロジェクト、新分野、業態転換、革新的な製品・サービス開発、生産プロセス等の改善に取り組むプロジェクトを支援します。",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>本事業は、複数の中小企業等が連携し、連携体全体として新たな付加価値の創造や生産性向上を図るプロジェクト、新分野、業態転換、革新的な製品・サービス開発、生産プロセス等の改善に取り組むプロジェクトについて、その経費の一部を支援することを通じて、中小企業等の経済構造転換及び生産性向上を実現することを目的とします。</p><p><br></p>",
+ "use_purpose": "新たな事業を行いたい / 販路拡大・海外展開をしたい / 設備整備・IT導入をしたい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "900名以下",
+ "subsidy_rate": "補助額の上限は、連携体全体の額となります。中小企業者等1/2以内、小規模企業者・小規模事業者2/3以内",
+ "subsidy_max_limit": 150000000,
+ "acceptance_start_datetime": "2022-08-10T05:00:00Z",
+ "acceptance_end_datetime": "2022-09-16T08:00:00Z",
+ "project_end_deadline": "2023-02-28T08:00:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000006s02eEAA",
+ "application_guidelines": [
+  {
+   "name": "公募要領_2次用.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "交付規程.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "【参考様式１】賃金引上げ誓約書.xlsx"
+  },
+  {
+   "name": "応募様式１.docx"
+  },
+  {
+   "name": "応募様式2.xlsx"
+  }
+ ],
+ "institution_name": "令和4年度ものづくり高度連携・事業再構築促進補助金",
+ "_meta": {
+  "first_seen": "2022-08-10T05:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

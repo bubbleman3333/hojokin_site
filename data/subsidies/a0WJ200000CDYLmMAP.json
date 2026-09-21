@@ -1,0 +1,40 @@
+{
+ "id": "a0WJ200000CDYLmMAP",
+ "name": "S-00008621",
+ "title": "【令和8年度】地域における地球温暖化防止活動促進事業",
+ "subsidy_catch_phrase": "地域地球温暖化防止活動推進センター向け補助金",
+ "detail": "<p><span style=\"font-size: 12.8px;\">第38条に基づく地域地球温暖化防止活動推進センターの事業に対する補助金を交付する事業です。</span></p><p><span style=\"font-size: 12.8px;\">本補助事業の概要、対象事業、応募方法及びその他の留意事項を本公募要領に記載していますので、応募申請される方は、</span></p><p><span style=\"font-size: 12.8px;\">一般社団法人 地球温暖化防止全国ネットのHPをご覧ください。</span></p><p><span style=\"font-size: 12.8px;\">https://www.zenkoku-net.org/</span></p><p><br></p>",
+ "use_purpose": "新たな事業を行いたい",
+ "industry": "分類不能の産業",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "5/10",
+ "subsidy_max_limit": 0,
+ "acceptance_start_datetime": "2026-04-16T00:00:00Z",
+ "acceptance_end_datetime": "2026-05-08T08:00:00Z",
+ "project_end_deadline": "2027-02-28T14:45:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYLmMAP",
+ "application_guidelines": [
+  {
+   "name": "koubo26.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "kouhu26.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "koubokouhu26.xlsx"
+  }
+ ],
+ "institution_name": "二酸化炭素排出抑制対策事業費等補助金",
+ "_meta": {
+  "first_seen": "2026-04-16T00:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

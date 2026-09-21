@@ -1,0 +1,55 @@
+{
+ "id": "a0WJ200000CDIpyMAH",
+ "name": "S-00005864",
+ "title": "令和７年度スキルアップ支援事業",
+ "subsidy_catch_phrase": "従業員に対して行う研修の経費の一部を助成します！\n４種類の助成金をご活用ください。",
+ "detail": "<h5><strong style=\"font-size: 18px;\">☆令和７年度分についてはこちらからご申請ください。</strong></h5><p><strong style=\"font-size: 18px;\">　令和６年度の実績報告は、マイページより行ってください。</strong></p><p><br></p><p><br></p><p><strong style=\"color: rgb(0, 34, 255); font-size: 22px;\">都内の中小企業等が従業員に対して行う研修の経費の一部を助成します。</strong></p><p><strong style=\"color: rgb(0, 34, 255); font-size: 22px;\">研修の内容や実施方法に応じた助成金を活用しましょう！</strong></p><p><br></p><p><br></p><p><span style=\"font-size: 22px;\">【提出期限】  </span></p><p><strong style=\"font-size: 22px; color: red;\">研修開始予定日の１か月前（23時59分）まで </strong></p><p><span style=\"font-size: 22px;\">【交付申請書受付期間】 </span></p><p><strong style=\"font-size: 22px; color: red;\">令和７年３月１日から令和８年２月28日（23時59分）まで</strong></p><p><span style=\"font-size: 12px;\">※ 予算の範囲を超える申請があった場合等、申請受付期間内でも受付を終了することがあります。 </span></p><h3><span style=\"font-size: 12px;\"> ※ Jグランツで交付申請した場合、助成金請求までの全ての手続きを、Jグランツにて行っていただきます。</span></h3><h3 style=\"text-align: center;\"><br></h3><p><span style=\"font-size: 22px;\">助成金の詳細は 公益財団法人東京しごと財団ホームページ よりご確認ください。</span></p><p><br></p><h3>● <a href=\"https://www.koyokankyo.shigotozaidan.or.jp/jigyo/skillup/skill-R7jigyonai.html\" target=\"_blank\">事業内スキルアップ助成金</a></h3><p style=\"text-align: justify;\">職務のスキルアップのために自社で企画した研修</p><h3>● <a href=\"https://www.koyokankyo.shigotozaidan.or.jp/jigyo/skillup/skill-R7jigyogai.html\" target=\"_blank\">事業外スキルアップ助成金</a></h3><p style=\"text-align: justify;\">職務のスキルアップのために公開研修を利用して実施する研修</p><h3>● <a href=\"https://www.koyokankyo.shigotozaidan.or.jp/jigyo/skillup/skill-R7dx-risk.html\" target=\"_blank\">DXリスキリング助成金</a></h3><p style=\"text-align: justify;\">自社のDXのために実施する研修</p><h3>● <a href=\"https://www.koyokankyo.shigotozaidan.or.jp/jigyo/skillup/skill-R7ikugyo.html\" target=\"_blank\">育業中スキルアップ助成金</a></h3><p style=\"text-align: justify;\">従業員本人が希望し育業中受講するスキルアップのための研修</p>",
+ "use_purpose": "人材育成を行いたい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 公務（他に分類されるものを除く） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "東京都",
+ "target_area_detail": "都内に本社又は主たる事業所（支店・営業所等）がある中小企業等",
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "事業内スキルアップ助成金：助成対象受講者1人1時間あたり760円(上限：事業外スキルアップ助成金と合計して150万円/社・年度) ◆ 事業外スキルアップ助成金：助成対象経費の2分の1または3分の2(上限：25,000円/1人1研修、事業内スキルアップ助成金と合計して150万円/社・年度) ◆ DXリスキリング助成金：助成対象経費の4分の3(上限：75,000円/1人1研修、100万円/社・年度) ◆ 育業中スキルアップ助成金：助成対象経費の3分の2または2分の1(上限：100万円/社・年度)",
+ "subsidy_max_limit": 3500000,
+ "acceptance_start_datetime": "2025-02-28T15:00:00Z",
+ "acceptance_end_datetime": "2026-02-28T15:00:00Z",
+ "project_end_deadline": "2026-08-31T15:00:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDIpyMAH",
+ "application_guidelines": [
+  {
+   "name": "令和７年度各助成金　募集要項.zip"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "令和７年度各助成金　交付要綱、実施要領.zip"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "令和７年度事業内スキルアップ助成金　申請様式.zip"
+  },
+  {
+   "name": "令和７年度育業中スキルアップ助成金　申請様式.zip"
+  },
+  {
+   "name": "令和７年度DXリスキリング助成金　申請様式.zip"
+  },
+  {
+   "name": "JグランツQ&A.pdf"
+  },
+  {
+   "name": "スキルアップ助成金　電子申請の手引き.pdf"
+  },
+  {
+   "name": "令和７年度事業外スキルアップ助成金　申請様式.zip"
+  }
+ ],
+ "institution_name": "スキルアップ支援事業・育業中スキルアップ支援事業",
+ "_meta": {
+  "first_seen": "2025-02-28T15:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

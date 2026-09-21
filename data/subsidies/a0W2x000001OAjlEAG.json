@@ -1,0 +1,36 @@
+{
+ "id": "a0W2x000001OAjlEAG",
+ "name": "S-00000013",
+ "title": "無線システム普及支援事業費等補助金（⾼度無線環境整備推進事業　令和３年度当初予算）",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><b style=\"color: rgb(0, 111, 173);\">■目的・概要</b></p><p><span style=\"font-size: 13px;\">高度無線環境整備推進事業は、5GやIoT等による地域活性化や地域の課題解決を支援するため、地理的に条件不利な地域において、高速・大容量無線通信の前提となる光ファイバを整備する場合に、その事業費の一部を補助するものです。また、令和３年度からは、従来の新規整備に加え、地方公共団体が行う離島地域の光ファイバ等の維持管理に要する経費に関して、その一部を補助することとしています。</span></p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■補助対象者</b></p><p><span style=\"font-size: 13px;\">都道府県、市町村及び第三セクター法人</span></p><p><span style=\"font-size: 13px;\">（離島伝送用専用線設備維持管理分については、都道府県及び市町村）</span></p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■問合せ先</b></p><p><span style=\"font-size: 13px;\">・全体的事項</span></p><p><span style=\"font-size: 13px;\">　総合通信基盤局ブロードバンド整備推進室（</span><a href=\"mailto:koudo@soumu.go.jp\" target=\"_blank\" style=\"font-size: 13px;\">koudo@soumu.go.jp</a><span style=\"font-size: 13px;\">）</span></p><p><span style=\"font-size: 13px;\">　電話︓０３－５２５３－５８６６</span></p><p><br></p><p><span style=\"font-size: 13px;\">・ケーブルテレビ事業者関係</span></p><p><span style=\"font-size: 13px;\">　情報流通⾏政局地域放送推進室（</span><a href=\"mailto:bb-wireless@soumu.go.jp\" target=\"_blank\" style=\"font-size: 13px;\">bb-wireless@soumu.go.jp</a><span style=\"font-size: 13px;\">）</span></p><p><span style=\"font-size: 13px;\">　電話︓０３－５２５３－５８０８</span></p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■参照URL</b></p><p><span style=\"font-size: 13px;\">総務省HP︓</span></p><p><a href=\"https://www.soumu.go.jp/main_sosiki/joho_tsusin/broadband/index.html\" target=\"_blank\" style=\"font-size: 13px;\">https://www.soumu.go.jp/main_sosiki/joho_tsusin/broadband/index.html</a></p>",
+ "use_purpose": "設備整備・IT導入をしたい",
+ "industry": "情報通信業",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "補助対象経費の３分の２、２分の１若しくは３分の１（詳細は交付要綱をご参照下さい）",
+ "subsidy_max_limit": 3680000000,
+ "acceptance_start_datetime": "2021-01-15T05:00:00Z",
+ "acceptance_end_datetime": "2021-02-05T03:00:00Z",
+ "project_end_deadline": null,
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000001OAjlEAG",
+ "application_guidelines": [],
+ "outline_of_grant": [
+  {
+   "name": "無線システム普及支援事業費等補助金交付要綱.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "申請様式.zip"
+  }
+ ],
+ "institution_name": "無線システム普及整備支援事業（高度無線環境整備事業）",
+ "_meta": {
+  "first_seen": "2021-01-15T05:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

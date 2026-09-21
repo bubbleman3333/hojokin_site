@@ -1,0 +1,40 @@
+{
+ "id": "a0W2x000007CchCEAS",
+ "name": "S-00002461",
+ "title": "令和4年度第2次補正予算 再生可能エネルギー電源併設型蓄電池導入支援事業",
+ "subsidy_catch_phrase": "令和4年度第2次補正予算 需要家主導型太陽光発電及び再生可能エネルギー電源併設型蓄電池導入支援事業費補助金のうち、再生可能エネルギー電源併設型蓄電池導入支援事業（第一次公募予算額：25,499,983,000円の内数）",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>再生可能エネルギー設備への蓄電池の併設を支援することで、再生可能エネルギーの導入の加速化及び最大限の活用を促し、エネルギー危機に強い経済構造への転換を図ることを目的とします。</p><p><br></p><p>再生可能エネルギー電気の利用の促進に関する特別措置法(平成23年法律第108号)第9条第4項又は同法第10条第1項に基づく認定を受けて、発電した再生可能エネルギー電気を市場取引等により供給する事業であって、当該再生可能エネルギー電気を発電する設備の一部として、蓄電池を新規に取得、設置するものを補助対象事業とします。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p>FIP認定を受けて、補助対象設備を接続するFIP認定設備を管理・運営し、補助対象設備を所有し、補助対象事業を行う者であって、公募要領に定める要件を満たす国内において事業活動を営んでいる法人</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>JPEA太陽光発電推進センター（JP-PC） 案内窓口</p><p>電話番号　03-6628-7595（受付時間　9:30-17:30 土日、祝日は除く）</p><p>※受付開始日は後日HP上に掲載いたします</p>",
+ "use_purpose": "エコ・SDGs活動支援がほしい",
+ "industry": "電気・ガス・熱供給・水道業",
+ "target_area_search": "全国",
+ "target_area_detail": "全国",
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "１次公募は１／３以内（地域新電力特例の場合は１／２以内）、２次公募は１／４以内（地域新電力特例の場合は１／３以内）",
+ "subsidy_max_limit": 25499983000,
+ "acceptance_start_datetime": "2023-02-03T06:00:00Z",
+ "acceptance_end_datetime": "2023-03-31T08:00:00Z",
+ "project_end_deadline": "2024-02-29T14:59:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000007CchCEAS",
+ "application_guidelines": [
+  {
+   "name": "公募要領_1.01.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "交付規程_1.00_4.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "申請様式 1.00.zip"
+  }
+ ],
+ "institution_name": "需要家主導による太陽光発電導入促進補助金",
+ "_meta": {
+  "first_seen": "2023-02-03T06:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

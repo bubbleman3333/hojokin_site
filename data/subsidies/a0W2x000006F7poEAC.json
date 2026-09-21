@@ -1,0 +1,40 @@
+{
+ "id": "a0W2x000006F7poEAC",
+ "name": "S-00001747",
+ "title": "令和４年度中小企業等スマートワーク促進補助金（情報セキュリティ事業）",
+ "subsidy_catch_phrase": "スマートワーク、デジタルトランスフォーメーション、セキュリティ",
+ "detail": "<p><b style=\"color: rgb(0, 111, 173);\">■目的・概要</b></p><p><span style=\"color: rgb(68, 68, 68);\">デジタル技術の導入に要する経費の一部を支援することを通して、県内中小企業等の生産性の向上やイノベーション、構造転換を通じた働き方改革などのスマートワークを促進すること。</span></p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■根拠法令</b></p><p><span style=\"color: rgb(68, 68, 68);\">中小企業等スマートワーク促進補助金交付要綱、岐阜県補助金等交付規則</span></p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■応募資格</b></p><p><span style=\"color: rgb(68, 68, 68);\">・県内中小企業等、その他知事が適当と認める団体</span></p><p>・スマートワーク推進ネットワークに加入していること</p><p><br></p><p>（注１）スマートワーク推進ネットワークについては、以下のウェブサイトをご覧ください。</p><p>https://www.pref.gifu.lg.jp/page/62421.html</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■地理条件</b></p><p><span style=\"color: rgb(68, 68, 68);\">岐阜県内に本社または本社機能を有し、かつ県内に生産またはサービスの主要な拠点を有すること</span></p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■対象事業</b></p><p>（１）セキュリティアセスメント事業</p><p>情報セキュリティ対策のために必要な評価分析業務</p><p>（２）セキュリティ設備導入事業</p><p>情報セキュリティ対策のために必要な設備投資</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■問合せ先</b></p><p>岐阜県商工労働部産業デジタル推進課　産業デジタル係</p><p>電話：058-272-8379</p><p>メール：c11356@pref.gifu.lg.jp</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■参照URL</b></p><p><span style=\"color: rgb(68, 68, 68);\">岐阜県　中小企業等スマートワーク促進補助金（https://www.pref.gifu.lg.jp/page/218153.html)</span></p>",
+ "use_purpose": "設備整備・IT導入をしたい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 公務（他に分類されるものを除く） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "岐阜県",
+ "target_area_detail": "岐阜県",
+ "target_number_of_employees": "900名以下",
+ "subsidy_rate": "5分の4以内",
+ "subsidy_max_limit": 4000000,
+ "acceptance_start_datetime": "2022-04-18T03:00:00Z",
+ "acceptance_end_datetime": "2022-12-28T08:15:00Z",
+ "project_end_deadline": "2023-02-07T15:00:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000006F7poEAC",
+ "application_guidelines": [
+  {
+   "name": "中小企業等スマートワーク促進補助金（情報セキュリティ事業）募集要領.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "中小企業等スマートワーク促進補助金交付要綱.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "応募様式.zip"
+  }
+ ],
+ "institution_name": "令和４年度中小企業等スマートワーク促進補助金（情報セキュリティ事業）",
+ "_meta": {
+  "first_seen": "2022-04-18T03:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "id": "a0WJ200000CDL2JMAX",
+ "name": "S-00006310",
+ "title": "令和７年度やまぐち産業イノベーション加速化補助金［カタパルト］",
+ "subsidy_catch_phrase": "山口県内の中小企業が行う研究開発を支援します。",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>山口県内で今後の成長が期待される環境・エネルギー、<span style=\"color: rgb(68, 68, 68);\">医療、</span>バイオ関連分野において、企業の戦略的な研究開発・事業化を支援することを目的とします。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■根拠法令</strong></p><p>やまぐち産業イノベーション加速化補助金交付要綱（環境・エネルギー関連分野、<span style=\"color: rgb(68, 68, 68);\">医療関連分野、</span>バイオ関連分野）</p><p>やまぐち産業イノベーション加速化補助金実施要領<span style=\"color: rgb(68, 68, 68);\">（環境・エネルギー関連分野、医療関連分野、バイオ関連分野）</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p>補助対象者は、２者以上による研究開発グループとし、<u>グループの構成員として県内中小企業が参画していることを要件</u>とします。</p><p>ただし、計画期間中に県内中小企業の参画が<u>確実に見込める場合</u>は、公募時において県内中小企業を除く体制で応募することを認めます。この場合、公募時においても、どのような企業が、いつから参画するのか計画上明示してください。</p><p>また、個人では研究開発グループに参画することはできません。</p><p><br></p><p><span style=\"font-size: 14px;\">《県内企業の範囲》</span></p><p><span style=\"font-size: 14px;\">「県内企業」とは、次の①又は②のいずれかに該当する企業を指します。</span></p><p><span style=\"font-size: 14px;\">①県内に事業所（登記上の主たる事務所、工場、研究所等）をおく企業</span></p><p><span style=\"font-size: 14px;\">②県内の貸研究室、ｲﾝｷｭﾍﾞｰｼｮﾝ施設において研究開発を実施する企業</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■地理条件</strong></p><p><span style=\"color: rgb(68, 68, 68);\">山口県内の中小企業の参画が必要です。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p><span style=\"color: black;\">山口県 産業労働部 イノベーション推進課 次世代産業推進班</span></p><p><span style=\"color: black;\">〒753-8501　山口県山口市滝町１番１号</span></p><p><span style=\"color: black;\">電　話：０８３－９３３－３１５０（ダイヤルイン）</span></p><p><span style=\"color: black;\">ＦＡＸ：０８３－９３３－３１５９</span></p><p><span style=\"color: black;\">メール：a16900@pref.yamaguchi.lg.jp</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p>https://pref.yamaguchi.lg.jp/soshiki/83/</p>",
+ "use_purpose": "新たな事業を行いたい / 販路拡大・海外展開をしたい / 研究開発・実証事業を行いたい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 学術研究、専門・技術サービス業 / 医療、福祉",
+ "target_area_search": "全国",
+ "target_area_detail": "山口県内の中小企業が参画していることが必要です。",
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "２／３以内",
+ "subsidy_max_limit": 5000000,
+ "acceptance_start_datetime": "2025-04-03T01:00:00Z",
+ "acceptance_end_datetime": "2025-05-08T08:15:00Z",
+ "project_end_deadline": "2026-02-27T15:00:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDL2JMAX",
+ "application_guidelines": [
+  {
+   "name": "令和７年度やまぐち産業イノベーション加速化補助金〔カタパルト〕公募要領.zip"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "交付要綱（加速化補助金）.zip"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "申請様式（カタパルト）.zip"
+  }
+ ],
+ "institution_name": "やまぐち産業イノベーション加速化補助金",
+ "_meta": {
+  "first_seen": "2025-04-03T01:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

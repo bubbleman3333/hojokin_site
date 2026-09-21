@@ -1,0 +1,36 @@
+{
+ "id": "a0WJ2000000ozHaMAI",
+ "name": "S-00004912",
+ "title": "令和６年度デジタル技術を活用した先進的サービス創出支援事業",
+ "subsidy_catch_phrase": "先進的サービス",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的</strong></p><p>高付加価値が期待でき、経済波及効果が高い「デジタル技術」を有効活用した、社会変化のニーズに応じた先進的サービスの創出を後押しすることにより、都内産業の活性化と都民のQOLの向上を目的としています。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); background-color: rgb(255, 255, 255);\">■申請受付期間</strong></p><p>令和6年5月27日～令和6年6月21日</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■申請資格</strong></p><p><span style=\"color: rgb(5, 5, 5);\">募集要項に記載された</span><span style=\"color: rgb(68, 68, 68); background-color: rgb(255, 255, 255);\">（1）～（5）の申請資格を全て満たすこと</span></p><p><br></p><p><strong style=\"background-color: rgb(255, 255, 255); color: rgb(0, 111, 173);\">■募集要項・申請書</strong></p><p><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);\">こちらからダウンロードしてください。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>公益財団法人 東京都中小企業振興公社 事業戦略部 経営戦略課</p><p>TEL：03-5822-7232（平日：9：00～17：00）</p><p>E-mail：<a href=\"mailto:senryaku@tokyo-kosha.or.jp\" target=\"_blank\">senryaku@tokyo-kosha.or.jp</a></p><p><br></p><p>■　参照URL</p><p>https://www.tokyo-kosha.or.jp/support/josei/jigyo/digital_katsuyou.html</p>",
+ "use_purpose": "新たな事業を行いたい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 公務（他に分類されるものを除く） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "東京都",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "2/3",
+ "subsidy_max_limit": 20000000,
+ "acceptance_start_datetime": "2024-05-27T05:00:00Z",
+ "acceptance_end_datetime": "2024-06-21T14:59:00Z",
+ "project_end_deadline": "2026-01-31T14:59:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ2000000ozHaMAI",
+ "application_guidelines": [
+  {
+   "name": "募集要項_R6デジタルサービス_HP掲載.pdf"
+  }
+ ],
+ "outline_of_grant": [],
+ "application_form": [
+  {
+   "name": "申請書（記入例含む）.xlsx"
+  }
+ ],
+ "institution_name": "デジタル技術を活用した先進的サービス創出支援事業",
+ "_meta": {
+  "first_seen": "2024-05-27T05:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

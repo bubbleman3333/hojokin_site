@@ -1,0 +1,32 @@
+{
+ "id": "a0WJ200000CDK7KMAX",
+ "name": "S-00006094",
+ "title": "東京都環境保全資金融資あっせん",
+ "subsidy_catch_phrase": "東京都環境局では、中小企業者等を対象として、低公害・低燃費車への買換えを支援するための融資あっせんを行っています。",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><strong style=\"color: inherit;\">この制度は、</strong><strong style=\"color: rgb(0, 0, 0);\"> <u>買換え</u></strong><strong style=\"color: inherit;\"> が条件で、現在所有の東京都内の登録の車両を廃車し、新車を都内で登録する必要があります。</strong></p><p>この制度には以下のようなメリットがあります。</p><p><strong style=\"color: inherit;\">1．長期プライムレートの低金利で融資あっせんを受けることができる</strong></p><p><strong style=\"color: inherit;\">2．利子補給金等、補助金を受けることができる</strong></p><p>利子の1/2、信用保証料の2/3を補助します。</p><p>利率は変動します。申請受付時点の利率が固定金利として適用されます。</p><p>＊融資あっせんや補助金の受け取りには条件があります。詳しくは制度の概要及びパンフレットをご覧ください。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■根拠法令</strong></p><p>東京都環境保全資金融資あっせん要綱</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p>(1) 中小企業者（個人事業者を含む。）又は組合で、東京信用保証協会の保証対象事業</p><p>を営んでいること。</p><p>(2) 東京都内に住所（法人は、主たる事業所）を有し、かつ、事業を営んでいること。</p><p>(3) 東京都の法人事業税（又は個人事業税）等を滞納していないこと。</p><p>(4) 購入予定車は未使用で未登録（中古車は対象外）のもので、購入後東京都内で登録</p><p>すること。</p><p>【連帯保証人・物的担保について】</p><p>連帯保証人については、信用保証協会及び金融機関の定めるところによります。</p><p>この融資の保証を含めた保証残高が、8,000万円を超えるものは、必要に応じ物的担保を要します。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p><span style=\"color: rgb(0, 0, 0);\">東京都環境局環境改善部自動車環境課</span></p><p>03-5388-3535</p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><a href=\"https://www.kankyo.metro.tokyo.lg.jp/vehicle/air_pollution/diesel/loan/loan/\" target=\"_blank\">https://www.kankyo.metro.tokyo.lg.jp/vehicle/air_pollution/diesel/loan/loan/</a></p>",
+ "use_purpose": "エコ・SDGs活動支援がほしい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "東京都",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "貸付利率の1/2、信用保証料の2/3",
+ "subsidy_max_limit": 0,
+ "acceptance_start_datetime": "2026-03-31T15:00:00Z",
+ "acceptance_end_datetime": "2027-03-31T14:59:00Z",
+ "project_end_deadline": null,
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDK7KMAX",
+ "application_guidelines": [],
+ "outline_of_grant": [
+  {
+   "name": "R8要綱要領.pdf"
+  }
+ ],
+ "application_form": [],
+ "institution_name": "東京都環境保全資金融資あっせん",
+ "_meta": {
+  "first_seen": "2026-03-31T15:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

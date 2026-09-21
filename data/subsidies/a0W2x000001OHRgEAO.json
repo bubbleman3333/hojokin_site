@@ -1,0 +1,40 @@
+{
+ "id": "a0W2x000001OHRgEAO",
+ "name": "S-00000069",
+ "title": "民放ラジオ難聴解消支援事業（令和３年度第１次公募）",
+ "subsidy_catch_phrase": "難聴対策のための中継局整備費用の一部を補助",
+ "detail": "<p><b style=\"color: rgb(0, 111, 173);\">■目的・概要</b></p><p>　本事業は、国民生活に密着した情報や災害時における生命・財産の確保に必要な情報の提供を確保するため、必要最小の空中線電力の中継局整備によりラジオの難聴を解消することを目的とするものです。</p><p>総務省では、ラジオの難聴解消のための中継局整備を行うラジオ放送事業者等に対し、その整備費用の一部補助を行います。</p><p>対象設備等の詳細は交付要綱、執行マニュアル（「参照URL」に掲載）をご確認ください。</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■根拠法令</b></p><p>　電波法第１０３条の２第４項第１２号の３</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■応募資格</b></p><p>　地方公共団体、 民間ラジオ放送事業者　等</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■補助対象</b></p><p>　難聴対策としての中継局整備</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■問合せ先</b></p><p>　総務省情報流通行政局地上放送課（０３－５２５３－５９４９）</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■参照URL</b></p><p><b style=\"color: rgb(0, 111, 173);\">　</b><a href=\"https://www.soumu.go.jp/menu_seisaku/ictseisaku/housou_suishin/hosonet_kyojinka02.html\" target=\"_blank\">https://www.soumu.go.jp/menu_seisaku/ictseisaku/housou_suishin/hosonet_kyojinka02.html</a></p>",
+ "use_purpose": null,
+ "industry": null,
+ "target_area_search": "",
+ "target_area_detail": "全国",
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "地理的・地形的難聴、外国波混信　２／３ 、都市型難聴　１／２",
+ "subsidy_max_limit": null,
+ "acceptance_start_datetime": "2021-02-08T05:00:00Z",
+ "acceptance_end_datetime": "2021-02-26T03:00:00Z",
+ "project_end_deadline": "2022-03-31T14:45:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000001OHRgEAO",
+ "application_guidelines": [
+  {
+   "name": "公募要領（民放ラジオ）.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "無線システム普及支援事業費等補助金交付要綱_R3.2.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "様式の添付ファイル（民放ラジオ難聴解消支援事業）.zip"
+  }
+ ],
+ "institution_name": "民放ラジオ難聴解消支援事業",
+ "_meta": {
+  "first_seen": "2021-02-08T05:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

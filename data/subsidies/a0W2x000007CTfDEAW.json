@@ -1,0 +1,28 @@
+{
+ "id": "a0W2x000007CTfDEAW",
+ "name": "S-00002283",
+ "title": "【愛知県】２０２３年度 新あいち創造研究開発補助金",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>愛知県内で実施する研究開発又は実証実験を支援する。</p><p><strong>補助率</strong>：中小企業 ２/３以内、大企業 １/２以内</p><p><strong>補助限度額</strong>：中小企業 １億円（トライアル型は５００万円）、大企業 2億円</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募方法</strong></p><p>下記より「<strong>公募要領</strong>」及び「<strong>応募書類一式</strong>」をダウンロードし、必要事項を記載の上、「申請フォーム」にアップロードしてください。</p><p><br></p><p><a href=\"https://www.pref.aichi.jp/press-release/shin-aichi/koubo2023.html\" target=\"_blank\">https://www.pref.aichi.jp/press-release/shin-aichi/koubo2023.html</a></p><p><br></p><p>○応募書類の記入にあたっては、「<strong>記載上の注意事項（記載例）</strong>」を必ず御確認ください。</p><p>○申請にあたっては、「<strong>提出書類チェックシート</strong>」を必ず御確認ください。</p><p>○jGrantsの動作環境は以下のとおりです。下記のブラウザの最新バージョンをご利用ください。</p><p>なお、InternetExplorer等の下記以外のブラウザは、申請上のエラー等が生じますので利用しないでください。</p><p>・Windows：chrome、firefox、edge(※1)</p><p>・macOS：chrome、firefox、safari</p><p>・Android：chrome</p><p>※1 edgeの「InternetExplorerモード」は申請上のエラー等が生じますので利用しないでください。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>愛知県 経済産業局 産業部 産業科学技術課 研究開発支援グループ</p><p>Tel：052-954-6370　E-mail：san-kagi@pref.aichi.lg.jp</p>",
+ "use_purpose": "研究開発・実証事業を行いたい",
+ "industry": "分類不能の産業",
+ "target_area_search": "愛知県",
+ "target_area_detail": "愛知県内",
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "中小企業 ２/３以内、大企業 １/２以内",
+ "subsidy_max_limit": 200000000,
+ "acceptance_start_datetime": "2023-03-15T00:00:00Z",
+ "acceptance_end_datetime": "2023-04-04T08:30:00Z",
+ "project_end_deadline": null,
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000007CTfDEAW",
+ "application_guidelines": [],
+ "outline_of_grant": [],
+ "application_form": [],
+ "institution_name": "【愛知県】２０２３年度「新あいち創造研究開発補助金」",
+ "_meta": {
+  "first_seen": "2023-03-15T00:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

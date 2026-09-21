@@ -1,0 +1,40 @@
+{
+ "id": "a0WJ20000087qsiMAA",
+ "name": "S-00005240",
+ "title": "令和6年度予算　再生可能エネルギー電源併設型蓄電池導入支援事業（第一次公募（複数年度事業））",
+ "subsidy_catch_phrase": "令和6年度予算　再生可能エネルギー電源併設型蓄電池導入支援事業（第一次公募（複数年度事業））",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>再生可能エネルギー設備への蓄電池の併設を支援することで、再生可能エネルギーの導入の加速化及び最大限の活用を促し、エネルギー危機に強い経済構造への転換を図ることを目的とします。</p><p><br></p><p>日本国内において、再生可能エネルギー電気の利用の促進に関する特別措置法（平成23年法律第108号）（以下「再エネ特措法」という。）第9条第4項又は同法第10条第1項に基づく認定を受けて、発電した再生可能エネルギー電気を市場取引等により供給する事業であって、当該再生可能エネルギー電気を発電する設備（以下「FIP認定設備」という。）の一部として、蓄電池を新規に取得、設置する事業を補助対象事業とします。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); background-color: rgb(255, 255, 255);\">■予算額</strong></p><p>国庫債務負担行為による複数年度事業：10,798,165,000円（1年度目：4,751,193,000円、2年度目：3,779,358,000円、3年度目：2,267,614,000円）の内数</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p>補助対象事業を行う者であって、公募要領に定める要件を満たす国内において事業活動を営んでいる等の法人</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>JPEA太陽光発電推進センター（JP-PC） 案内窓口</p><p>電話番号　03-6628-5740（受付時間　9:30-17:30 土日、祝日は除く）</p>",
+ "use_purpose": "エコ・SDGs活動支援がほしい",
+ "industry": "電気・ガス・熱供給・水道業",
+ "target_area_search": "全国",
+ "target_area_detail": "全国",
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "1/3以内。 ただし、新規技術開発蓄電システム又は電動車の駆動用に使用された蓄電池モジュールを2次利用し組み込まれた蓄電システムである場合及び電力系統側への定格出力が1,000kW以上である場合には1/2以内。 ※詳細は公募要領をご確認ください。",
+ "subsidy_max_limit": 10798165000,
+ "acceptance_start_datetime": "2024-09-19T03:00:00Z",
+ "acceptance_end_datetime": "2024-11-08T08:00:00Z",
+ "project_end_deadline": "2027-02-26T14:59:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ20000087qsiMAA",
+ "application_guidelines": [
+  {
+   "name": "公募要領_R6YC_240919_1.00.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "交付規程_R6_240826_1.01.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "申請様式_R6C_240919_1.2.zip"
+  }
+ ],
+ "institution_name": "令和6年度予算「需要家主導型太陽光発電・再生可能エネルギー電源併設型蓄電池導入支援事業費補助金」",
+ "_meta": {
+  "first_seen": "2024-09-19T03:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

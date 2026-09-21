@@ -1,0 +1,42 @@
+{
+ "id": "a0WJ20000087bZmMAI",
+ "name": "S-00005211",
+ "title": "令和６年度介護ロボット・ICT導入支援事業補助金",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>介護従事者の身体的負担の軽減や業務の効率化を目的とした介護ロボット・ICTの導入に要する経費を補助するものです。</p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格（補助対象者）</strong></p><p>県内に介護サービス事業所（介護保険法（平成９年法律第123号）による指定又は許可を受けた事業所）を有する法人</p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>宮城県保健福祉部長寿社会政策課介護人材確保推進班</p><p>TEL：022-211-2554</p><p>Email：choujuz@pref.miyagi.lg.jp</p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><a href=\"https://www.pref.miyagi.jp/soshiki/chouju/r6kaigo-dounyu.html\" target=\"_blank\">https://www.pref.miyagi.jp/soshiki/chouju/r6kaigo-dounyu.html</a></p>",
+ "use_purpose": "設備整備・IT導入をしたい",
+ "industry": "医療、福祉",
+ "target_area_search": "宮城県",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "４分の３",
+ "subsidy_max_limit": 10000000,
+ "acceptance_start_datetime": "2024-08-21T01:00:00Z",
+ "acceptance_end_datetime": "2024-09-17T08:00:00Z",
+ "project_end_deadline": "2025-01-10T08:00:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ20000087bZmMAI",
+ "application_guidelines": [],
+ "outline_of_grant": [
+  {
+   "name": "01介護ロボット・ICT導入支援事業補助金交付要綱・別表.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "02様式第1号～第6号.docx"
+  },
+  {
+   "name": "03様式別紙1~5.xlsx"
+  },
+  {
+   "name": "04様式別紙5-(1-2) 職員アンケート.docx"
+  }
+ ],
+ "institution_name": "介護ロボット・ICT導入支援事業補助金",
+ "_meta": {
+  "first_seen": "2024-08-21T01:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

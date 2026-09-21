@@ -1,0 +1,45 @@
+{
+ "id": "a0WJ20000089GzAMAU",
+ "name": "S-00005354",
+ "title": "（一括申請）令和６年度愛知県電子処方箋活用普及促進事業費補助金",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>電子処方箋及び電子処方箋の新たな機能を導入した保険医療機関及び保険薬局に対し、導入に要する費用を補助することで、電子処方箋の活用・普及の促進を図ることを目的とする。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■根拠法令</strong></p><p>令和４年６月３０日薬生総発第１号厚生労働省医薬・生活衛生局総務課長通知「医療提供体制設備整備交付金実施要領（電子処方箋管理サービス）」</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p>県内に開設する医療機関及び薬局</p><p>ただし、健康保険法第63条第3項各号に定める病院、診療所、保険薬局に限る。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■地理条件</strong></p><p>施設の所在地が愛知県内であること。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■備考</strong></p><p>なし</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>愛知県電子処方箋活用普及促進事業費補助金コールセンター</p><p>E-mail：aichi-denshishohousen@his-world.com</p><p>Tel：050-1706-0450<span style=\"background-color: rgb(255, 255, 255); font-size: 14px;\">（平日(月～金)13:00から17:00まで　土日、祝日、年末年始（12/29～1/3）を除く）</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p>https://www.pref.aichi.jp/soshiki/iyaku/r6denshisyohousen.html</p>",
+ "use_purpose": "設備整備・IT導入をしたい",
+ "industry": "医療、福祉",
+ "target_area_search": "愛知県",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "最大1/4",
+ "subsidy_max_limit": 1003000,
+ "acceptance_start_datetime": "2024-09-30T15:00:00Z",
+ "acceptance_end_datetime": "2024-12-27T14:59:00Z",
+ "project_end_deadline": "2025-03-31T15:00:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ20000089GzAMAU",
+ "application_guidelines": [],
+ "outline_of_grant": [
+  {
+   "name": "令和６年度愛知県電子処方箋活用普及促進事業費補助金交付要綱.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "よくある質問（Q&A）240924時点.pdf"
+  },
+  {
+   "name": "令和６年度愛知県電子処方箋活用普及促進事業費補助金jGrants入力マニュアル　241002時点.pdf"
+  },
+  {
+   "name": "jGrants 入力に関するよくある質問（Q&A）240924時点.pdf"
+  },
+  {
+   "name": "経費清算書（一括申請）.xlsx"
+  }
+ ],
+ "institution_name": "令和６年度愛知県電子処方箋活用普及促進事業費補助金",
+ "_meta": {
+  "first_seen": "2024-09-30T15:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

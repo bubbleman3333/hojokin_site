@@ -1,0 +1,43 @@
+{
+ "id": "a0WJ200000CBJ31MAH",
+ "name": "S-00005520",
+ "title": "令和６年度滋賀県電子処方箋の活用普及促進事業費補助金",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>電子処方箋の活用・普及の促進を図るため、電子処方箋管理サービスのシステム整備に要する経費に対し、予算の範囲内において補助金を交付する。</p><p><strong style=\"color: rgb(0, 111, 173);\">■根拠法令</strong></p><p>「令和６年度（令和５年度からの繰越分）医療提供体制推進事業費補助金（電子処方箋の活用・普及の促進事業）の国庫補助について」（令和６年３月７日付け厚生労働省発医薬0307第74号厚生労働事務次官通知）</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p>この補助金の交付の対象となる者は、電子処方箋サービスを導入したうえで、電子処方箋の普及促進における周知、啓発に協力する県内の保険医療機関等（健康保険法第６３条第３項各号に定める病院もしくは診療所または薬局に限る。）であって、令和４年６月３０日薬生総発０６３０第１号厚生労働省医薬・生活衛生局総務課長通知「医療提供体制設備整備交付金実施要領（電子処方箋管理サービス）」（以下、「要領」という。）の「第２　交付対象事業」の１に規定される事業を実施し、社会保険診療報酬支払基金（以下、「基金」という。）から要領の「第９　交付の決定及び通知」の通知を受けた施設の開設者とする。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■地理条件</strong></p><p>滋賀県内に所在する保険医療機関等に限る</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■備考</strong></p><p>なし</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>滋賀県健康医療福祉部薬務課</p><p>TEL：077-528-3634</p><p>FAX：077-528-4863</p><p>Mail：shinsei-yakumu@pref.shiga.lg.jp</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p>http://www.pref.shiga.lg.jp/zigyousya/shien/305560/340056.html</p>",
+ "use_purpose": "設備整備・IT導入をしたい",
+ "industry": "医療、福祉",
+ "target_area_search": "滋賀県",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "病院1/6　診療所・薬局1/4",
+ "subsidy_max_limit": 1003000,
+ "acceptance_start_datetime": "2024-12-03T15:00:00Z",
+ "acceptance_end_datetime": "2025-02-14T14:59:00Z",
+ "project_end_deadline": "2025-03-31T14:59:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CBJ31MAH",
+ "application_guidelines": [
+  {
+   "name": "滋賀県補助金等交付規則（昭和48年滋賀県規則第9号）.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "（確定）滋賀県電子処方箋の活用・普及促進に係る補助金交付要綱 .pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "別記様式第２号_消費税等仕入れ控除税額報告書.docx"
+  },
+  {
+   "name": "241206別記様式第１号_経費精算書.xlsx"
+  }
+ ],
+ "institution_name": "滋賀県電子処方箋の活用普及促進事業費補助金",
+ "_meta": {
+  "first_seen": "2024-12-03T15:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

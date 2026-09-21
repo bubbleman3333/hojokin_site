@@ -1,0 +1,36 @@
+{
+ "id": "a0W2x000006ECjkEAG",
+ "name": "S-00001486",
+ "title": "令和３年度スマート食品産業実証事業",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><b style=\"color: rgb(0, 111, 173);\">■目的・概要</b></p><p><span style=\"font-size: 14px; color: rgb(68, 68, 68);\">食品産業の生産性向上により国際競争力を強化するため、AI、ロボット、IoT等を活用した食品の製造・品質管理等の自動化、リモート化技術、さらにはコロナ対策の更なる向上のための非接触型技術を実際の食品製造や飲食店等の現場にモデル的に導入、実証する取組を支援するとともに、より多くの中小企業が導入できるよう、低コスト化や小型化のための改良の取組を支援します。</span></p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■応募資格</b></p><p>食品製造事業者を含む食品に関わる事業者を想定しています。</p><p>食品製造事業者の定義の中には食品加工産業および外食・中食産業（店舗、セントラルキッチン含む）が含まれます。</p><p>また、機械メーカー、システムインテグレーター、情報関連企業、研究機関、コンサルタント、食品製造業等関係団体、外食産業関係団体等も対象です。</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■問合せ先</b></p><p>株式会社日本能率協会コンサルティング</p><p>スマート食品産業実証事業 事務局</p><p>担当：寺脇・山元・山下宛</p><p>Email：<a href=\"mailto:maff_foods@jmac.co.jp\" target=\"_blank\">maff_foods@jmac.co.jp</a></p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■参照URL</b></p><p><a href=\"https://jmac-foods.com/adopted/664/\" target=\"_blank\" style=\"font-size: 14px; background-color: rgb(255, 255, 255);\">https://jmac-foods.com/adopted/664/</a></p>",
+ "use_purpose": "設備整備・IT導入をしたい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 公務（他に分類されるものを除く） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "１／２以内",
+ "subsidy_max_limit": 25000000,
+ "acceptance_start_datetime": "2022-02-28T04:00:00Z",
+ "acceptance_end_datetime": "2022-06-03T08:00:00Z",
+ "project_end_deadline": "2022-02-15T08:00:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000006ECjkEAG",
+ "application_guidelines": [
+  {
+   "name": "220222農水_R3補正 食品製造イノベーション_公募要領_v6.docx"
+  }
+ ],
+ "outline_of_grant": [],
+ "application_form": [
+  {
+   "name": "別紙様式.zip"
+  }
+ ],
+ "institution_name": "令和３年度スマート食品産業実証事業",
+ "_meta": {
+  "first_seen": "2022-02-28T04:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

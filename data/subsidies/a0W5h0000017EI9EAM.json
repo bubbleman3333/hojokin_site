@@ -1,0 +1,40 @@
+{
+ "id": "a0W5h0000017EI9EAM",
+ "name": "S-00003406",
+ "title": "【久留米市】中小企業DX促進補助金（令和5年度）",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>市内中小企業者の生産性の向上を図るため、市内中小企業者がデジタル技術を活用した業務効率化や経営課題の解決に取り組む事業に係る経費の一部を助成します。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■根拠法令</strong></p><p>久留米市中小企業DX促進補助金交付要綱</p><p>久留米市補助金等交付規則</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p>当補助金は、次の全ての要件を満たす事業者を対象とします。</p><p>１　久留米市内に事業所・店舗等を有し、事業を実施している中小企業・個人事業者</p><p>（中小企業等経営強化法第２条第１項に該当する「中小企業者」）</p><p>２　市税を滞納していないこと</p><p>３　<u>令和５年度久留米市中小企業DX促進診断事業を利用していること</u></p><p>４　次のア～オのいずれかに該当する者でないこと</p><p>ア　宗教法人法（昭和26年法律第126号）第４条第２項に規定する宗教法人</p><p>イ　政治資金規正法（昭和23年法律第194号）第３条第１項に規定する政治団体</p><p>ウ　風俗営業等の規制及び業務の適正化等に関する法律（昭和23年法律第122号）第２条に規定する「性風俗関連特殊営業」及び当該営業に係る「接客業務受託営業」を営む者</p><p>エ　暴力団、暴力団員及び、暴力団または暴力団員と密接な関係を有する者に該当しないこと。（法人の場合は、代表者及び役員等が上記に該当しないこと。）</p><p>オ　その他、補助金の目的及び趣旨から市長が適切でないと判断する者</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象事業</strong></p><p>本事業では、次の全ての要件を満たす事業が補助の対象となります。</p><p>１　デジタル技術を活用し、業務効率化や経営課題の解決に取り組む事業</p><p>２　令和５年度久留米市中小企業DX促進診断事業により、専門家の提案を受けて実施する事業</p><p>３　国が実施する「IT導入補助金2023」の補助対象とならない事業</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象経費</strong></p><p><span style=\"background-color: rgb(255, 255, 255); color: rgb(68, 68, 68);\">次の全ての要件を満たす経費を補助の対象とします。</span></p><p><span style=\"background-color: rgb(255, 255, 255); color: rgb(68, 68, 68);\">・補助対象事業の実施に必要な下記の経費</span></p><p><span style=\"background-color: rgb(255, 255, 255); color: rgb(68, 68, 68);\">　ソフトウェア等利用料、委託費（外注費）、機器購入費※、その他の経費</span></p><p>　※機器購入費は、会計・受発注・決済・ECソフトを導入する場合に限る。</p><p>・交付決定日以降に発生したもので、事業者が本事業で定める事業期間内（最長で令和6年1月31日まで）に、支払い及び事業遂行が完了した経費</p><p>・支払証拠資料（領収書、口座振込記録等）により、支払の事実・金額が確認できる経費</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>久留米市　商工観光労働部商工政策課</p><p>電話：0942-30-9133</p><p>ファクス：0942-30-9707</p><p>メール：syoko@city.kurume.lg.jp</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><a href=\"https://www.city.kurume.fukuoka.jp/1090sangyou/2020shoukougyou/3020joseiseido/2021-0423-1221-74.html\" target=\"_blank\">久留米市：久留米市中小企業DX促進補助金</a></p>",
+ "use_purpose": "設備整備・IT導入をしたい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "福岡県",
+ "target_area_detail": "久留米市",
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "1/2",
+ "subsidy_max_limit": 200000,
+ "acceptance_start_datetime": "2023-06-18T23:30:00Z",
+ "acceptance_end_datetime": "2023-12-28T08:15:00Z",
+ "project_end_deadline": "2024-01-31T15:00:00Z",
+ "request_reception_presence": "無",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W5h0000017EI9EAM",
+ "application_guidelines": [
+  {
+   "name": "申請の手引き等.zip"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "久留米市DX促進補助金交付要綱.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "申請様式.zip"
+  }
+ ],
+ "institution_name": "久留米市小規模事業者デジタル化支援補助金",
+ "_meta": {
+  "first_seen": "2023-06-18T23:30:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

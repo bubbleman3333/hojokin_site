@@ -1,0 +1,82 @@
+{
+ "id": "a0W2x000006F8kFEAS",
+ "name": "S-00001832",
+ "title": "令和４年度金融機関と連携したサステナビリティ経営促進事業",
+ "subsidy_catch_phrase": "サステナビリティ経営　SLL　サステナビリティリンクローン　 連携金融機関　中堅・中小企業　中堅中小企業　東京都　補助金",
+ "detail": "<p><b style=\"color: rgb(0, 111, 173);\">■目的・概要</b></p><p>都内中堅・中小企業等の経営をサステナビリティに配慮したものへと転換を促すため、東京都と「サステナブルファイナンス活性化に向けた連携協定」を締結した金融機関が取り扱うサステナビリティ・リンク・ローンの実行にあたり、必要となる費用の一部を支援するものである。</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■根拠法令</b></p><p>東京都補助金等交付規則（昭和37年東京都規則第141号）</p><p>東京都補助金等交付規則の施行について（昭和37年12月11日付37財主調発第20号）</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■応募資格</b></p><p>詳細は「連携金融機関募集要項」及び「補助金交付要綱」を参照。</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■地理条件</b></p><p>詳細は<span style=\"color: rgb(68, 68, 68); background-color: rgb(255, 255, 255);\">「連携金融機関募集要項」及び「補助金交付要綱」を参照。</span></p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■備考</b></p><p><span style=\"font-size: 14px;\">補助金の交付を受けた者は、名称、代表者名、補助内容等が公表される場合がある。</span></p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■問合せ先</b></p><p>東京都　政策企画局</p><p>戦略事業部　戦略事業課　国際金融都市担当</p><p>〒163-8001 </p><p>東京都新宿区西新宿二丁目８番１号</p><p>東京都庁第一本庁舎北側14階</p><p>電話03-5388-2163</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■参照URL</b></p><p>https://www.seisakukikaku.metro.tokyo.lg.jp/pgs/gfct/green-finance/sustainability-management.html</p>",
+ "use_purpose": "イベント・事業運営支援がほしい",
+ "industry": "学術研究、専門・技術サービス業",
+ "target_area_search": "東京都",
+ "target_area_detail": "詳細は「連携金融機関募集要項」及び「補助金交付要綱」を参照。",
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "補助対象と認められる経費の合計額の１／２ ※千円未満の端数は切り捨て",
+ "subsidy_max_limit": 1000000,
+ "acceptance_start_datetime": "2022-04-28T05:00:00Z",
+ "acceptance_end_datetime": "2023-03-15T11:00:00Z",
+ "project_end_deadline": "2023-03-31T11:00:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000006F8kFEAS",
+ "application_guidelines": [
+  {
+   "name": "連携金融機関募集要項.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "補助金交付要綱.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "補助金交付要綱の概要（中堅・中小企業向け）第2.0版.pdf"
+  },
+  {
+   "name": "様式第1別紙2_補助対象事業実施計画書.docx"
+  },
+  {
+   "name": "様式第1_補助金交付申請書.xlsx"
+  },
+  {
+   "name": "様式第7_遅延報告書.doc"
+  },
+  {
+   "name": "様式第12_補助金請求書.docx"
+  },
+  {
+   "name": "様式第1別紙1_経費内訳.docx"
+  },
+  {
+   "name": "様式第1別紙3_誓約書.docx"
+  },
+  {
+   "name": "様式第9_補助金取下書.doc"
+  },
+  {
+   "name": "様式第10_実績報告書.doc"
+  },
+  {
+   "name": "様式第4_変更交付申請書.doc"
+  },
+  {
+   "name": "様式第5_事業計画変更承認申請書.doc"
+  },
+  {
+   "name": "様式第8_遂行状況報告書.doc"
+  },
+  {
+   "name": "様式第6_中止(廃止)承認申請書.doc"
+  },
+  {
+   "name": "様式第10別紙_経費所要額精算調書.doc"
+  },
+  {
+   "name": "Ｊグランツ入力ガイド.pdf"
+  }
+ ],
+ "institution_name": "令和４年度金融機関と連携したサステナビリティ経営促進事業",
+ "_meta": {
+  "first_seen": "2022-04-28T05:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

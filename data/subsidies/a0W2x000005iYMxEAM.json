@@ -1,0 +1,28 @@
+{
+ "id": "a0W2x000005iYMxEAM",
+ "name": "S-00001279",
+ "title": "無線システム普及支援事業費等補助金（⾼度無線環境整備推進事業　令和４年度当初予算）",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><b style=\"color: rgb(0, 111, 173);\">■目的・概要</b></p><p>高度無線環境整備推進事業は、条件不利地域において、地方公共団体、第三セクター法人、電気通信事業者が高速・大容量無線通信の前提となる光ファイバを整備する場合に、その事業費の一部を補助するものです。また、新規整備に加え、地方公共団体が行う離島地域の光ファイバ等の維持管理に要する経費に関して、その一部を補助することとしています。</p><p>今回は都道府県、市町村及び第三セクター法人に対し直接的に補助を行う直接補助事業の公募と、執行団体を介して電気通信事業者に対し間接的に補助を行う間接補助事業における執行団体の公募を行います。</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■直接補助事業（離島伝送用専用線設備維持管理分を含む。）の公募</b></p><p>（１）実施主体</p><p>都道府県、市町村及び第三セクター法人</p><p>（離島伝送用専用線設備維持管理分については、都道府県及び市町村）</p><p><br></p><p>（２）申請期間</p><p>令和４年１月１７日（月）から同年２月４日（金）１２：００（必着）まで</p><p>※   応募多数の場合は、予算の範囲内で補助金額を調整する場合があるほか、令和３年度当初予算での執行をお願いする可能性があります。</p><p><br></p><p>（３）今後のスケジュール（予定）</p><p>採択案件内示　令和４年３月以降</p><p>交付決定 令和４年４月１日</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■間接補助事業に係る執行団体の公募</b></p><p>（１）実施主体</p><p>一般社団法人、一般財団法人、公益社団法人及び公益財団法人</p><p><br></p><p>（２）申請期間</p><p>令和４年１月１７日（月）から同年２月４日（金）１２：００（必着）まで</p><p><br></p><p>（３）今後のスケジュール（予定）</p><p>執行団体の決定 令和４年４月１日</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■問合せ先</b></p><p>・全体的事項</p><p>総合通信基盤局ブロードバンド整備推進室（<a href=\"mailto:koudo@soumu.go.jp\" target=\"_blank\">koudo@soumu.go.jp</a>）</p><p>電話︓０３－５２５３－５８６６</p><p><br></p><p>・ケーブルテレビ事業者関係</p><p>情報流通⾏政局地域放送推進室（<a href=\"mailto:bb-wireless@soumu.go.jp\" target=\"_blank\">bb-wireless@soumu.go.jp</a>）</p><p>電話︓０３－５２５３－５８０８</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■交付要綱及び申請様式</b></p><p>以下の総務省HPをご参照ください。</p><p>https://www.soumu.go.jp/main_sosiki/joho_tsusin/broadband/index.html</p><p>※掲載している無線システム普及支援事業費等補助金交付要綱等については、今後、内容に変更があり得ることをあらかじめ御承知おきください。</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■留意事項</b></p><p>公募は令和4年度当初予算成立後、速やかに補助事業を開始できるようにするため、予算成立を前提に事前手続を行うものです。したがって、成立する予算の内容等によっては、今後、実施内容に変更があり得ることをあらかじめ御承知おきください。</p>",
+ "use_purpose": "設備整備・IT導入をしたい",
+ "industry": "情報通信業",
+ "target_area_search": "全国",
+ "target_area_detail": "条件不利地域（詳細は交付要綱をご参照下さい）",
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "補助対象経費の３分の２、２分の１若しくは３分の１（詳細は交付要綱をご参照下さい）",
+ "subsidy_max_limit": 3680000000,
+ "acceptance_start_datetime": "2022-01-17T05:00:00Z",
+ "acceptance_end_datetime": "2022-02-04T03:00:00Z",
+ "project_end_deadline": null,
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000005iYMxEAM",
+ "application_guidelines": [],
+ "outline_of_grant": [],
+ "application_form": [],
+ "institution_name": "無線システム普及整備支援事業（高度無線環境整備事業）",
+ "_meta": {
+  "first_seen": "2022-01-17T05:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

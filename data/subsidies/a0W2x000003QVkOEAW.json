@@ -1,0 +1,36 @@
+{
+ "id": "a0W2x000003QVkOEAW",
+ "name": "S-00000149",
+ "title": "令和３年度林業労働力総合対策事業(事務所賃料等助成)",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><b style=\"color: rgb(0, 111, 173);\">■目的・概要</b></p><p>　林業経営体の都内森林整備への参入及び定着を促進するため、事務所及び資材置場の設置に要する経費を助成します。</p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■応募資格</b></p><p><span style=\"color: rgb(62, 62, 60);\">　林業経営体。内容別の事業対象者は林業労働力総合対策事業実施要領第２条第１項及び第５項のとおり。</span></p><p><br></p><p><b style=\"color: rgb(0, 111, 173);\">■事業内容</b></p><p><span style=\"font-family: sans-serif;\">　森林整備のために都内に整備する、事務所又は資材置場等に関する</span></p><p><span style=\"font-family: sans-serif;\">　不動産の賃貸料、整地に要する経費、資材倉庫等の購入及び設置経費について助成します。</span></p><p><span style=\"font-family: sans-serif;\">　なお、詳細な助成基準、対象経費基準及び対象経費については別添実施要領をご確認ください。</span></p><p><br></p><p><b style=\"background-color: rgb(255, 255, 255); color: rgb(0, 111, 173);\">■備　考</b></p><p><b style=\"background-color: rgb(255, 255, 255); color: rgb(0, 111, 173); font-family: sans-serif;\">　</b><b style=\"font-family: sans-serif;\">申請のあった事業計画は随時審査を行い、効果が高いと認められるものは交付決定を行います。</b></p><p><b style=\"font-family: sans-serif;\">　本事業は郵送でも受け付けており、事業予算額に達した場合は募集期間内であっても受付を終了します。 </b></p><p><b style=\"font-family: sans-serif;\">　また、申請前に必ず以下の問い合わせ先に連絡していただき、事業概要の説明をお願いいたします。</b></p><p><br></p><p><b style=\"color: rgb(0, 111, 173); font-family: sans-serif;\">■問合せ先</b></p><p><span style=\"font-family: sans-serif;\">　公益財団法人東京都農林水産振興財団　森の事業課 </span></p><p><span style=\"font-family: sans-serif;\"> 〒190-0013 東京都立川市富士見町3-8-1 </span></p><p><span style=\"font-family: sans-serif;\"> TEL：042-528-0643</span></p>",
+ "use_purpose": "設備整備・IT導入をしたい",
+ "industry": "農業、林業",
+ "target_area_search": "東京都",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "1/2以内",
+ "subsidy_max_limit": 3600000,
+ "acceptance_start_datetime": "2021-04-26T23:30:00Z",
+ "acceptance_end_datetime": "2021-12-28T08:15:00Z",
+ "project_end_deadline": "2022-02-28T08:15:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000003QVkOEAW",
+ "application_guidelines": [],
+ "outline_of_grant": [
+  {
+   "name": "交付要綱・実施要領(事務所賃料等助成).pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "交付要綱様式.xlsx"
+  }
+ ],
+ "institution_name": "林業労働力総合対策事業",
+ "_meta": {
+  "first_seen": "2021-04-26T23:30:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

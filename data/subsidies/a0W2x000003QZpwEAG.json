@@ -1,0 +1,42 @@
+{
+ "id": "a0W2x000003QZpwEAG",
+ "name": "S-00000889",
+ "title": "【静岡県】令和３年度経営革新計画促進事業費補助金（第１回募集（一般型））",
+ "subsidy_catch_phrase": "経営革新計画の承認を受け計画の実現を目指す事業者を応援します！",
+ "detail": "<p style=\"text-align: left;\"><b style=\"color: rgb(0, 111, 173);\">■目的・概要</b></p><p style=\"text-align: left;\">県の経営革新計画の承認を受けた事業者が行う、新商品等の開発、販路開拓及び生産性向上への取組みを助成する制度。</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\"><b style=\"color: rgb(0, 111, 173);\">■応募資格</b></p><p style=\"text-align: left;\">・令和３年３月末までに中小企業等経営強化法に基づき県が承認した「経営革新計画」の承認を受けた事業</p><p style=\"text-align: left;\">・経営革新計画に記載され、かつ計画の期間内に実施される事業（経営革新計画の終了期間が令和４年３月以降であること）等</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\"><b style=\"color: rgb(0, 111, 173);\">■地理条件</b></p><p style=\"text-align: left;\">静岡県内に登記上の本店所在地を有し、経営革新計画の計画期間内に県外の移転が予定されていないこと</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\"><b style=\"color: rgb(0, 111, 173);\">■問合せ先</b></p><p style=\"text-align: left;\">・（公財）静岡県産業振興財団（経営革新支援チーム）</p><p style=\"text-align: left;\">TEL：054-273-4432</p><p style=\"text-align: left;\">・静岡県経済産業部商工業局経営支援課（経営革新班）</p><p style=\"text-align: left;\">TEL：054-221-2526</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\"><b style=\"color: rgb(0, 111, 173);\">■参照URL</b></p><p style=\"text-align: left;\"><a style=\"color: rgb(0, 109, 204); background-color: transparent;\" href=\"http://www.pref.shizuoka.jp/sangyou/sa-550/hojyojigyou.html\" target=\"_blank\"> http://www.pref.shizuoka.jp/sangyou/sa-550/hojyojigyou.html</a></p><p><br></p>",
+ "use_purpose": "新たな事業を行いたい / 販路拡大・海外展開をしたい / 研究開発・実証事業を行いたい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "静岡県",
+ "target_area_detail": null,
+ "target_number_of_employees": "300名以下",
+ "subsidy_rate": "1/2",
+ "subsidy_max_limit": 5000000,
+ "acceptance_start_datetime": "2021-04-18T15:00:00Z",
+ "acceptance_end_datetime": "2021-05-18T15:00:00Z",
+ "project_end_deadline": "2022-01-31T08:30:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000003QZpwEAG",
+ "application_guidelines": [
+  {
+   "name": "R3.1回経営革新補助金募集案内.pdf"
+  }
+ ],
+ "outline_of_grant": [],
+ "application_form": [
+  {
+   "name": "売上高減少確認書・申立書.doc"
+  },
+  {
+   "name": "応募様式.doc"
+  },
+  {
+   "name": "チェックリスト.docx"
+  }
+ ],
+ "institution_name": "経営革新計画促進事業費補助金",
+ "_meta": {
+  "first_seen": "2021-04-18T15:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "id": "a0W2x000007CkPAEA0",
+ "name": "S-00002656",
+ "title": "IT導入補助金2023（複数社連携ＩＴ導入類型）",
+ "subsidy_catch_phrase": "サプライチェーンや商業集積地において、事業者同士で連携しながら地域DXや生産性向上を実現！",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>サービス等生産性向上ＩＴ導入支援事業（ＩＴ導入補助金） では、デジタル化基盤導入枠として「デジタル化基盤導入類型」及び「複数社連携IT導入類型（以下、「本事業」という）」の２類型を設け、新型コロナウイルス感染症の影響を受けつつも、生産性向上に取り組む中小企業・小規模事業者等を支援するとともに、インボイス制度への対応も見据えつつ、企業間取引のデジタル化を強力に推進するため、「通常枠（A類型・B類型）」よりも補助率を引き上げて優先的に支援する。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p>公募要領をご確認ください。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>ナビダイヤル：0570-666-424</p><p>IP電話等からのお問い合わせ先：042-303-9749</p><p>受付時間 9:30〜17:30（土・日・祝日を除く）</p><p>※通話料がかかります</p><p>※電話番号はお間違えのないようにお願いいたします。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><a href=\"https://www.it-hojo.jp/multiple-type/\" target=\"_blank\">https://www.it-hojo.jp/multiple-type/</a></p>",
+ "use_purpose": "設備整備・IT導入をしたい",
+ "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 公務（他に分類されるものを除く） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "公募要領をご確認ください。",
+ "subsidy_max_limit": 32000000,
+ "acceptance_start_datetime": "2023-03-28T04:00:00Z",
+ "acceptance_end_datetime": "2023-07-31T08:00:00Z",
+ "project_end_deadline": null,
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000007CkPAEA0",
+ "application_guidelines": [
+  {
+   "name": "IT導入補助金2023 公募要領 デジタル化基盤導入枠（複数社連携IT導入類型）版.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "IT導入補助金 交付規程 デジタル化基盤導入枠（複数社連携IT導入類型）版.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "規定様式・計算用ツール.xlsx"
+  },
+  {
+   "name": "IT提供事業者選定理由書.docx"
+  },
+  {
+   "name": "外部専門家選定理由書.docx"
+  },
+  {
+   "name": "様式作成ガイドブック.pdf"
+  }
+ ],
+ "institution_name": "サービス等生産性向上ＩＴ導入支援事業",
+ "_meta": {
+  "first_seen": "2023-03-28T04:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}

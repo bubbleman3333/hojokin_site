@@ -1,0 +1,46 @@
+{
+ "id": "a0W2x000005iwQBEAY",
+ "name": "S-00001308",
+ "title": "令和４年度技術協力活用型・新興国市場開拓事業費補助金（社会課題解決型国際共同開発事業（ビジネスサポーター支援事業））",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><b style=\"color: rgb(0, 111, 173);\">■目的・概要</b></p><p>新興国市場の開拓を目指す日本企業にとって、中長期の戦略を考える上では、アフリカ等、中国・ASEANの次の新興国市場にも目を向けていくことが重要です。こうした地域では、日本企業の製品・サービスに対する潜在的なニーズが広く存在する一方で、中国・ASEANと異なり、現地の具体的なニーズを把握し、日本の企業・人材に情報を供給する等を通じて、現地でのビジネス展開を後押しする主体（以下「ビジネスサポーター」という。）が少なく、現地でビジネスを行う日本企業や人材の増加を阻む原因の１つとなっています。</p><p>本事業では、こうしたアフリカ諸国等における市場において、ビジネスサポーターへ助成を行うことで、開発途上国の社会課題の解決及び日本企業の海外展開を促進することを目的とします。</p>",
+ "use_purpose": "新たな事業を行いたい / 販路拡大・海外展開をしたい / イベント・事業運営支援がほしい / 研究開発・実証事業を行いたい / 人材育成を行いたい",
+ "industry": "分類不能の産業",
+ "target_area_search": "全国",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "募集要項参照",
+ "subsidy_max_limit": 15000000,
+ "acceptance_start_datetime": "2022-01-17T01:00:00Z",
+ "acceptance_end_datetime": "2022-02-18T03:00:00Z",
+ "project_end_deadline": "2023-03-31T14:59:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000005iwQBEAY",
+ "application_guidelines": [
+  {
+   "name": "05_募集要項（②ビジネスサポーター支援事業）.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "01_交付要綱（案）.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "07_（様式２）提案書（②ビジネスサポーター支援事業）.docx"
+  },
+  {
+   "name": "08_提案書別紙（支出内訳表）（②ビジネスサポーター支援事業）.xlsx"
+  },
+  {
+   "name": "06_（様式１）申請書（②ビジネスサポーター支援事業）.docx"
+  }
+ ],
+ "institution_name": "技術協力活用型・新興国市場開拓事業費補助金（社会課題解決型国際共同開発事業（ビジネスサポーター支援事業））",
+ "_meta": {
+  "first_seen": "2022-01-17T01:00:00Z",
+  "fetched_at": "2026-09-21T13:28:27Z"
+ }
+}
