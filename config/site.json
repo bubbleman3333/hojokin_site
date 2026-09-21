@@ -6,5 +6,6 @@
   "author": "補助金ウォッチ編集部",
   "new_days": 14,
   "deadline_days": 30,
-  "noindex_closed_after_days": 365
+  "noindex_closed_after_days": 365,
+  "ugc_api": "https://minna-api.rakunowa.workers.dev"
 }

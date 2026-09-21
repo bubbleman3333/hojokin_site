@@ -97,3 +97,20 @@ ol.compact { padding-left:1.4em; }
   .search-form { width:100%; margin-left:0; }
   .search-form input { flex:1; min-width:0; }
 }
+
+/* ---- みんなの体験談 ---- */
+.ugc { margin-top:20px; background:var(--paper); border:1px solid var(--line); border-radius:10px; padding:8px 20px 20px; }
+.ugc-stats { display:flex; gap:14px; flex-wrap:wrap; font-size:.9rem; color:var(--muted); margin-bottom:10px; }
+.ugc-list { list-style:none; margin:0 0 16px; padding:0; }
+.ugc-list li { border-top:1px solid var(--line); padding:10px 0; }
+.ugc-head { display:flex; gap:8px; align-items:center; flex-wrap:wrap; font-size:.85rem; }
+.ugc-head .meta { color:var(--muted); }
+.ugc-stars { color:#d97706; letter-spacing:1px; }
+.ugc-report { margin-left:auto; background:none; border:none; color:var(--muted); font-size:.75rem; cursor:pointer; }
+.ugc-list p { margin:6px 0 0; white-space:pre-wrap; }
+.badge.ugc-adopted { background:var(--ok); } .badge.ugc-rejected { background:var(--warn); } .badge.ugc-applied { background:var(--brand); } .badge.ugc-considering { background:var(--up); }
+.ugc-form { border-top:2px solid var(--line); padding-top:12px; }
+.ugc-form .ugc-row { display:flex; gap:12px; flex-wrap:wrap; align-items:center; margin:8px 0; }
+.ugc-form label { font-size:.85rem; color:var(--muted); display:flex; flex-direction:column; gap:4px; }
+.ugc-form select, .ugc-form input, .ugc-form textarea { padding:8px 10px; border:1px solid var(--line); border-radius:6px; font-size:.95rem; font-family:inherit; }
+.ugc-form textarea { width:100%; box-sizing:border-box; }

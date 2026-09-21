@@ -50,6 +50,11 @@
 {{ art.body_html|safe }}
 </div>
 
+{% if site.ugc_api %}
+<section id="ugc" class="ugc" data-api="{{ site.ugc_api }}" data-site="hojokin" data-key="{{ s.code }}"></section>
+<script src="{{ url('static/ugc.js') }}" defer></script>
+{% endif %}
+
 <section class="faq">
   <h2>よくある質問</h2>
   {% for q, a in faq %}
