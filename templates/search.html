@@ -1,0 +1,100 @@
+{% extends "base.html" %}
+{% block title %}{{ title }} | {{ site.name }}{% endblock %}
+{% block description %}{{ description }}{% endblock %}
+{% block content %}
+<nav class="crumbs"><a href="{{ url() }}">ホーム</a> › {{ title }}</nav>
+<h1>{{ title }}</h1>
+<p class="lead">{{ description }} 条件を変えるとその場で結果が変わります。</p>
+<form id="f" class="filter" onsubmit="return false">
+  <label>都道府県
+    <select name="area"><option value="">すべて</option>{% for name in PREFECTURES %}<option value="{{ name }}">{{ name }}</option>{% endfor %}</select>
+  </label>
+  <label>目的
+    <select name="purpose"><option value="">すべて</option>{% for name, slug, total, acc in purpose_index %}<option value="{{ name }}">{{ name }}</option>{% endfor %}</select>
+  </label>
+  <label>従業員規模
+    <select name="emp"><option value="">すべて</option></select>
+  </label>
+  <label>状態
+    <select name="status"><option value="accepting">募集中</option><option value="upcoming">公募予定</option><option value="">すべて（終了分も）</option></select>
+  </label>
+  <label class="grow">キーワード
+    <input type="search" name="q" placeholder="例: IT導入、省エネ、創業">
+  </label>
+  <label>並び順
+    <select name="sort"><option value="end">締切が近い順</option><option value="max">上限額が大きい順</option></select>
+  </label>
+</form>
+<p id="count" class="lead"></p>
+<ul id="results" class="cards"></ul>
+<p id="more-wrap"><button id="more" class="button ghost" type="button">さらに表示</button></p>
+<script>
+(function () {
+  var DATA_URL = {{ url('search.json')|tojson }};
+  var BASE = {{ url('s/')|tojson }};
+  var form = document.getElementById('f');
+  var list = document.getElementById('results');
+  var countEl = document.getElementById('count');
+  var moreBtn = document.getElementById('more');
+  var rows = [], shown = 0, filtered = [];
+  var PAGE = 50;
+  function yen(n) {
+    if (!n) return '記載なし';
+    var oku = Math.floor(n / 1e8), rest = n % 1e8, man = Math.floor(rest / 1e4), en = rest % 1e4, s = '';
+    if (oku) s += oku.toLocaleString() + '億';
+    if (man) s += man.toLocaleString() + '万';
+    if (en) s += en.toLocaleString();
+    return s + '円';
+  }
+  function daysLeft(e) {
+    if (!e) return null;
+    var d = new Date(e + 'T00:00:00+09:00'), t = new Date(); t.setHours(0, 0, 0, 0);
+    return Math.round((d - t) / 86400000);
+  }
+  function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]; }); }
+  function card(r) {
+    var st = r.s === 'accepting' ? '募集中' : r.s === 'upcoming' ? '公募予定' : '募集終了';
+    var left = daysLeft(r.e);
+    var end = r.e ? '締切 ' + r.e.replace(/-/g, '/') + (r.s === 'accepting' && left !== null ? '（あと' + left + '日）' : '') : '';
+    return '<li class="card"><a class="card-title" href="' + BASE + esc(r.c) + '/">' + esc(r.t) + '</a>' +
+      '<div class="card-meta"><span class="badge ' + r.s + '">' + st + '</span><span>' + esc(r.a.join('・')) + '</span>' +
+      '<span>上限 ' + yen(r.m) + '</span>' + (r.r ? '<span>補助率 ' + esc(r.r) + '</span>' : '') + '<span>' + end + '</span></div></li>';
+  }
+  function apply() {
+    var v = {};
+    Array.prototype.forEach.call(form.elements, function (el) { if (el.name) v[el.name] = el.value.trim(); });
+    var q = v.q.toLowerCase();
+    filtered = rows.filter(function (r) {
+      if (v.status && r.s !== v.status) return false;
+      if (v.area && r.a.indexOf(v.area) < 0 && !(v.area !== '全国' && r.a.indexOf('全国') >= 0)) return false;
+      if (v.purpose && r.p.indexOf(v.purpose) < 0) return false;
+      if (v.emp && r.w !== v.emp) return false;
+      if (q && (r.t + ' ' + r.p.join(' ') + ' ' + r.i.join(' ')).toLowerCase().indexOf(q) < 0) return false;
+      return true;
+    });
+    filtered.sort(v.sort === 'max' ? function (a, b) { return (b.m || 0) - (a.m || 0); } : function (a, b) { return (a.e || '9999') < (b.e || '9999') ? -1 : 1; });
+    list.innerHTML = ''; shown = 0; showMore();
+    var p = new URLSearchParams(); Object.keys(v).forEach(function (k) { if (v[k] && !(k === 'status' && v[k] === 'accepting') && !(k === 'sort' && v[k] === 'end')) p.set(k, v[k]); });
+    history.replaceState(null, '', location.pathname + (p.toString() ? '?' + p.toString() : ''));
+  }
+  function showMore() {
+    var chunk = filtered.slice(shown, shown + PAGE);
+    list.insertAdjacentHTML('beforeend', chunk.map(card).join(''));
+    shown += chunk.length;
+    countEl.textContent = filtered.length + ' 件が該当（' + shown + ' 件を表示）';
+    moreBtn.style.display = shown < filtered.length ? '' : 'none';
+  }
+  moreBtn.addEventListener('click', showMore);
+  form.addEventListener('input', apply);
+  form.addEventListener('change', apply);
+  fetch(DATA_URL).then(function (r) { return r.json(); }).then(function (data) {
+    rows = data;
+    var emps = {}; rows.forEach(function (r) { if (r.w) emps[r.w] = 1; });
+    var sel = form.elements.emp; Object.keys(emps).sort().forEach(function (e) { var o = document.createElement('option'); o.value = e; o.textContent = e; sel.appendChild(o); });
+    var p = new URLSearchParams(location.search);
+    Array.prototype.forEach.call(form.elements, function (el) { if (el.name && p.has(el.name)) el.value = p.get(el.name); });
+    apply();
+  });
+})();
+</script>
+{% endblock %}

@@ -1,0 +1,75 @@
+{% extends "base.html" %}
+{% from "_card.html" import card %}
+{% block head %}
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","name":{{ site.name|tojson }},"url":{{ url()|tojson }},
+ "potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":{{ (url('search/') ~ '?q={search_term_string}')|tojson }}},"query-input":"required name=search_term_string"}}
+</script>
+{% endblock %}
+{% block content %}
+<section class="hero">
+  <h1>{{ site.name }}</h1>
+  <p class="lead">{{ site.description }}</p>
+  <div class="stat-row">
+    <div class="stat"><strong>{{ stats.accepting }}</strong><span>件が募集中</span></div>
+    <div class="stat"><strong>{{ stats.deadline }}</strong><span>件が{{ site.deadline_days }}日以内に締切</span></div>
+    <div class="stat"><strong>{{ stats.new }}</strong><span>件が直近{{ site.new_days }}日の新着</span></div>
+    <div class="stat"><strong>{{ stats.total }}</strong><span>件を掲載（過去分含む）</span></div>
+  </div>
+  <p class="hero-actions"><a class="button" href="{{ url('search/') }}">都道府県・目的から診断する</a> <a class="button ghost" href="{{ url('calendar.ics') }}">締切をカレンダーに入れる</a></p>
+</section>
+{% if ads.list_bottom %}<div class="ad">{{ ads.list_bottom|safe }}</div>{% endif %}
+<section>
+  <h2>締切が近い補助金</h2>
+  <ul class="cards">{% for s in deadline %}{{ card(s) }}{% endfor %}</ul>
+  <a class="more" href="{{ url('deadline/') }}">締切間近の一覧へ（{{ stats.deadline }} 件）</a>
+</section>
+<section>
+  <h2>新着の補助金</h2>
+  <ul class="cards">{% for s in new %}{{ card(s) }}{% endfor %}</ul>
+  <a class="more" href="{{ url('new/') }}">新着の一覧へ</a>
+</section>
+<section>
+  <h2>上限額が大きい補助金</h2>
+  <ul class="cards">{% for s in ranking %}{{ card(s, loop.index) }}{% endfor %}</ul>
+  <a class="more" href="{{ url('ranking/') }}">ランキング 100 位まで見る</a>
+</section>
+<section>
+  <h2>全国どこからでも申請できる補助金</h2>
+  <ul class="cards">{% for s in nationwide %}{{ card(s) }}{% endfor %}</ul>
+  <a class="more" href="{{ url('nationwide/') }}">全国対象の一覧へ</a>
+</section>
+{% if upcoming %}
+<section>
+  <h2>これから公募が始まる補助金</h2>
+  <ul class="cards">{% for s in upcoming %}{{ card(s) }}{% endfor %}</ul>
+  <a class="more" href="{{ url('upcoming/') }}">公募予定の一覧へ</a>
+</section>
+{% endif %}
+<section>
+  <h2>都道府県から探す</h2>
+  <div class="chips large">
+  {% for name, slug, total, acc in area_index %}<a href="{{ url('area/' ~ slug ~ '/') }}">{{ name }}<small>{{ acc }}</small></a>{% endfor %}
+  </div>
+</section>
+<section>
+  <h2>目的から探す</h2>
+  <div class="chips large">
+  {% for name, slug, total, acc in purpose_index %}<a href="{{ url('purpose/' ~ slug ~ '/') }}">{{ name }}<small>{{ acc }}</small></a>{% endfor %}
+  </div>
+</section>
+<section>
+  <h2>業種から探す</h2>
+  <div class="chips large">
+  {% for name, slug, total, acc in industry_index %}<a href="{{ url('industry/' ~ slug ~ '/') }}">{{ name }}<small>{{ acc }}</small></a>{% endfor %}
+  </div>
+</section>
+<section class="howto">
+  <h2>このサイトの使い方</h2>
+  <ol>
+    <li><a href="{{ url('search/') }}">探す・診断</a>で都道府県と目的を選ぶと、いま申請できる補助金だけが出ます。</li>
+    <li>気になる補助金のページで上限額・補助率・締切を確認し、「公式ページで確認する」から公募要領を読みます。</li>
+    <li><a href="{{ url('calendar.ics') }}">締切カレンダー</a>を登録しておくと、締切を忘れません。RSS でも新着を受け取れます。</li>
+  </ol>
+</section>
+{% endblock %}

@@ -1,0 +1,75 @@
+{% extends "base.html" %}
+{% from "_card.html" import card %}
+{% set st, label = s.status(now) %}
+{% block title %}{{ art.title }} | {{ site.name }}{% endblock %}
+{% block description %}{{ art.summary }}{% endblock %}
+{% block ogtype %}article{% endblock %}
+{% block head %}
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Article","headline":{{ art.title|tojson }},"description":{{ art.summary|tojson }},
+ "datePublished":"{{ (s.first_seen or now).isoformat() }}","dateModified":"{{ (s.fetched_at or now).isoformat() }}",
+ "author":{"@type":"Organization","name":{{ site.author|tojson }}},"publisher":{"@type":"Organization","name":{{ site.name|tojson }}},
+ "mainEntityOfPage":{{ canonical|tojson }},"image":{{ url('static/og.png')|tojson }}}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+ {"@type":"ListItem","position":1,"name":"ホーム","item":{{ url()|tojson }}},
+ {"@type":"ListItem","position":2,"name":{{ s.areas[0]|tojson }},"item":{{ url('area/' ~ s.area_slug() ~ '/')|tojson }}},
+ {"@type":"ListItem","position":3,"name":{{ s.title|tojson }},"item":{{ canonical|tojson }}}]}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
+{% for q, a in faq %} {"@type":"Question","name":{{ q|tojson }},"acceptedAnswer":{"@type":"Answer","text":{{ a|tojson }}}}{% if not loop.last %},{% endif %}
+{% endfor %}]}
+</script>
+{% endblock %}
+{% block content %}
+<article>
+<nav class="crumbs"><a href="{{ url() }}">ホーム</a> › <a href="{{ url('area/' ~ s.area_slug() ~ '/') }}">{{ s.areas[0] }}</a> › {{ s.title }}</nav>
+<h1>{{ art.title }}</h1>
+<p class="meta-line"><span class="badge {{ st }}">{{ label }}</span> {{ s.area_label() }} ・ 更新 {{ (s.fetched_at or now)|date }} ・ 制度コード {{ s.code }}</p>
+<p class="lead">{{ art.summary }}</p>
+{% if ads.article_top %}<div class="ad">{{ ads.article_top|safe }}</div>{% endif %}
+
+<table class="facts">
+  <tr><th>上限額</th><td><strong>{{ s.max_limit|yen }}</strong></td></tr>
+  <tr><th>補助率</th><td>{{ s.rate or '記載なし' }}</td></tr>
+  <tr><th>受付期間</th><td>{{ s.start|dt }} 〜 {{ s.end|dt }}{% if st == 'accepting' and s.days_left(now) is not none %} <strong class="left">あと{{ s.days_left(now) }}日</strong>{% endif %}</td></tr>
+  {% if s.project_end %}<tr><th>事業完了期限</th><td>{{ s.project_end|date }}</td></tr>{% endif %}
+  <tr><th>対象地域</th><td>{% for a in s.areas %}<a href="{{ url('area/' ~ PREFECTURES.get(a, 'zenkoku') ~ '/') }}">{{ a }}</a>{% if not loop.last %}・{% endif %}{% endfor %}{% if s.area_detail %}（{{ s.area_detail }}）{% endif %}</td></tr>
+  <tr><th>従業員規模</th><td>{{ s.employees or '記載なし' }}</td></tr>
+  <tr><th>目的</th><td>{% for p in s.purposes %}<a href="{{ url('purpose/' ~ purpose_slug(p) ~ '/') }}">{{ p }}</a>{% if not loop.last %} / {% endif %}{% endfor %}</td></tr>
+  <tr><th>業種</th><td>{% if s.industries_all %}指定なし{% else %}{% for i in s.industries %}<a href="{{ url('industry/' ~ industry_slug(i) ~ '/') }}">{{ i }}</a>{% if not loop.last %} / {% endif %}{% endfor %}{% endif %}</td></tr>
+  {% if s.institution %}<tr><th>制度名</th><td>{{ s.institution }}</td></tr>{% endif %}
+  <tr><th>電子申請</th><td>{{ '対応（jGrants）' if s.electronic else '記載なし' }}</td></tr>
+</table>
+<p class="cta"><a class="button" href="{{ s.url }}" rel="noopener nofollow" target="_blank">jGrants の公式ページで申請要件を確認する</a></p>
+
+<div class="article-body">
+{% if art.written %}<p class="byline">編集部の解説</p>{% endif %}
+{{ art.body_html|safe }}
+</div>
+
+<section class="faq">
+  <h2>よくある質問</h2>
+  {% for q, a in faq %}
+  <details><summary>{{ q }}</summary><p>{{ a }}</p></details>
+  {% endfor %}
+</section>
+
+{% if s.detail_html %}
+<section class="official">
+  <h2>公式の概要（jGrants より）</h2>
+  <div class="official-body">{{ s.detail_html|safe }}</div>
+  <p class="source">出典: デジタル庁 jGrants「<a href="{{ s.url }}" rel="noopener nofollow" target="_blank">{{ s.title }}</a>」（{{ (s.fetched_at or now)|date }} 取得）</p>
+</section>
+{% endif %}
+{% if ads.article_bottom %}<div class="ad">{{ ads.article_bottom|safe }}</div>{% endif %}
+</article>
+{% if related %}
+<section>
+  <h2>関連する募集中の補助金</h2>
+  <ul class="cards">{% for r in related %}{{ card(r) }}{% endfor %}</ul>
+</section>
+{% endif %}
+{% endblock %}

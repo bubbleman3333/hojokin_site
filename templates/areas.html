@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% block title %}{{ title }} | {{ site.name }}{% endblock %}
+{% block description %}{{ description }}{% endblock %}
+{% block content %}
+<nav class="crumbs"><a href="{{ url() }}">ホーム</a> › {{ title }}</nav>
+<h1>{{ title }}</h1>
+<p class="lead">{{ description }} 「全国」は所在地を問わず申請できる補助金です。</p>
+<table class="facts">
+<tr><th>地域</th><th>募集中</th><th>掲載件数</th><th>締切カレンダー</th></tr>
+{% for name, slug, total, acc in area_index %}
+<tr><td><a href="{{ url('area/' ~ slug ~ '/') }}">{{ name }}</a></td><td>{{ acc }}</td><td>{{ total }}</td><td><a href="{{ url('area/' ~ slug ~ '/calendar.ics') }}">ics</a></td></tr>
+{% endfor %}
+</table>
+{% endblock %}

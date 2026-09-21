@@ -1,0 +1,10 @@
+{
+  "name": "補助金ウォッチ",
+  "tagline": "全国の補助金・助成金を毎日自動で更新",
+  "description": "国や都道府県・市区町村が公募している補助金・助成金を、対象・金額・締切ごとに整理して毎日更新しています。データはデジタル庁の jGrants を元にしています。",
+  "site_url": "https://bubbleman3333.github.io/hojokin_site",
+  "author": "補助金ウォッチ編集部",
+  "new_days": 14,
+  "deadline_days": 30,
+  "noindex_closed_after_days": 365
+}

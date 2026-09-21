@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+{% from "_card.html" import card %}
+{% block title %}{{ title }} | {{ site.name }}{% endblock %}
+{% block description %}{{ description }}{% endblock %}
+{% block head %}
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"CollectionPage","name":{{ title|tojson }},"description":{{ description|tojson }},"url":{{ canonical|tojson }},
+ "isPartOf":{"@type":"WebSite","name":{{ site.name|tojson }},"url":{{ url()|tojson }}}}
+</script>
+{% endblock %}
+{% block content %}
+<nav class="crumbs"><a href="{{ url() }}">ホーム</a>{% if kind == 'area' %} › <a href="{{ url('area/') }}">都道府県別</a>{% elif kind == 'purpose' %} › <a href="{{ url('purpose/') }}">目的別</a>{% elif kind == 'industry' %} › <a href="{{ url('industry/') }}">業種別</a>{% endif %} › {{ title }}</nav>
+<h1>{{ title }}</h1>
+<p class="lead">{{ description }} 全 {{ count }} 件。</p>
+{% if kind == 'area' %}
+<p class="hero-actions"><a class="button ghost" href="{{ url('search/') }}?area={{ key|urlencode }}">{{ key }}の補助金を目的で絞り込む</a> <a class="button ghost" href="{{ url('area/' ~ slug ~ '/calendar.ics') }}">{{ key }}の締切カレンダー（ics）</a></p>
+{% elif kind == 'purpose' %}
+<p class="hero-actions"><a class="button ghost" href="{{ url('search/') }}?purpose={{ key|urlencode }}">都道府県で絞り込む</a></p>
+{% endif %}
+{% if items %}
+<ul class="cards">{% for s in items %}{{ card(s, (page - 1) * 50 + loop.index if ranked else None) }}{% endfor %}</ul>
+{% else %}
+<p>該当する補助金は今のところありません。</p>
+{% endif %}
+{% if pages > 1 %}
+<nav class="pager">
+  {% for i in range(1, pages + 1) %}
+    {% if i == page %}<span class="cur">{{ i }}</span>
+    {% else %}<a href="{{ url(base if i == 1 else base ~ 'page/' ~ i ~ '/') }}">{{ i }}</a>{% endif %}
+  {% endfor %}
+</nav>
+{% endif %}
+{% if ads.list_bottom %}<div class="ad">{{ ads.list_bottom|safe }}</div>{% endif %}
+{% endblock %}

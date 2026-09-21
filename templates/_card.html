@@ -1,0 +1,15 @@
+{% macro card(s, rank=None) -%}
+{% set st, label = s.status(now) %}
+<li class="card">
+  {% if rank %}<span class="rank">{{ rank }}</span>{% endif %}
+  <a class="card-title" href="{{ url(s.path) }}">{{ s.title }}</a>
+  <div class="card-meta">
+    <span class="badge {{ st }}">{{ label }}</span>
+    <span>{{ s.area_label() }}</span>
+    <span>上限 {{ s.max_limit|yen }}</span>
+    {% if s.rate %}<span>補助率 {{ s.rate }}</span>{% endif %}
+    {% if s.end %}<span>締切 {{ s.end|date }}{% if st == 'accepting' %}（あと{{ s.days_left(now) }}日）{% endif %}</span>{% endif %}
+  </div>
+  {% if s.catch and s.catch != s.title %}<p class="card-catch">{{ s.catch }}</p>{% endif %}
+</li>
+{%- endmacro %}
