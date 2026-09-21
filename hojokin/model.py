@@ -85,9 +85,11 @@ def parse_dt(value: str | None) -> datetime | None:
     v = value.rstrip("Z")
     for fmt in ("%Y-%m-%dT%H:%M:%S.%f", "%Y-%m-%dT%H:%M:%S", "%Y-%m-%dT%H:%M"):
         try:
-            return datetime.strptime(v, fmt).replace(tzinfo=timezone.utc).astimezone(JST)
+            d = datetime.strptime(v, fmt).replace(tzinfo=timezone.utc).astimezone(JST)
         except ValueError:
             continue
+        # 元データに「3026 年」のような入力ミスがあるので、あり得ない年は「記載なし」扱いにする
+        return d if 1990 <= d.year <= 2100 else None
     return None
 
 
