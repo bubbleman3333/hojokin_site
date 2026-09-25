@@ -12,7 +12,7 @@
  "subsidy_rate": "1/2（施設・設備整備事業は2/3）",
  "subsidy_max_limit": 0,
  "acceptance_start_datetime": "2025-10-29T00:00:00Z",
- "acceptance_end_datetime": "2026-05-31T14:59:00Z",
+ "acceptance_end_datetime": "2026-12-31T14:59:00Z",
  "project_end_deadline": null,
  "request_reception_presence": "有",
  "is_enable_multiple_request": true,
@@ -34,6 +34,6 @@
  "institution_name": "令和７年度病院勤務者勤務環境改善事業",
  "_meta": {
   "first_seen": "2025-10-29T00:00:00Z",
-  "fetched_at": "2026-09-21T13:12:58Z"
+  "fetched_at": "2026-09-25T22:00:36Z"
  }
 }
