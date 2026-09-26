@@ -3,7 +3,7 @@
 国・都道府県・市区町村の補助金・助成金を、デジタル庁 jGrants の公開 API から毎日取り込み、
 静的サイトとして GitHub Pages に配信する。**運用費ゼロ**（API はキー不要、GitHub Actions と Pages は無料枠）。
 
-- 公開先: https://bubbleman3333.github.io/hojokin_site/
+- 公開先: https://hojokin-watch.rakunowa.workers.dev/
 - 記事の解説文は Claude（Claude Code のセッション）が書く。書いていない補助金はデータから自動で組み立てた文章で埋まる。
 
 ## 仕組み
