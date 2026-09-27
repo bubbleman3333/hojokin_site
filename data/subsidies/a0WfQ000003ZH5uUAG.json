@@ -12,7 +12,7 @@
  "subsidy_rate": "助成対象経費の2分の1以内（小規模企業者による申請、または環境負荷軽減に資するツールを導入する事業者の申請の場合は3分の2以内）",
  "subsidy_max_limit": 1500000,
  "acceptance_start_datetime": "2026-09-28T05:00:00Z",
- "acceptance_end_datetime": "2027-01-31T14:59:00Z",
+ "acceptance_end_datetime": "2027-01-29T14:59:00Z",
  "project_end_deadline": null,
  "request_reception_presence": "有",
  "is_enable_multiple_request": false,
@@ -23,6 +23,6 @@
  "institution_name": "中小企業デジタル導入促進補助事業",
  "_meta": {
   "first_seen": "2026-09-25T22:00:36Z",
-  "fetched_at": "2026-09-25T22:00:36Z"
+  "fetched_at": "2026-09-27T23:50:55Z"
  }
 }
