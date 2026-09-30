@@ -12,7 +12,7 @@
  "subsidy_rate": null,
  "subsidy_max_limit": 0,
  "acceptance_start_datetime": "2026-07-01T01:00:00Z",
- "acceptance_end_datetime": "2026-09-30T14:59:00Z",
+ "acceptance_end_datetime": "2026-12-31T14:59:00Z",
  "project_end_deadline": "2027-02-28T14:59:00Z",
  "request_reception_presence": "有",
  "is_enable_multiple_request": true,
@@ -23,6 +23,6 @@
  "institution_name": "住宅・建築物カーボンニュートラル総合推進事業",
  "_meta": {
   "first_seen": "2026-07-01T01:00:00Z",
-  "fetched_at": "2026-09-21T13:10:42Z"
+  "fetched_at": "2026-09-30T22:00:34Z"
  }
 }

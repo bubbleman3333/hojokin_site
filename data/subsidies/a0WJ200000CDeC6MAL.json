@@ -12,7 +12,7 @@
  "subsidy_rate": "2/3",
  "subsidy_max_limit": 400000000,
  "acceptance_start_datetime": "2026-09-01T01:00:00Z",
- "acceptance_end_datetime": "2026-09-30T08:00:00Z",
+ "acceptance_end_datetime": "2026-10-07T08:00:00Z",
  "project_end_deadline": null,
  "request_reception_presence": "有",
  "is_enable_multiple_request": false,
@@ -23,6 +23,6 @@
  "institution_name": "経営統合等による産業力強化支援事業",
  "_meta": {
   "first_seen": "2026-09-01T01:00:00Z",
-  "fetched_at": "2026-09-21T13:28:27Z"
+  "fetched_at": "2026-09-30T22:00:34Z"
  }
 }

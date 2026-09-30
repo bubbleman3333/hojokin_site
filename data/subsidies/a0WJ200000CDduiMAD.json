@@ -12,7 +12,7 @@
  "subsidy_rate": "３／４～４／５",
  "subsidy_max_limit": 6000000,
  "acceptance_start_datetime": "2026-08-31T15:00:00Z",
- "acceptance_end_datetime": "2028-03-31T14:59:00Z",
+ "acceptance_end_datetime": "2026-10-15T14:59:00Z",
  "project_end_deadline": null,
  "request_reception_presence": "有",
  "is_enable_multiple_request": true,
@@ -23,6 +23,6 @@
  "institution_name": "業務改善助成金",
  "_meta": {
   "first_seen": "2026-08-31T15:00:00Z",
-  "fetched_at": "2026-09-21T13:28:27Z"
+  "fetched_at": "2026-09-30T22:00:34Z"
  }
 }

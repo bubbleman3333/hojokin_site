@@ -11,8 +11,8 @@
  "target_number_of_employees": "従業員数の制約なし",
  "subsidy_rate": "助成対象と認められる経費の２／３以内",
  "subsidy_max_limit": 1500000,
- "acceptance_start_datetime": "2026-08-31T15:00:00Z",
- "acceptance_end_datetime": "2026-09-14T07:00:00Z",
+ "acceptance_start_datetime": "2026-09-30T15:00:00Z",
+ "acceptance_end_datetime": "2026-10-14T07:00:00Z",
  "project_end_deadline": null,
  "request_reception_presence": "有",
  "is_enable_multiple_request": true,
@@ -23,6 +23,6 @@
  "institution_name": "令和８年度展示会出展助成事業",
  "_meta": {
   "first_seen": "2026-08-31T15:00:00Z",
-  "fetched_at": "2026-09-21T13:28:27Z"
+  "fetched_at": "2026-09-30T22:00:34Z"
  }
 }
