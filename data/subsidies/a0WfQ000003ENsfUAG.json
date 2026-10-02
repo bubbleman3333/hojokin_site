@@ -12,7 +12,7 @@
  "subsidy_rate": "補助対象経費の１／３以内",
  "subsidy_max_limit": 0,
  "acceptance_start_datetime": "2026-09-25T00:00:00Z",
- "acceptance_end_datetime": "2026-11-30T14:59:00Z",
+ "acceptance_end_datetime": "2026-11-20T14:59:00Z",
  "project_end_deadline": "2027-03-31T14:59:00Z",
  "request_reception_presence": "有",
  "is_enable_multiple_request": true,
@@ -23,6 +23,6 @@
  "institution_name": "天然ガス利用設備による強靱性向上対策事業費補助金",
  "_meta": {
   "first_seen": "2026-09-25T00:00:00Z",
-  "fetched_at": "2026-09-25T22:00:36Z"
+  "fetched_at": "2026-10-02T00:53:08Z"
  }
 }
