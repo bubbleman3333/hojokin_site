@@ -12,7 +12,7 @@
  "subsidy_rate": "1/2",
  "subsidy_max_limit": 1300000,
  "acceptance_start_datetime": "2026-05-19T15:00:00Z",
- "acceptance_end_datetime": "2026-07-24T14:59:00Z",
+ "acceptance_end_datetime": "2026-11-10T14:59:00Z",
  "project_end_deadline": null,
  "request_reception_presence": "有",
  "is_enable_multiple_request": true,
@@ -38,6 +38,6 @@
  "institution_name": "令和８年度外国人患者受入れ体制整備支援事業補助金",
  "_meta": {
   "first_seen": "2026-05-19T15:00:00Z",
-  "fetched_at": "2026-09-21T13:28:27Z"
+  "fetched_at": "2026-10-06T22:00:38Z"
  }
 }
