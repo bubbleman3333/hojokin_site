@@ -12,7 +12,7 @@
  "subsidy_rate": "0",
  "subsidy_max_limit": 0,
  "acceptance_start_datetime": "2026-09-02T00:00:00Z",
- "acceptance_end_datetime": "2026-09-24T15:00:00Z",
+ "acceptance_end_datetime": "2026-10-12T15:00:00Z",
  "project_end_deadline": null,
  "request_reception_presence": "有",
  "is_enable_multiple_request": true,
@@ -25,6 +25,15 @@
  ],
  "application_form": [
   {
+   "name": "専門医認定支援事業の審査に係る考え方.pdf"
+  },
+  {
+   "name": "【第3号様式別紙】別紙概要.xls"
+  },
+  {
+   "name": "【任意様式】特定収入割合計算表.xls"
+  },
+  {
    "name": "交付申請様式（１号様式、別紙）.xlsx"
   },
   {
@@ -32,20 +41,11 @@
   },
   {
    "name": "消費税報告様式（第3号様式）.doc"
-  },
-  {
-   "name": "専門医認定支援事業の審査に係る考え方.pdf"
-  },
-  {
-   "name": "【任意様式】特定収入割合計算表.xls"
-  },
-  {
-   "name": "【第3号様式別紙】別紙概要.xls"
   }
  ],
  "institution_name": "東京都専門医認定支援事業補助金",
  "_meta": {
   "first_seen": "2026-09-02T00:00:00Z",
-  "fetched_at": "2026-09-21T13:12:58Z"
+  "fetched_at": "2026-10-09T22:00:35Z"
  }
 }
