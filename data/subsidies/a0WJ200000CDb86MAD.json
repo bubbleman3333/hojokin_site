@@ -1,0 +1,28 @@
+{
+ "id": "a0WJ200000CDb86MAD",
+ "name": "S-00009359",
+ "title": "今治市企業立地促進奨励金",
+ "subsidy_catch_phrase": "企業の立地に伴う建物や設備等の固定資産税相当額を交付します。",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■目的・概要</strong></p><p><span style=\"font-size: 16px;\">今治市内における企業の立地をサポートするため、事業所の新設、増設、または移転を行う企業を対象に、立地に際し新たに取得した固定資産に係る固定資産税の収納額に相当する額を交付する制度です。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■応募資格</strong></p><p><span style=\"font-size: 16px;\">指定された対象業種に属する事業を行い、市長から適用事業者の指定を受けた企業で、以下の要件を満たす必要があります。</span></p><p><span style=\"font-size: 16px;\">・新設：投下固定資産総額1億円（中小企業は5千万円）以上</span></p><p><span style=\"font-size: 16px;\">・増設・移転：投下固定資産総額3億円（中小企業は1億円）以上かつ新規雇用従業員10人（中小企業は3人）以上</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■地理条件</strong></p><p><span style=\"font-size: 16px;\">愛媛県今治市内</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■備考</strong></p><p><span style=\"font-size: 16px;\">・補助上限額：なし</span></p><p><span style=\"font-size: 16px;\">・カーボンニュートラル実現に資する企業の場合は、交付対象期間に2年度が加算されます。</span></p><p><span style=\"font-size: 16px;\">・奨励金の交付を受けるには、まず市長に申請して適用事業者の指定を受ける必要があります。</span></p><p><span style=\"font-size: 16px;\">・本奨励金に該当する企業が立地に伴い新規雇用従業員を雇用した場合は、合わせて「雇用促進奨励金」（新規雇用従業員1人につき50万円、限度額1億円）の交付対象になります。</span></p><p><span style=\"font-size: 16px;\">・情報通信業については、情報サービス業、インターネット付随サービス業、映像・音声・文字情報制作業に限ります。</span></p><p><span style=\"font-size: 16px;\">・卸売業、小売業については、卸売業に限ります。</span></p><p><span style=\"font-size: 16px;\">・学術研究、専門・技術サービス業については、学術・開発研究機関、専門サービス業、広告業に限ります。</span></p><p><span style=\"font-size: 16px;\">・医療、福祉については、産科、小児科に限ります。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■問合せ先</strong></p><p><span style=\"font-size: 16px;\">今治市 産業部 産業政策局 産業振興課 </span></p><p><span style=\"font-size: 16px;\">TEL：（0898）36－1540 </span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■参照URL</strong></p><p><a href=\"https://www.city.imabari.ehime.jp/kigyou/kigyoricchi/001.html\" target=\"_blank\" style=\"font-size: 16px;\">https://www.city.imabari.ehime.jp/kigyou/kigyoricchi/001.html</a></p>",
+ "use_purpose": "設備整備・IT導入をしたい",
+ "industry": "製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 運輸業、郵便業 / 卸売業、小売業 / 学術研究、専門・技術サービス業 / 教育、学習支援業 / 医療、福祉",
+ "target_area_search": "愛媛県",
+ "target_area_detail": "愛媛県今治市内（指定区域「今治新都市区域」および指定区域を除く全域）",
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "立地に際し新たに取得した固定資産に係る固定資産税の収納額に相当する額  ※交付期間：基準年度を含め3年間",
+ "subsidy_max_limit": 0,
+ "acceptance_start_datetime": "2026-03-31T15:00:00Z",
+ "acceptance_end_datetime": "2027-03-31T14:59:00Z",
+ "project_end_deadline": null,
+ "request_reception_presence": "無",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDb86MAD",
+ "application_guidelines": [],
+ "outline_of_grant": [],
+ "application_form": [],
+ "institution_name": "企業立地優遇制度（今治市企業立地促進条例）",
+ "_meta": {
+  "first_seen": "2026-03-31T15:00:00Z",
+  "fetched_at": "2026-10-11T00:16:29Z"
+ }
+}
