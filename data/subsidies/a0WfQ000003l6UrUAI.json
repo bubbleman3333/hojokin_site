@@ -1,0 +1,32 @@
+{
+ "id": "a0WfQ000003l6UrUAI",
+ "name": "S-00009957",
+ "title": "令和８年度　医療分野における業務効率化・職場環境改善支援事業",
+ "subsidy_catch_phrase": null,
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■事業目的</strong></p><p><span style=\"color: rgb(26, 26, 28); font-size: 12px;\">本事業は、ICT機器等の導入によって業務効率化・職場環境に資する取組を行い、生産性向上を図る医療機関に対して必要な経費を支援することで、効率的で質の高い医療提供体制の構築を図ることを目的としています。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■基準額</strong></p><p>・補助基準額：１病院あたり１億円</p><p>・補助率：4/5（補助上限額8,000万円）</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象医療機関</strong></p><p>以下の各要件を満たす<span style=\"font-size: 12px; color: inherit;\">病院</span>が補助の対象です。</p><p>・令和８年４月１日までにベースアップ評価料を届け出ており、同年４月１日から本事業の申請時点までに診療報酬請求の実績があること</p><p>・その他、厚生労働省の実施要綱で定める要件を満たし、その内容が本事業の趣旨に合致しているとして、<strong style=\"color: inherit;\">厚生労働大臣が認めた病院</strong></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象経費</strong></p><p>令和８年度中に生じる業務効率化や勤務環境改善に資するICT機器等の導入及びそれに附随する費用が対象となります。</p><p>・職員間の情報共有のためのスマートフォン、業務用インカム、患者見守り支援機器、生成AIを活用した各種業務支援サービス（AI問診、文書自動作成支援等）、薬剤・検体搬送ロボット、マセレーター、薬剤自動分包機など</p><p>・医事部門、給食部門、清掃部門等の職員の業務効率化に資するICT機器等も対象</p><p>・附随する費用としては、設置費用、訓練費用、効果測定費用、関連設備の改修費用（Wi-Fi環境整備費用や電子カルテ等のシステム連携費用を含む。）等は対象</p><p>・ICT機器等には、ソフトウェアやサービスも含まれ、利用料等の支払いがなければ運用できない場合は、令和８年度中に生じる利用料等は対象となりますが、令和９年度以降に生じる当該経費への支援は行えません。</p><p>なお、以下の経費は<strong style=\"color: inherit;\"><u>補助対象外</u></strong>です。</p><p>・電子カルテの導入・更新費用や単なるＰＣの入れ替え費用のほか、導入するＩＣＴ機器等の運用・保守費用等のランニングコスト</p><p>・施設整備費用（例：休憩室・レクリエーション関連施設・院内保育所等の施設整備費用）</p><p><br></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p><span style=\"color: rgb(0, 0, 0);\">東京都保健医療局医療政策部医療人材課人材計画担当　山家・乕尾</span></p><p><span style=\"color: rgb(0, 0, 0);\">E-mail：S1150404@section.metro.tokyo.jp</span></p><p><span style=\"color: rgb(0, 0, 0);\">電話：03-5320-4441（直通）</span></p>",
+ "use_purpose": "雇用・職場環境を改善したい / 設備整備・IT導入をしたい",
+ "industry": "医療、福祉",
+ "target_area_search": "東京都",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "4/5",
+ "subsidy_max_limit": 0,
+ "acceptance_start_datetime": "2026-10-08T00:00:00Z",
+ "acceptance_end_datetime": "2027-05-31T14:59:00Z",
+ "project_end_deadline": null,
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003l6UrUAI",
+ "application_guidelines": [],
+ "outline_of_grant": [
+  {
+   "name": "東京都医療分野における業務効率化・職場環境改善支援事業交付要綱（20260826）.pdf"
+  }
+ ],
+ "application_form": [],
+ "institution_name": "医療分野における業務効率化・職場環境改善支援事業",
+ "_meta": {
+  "first_seen": "2026-10-08T00:00:00Z",
+  "fetched_at": "2026-10-13T22:00:37Z"
+ }
+}
