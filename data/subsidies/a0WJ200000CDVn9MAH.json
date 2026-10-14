@@ -1,0 +1,39 @@
+{
+ "id": "a0WJ200000CDVn9MAH",
+ "name": "S-00007441",
+ "title": "【農産園芸課向け】都城市農業資材等価格高騰緊急支援事業費補助金（令和８年度）",
+ "subsidy_catch_phrase": "都城市農業資材等価格高騰緊急支援事業費補助金",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>農業生産資材等の価格高騰により経営が圧迫されている農業者に対して、営農を継続するための緊急支援として、予算の範囲内において補助金を交付するものです。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象者</strong></p><p>次に掲げるすべての要件を満たす者</p><p>(１)市内に住所を有する農家、又は市内に本店、支店等の事務所を有する農業を営む法人、集落営農組織であること</p><p>(２)市税を滞納していないこと</p><p>(３)令和７年分の農業所得の申告を行っていること（農業所得申告でない養鶏業及び椎茸の生産農家にあっては、市長が補助対象者と認めた者）</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象経費</strong></p><p>令和７年分の農業所得申告書又は法人の決算書に申告した経費のうち、農業生産に要した次に掲げるものとし、所得申告書及び決算書において経費の区分が明示されているものとする。</p><p>ただし、経費の内訳により、同じ科目と判断できるものを含む。</p><p>(１) 種苗費</p><p>(２) 素畜費</p><p>(３) 肥料費</p><p>(４) 飼料費</p><p>(５) 農具費</p><p>(６) 農薬・衛生費</p><p>(７) 諸材料費</p><p>(８) 動力光熱費</p><p>(９) 作業用衣料費</p><p>(10) 雇人費</p><p>(11) 地代（小作料）・賃借料</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助金の額</strong></p><p>補助対象経費の5.3％を乗じて得た額の２分の１（1,000円未満切り捨て）</p><p>※100万円を上限とする。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■申請に必要な書類</strong></p><p>(１)令和７年分所得税青色申告決算書損益計算書又は令和７年分収支内訳書、法人の決算書の場合は、令和７年分を６月以上含むもの</p><p>(２)申請額計算表</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■オンライン申請手続の流れ</strong></p><p>(１)申請に必要な書類、GビズIDプライムアカウント（※）を準備</p><p>(２)補助金交付申請</p><p>(３)補助金請求（補助金等交付決定書受領後）</p><p>(４)補助金振込（請求から2週間程度で振込）</p><p>※オンライン申請の場合は、GビズIDプライムアカウントが必要です。</p><p>取得方法については<a href=\"https://gbiz-id.go.jp/top/apply/account_select.html\" rel=\"noopener noreferrer\" target=\"_blank\">こちら</a>のURLを参照してください。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■根拠法令</strong></p><p>(１)都城市補助金等交付規則</p><p>(２)都城市農業資材等価格高騰緊急支援事業費補助金交付要綱</p><p><br></p><p><strong style=\"font-size: 12.8px; color: rgb(0, 111, 173);\">■問い合わせ先</strong></p><p>都城市役所農政部農政課</p><p>℡　0986-23-27</p>",
+ "use_purpose": "資金繰りを改善したい / 災害（自然災害、感染症等）支援がほしい",
+ "industry": "農業、林業",
+ "target_area_search": "宮崎県",
+ "target_area_detail": "都城市",
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "補助対象経費に5.3％を乗じて得た額の２分の１以内（1,000円未満切り捨て）",
+ "subsidy_max_limit": 1000000,
+ "acceptance_start_datetime": "2026-10-16T00:00:00Z",
+ "acceptance_end_datetime": "2027-01-29T07:30:00Z",
+ "project_end_deadline": "2027-03-30T15:00:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": false,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVn9MAH",
+ "application_guidelines": [],
+ "outline_of_grant": [
+  {
+   "name": "都城市農業資材等価格高騰緊急支援事業費補助金交付要綱.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "申請額計算表（R8）.xlsx"
+  },
+  {
+   "name": "請求書様式.xlsx"
+  }
+ ],
+ "institution_name": "都城市農業資材等価格高騰緊急支援事業費補助金",
+ "_meta": {
+  "first_seen": "2026-10-14T22:00:37Z",
+  "fetched_at": "2026-10-14T22:00:37Z"
+ }
+}
