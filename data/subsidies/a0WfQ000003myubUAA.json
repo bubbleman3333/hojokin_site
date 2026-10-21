@@ -11,18 +11,26 @@
  "target_number_of_employees": "従業員数の制約なし",
  "subsidy_rate": null,
  "subsidy_max_limit": 0,
- "acceptance_start_datetime": "2026-10-21T15:00:00Z",
+ "acceptance_start_datetime": "2026-10-22T03:00:00Z",
  "acceptance_end_datetime": "2026-11-27T03:00:00Z",
  "project_end_deadline": null,
  "request_reception_presence": "有",
  "is_enable_multiple_request": true,
  "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003myubUAA",
- "application_guidelines": [],
+ "application_guidelines": [
+  {
+   "name": "2026_HtA事業Ⅱ_化学・紙パルプ・セメント等（二次公募）│公募要領_v1.0.pdf"
+  }
+ ],
  "outline_of_grant": [],
- "application_form": [],
+ "application_form": [
+  {
+   "name": "hta2026_2_2_shinsei_yoshiki.zip"
+  }
+ ],
  "institution_name": "令和8年度排出削減が困難な産業におけるエネルギー・製造プロセス転換支援事業",
  "_meta": {
   "first_seen": "2026-10-15T22:00:42Z",
-  "fetched_at": "2026-10-15T22:00:42Z"
+  "fetched_at": "2026-10-21T22:00:45Z"
  }
 }
