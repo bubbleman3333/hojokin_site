@@ -12,10 +12,10 @@
  "subsidy_rate": "専門家総合対策コース第１段階は4/5、専門家総合対策コース第２段階と熱中症対策コースは1/2、コラボヘルスコースは3/4　※コラボヘルスコースは上限額30万円。",
  "subsidy_max_limit": 1000000,
  "acceptance_start_datetime": "2026-05-20T00:00:00Z",
- "acceptance_end_datetime": "2026-10-31T14:59:00Z",
+ "acceptance_end_datetime": "2026-11-20T15:00:00Z",
  "project_end_deadline": null,
  "request_reception_presence": "有",
- "is_enable_multiple_request": true,
+ "is_enable_multiple_request": false,
  "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYbNMAX",
  "application_guidelines": [],
  "outline_of_grant": [],
@@ -23,6 +23,6 @@
  "institution_name": "エイジフレンドリー補助金",
  "_meta": {
   "first_seen": "2026-05-20T00:00:00Z",
-  "fetched_at": "2026-09-21T13:12:58Z"
+  "fetched_at": "2026-10-22T22:00:41Z"
  }
 }
