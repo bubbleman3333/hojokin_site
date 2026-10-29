@@ -12,9 +12,9 @@
  "subsidy_rate": "【ガバナ遠隔監視システム】１／２（補助額上限、補助率の詳細は公募説明会資料を参照ください）",
  "subsidy_max_limit": 130502000,
  "acceptance_start_datetime": "2026-10-07T00:00:00Z",
- "acceptance_end_datetime": "2026-10-28T14:59:00Z",
+ "acceptance_end_datetime": "2027-02-26T14:59:00Z",
  "project_end_deadline": "2027-02-26T14:59:00Z",
- "request_reception_presence": "無",
+ "request_reception_presence": "有",
  "is_enable_multiple_request": true,
  "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDc0YMAT",
  "application_guidelines": [
@@ -34,6 +34,6 @@
  "institution_name": "令和８年度都市ガス分野の災害対応・レジリエンス強化にかかる支援事業費補助金",
  "_meta": {
   "first_seen": "2026-10-07T00:00:00Z",
-  "fetched_at": "2026-10-07T22:00:37Z"
+  "fetched_at": "2026-10-29T22:00:35Z"
  }
 }
