@@ -12,7 +12,7 @@
  "subsidy_rate": "【病院勤務者勤務環境改善事業】1/2（施設・設備整備事業は2/3）　　【救急医療体制強化事業】1/4",
  "subsidy_max_limit": 0,
  "acceptance_start_datetime": "2024-10-29T15:00:00Z",
- "acceptance_end_datetime": "2025-05-31T14:45:00Z",
+ "acceptance_end_datetime": "2026-11-30T14:45:00Z",
  "project_end_deadline": "2025-05-31T03:15:00Z",
  "request_reception_presence": "有",
  "is_enable_multiple_request": true,
@@ -38,6 +38,6 @@
  "institution_name": "病院勤務者勤務環境改善事業・救急医療体制強化事業",
  "_meta": {
   "first_seen": "2024-10-29T15:00:00Z",
-  "fetched_at": "2026-09-21T13:12:58Z"
+  "fetched_at": "2026-11-09T00:59:51Z"
  }
 }
