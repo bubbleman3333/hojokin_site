@@ -12,8 +12,8 @@
  "subsidy_rate": "公募要領をご確認ください。",
  "subsidy_max_limit": 150000000,
  "acceptance_start_datetime": "2022-09-15T09:00:00Z",
- "acceptance_end_datetime": "2026-10-12T14:59:00Z",
- "project_end_deadline": "2026-10-12T14:59:00Z",
+ "acceptance_end_datetime": "2027-12-31T14:59:00Z",
+ "project_end_deadline": "2027-12-31T14:59:00Z",
  "request_reception_presence": "有",
  "is_enable_multiple_request": true,
  "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000007Cos5EAC",
@@ -23,6 +23,6 @@
  "institution_name": "事業再構築補助金",
  "_meta": {
   "first_seen": "2022-09-15T09:00:00Z",
-  "fetched_at": "2026-09-21T13:12:58Z"
+  "fetched_at": "2026-11-10T22:00:37Z"
  }
 }
