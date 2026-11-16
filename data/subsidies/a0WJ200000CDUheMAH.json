@@ -12,9 +12,9 @@
  "subsidy_rate": "1/2",
  "subsidy_max_limit": 100000,
  "acceptance_start_datetime": "2026-08-30T15:00:00Z",
- "acceptance_end_datetime": "2026-11-20T14:59:00Z",
+ "acceptance_end_datetime": "2026-10-16T14:59:00Z",
  "project_end_deadline": "2027-05-31T14:59:00Z",
- "request_reception_presence": "有",
+ "request_reception_presence": "無",
  "is_enable_multiple_request": true,
  "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDUheMAH",
  "application_guidelines": [
@@ -31,6 +31,6 @@
  "institution_name": "訪問系介護サービス事業所に対する防犯機器等導入支援補助金",
  "_meta": {
   "first_seen": "2026-08-30T15:00:00Z",
-  "fetched_at": "2026-11-16T01:07:45Z"
+  "fetched_at": "2026-11-16T22:00:35Z"
  }
 }
