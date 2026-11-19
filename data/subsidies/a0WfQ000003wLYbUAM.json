@@ -1,0 +1,40 @@
+{
+ "id": "a0WfQ000003wLYbUAM",
+ "name": "S-00010005",
+ "title": "令和８年度　宿泊事業者向け省力化推進事業補助金",
+ "subsidy_catch_phrase": "宿泊事業者の人手不足解消に向け、先進的・独創的な技術・ノウハウに基づき作成され、優れた省力効果を持つ機器・システム等の情報を宿泊事業者に分かりやすく提供するとともに、当該機器等の導入を支援します。",
+ "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>本補助金は、先進的・独創的な技術・ノウハウに基づき作成され、優れた省力効果を持つ機器・システム等を都内宿泊施設が導入する取組を支援するため、その取組に要する経費の一部を補助することで、都内宿泊施設が省力化機器等を導入することを促進し、人手不足等を解消することを目的とします。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p>都内に旅館業法（昭和23年法律第138号）第３条第１項の許可を受けて、同法第２条第２項又は第３項の営業を行っている施設を運営する宿泊事業者</p><p>※中小企業基本法（昭和38年法律第154号）第２条に定める中小企業者又は産業競争力強化法（平成25年法律第98号）第２条に定める中堅企業者であり、大企業が実質的に経営に参画していないことを要します。</p><p>※詳細は「募集要領」をご参照ください。</p><p><strong style=\"color: rgb(250, 32, 13);\">※下記「条件」の「業種」及び「従業員数の上限」については、「募集要領」をご参照ください。</strong></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■地理条件</strong></p><p>東京都内</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>東京都 産業労働局 観光部 受入環境課</p><p>事業調整担当</p><p>電話：０３－５０００－７３２４</p><p>問合せ時間　９：００～１７：３０　（※１２：００～１３：００を除く）</p><p>土日祝日、年末年始を除く</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><a href=\"https://www.sangyo-rodo.metro.tokyo.lg.jp/tourism/kakusyu/shoryokuka/\" rel=\"noopener noreferrer\" target=\"_blank\">宿泊事業者向け省力化推進事業|補助金等の各種支援事業|東京都産業労働局</a></p>",
+ "use_purpose": "設備整備・IT導入をしたい",
+ "industry": "宿泊業、飲食サービス業",
+ "target_area_search": "東京都",
+ "target_area_detail": null,
+ "target_number_of_employees": "従業員数の制約なし",
+ "subsidy_rate": "補助上限額と補助対象経費の2/3のうち小さい額",
+ "subsidy_max_limit": 8000000,
+ "acceptance_start_datetime": "2026-11-19T15:00:00Z",
+ "acceptance_end_datetime": "2026-12-18T14:59:00Z",
+ "project_end_deadline": "2027-03-31T14:59:00Z",
+ "request_reception_presence": "有",
+ "is_enable_multiple_request": true,
+ "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003wLYbUAM",
+ "application_guidelines": [
+  {
+   "name": "宿泊事業者向け先進的省力化推進事業_補助金募集要領.pdf"
+  }
+ ],
+ "outline_of_grant": [
+  {
+   "name": "宿泊事業者向け省力化推進事業_補助金交付要綱.pdf"
+  }
+ ],
+ "application_form": [
+  {
+   "name": "宿泊事業者向け省力化推進事業補助金_様式一式.zip"
+  }
+ ],
+ "institution_name": "令和８年度　宿泊事業者向け省力化推進事業",
+ "_meta": {
+  "first_seen": "2026-11-19T15:00:00Z",
+  "fetched_at": "2026-11-19T22:00:54Z"
+ }
+}
