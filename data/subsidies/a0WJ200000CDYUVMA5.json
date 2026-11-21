@@ -12,7 +12,7 @@
  "subsidy_rate": null,
  "subsidy_max_limit": 0,
  "acceptance_start_datetime": "2025-12-31T15:00:00Z",
- "acceptance_end_datetime": "2025-12-31T15:15:00Z",
+ "acceptance_end_datetime": "2027-03-01T08:15:00Z",
  "project_end_deadline": null,
  "request_reception_presence": "無",
  "is_enable_multiple_request": false,
@@ -23,6 +23,6 @@
  "institution_name": "さいたま市創エネ・蓄エネ設備導入補助金",
  "_meta": {
   "first_seen": "2025-12-31T15:00:00Z",
-  "fetched_at": "2026-09-21T13:12:58Z"
+  "fetched_at": "2026-11-21T22:00:34Z"
  }
 }
