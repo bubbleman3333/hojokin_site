@@ -12,17 +12,25 @@
  "subsidy_rate": "事業区分に応じて助成対象経費の1/2、2/3、3/4、4/5以内のいずれか（詳細については募集要項を参照）",
  "subsidy_max_limit": 200000000,
  "acceptance_start_datetime": "2026-10-23T00:00:00Z",
- "acceptance_end_datetime": "2026-11-24T04:00:00Z",
+ "acceptance_end_datetime": "2026-11-24T06:00:00Z",
  "project_end_deadline": "2028-09-30T14:59:00Z",
  "request_reception_presence": "有",
  "is_enable_multiple_request": false,
  "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003rLvpUAE",
- "application_guidelines": [],
+ "application_guidelines": [
+  {
+   "name": "確定版_第14回躍進的な事業推進のための設備投資支援事業.pdf"
+  }
+ ],
  "outline_of_grant": [],
- "application_form": [],
+ "application_form": [
+  {
+   "name": "8_R8_14_申請書類.zip"
+  }
+ ],
  "institution_name": "躍進的な事業推進のための設備投資支援事業",
  "_meta": {
   "first_seen": "2026-10-22T22:00:41Z",
-  "fetched_at": "2026-10-22T22:00:41Z"
+  "fetched_at": "2026-11-24T05:21:51Z"
  }
 }
